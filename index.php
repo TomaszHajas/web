@@ -4,9 +4,8 @@
  </head>
  <body>
  <?php
-	echo '<p>Hello World</p>';
-	/*header("Location: http://tomaszhajas.azurewebsites.net/randomizer/");
-	die();*/
+	header("Location: http://tomaszhajas.azurewebsites.net/randomizer/");
+	die();
  ?> 
  </body>
 </html>
