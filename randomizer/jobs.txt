@@ -1,0 +1,266 @@
+Farmer (Farming, Knowledge of Nature, AGILITY, STRENGTH, VIGOR)
+Coalman (Knowledge of Fire, STRENGTH, VIGOR)
+Butcher (Butchering, Fighting, Knowledge of Animals, AGILITY)
+Weaver (Weaving, Knowledge of Cloth, AGILITY)
+Barber (Barbering, AGILITY)
+Locksmith (Locksmithing, Lockpicking, Repair, SMARTS, AGILITY)
+Cobbler (Shoemaking, Repair, SMARTS, AGILITY)
+Miller (Milling, STRENGTH)
+Cheesemaker (Cheesemaking, Knowledge of Food, SMARTS)
+Baker (Baking, Knowledge of Food, SMARTS)
+Auctioneer (Persuasion, Streetwise, Notice, Taunting, Knowledge of Trade, SPIRIT, SMARTS)
+Porter (Notice, STRENGTH, VIGOR)
+Ropemaker (Weaving, AGILITY)
+Thatcher (Thatching, Repair, AGILITY)
+Fisherman (Fishing, Boating, Swimming, AGILITY)
+Peddler (Persuasion, Streetwise, Notice, Knowledge of Trade, SPIRIT, SMARTS)
+Blacksmith (Blacksmithing, Repair, Fighting, Knowledge of Metal, AGILITY, STRENGTH, VIGOR, SMARTS)
+Carpenter (Carpentry, Repair, Knowledge of Architecture, Knowledge of Wood, AGILITY, STRENGTH, SMARTS)
+Merchant (Persuasion, Knowledge of Trade, Streetwise, Notice, SPIRIT, SMARTS)
+Saddler (Saddlemaking, Leatherworking, Riding, Repair, Knowledge of Leather, SMARTS, AGILITY)
+Mason (Masonry, Repair, Knowledge of Architecture, Knowledge of Stone, AGILITY, STRENGTH, SMARTS)
+Wheelwright (Wheelmaking, Repair, AGILITY)
+Chimneysweep (Cleaning, Streetwise, AGILITY, STRENGTH, VIGOR)
+Farrier (Blacksmithing, Repair, Knowledge of Metal, Knowledge of Animals, AGILITY, STRENGTH, VIGOR)
+Miner (Mining, Fighting, Knowledge of Geology, STRENGTH, VIGOR)
+Smelter (Smelting, Knowledge of Metal, STRENGTH, VIGOR)
+Brewer (Brewing, Knowledge of Food, SMARTS)
+Beggar (Notice, Persuasion, Streetwise, Survival, SPIRIT)
+Cooper (Cooping, Repair, AGILITY)
+Stableboy (Notice, Riding, Streetwise, Knowledge of Animals, AGILITY)
+Tanner (Tanning, Knowledge of Leather, AGILITY)
+Spinner (Spinning, Knowledge of Cloth, AGILITY)
+Dockworker (Notice, Driving, STRENGTH, AGILITY)
+Vendor (Persuasion, Knowledge of Trade, Notice, SPIRIT, SMARTS)
+Mayor (Persuasion, Intimidation, Streetwise, Knowledge of Management, SPIRIT, SMARTS)
+Wool Carder (Weaving, Knowledge of Cloth, AGILITY)
+Dyer (Dyeing, SMARTS)
+Candlemaker (Waxing, SMARTS)
+Sheriff (Persuasion, Intimidation, Streetwise, Knowledge of Law, SPIRIT, SMARTS)
+Chainsmith (Blacksmithing, Repair, Knowledge of Metal, AGILITY, STRENGTH, VIGOR)
+Healer (Healing, SMARTS, AGILITY)
+Bartender (Persuasion, Intimidation, Streetwise, Notice, Cleaning, SPIRIT, SMARTS)
+Waiter (Notice, Cleaning, AGILITY)
+Street Cleaner (Cleaning, Notice, Streetwise, AGILITY)
+Sailor (Boating, Swimming, Taunt, Throwing, AGILITY)
+Armorer (Armoring, Repair, Knowledge of Metal, Knowledge of Leather, AGILITY, STRENGTH, SMARTS)
+Stablemaster (Riding, Driving, Knowledge of Animals, AGILITY)
+Priest (Persuasion, Intimidation, Knowledge of Religion, SPIRIT, SMARTS)
+Judge (Intimidation, Knowledge of Law, SPIRIT, SMARTS)
+Noble (Persuasion, Intimidation, Riding, Knowledge of Law, Knowledge of Diplomacy, Knowledge of Finances, Knowledge of Trade, Knowledge of Battle, Knowledge of Weapons, SPIRIT, SMARTS)
+Crier (Riding, Streetwise, SPIRIT)
+Adviser (Knowledge of Law, Knowledge of Diplomacy, Knowledge of Trade, Knowledge of Battle, Knowledge of Geography, Knowledge of Finances, SMARTS)
+Dog Trainer (Notice, Tracking, Throwing, Knowledge of Animals, SPIRIT, SMARTS)
+Bladesmith (Blacksmithing, Repair, Knowledge of Metal, Knowledge of Weapons, AGILITY, STRENGTH, VIGOR, SMARTS)
+Falconer (Notice, Tracking, Throwing, Knowledge of Animals, SPIRIT, SMARTS)
+Scribe (Calligraphy, Stealth, Knowledge of Mathematics, Knowledge of Finances, Knowledge of Languages, SMARTS)
+Cook (Cooking, Knowledge of Food, SMARTS, AGILITY)
+Tailor (Tailoring, Knowledge of Cloth, SMARTS, AGILITY)
+Official (Persuasion, Intimidation, Knowledge of Diplomacy, SPIRIT, SMARTS)
+Cartographer (Cartography, Calligraphy, Knowledge of Geography, SMARTS)
+Apothecary (Healing, Knowledge of Medicine, SMARTS)
+Banker (Accounting, Knowledge of Finances, SMARTS)
+Explorer (Boating, Riding, Driving, Streetwise, Investigation, Knowledge of Geography, SPIRIT, SMARTS)
+Artist (Painting, Knowledge of Art, SPIRIT)
+Bookbinder (Bookbinding, Knowledge of Paper, AGILITY)
+Silversmith (Blacksmithing, Repair, Knowledge of Metal, Knowledge of Art, AGILITY, SMARTS)
+Glazier (Knowledge of Glass, AGILITY)
+Confectioner (Persuasion, Intimidation, Knowledge of Religion, Knowledge of Trade, SPIRIT, SMARTS)
+Tutor (Knowledge on X, Knowledge on Teaching, SMARTS)
+Maid (Cleaning, Notice, Stealth, AGILITY)
+Messenger (Boating, Driving, Riding, VIGOR)
+Rat Catcher (Trapping, Notice, Swimming, Taunting, Knowledge of Animals SMARTS, AGILITY)
+Smuggler (Boating, Driving, Riding, Stealth, Streetwise, Persuasion, Intimidation, Taunting, AGILITY, SMARTS)
+Broker (Persuasion, Knowledge of Trade, Notice, SPIRIT, SMARTS)
+Gardener (Gardening, Knowledge of Plants, AGILITY)
+Architect (Knowledge of Architecture, SMARTS)
+Soldier (Fighting, Shooting, Throwing, Intimidation, Knowledge of Weapons, Knowledge of Battle, AGILITY, STRENGTH)
+Interpreter (Knowledge of Languages, SPIRIT, SMARTS)
+Innkeeper (Persuasion, Intimidation, Streetwise, Notice, Cleaning, SPIRIT, SMARTS)
+Gravedigger (Digging, Investigation, Knowledge of Death, Knowledge of Geology, STRENGTH, VIGOR)
+Lumberjack (Woodcutting, Fighting, Knowledge of Wood, STRENGTH, VIGOR)
+Mechanic (Mechanics, Investigation, Knowledge of Physics, SMARTS, AGILITY)
+Electrician (Knowledge of Electricity, Investigation, SMARTS, AGILITY)
+Jeweler (Repair, Knowledge of Gems, Knowledge of Metal, Knowledge of Art, AGILITY, SMARTS)
+Shepherd
+Writer
+Musician
+Performer
+Dancer
+Actor
+Hooker
+Tax Collector
+Thug
+Assassin
+Bounty Hunter
+Groom
+Guard
+Armorer
+Squire
+Chandler
+Plowman
+Housewife
+Pilgrim
+Squatter
+Jester
+Valet
+Ditcher
+Canaller
+Town Crier
+Watchman
+Papermaker
+Bard
+Courtesan
+Potter
+Alchemist
+Soldier
+Porter
+Pirate
+Thief
+Burglar
+Apothecary
+Astrologer
+Bowyer
+Bailiff
+Glassmaker
+Bottler
+Butler
+Chancellor
+King
+Clerk
+Clothier
+Gardener
+Fletcher
+Herald
+Herbalist
+Knight
+Marshal
+Messenger
+Minstrel
+Moneylender
+Page
+Painter
+Physician
+Scullion
+Shoemaker
+Pickpocket
+Fence
+Poacher
+Forger
+Outlaw
+Footman
+Marksman
+Mercenary
+Drummer
+Siege Engineer
+Scout
+Ranger
+Paladin
+Barbarian
+Monk
+Druid
+Sorcerer
+Warlock
+Wizard
+Brawler
+Fighter
+Mage
+Runepriest
+Artificer
+Warden
+Firefighter
+Recruit
+Janitor
+Prince
+Princess
+Queen
+General
+Advisor
+Catchpole
+Chancellor
+Diplomat
+Hayward
+Jailor
+Lord
+Lady
+Judge
+Almoner
+Pardoner
+Slave
+Fool
+Teacher
+Animal Trainer
+Houndmaster
+Molecatcher
+Vet
+Reaper
+Trapper
+Shearer
+Scholar
+Philosopher
+Librarian
+Boatman
+Canaller
+Executioner
+Investigator
+Detective
+Spy
+Blackmailer
+Plaguebearer
+Lookout
+Mayor
+Monster Hunter
+Suicider
+Spiritualist
+Sewer Worker
+Athlete
+Navigator
+Peasant
+Landlord
+Roofer
+Stander
+Advertiser
+Bather
+Accountant
+Breath Evaluator
+Apologizer
+Bed Warmer
+Scarecrow
+Ceiler
+Diver
+Babysitter
+Surgeon
+Pissprophet
+Teamster
+Wagoner
+Waller
+Raker
+Weeper
+Wetnurse
+Body Cleaner
+Consultant
+Activist
+Animal Sexer
+Racer
+Bodyguard
+Hauler
+Milker
+Foot Taster
+Drunk
+Gelder
+Courier
+Overseer
+Acupuncturist
+Psychologist
+Psychiatrist
+Oarsman
+Negotiator
+Gambler
+Officer
+Arsonist
+Massagist
+Shipmaker
+Necromancer
+Raider
+Marauder
+Shaman

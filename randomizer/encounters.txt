@@ -1,0 +1,136 @@
+Creature investigating some other encounter.
+Creature tracks or droppings.
+Damaged object.
+Traces of combat.
+Sounds of combat.
+Blood spattering.
+Body part.
+Ambush of hostile creatures.
+Bonfire with food roasting.
+Bonfire remains.
+Creature crying.
+Creature laughing.
+Small camp.
+Small hideout.
+Entrance to the underground.
+Crossroads.
+Closed gate blocking the path.
+Hollowed object, with loot inside.
+Container with loot.
+Fire source.
+Light source.
+Burned object.
+Unusually big object.
+Sudden end of the path.
+One-featured trap.
+Two-featured trap.
+Three-featured trap.
+Unusual structure.
+Ruined structure.
+Path-blocking object.
+Broken vehicle.
+Steed without owner.
+Magic items merchant.
+Character looking for item related to his/her job.
+Character disturbing adventurers by performing his/her job.
+Character offering a help in things related to his/her job.
+Character performing his job.
+Character who tells a riddle, rewarding with item for a good answer.
+Character who tells a local legend.
+Character who lost a way.
+Drunk character.
+Character asking for money.
+Character trying to blackmail adventurers.
+Two characters arguing over the way they should go.
+Two identical characters.
+Character being executed by other characters.
+Sleeping creature.
+Shady character hiding his/her identity.
+Character who breaks local law.
+Character enforcing local law on adventurers.
+Group of characters debating over a local problem.
+Group of hostile creatures.
+Powerful hostile creature.
+Weird-looking creature.
+Weird-behaving creature.
+Creature in environmental danger.
+Creature in conflict with group of other creatures.
+Two groups of creatures in conflict.
+Pile of almost identical objects.
+Creature corpse.
+Geared creature corpse.
+Wounded creature.
+Sick creature.
+Character about to commit suicide.
+Signpost showing a way to nearest point of interest.
+Signpost showing a wrong way.
+Arrow symbol pointing at some direction.
+Lair of one or more creatures.
+Underground entrance.
+Narrow passage.
+Place emanating with magic.
+Trapped creature.
+Hungry creature.
+Pregnant creature.
+Creature eating.
+Creature making use of its magical powers.
+Local military squad.
+Hostile military squad.
+Creature interested in adventurer's item.
+Two creatures making out.
+Place emanating with sacred power.
+Place emanating with demonic power.
+Damaged bridge.
+Passage guarded by one or more creatures.
+Unlucky omen, like a black cat, raven, number 13, broken mirror, horseshoe turned downwards.
+Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, number 7, horseshoe turned upwards.
+Artistic performance.
+Unusual item.
+Stench source.
+Strangely shaped clouds on the horizon.
+Small creature eating adventurer's supplies.
+Poisonous plant.
+Bush full of herbs.
+Animated object.
+Water bank.
+Container with liquid.
+Bush or tree full of fruits.
+Vegetable patch.
+Herb patch.
+Mysterious fog, dust, smoke or mist.
+Swarm of insects.
+Minor landslide, avalanche or earthquake.
+Quicksand or sinkhole.
+Toll station.
+Character which shares rumor for a rumor.
+Character asking adventurers for a direction.
+Beautiful view.
+Waterfall.
+Powerful artifact which is hard to aquire.
+Projectile in environmental object.
+Poster with wanted character.
+Poster warning about dangers ahead.
+Creature willing to join adventurers.
+Character willing to recruit adventurers.
+Character telling adventurers to go certain way.
+Group of slaves and their guards.
+Helpless creature looking for its parent.
+Stolen item from adventurer's equipment.
+Creature being chased by one or more other creatures.
+Chilling wind.
+Sudden disappearance of light source.
+Animal's voice.
+Swarm of small creatures.
+Shadow of a winged animal passes.
+Partially buried object.
+Water splashing noise.
+Dripping liquid.
+Mechanical noises, like creaking gate, spinning mill.
+Mysterious fire combustion.
+Character asking for being escorted.
+Talking animal.
+Mysterious mark on environmental object.
+Gas cloud source.
+Hidden passage.
+Difficult terrain.
+Illusory encounter.
