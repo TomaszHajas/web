@@ -4,6 +4,7 @@
  </head>
  <body>
  <?php
+	<p>Hello World</p>
 	/*header("Location: http://tomaszhajas.azurewebsites.net/randomizer/");
 	die();*/
  ?> 
