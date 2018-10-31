@@ -23,7 +23,7 @@
 	
 	function random(template){
 		if(template.includes("[") || template.includes("]")){
-			regexp = "/\[.*?\]/g";
+			regexp = /[(.*?)]/;
 			firstMatch = regexp.exec(template)[1];
 			firstMatchBrackets = "["+firstMatch+"]";
 			firstMatchPath = "randomizer/"+firstMatch+".txt";
