@@ -20,6 +20,7 @@
 		return fetch(path)
   			.then(response => response.text())
   			.then(text => {
+			console.log(text);
 			template.replace(brackets, text);
 		});
 	}
