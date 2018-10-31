@@ -3,4 +3,4 @@ Adventurers encounter enslaved [adjective/appearance] [creature/humanoid]!
 Adventurers are ambushed by [creature/humanoid] group!
 Adventurers enter [adjective/place] [place/area]!
 Adventurers find a [item/consumable/potion] in a tree stump!
-Adventurers meet [creature/humanoid] who wants to [verb/verb.txt] them!
+Adventurers meet [creature/humanoid] who wants to [verb/verb] them!
