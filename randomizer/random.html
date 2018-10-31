@@ -22,7 +22,9 @@
 	}
 	
 	function random(template){
-		if(template.includes("[") || template.includes("]")){
+		if(template == ''){
+			document.getElementById("random").innerHTML = ">>> Roll twice and merge results! <<<";
+		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
