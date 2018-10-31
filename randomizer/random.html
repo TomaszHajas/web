@@ -16,11 +16,11 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
-	function random(path){
+	function random(path, brackets){
 		return fetch(path)
   			.then(response => response.text())
   			.then(text => {
-			return text
+			template.replace(brackets, text);
 		});
 	}
 	function fillTemplate(template){
@@ -28,8 +28,7 @@
 		firstMatch = regexp.exec(template)[1];
 		firstMatchBrackets = "["+firstMatch+"]";
 		firstMatchPath = "/"+firstMatch+".txt";
-		firstMatchReplaced = template.replace(firstMatchBrackets, random(firstMatchPath));
-		return firstMatchReplaced;
+		random(firstMatchPath, firstMatchBrackets));
 	}
 	
 	var template = 'My testing subject is now [randomizer/creature/beast]!';
