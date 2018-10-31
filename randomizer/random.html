@@ -15,7 +15,7 @@
 	$files = array();
 	foreach($txtfiles as $txtfile)
 	{
-   		$files[] = "<a href=$txtfile>".basename($pdffile)."</a>";
+   		$files[] = '<a href=$txtfile>'.basename($pdffile).'</a>';
 	}
 	echo $files;
 	return json_encode($files);
