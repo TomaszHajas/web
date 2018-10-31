@@ -5,6 +5,12 @@
 <head><title>Randomizer</title></head>
 
 <body>
+	
+<script>
+	var fs = require('fs'); 
+	var files = fs.readdirSync('/creatures/');
+	document.write(files);
+</script>
 
 
 <?php
