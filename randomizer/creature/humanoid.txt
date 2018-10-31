@@ -2,6 +2,7 @@ Aarakocra
 Aasimar
 Bugbear
 Deep Gnome
+Derro
 Dragonborn
 Drow
 Duergar
@@ -11,8 +12,11 @@ Forest Gnome
 Genasi
 Ghostwise Halfling
 Gith
+Gnoll
 Goblin
 Goliath
+Grimlock
+Grung
 Half-Elf
 Half-Orc
 High Elf
@@ -24,13 +28,19 @@ Kenku
 Kobold
 Lightfoot Halfling
 Lizardfolk
+Merfolk
 Moutain Dwarf
+Ogrog
 Orc
+Quaggoth
 Rock Gnome
+Sahugin
 Stout Halfling
 Tabaxi
 Tiefling
 Tortle
 Triton
+Troglodyte
+Winged Kobold
 Wood Elf
 Yuan-ti Pureblood
