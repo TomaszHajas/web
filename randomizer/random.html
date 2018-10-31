@@ -19,7 +19,9 @@
 	function random(path){
 		return fetch(path)
   			.then(response => response.text())
-  			.then(text => text);
+  			.then(text => {
+			return text
+		});
 	}
 	function fillTemplate(template){
 		regexp = /(?:\[)(.*)(?:\])/;
