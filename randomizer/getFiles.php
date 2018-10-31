@@ -1,5 +1,5 @@
 <?php
-$directory = "/creatures/";
+$directory = "/creature/";
 $txtfiles = glob($directory . "*.txt");
 
 $files = array();
