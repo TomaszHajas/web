@@ -26,7 +26,7 @@
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			firstMatchPath = "randomizer/"+firstMatchNoBrackets+".txt";
+			firstMatchPath = firstMatchNoBrackets+".txt";
 			console.log(firstMatchPath);
 			fetch(firstMatchPath)
   				.then(response => response.text())
