@@ -23,14 +23,14 @@
 	}
 	function fillTemplate(template){
 		regexp = /(?:\[)(.*)(?:\])/;
-		firstMatch = regexp.exec(string)[1];
+		firstMatch = regexp.exec(template)[1];
 		return firstMatch;
 	}
 	
-	template = 'My testing subject is now [creature/beast]!';
+	var template = 'My testing subject is now [creature/beast]!';
 	
 
-	document.getElementById("random").innerHTML = fillTemplate();
+	document.getElementById("random").innerHTML = fillTemplate(template);
 </script>
 
 
