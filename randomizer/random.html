@@ -22,7 +22,7 @@
 	}
 	
 	function random(template){
-		if(replacedFirstMatch.includes("[") || replacedFirstMatch.includes("]")){
+		if(template.includes("[") || template.includes("]")){
 			regexp = /(?:\[)(.*)(?:\])/;
 			firstMatch = regexp.exec(template)[1];
 			firstMatchBrackets = "["+firstMatch+"]";
