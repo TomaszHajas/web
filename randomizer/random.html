@@ -16,11 +16,16 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
+	function getRandomLine(text){
+    		var lines = text.split('\n');
+    		return lines[Math.floor(Math.random()*lines.length)];
+	}
+	
 	function random(path, brackets){
 		return fetch(path)
   			.then(response => response.text())
   			.then(text => {
-			console.log(text);
+			console.log(getRandomLine(text));
 			template.replace(brackets, text);
 		});
 	}
