@@ -1,0 +1,36 @@
+Aarakocra
+Aasimar
+Bugbear
+Deep Gnome
+Dragonborn
+Drow
+Duergar
+Eladrin
+Firbolg
+Forest Gnome
+Genasi
+Ghostwise Halfling
+Gith
+Goblin
+Goliath
+Half-Elf
+Half-Orc
+High Elf
+Hill Dwarf
+Hobgoblin
+Human
+Human Variant
+Kenku
+Kobold
+Lightfoot Halfling
+Lizardfolk
+Moutain Dwarf
+Orc
+Rock Gnome
+Stout Halfling
+Tabaxi
+Tiefling
+Tortle
+Triton
+Wood Elf
+Yuan-ti Pureblood
