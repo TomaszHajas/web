@@ -1,3 +1,5 @@
 Adventurers encounter [creature/fiend] group!
-Adventurers encounter enslaved [creature/humanoid]!
+Adventurers encounter enslaved [adjective/appearance] [creature/humanoid]!
 Adventurers are ambushed by [creature/humanoid] group!
+Adventurers enter [adjective/place] [place/area]!
+Adventurers find a [item/potion] in a tree stump!
