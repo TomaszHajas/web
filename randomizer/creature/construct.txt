@@ -1,0 +1,51 @@
+Animated Armor
+Animated Object (Huge)
+Animated Object (Large)
+Animated Object (Medium)
+Animated Object (Small)
+Animated Object (Tiny)
+Animated Table
+Bronze Scout
+Broom of Animated Attack
+Cadaver Collector
+Clay Gladiator
+Clay Golem
+Creepy Doll
+Duergar Hammerer
+Duergar Screamer
+Duodrone
+Flesh Golem
+Flying Staff
+Flying Sword
+Guardian Portrait
+Hellfire Engine
+Helmed Horror
+Homunculus
+Iron Cobra
+Iron Golem
+Marut
+Monodrone
+Nimblewright
+Oaken Bolter
+Pentadrone
+Quadrone
+Retriever
+Rug of Smothering
+Sacred Statue
+Scarecrow
+Servo
+Shield Guardian
+Skaab
+Spiked Tomb Guardian
+Steel Predator
+Stone Cursed
+Stone Defender
+Stone Golem
+Stone Juggernaut
+Strahd's Animated Armor
+Swarm of Books
+Swarm of Mechanical Spiders
+Tiny Servant
+Tomb Guardian
+Tridrone
+Walking Statue of Waterdeep
