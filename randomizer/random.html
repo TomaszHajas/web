@@ -10,7 +10,7 @@
 	
 <?php
 	function getFiles(){
-	$directory = "/creature/";
+	$directory = '/creature/';
 	$txtfiles = glob($directory . "*.txt");
 	$files = array();
 	foreach($txtfiles as $txtfile)
@@ -19,9 +19,10 @@
 	}
 	echo $files;
 	return json_encode($files);
-}
+	}
 ?>
 <script>
+	/*
 	// Check for the various File API support.
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
   		// Great success! All the File APIs are supported.
@@ -42,6 +43,7 @@
 	fetch('/')
   		.then(response => response.text())
   		.then(text => console.log("A"+text));
+		*/
 </script>
 
 <!--
