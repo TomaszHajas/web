@@ -1,2 +1,3 @@
 Adventurers encounter [creature/fiend] group!
 Adventurers encounter enslaved [creature/humanoid]!
+Adventurers are ambushed by [creature/humanoid] group!
