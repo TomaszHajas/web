@@ -25,7 +25,7 @@
 		if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
-			firstMatchNoBrackets = replace(/[\[\]']+/g,'');
+			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			firstMatchPath = "randomizer/"+firstMatchNoBrackets+".txt";
 			console.log(firstMatchPath);
 			fetch(firstMatchPath)
