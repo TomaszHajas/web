@@ -1,0 +1,2 @@
+Adventurers encounter [creature/fiend] group!
+Adventurers encounter enslaved [creature/humanoid]!
