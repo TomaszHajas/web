@@ -21,24 +21,26 @@
     		return lines[Math.floor(Math.random()*lines.length)];
 	}
 	
-	function random(path, template, brackets){
-		return fetch(path)
-  			.then(response => response.text())
-  			.then(text => {
-			replacedFirstMatch = template.replace(brackets, getRandomLine(text))
+	function random(template){
+		if(replacedFirstMatch.includes("[") || replacedFirstMatch.includes("]")){
+			regexp = /(?:\[)(.*)(?:\])/;
+			firstMatch = regexp.exec(template)[1];
+			firstMatchBrackets = "["+firstMatch+"]";
+			firstMatchPath = "randomizer/"+firstMatch+".txt";
+			fetch(firstMatchPath)
+  				.then(response => response.text())
+  				.then(text => {
+				replacedFirstMatch = template.replace(firstMatchBrackets, getRandomLine(text));
+				random(replacedFirstMatch);
+			});
+		}else{
 			document.getElementById("random").innerHTML = replacedFirstMatch;
-		});
-	}
-	function fillTemplate(template){
-		regexp = /(?:\[)(.*)(?:\])/;
-		firstMatch = regexp.exec(template)[1];
-		firstMatchBrackets = "["+firstMatch+"]";
-		firstMatchPath = "/"+firstMatch+".txt";
-		random(firstMatchPath, template, firstMatchBrackets);
+		}
+
 	}
 	
-	var template = 'My testing subject is now [randomizer/creature/beast]!';
-	fillTemplate(template);
+	var template = 'My testing subjects are now [creature/beast] and [creature/beast]!';
+	random(template);
 </script>
 
 
