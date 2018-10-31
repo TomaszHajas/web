@@ -21,12 +21,12 @@
     		return lines[Math.floor(Math.random()*lines.length)];
 	}
 	
-	function random(path, brackets){
+	function random(path, template, brackets){
 		return fetch(path)
   			.then(response => response.text())
   			.then(text => {
 			console.log(getRandomLine(text));
-			template.replace(brackets, text);
+			document.getElementById("random").innerHTML = template.replace(brackets, text);
 		});
 	}
 	function fillTemplate(template){
@@ -38,9 +38,7 @@
 	}
 	
 	var template = 'My testing subject is now [randomizer/creature/beast]!';
-	
-
-	document.getElementById("random").innerHTML = fillTemplate(template);
+	fillTemplate(template);
 </script>
 
 
