@@ -24,7 +24,7 @@
 	function random(template){
 		if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
-			firstMatch = regexp.exec(template)[1];
+			firstMatch = regexp.exec(template)[0];
 			firstMatchBrackets = "["+firstMatch+"]";
 			firstMatchPath = "randomizer/"+firstMatch+".txt";
 			console.log(firstMatchPath);
@@ -41,10 +41,7 @@
 	}
 	
 	var template = 'My testing subjects are now [creature/beast] and [creature/beast]!';
-	regexp = /\[.*?\]/;
-	firstMatch = regexp.exec(template)[0];
-	console.log(firstMatch);
-	//random(template);
+	random(template);
 </script>
 
 
