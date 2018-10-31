@@ -11,7 +11,6 @@
 	// Check for the various File API support.
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
   		// Great success! All the File APIs are supported.
-		alert('The File APIs are supported in this browser.');
 	} else {
   		alert('The File APIs are not fully supported in this browser.');
 	}
@@ -22,6 +21,9 @@
 	fetch('items.txt')
   		.then(response => response.text())
   		.then(text => console.log(text));
+	fetch('/')
+  		.then(response => response.text())
+  		.then(text => console.log("A"+text));
 </script>
 
 <!--
