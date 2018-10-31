@@ -19,12 +19,15 @@
 	function random(path){
 		return fetch(path)
   			.then(response => response.text())
-  			.then(text => console.log(text));
+  			.then(text => text);
 	}
 	function fillTemplate(template){
 		regexp = /(?:\[)(.*)(?:\])/;
 		firstMatch = regexp.exec(template)[1];
-		return firstMatch;
+		firstMatchBrackets = "["+firstMatch+"]";
+		firstMatchPath = "/"+firstMatch+".txt";
+		firstMatchReplaced = template.replace(firstMatchBrackets, random(firstMatchPath));
+		return firstMatchReplaced;
 	}
 	
 	var template = 'My testing subject is now [creature/beast]!';
