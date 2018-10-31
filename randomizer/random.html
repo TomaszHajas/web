@@ -42,7 +42,7 @@
 	
 	var template = 'My testing subjects are now [creature/beast] and [creature/beast]!';
 	regexp = /\[.*?\]/;
-	firstMatch = regexp.exec(template)[1];
+	firstMatch = regexp.exec(template)[0];
 	console.log(firstMatch);
 	//random(template);
 </script>
