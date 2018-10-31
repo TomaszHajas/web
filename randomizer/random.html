@@ -15,7 +15,7 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
-	$.getJSON( "file.php", function( data ) {
+	$.getJSON( "getFiles.php", function( data ) {
   		var items = [];
   		$.each( data, function(val ) {
     		items.push(val);
