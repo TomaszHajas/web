@@ -18,9 +18,7 @@
 	
 	function rollXYTimes(howMany, maxDieRoll){
 		var sum = 0;
-		console.log(howMany);
-		console.log(maxDieRoll);
-		for(int i = 0; i < howMany; i++){
+		for(var i = 0; i < howMany; i++){
 			sum += parseInt(Math.random()*maxDieRoll)+1;
 		}
 		return sum;
