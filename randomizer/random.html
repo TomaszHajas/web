@@ -36,12 +36,13 @@
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
+			console.log(1);
 			if(/\d/.test(firstMatchNoBrackets)){
+				console.log(2);
 			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
 				random(replacedFirstMatch);
 			}else{
 				firstMatchPath = firstMatchNoBrackets+".txt";
-				console.log(firstMatchPath);
 				fetch(firstMatchPath)
   					.then(response => response.text())
   					.then(text => {
