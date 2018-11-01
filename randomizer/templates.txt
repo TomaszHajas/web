@@ -1,6 +1,6 @@
-Adventurers encounter [creature/fiend] group!
-Adventurers encounter enslaved [adjective/appearance] [creature/humanoid]!
-Adventurers are ambushed by [creature/humanoid] group!
+Adventurers encounter [1d6+2]x[creature/fiend] group!
+Adventurers encounter enslaved [1d6+2]x[adjective/appearance] [creature/humanoid]!
+Adventurers are ambushed by [1d6+2]x[creature/humanoid] group!
 Adventurers enter [adjective/place] [place/area]!
-Adventurers find a [item/consumable/potion] in a tree stump!
+Adventurers find [1d6+2]x[item/consumable/potion] in a tree stump!
 Adventurers meet [adjective/appearance] and [adjective/personality] [creature/humanoid] who wants to [verb/verb] them!
