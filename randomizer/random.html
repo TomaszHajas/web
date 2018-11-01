@@ -20,7 +20,7 @@
 		regexpDiceNumber = /[^d]*/;
 		var diceNumber = regexpDiceNumber.exec(match)[0];
 		var matchWithoutDiceNumber = match.replace(diceNumber, '')
-		regexpDiceMaxValue = /([^\?]*)\?d(\d*)/
+		regexpDiceMaxValue = /^d\d+$/g;
 		var diceMaxValue = regexpDiceMaxValue.exec(matchWithoutDiceNumber)[0];
 		var matchWithoutDiceMaxValue = match.replace(diceMaxValue, '')
 		console.log("diceNumber "+diceNumber);
