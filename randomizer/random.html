@@ -29,7 +29,7 @@
 	function parseRoll(match){
 		var regexp = /^\d+d\d+(\-|\+|\*|\:|)?\d*$/g;
 		if(regexp.test(match)){
-			var numbers = string.match(/\d+/g).map(Number);
+			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
 				return numbers[0]*(Math.random()*numbers[1]-1);
