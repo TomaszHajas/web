@@ -20,7 +20,8 @@
 		regexpDiceNumber = /[^d]*/;
 		var diceNumber = regexpDiceNumber.exec(match)[0];
 		var diceMaxValue = match.substr(0, match.indexOf('d'));
-    		return regexpDiceNumber;
+		console.log(diceNumber);
+    		return diceNumber;
 	}
 	
 	function getRandomLine(text){
@@ -37,6 +38,7 @@
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(/\d/.test(firstMatchNoBrackets)){
 			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
+				random(replacedFirstMatch);
 			}else{
 				firstMatchPath = firstMatchNoBrackets+".txt";
 				console.log(firstMatchPath);
