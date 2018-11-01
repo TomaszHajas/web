@@ -16,6 +16,14 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
+	function rollXYTimes(howMany, maxDieRoll){
+		var sum = 0;
+		for(int i = 0; i < howMany){
+			sum += parseInt(Math.random()*maxDieRoll)+1;
+		}
+		return sum;
+	}
+	
 	function parseOperation(operation, number1, number2){
 		switch(operation){
 			case "+": return number1+number2;
@@ -32,18 +40,13 @@
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
-				return numbers[0]*parseInt((Math.random()*numbers[1]-1));
+				return rollXYTimes(numbers[0], numbers[1]);
 			}else{
-				return parseOperation(operation, numbers[0]*parseInt((Math.random()*numbers[1]-1)), numbers[2]);
+				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
 			}
 		}else{
 			return 0;
 		}
-		
-
-		
-		console.log("diceMaxValue "+diceMaxValue);
-    		return diceNumber;
 	}
 	
 	function getRandomLine(text){
