@@ -16,6 +16,13 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
+	function parseRoll(match){
+		regexpDiceNumber = /[^d]*/;
+		var diceNumber = regexpDiceNumber.exec(match)[0];
+		var diceMaxValue = match.substr(0, match.indexOf('d'));
+    		return regexpDiceNumber;
+	}
+	
 	function getRandomLine(text){
     		var lines = text.split('\n');
     		return lines[Math.floor(Math.random()*lines.length)];
@@ -28,14 +35,18 @@
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			firstMatchPath = firstMatchNoBrackets+".txt";
-			console.log(firstMatchPath);
-			fetch(firstMatchPath)
-  				.then(response => response.text())
-  				.then(text => {
-				replacedFirstMatch = template.replace(firstMatch, getRandomLine(text));
-				random(replacedFirstMatch);
-			});
+			if(/\d/.test(firstMatchNoBrackets)){
+			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
+			}else{
+				firstMatchPath = firstMatchNoBrackets+".txt";
+				console.log(firstMatchPath);
+				fetch(firstMatchPath)
+  					.then(response => response.text())
+  					.then(text => {
+					replacedFirstMatch = template.replace(firstMatch, getRandomLine(text));
+					random(replacedFirstMatch);
+				});
+			}
 		}else{
 			document.getElementById("random").innerHTML = template;
 		}
