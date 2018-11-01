@@ -21,7 +21,7 @@
 			case "+": return number1+number2;
 			case "-": return number1-number2;
 			case "*": return number1*number2;
-			case ":": return number1/number2;
+			case ":": return parseInt(number1/number2);
 			default: return 0;
 		}
 	}
@@ -32,9 +32,9 @@
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
-				return numbers[0]*(Math.random()*numbers[1]-1);
+				return numbers[0]*parseInt((Math.random()*numbers[1]-1));
 			}else{
-				return parseOperation(operation, numbers[0]*(Math.random()*numbers[1]-1), numbers[2]);
+				return parseOperation(operation, numbers[0]*parseInt((Math.random()*numbers[1]-1)), numbers[2]);
 			}
 		}else{
 			return 0;
