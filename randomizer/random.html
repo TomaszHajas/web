@@ -22,8 +22,8 @@
 		var matchWithoutDiceNumber = match.replace(diceNumber, '')
 		regexpDixeMaxValue = /^[-+.,]+$/
 		var diceMaxValue = regexpDiceNumber.exec(match)[0];
-		console.log(diceNumber);
-		console.log(diceMaxValue);
+		console.log("number "+diceNumber);
+		console.log("maxvalue "+diceMaxValue);
     		return diceNumber;
 	}
 	
@@ -39,9 +39,7 @@
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			console.log(/\d/.test(firstMatchNoBrackets));
 			if(/\d/.test(firstMatchNoBrackets)){
-				console.log(2);
 			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
 				random(replacedFirstMatch);
 			}else{
