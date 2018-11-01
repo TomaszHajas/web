@@ -22,8 +22,11 @@
 		var matchWithoutDiceNumber = match.replace(diceNumber, '')
 		regexpDixeMaxValue = /^[-+.,]+$/
 		var diceMaxValue = regexpDiceNumber.exec(match)[0];
-		console.log("number "+diceNumber);
-		console.log("maxvalue "+diceMaxValue);
+		var matchWithoutDiceMaxValue = match.replace(diceMaxValue, '')
+		console.log("diceNumber "+diceNumber);
+		console.log("matchWithoutDiceNumber "+matchWithoutDiceNumber);
+		console.log("diceMaxValue "+diceMaxValue);
+		console.log("matchWithoutDiceMaxValue "+matchWithoutDiceMaxValue);
     		return diceNumber;
 	}
 	
