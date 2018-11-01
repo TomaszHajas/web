@@ -19,8 +19,11 @@
 	function parseRoll(match){
 		regexpDiceNumber = /[^d]*/;
 		var diceNumber = regexpDiceNumber.exec(match)[0];
-		var diceMaxValue = match.substr(0, match.indexOf('d'));
+		var matchWithoutDiceNumber = match.replace(diceNumber, '')
+		regexpDixeMaxValue = /^[-+.,]+$/
+		var diceMaxValue = regexpDiceNumber.exec(match)[0];
 		console.log(diceNumber);
+		console.log(diceMaxValue);
     		return diceNumber;
 	}
 	
