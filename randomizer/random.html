@@ -16,18 +16,33 @@
   		alert('The File APIs are not fully supported in this browser.');
 	}
 	
+	function parseOperation(operation, number1, number2){
+		switch(operation){
+			case "+": return number1+number2;
+			case "-": return number1-number2;
+			case "*": return number1*number2;
+			case ":": return number1/number2;
+			default: return 0;
+		}
+	}
+	
 	function parseRoll(match){
-		regexpDiceNumber = /[^d]*/;
-		var diceNumber = regexpDiceNumber.exec(match)[0];
-		console.log("diceNumber "+diceNumber);
-		var matchWithoutDiceNumber = match.replace(diceNumber, '')
-		console.log("matchWithoutDiceNumber "+matchWithoutDiceNumber);
-		regexpDiceMaxValue = /#v([^d]+)/;
-		var diceMaxValue = regexpDiceMaxValue.exec(matchWithoutDiceNumber)[0];
-		var matchWithoutDiceMaxValue = match.replace(diceMaxValue, '')
+		var regexp = /^\d+d\d+(\-|\+|\*|\:|)?\d*$/g;
+		if(regexp.test(match)){
+			var numbers = string.match(/\d+/g).map(Number);
+			var operation = match.replace(/\d|d/g, '');
+			if(operation == null){
+				return numbers[0]*(Math.random()*numbers[1]-1);
+			}else{
+				return parseOperation(operation, numbers[0]*(Math.random()*numbers[1]-1), numbers[2]);
+			}
+		}else{
+			return 0;
+		}
+		
+
 		
 		console.log("diceMaxValue "+diceMaxValue);
-		console.log("matchWithoutDiceMaxValue "+matchWithoutDiceMaxValue);
     		return diceNumber;
 	}
 	
