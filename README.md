@@ -7,7 +7,7 @@ Creativity enhancing, template-based random sentence generator
 adjective/appearance\
 adjective/item\
 adjective/personality\
-adjective/place\
+adjective/place
 
 ###### creature
 creature/aberration\
@@ -23,14 +23,14 @@ creature/humanoid\
 creature/monstrosity\
 creature/ooze\
 creature/plant\
-creature/undead\
+creature/undead
 
 ###### item
 item/item\
 item/consumable/food\
 item/consumable/drink\
 item/consumable/potion\
-item/consumable/poison\
+item/consumable/poison
 
 ###### noun
 noun/anglo_saxon_prefix\
@@ -42,11 +42,11 @@ noun/hindu_suffix\
 noun/japanese_prefix\
 noun/japanese_suffix\
 noun/job\
-noun/symbol\
+noun/symbol
 
 ###### place
 place/area\
-place/structure\
+place/structure
 
 ###### verb
-verb/verb\
+verb/verb
