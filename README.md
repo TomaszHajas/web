@@ -1,6 +1,13 @@
 # Tables of Randomness
 Creativity enhancing, template-based random sentence generator
 
+## Sample dice rolls:
+[1d4]\
+[1d6+2]\
+[1d6-2]\
+[1d6*2]\
+[1d6:2]
+
 ## Rollable tables:
 
 ###### adjective
