@@ -1,0 +1,673 @@
+Berbalang
+Blue Slaad
+Choker
+Chuul
+Cloaker
+Death Kiss
+Death Slaad
+Flumph
+Gauth
+Gazer
+Gibbering Mouther
+Gray Slaad
+Green Slaad
+Grell
+Intellect Devourer
+Ixitxachitl
+Ixitxachitl Cleric
+Mind Flayer
+Mind Flayer Arcanist
+Mind Flayer Psion
+Mindwitness
+Neogi
+Neogi Hatchling
+Neogi Master
+Neothelid
+Nothic
+Otyugh
+Red Slaad
+Slaad Tadpole
+Spectator
+Star Spawn Grue
+Star Spawn Hulk
+Star Spawn Mangler
+Star Spawn Seer
+Ulitharid
+Vampiric Ixitxachitl
+Vampiric Ixitxachitl Cleric
+Allosaurus 
+Almiraj 
+Ankylosaurus 
+Ape 
+Aurochs 
+Axe Beak 
+Baboon 
+Badger 
+Bat 
+Black Bear 
+Blood Hawk 
+Boar 
+Brontosaurus 
+Brown Bear 
+Camel 
+Cat 
+Cave Bear 
+Clawfoot Raptor 
+Constrictor Snake 
+Cow 
+Crab 
+Crag Cat 
+Cranium Rat 
+Crocodile 
+Deep Rothé 
+Deer 
+Deinonychus 
+Dimetrodon 
+Dire Wolf 
+Dolphin 
+Draft Horse 
+Eagle 
+Elephant 
+Elk 
+Female Steeder 
+Flying Monkey 
+Flying Snake 
+Frilled Deathspitter 
+Frog 
+Giant Ape 
+Giant Badger 
+Giant Bat 
+Giant Boar 
+Giant Centipede 
+Giant Constrictor Snake 
+Giant Crab 
+Giant Crayfish 
+Giant Crocodile 
+Giant Eagle 
+Giant Elk 
+Giant Fire Beetle 
+Giant Fly 
+Giant Frog 
+Giant Goat 
+Giant Hyena 
+Giant Lightning Eel 
+Giant Lizard 
+Giant Octopus 
+Giant Owl 
+Giant Poisonous Snake 
+Giant Rat 
+Giant Rat (Diseased) 
+Giant Riding Lizard 
+Giant Scorpion 
+Giant Sea Horse 
+Giant Shark 
+Giant Snapping Turtle 
+Giant Spider 
+Giant Subterranean Lizard 
+Giant Toad 
+Giant Vulture 
+Giant Wasp 
+Giant Weasel 
+Giant Wolf Spider 
+Goat 
+Gremlin 
+Hadrosaurus 
+Hawk 
+Huge Giant Crab 
+Hulking Crab 
+Hunter Shark 
+Hyena 
+Jackal 
+Jaculi 
+Kavu Predator 
+Killer Whale 
+Lion 
+Lizard 
+Male Steeder 
+Mammoth 
+Mastiff 
+Mule 
+Octopus 
+Owl 
+Ox 
+Panther 
+Plesiosaurus 
+Poisonous Snake 
+Polar Bear 
+Pony 
+Pteranodon 
+Quetzalcoatlus 
+Quipper 
+Rat 
+Raven 
+Reef Shark 
+Rhinoceros 
+Riding Horse 
+Rothé 
+Saber-Toothed Tiger 
+Scorpion 
+Sea Horse 
+Serpopard 
+Sky Leviathan 
+Spider 
+Spider King 
+Steel Leaf Kavu 
+Stegosaurus 
+Stench Kow 
+Stirge 
+Tiger 
+Tressym 
+Triceratops 
+Tyrannosaurus Rex 
+Velociraptor 
+Vulture 
+Warhorse 
+Weasel 
+Wolf 
+Swarm of Bats 
+Swarm of Beetles 
+Swarm of Centipedes 
+Swarm of Cranium Rats 
+Swarm of Insects 
+Swarm of Poisonous Snakes 
+Swarm of Quippers 
+Swarm of Rats 
+Swarm of Ravens 
+Swarm of Rot Grubs 
+Swarm of Spiders 
+Swarm of Wasps 
+Thunderbeast Skeleton
+Archon Of Redemption
+Couatl
+Deva
+Pegasus
+Planetar
+Animated Armor
+Animated Object (Huge)
+Animated Object (Large)
+Animated Object (Medium)
+Animated Object (Small)
+Animated Object (Tiny)
+Animated Table
+Bronze Scout
+Broom of Animated Attack
+Cadaver Collector
+Clay Gladiator
+Clay Golem
+Creepy Doll
+Duergar Hammerer
+Duergar Screamer
+Duodrone
+Flesh Golem
+Flying Staff
+Flying Sword
+Guardian Portrait
+Hellfire Engine
+Helmed Horror
+Homunculus
+Iron Cobra
+Iron Golem
+Marut
+Monodrone
+Nimblewright
+Oaken Bolter
+Pentadrone
+Quadrone
+Retriever
+Rug of Smothering
+Sacred Statue
+Scarecrow
+Servo
+Shield Guardian
+Skaab
+Spiked Tomb Guardian
+Steel Predator
+Stone Cursed
+Stone Defender
+Stone Golem
+Stone Juggernaut
+Strahd's Animated Armor
+Swarm of Books
+Swarm of Mechanical Spiders
+Tiny Servant
+Tomb Guardian
+Tridrone
+Walking Statue of Waterdeep
+Ambush Drake
+Black Dragon Wyrmling
+Black Guard Drake
+Blue Dragon Wyrmling
+Blue Guard Drake
+Brass Dragon Wyrmling
+Bronze Dragon Wyrmling
+Copper Dragon Wyrmling
+Dragon Turtle
+Faerie Dragon (Blue)
+Faerie Dragon (Green)
+Faerie Dragon (Indigo)
+Faerie Dragon (Orange)
+Faerie Dragon (Red)
+Faerie Dragon (Violet)
+Faerie Dragon (Yellow)
+Gold Dragon Wyrmling
+Green Dragon Wyrmling
+Green Guard Drake
+Guard Drake
+Pseudodragon
+Red Dragon Wyrmling
+Red Guard Drake
+Silver Dragon Wyrmling
+White Dragon Wyrmling
+White Guard Drake
+Wyvern
+Young Black Dragon
+Young Blue Dragon
+Young Brass Dragon
+Young Bronze Dragon
+Young Copper Dragon
+Young Gold Dragon
+Young Green Dragon
+Young Red Dragon
+Young Red Shadow Dragon
+Young Silver Dragon
+Young White Dragon
+Air Elemental
+Air Elemental Myrmidon
+Azer
+Chwinga
+Dao
+Djinni
+Dust Mephit
+Earth Elemental
+Earth Elemental Myrmidon
+Efreeti
+Fire Elemental
+Fire Elemental Myrmidon
+Fire Elemental Myrmidon
+Fire Snake
+Flail Snail
+Four-Armed Gargoyle
+Frost Salamander
+Galeb Duhr
+Gargoyle
+Geonid
+Giant Four-Armed Gargoyle
+Ice Mephit
+Invisible Stalker
+Magma Mephit
+Magmin
+Marid
+Mud Mephit
+Salamander
+Smoke Mephit
+Steam Mephit
+Water Elemental
+Water Elemental Myrmidon
+Water Elemental Myrmidon
+Water Weird
+Xorn
+Annis Hag
+Autumn Eladrin
+Bheur Hag
+Blink Dog
+Boggle
+Darkling
+Darkling Elder
+Dryad
+Fey
+Fey (elf)
+Green Hag
+Korred
+Meenlock
+Nereid
+Pixie
+Quickling
+Redcap
+Satyr
+Sea Hag
+Spring Eladrin
+Sprite
+Summer Eladrin
+Winter Eladrin
+Yeth Hound
+Abyssal Wretch
+Alkilith
+Amnizu
+Arcanaloth
+Armanite
+Babau
+Balor
+Barbed Devil
+Barghest
+Barlgura
+Bearded Devil
+Black Abishai
+Blue Abishai
+Bone Devil
+Bulezau
+Cambion
+Canoloth
+Chain Devil
+Chasme
+Devourer
+Dhergoloth
+Draegloth
+Dretch
+Dybbuk
+Erinyes
+Glabrezu
+Goristro
+Green Abishai
+Hell Hound
+Hezrou
+Horned Devil
+Howler
+Hydroloth
+Ice Devil
+Ice Devil Spear
+Imp
+Incubus
+Larva
+Lemure
+Manes
+Marilith
+Maurezhi
+Maw Demon
+Merregon
+Mezzoloth
+Nabassu
+Nalfeshnee
+Narzugon
+Night Hag
+Nightmare
+Nupperibo
+Nycaloth
+Oinoloth
+Orthon
+Pit Fiend
+Quasit
+Rakshasa
+Red Abishai
+Rutterkin
+Shadow Demon
+Shoosuva
+Spined Devil
+Succubus
+Tanarukk
+Ultroloth
+Vargouille
+Vrock
+Wastrilith
+White Abishai
+Yagnoloth
+Yochlol
+Cloud Giant
+Cloud Giant Smiling One
+Cyclops
+Dire Troll
+Ettin
+Fire Giant
+Fire Giant Dreadnought
+Fomorian
+Frost Giant
+Frost Giant Everlasting One
+Half-Ogre (Ogrillon)
+Hill Giant
+Mouth of Grolantor
+Ogre
+Ogre Battering Ram
+Ogre Bolt Launcher
+Ogre Chain Brute
+Ogre Howdah
+Oni
+Rot Troll
+Spirit Troll
+Stone Giant
+Stone Giant Dreamwalker
+Storm Giant
+Troll
+Venom Troll
+Aarakocra
+Aasimar
+Bugbear
+Deep Gnome
+Derro
+Dragonborn
+Drow
+Duergar
+Eladrin
+Firbolg
+Forest Gnome
+Genasi
+Ghostwise Halfling
+Gith
+Gnoll
+Goblin
+Goliath
+Grimlock
+Grung
+Half-Elf
+Half-Orc
+High Elf
+Hill Dwarf
+Hobgoblin
+Human
+Human Variant
+Kenku
+Kobold
+Lightfoot Halfling
+Lizardfolk
+Merfolk
+Moutain Dwarf
+Ogrog
+Orc
+Quaggoth
+Rock Gnome
+Sahugin
+Stout Halfling
+Tabaxi
+Tiefling
+Tortle
+Triton
+Troglodyte
+Winged Kobold
+Wood Elf
+Yuan-ti Pureblood
+Abominable Yeti
+Adult Kruthik
+Aldani (Lobsterfolk)
+Ankheg
+Banderhobb
+Basilisk
+Behir
+Bulette
+Carrion Crawler
+Catoblepas
+Cave Fisher
+Centaur
+Chimera
+Chitine
+Choldrith
+Chupacabra
+Cockatrice
+Darkmantle
+Death Dog
+Decapus
+Dining Table
+Displacer Beast
+Doppelganger
+Drider
+Eblis
+Ettercap
+Female Steeder
+Froghemoth
+Giant Ice Toad
+Giant Strider
+Girallon
+Gorgon
+Gray Render
+Grick
+Grick Alpha
+Griffon
+Guardian Naga
+Harpy
+Hippogriff
+Homarid
+Hook Horror
+Hydra
+Ice Toad
+Kamadan
+Kraken
+Kruthik Hive Lord
+Lamia
+Leucrotta
+Male Steeder
+Malformed Kraken
+Manticore
+Manticore, Heart-Piercer
+Medusa
+Merrow
+Mimic
+Minotaur
+Owlbear
+Peryton
+Phase Spider
+Piercer
+Pterafolk
+Purple Worm
+Purple Wormling
+Remorhaz
+Roc
+Roper
+Rust Monster
+Sea Lion
+Shadow Mastiff
+Spider Shark
+Spirit Naga
+Su-Monster
+Sunbird
+The Angry
+The Hungry
+The Lonely
+The Lost
+The Wretched
+Tlincalli
+Trapper
+Umber Hulk
+Winter Wolf
+Worg
+Yakfolk Priest
+Yakfolk Warrior
+Yeti
+Young Kruthik
+Young Remorhaz
+Yuan-ti Abomination
+Yuan-ti Anathema
+Yuan-ti Malison (Snake head)
+Yuan-ti Malison (Snake arms)
+Yuan-ti Malison (Snake lower body)
+Yuan-ti Malison (Snake tails)
+Yuan-ti Malison (Snake skin)
+Yuan-ti Mind Whisperer
+Yuan-ti Nightmare Speaker
+Yuan-ti Pit Master
+Zorbo
+Adult Oblex
+Black Pudding
+Elder Oblex
+Gelatinous Cube
+Gray Ooze
+Gray Ooze (Psychic)
+Oblex Spawn
+Ochre Jelly
+Slithering Tracker
+Assassin Vine
+Awakened Shrub
+Awakened Tree
+Awakened Zurkhwood
+Bridesmaid of Zuggtmoy
+Chamberlain of Zuggtmoy
+Chuul Spore Servant
+Corpse Flower
+Drow Spore Servant
+Duergar Spore Servant
+Gas Spore
+Hook Horror Spore Servant
+Kelpie
+Mantrap
+Myconid Adult
+Myconid Sovereign
+Myconid Sprout
+Needle Blight
+Quaggoth Spore Servant
+Shambling Mound
+Shrieker
+Thorn Slinger
+Thorny
+Treant
+Tree Blight
+Tri-Flower Frond
+Twig Blight
+Vegepygmy
+Vegepygmy Chief
+Vine Blight
+Violet Fungus
+Wood Woad
+Yellow Musk Creeper
+Alhoon
+Allip
+Ankylosaurus Zombie
+Ash Zombie
+Avatar of Death
+Banshee
+Beholder Zombie
+Blazing Skeleton
+Bodak
+Bone Naga (Guardian)
+Bone Naga (Spirit)
+Boneclaw
+Centaur Mummy
+Crawling Claw
+Death Knight
+Deathlock
+Deathlock Mastermind
+Deathlock Wight
+Dread Warrior
+Eidolon
+Flameskull
+Geist
+Ghast
+Ghost
+Ghoul
+Giant Skeleton
+Girallon Zombie
+Gnoll Witherling
+Greater Zombie
+Minotaur Skeleton
+Mummy
+Nightwalker
+Ogre Zombie
+Ooze Master
+Phantom Warrior
+Poltergeist
+Revenant
+Shadow
+Skeleton
+Spawn of Kyuss
+Specter
+Strahd Zombie
+Sword Wraith Commander
+Sword Wraith Warrior
+Thunderbeast Skeleton
+Tomb Dwarf
+Topi
+Tyrannosaurus Zombie
+Vampire Neonate
+Vampire Spawn
+Vampiric Mist
+Warhorse Skeleton
+Wight
+Will-o'-Wisp
+Wraith
+Yellow Musk Zombie
+Zombie
