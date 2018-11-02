@@ -1,2 +1,2 @@
 # web
-Creativity-enhancing, template-based random sentence generator
+Creativity enhancing, template-based random sentence generator
