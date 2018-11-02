@@ -4,4 +4,6 @@
   $currentContent = file_get_contents($file);
   $currentContent .= $template;
   file_put_contents($file, $currentContent);
+  header("Location: {$_SERVER['HTTP_REFERER']}");
+  exit;
 ?>
