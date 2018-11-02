@@ -17,6 +17,7 @@ Creativity enhancing, template-based random sentence generator
 [adjective/place]
 
 ###### creature
+[creature/creature]\
 [creature/aberration]\
 [creature/beast]\
 [creature/celestial]\
