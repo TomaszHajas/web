@@ -1,4 +1,4 @@
-Adventurers find [1d2] x [item/item]!
+Adventurers find [1d2+0] x [item/item]!
 Adventurers encounter [1d4+2] x [creature/fiend]!
 Adventurers encounter enslaved [creature/humanoid]!
 Adventurers are ambushed by [1d4+2] x [creature/humanoid] group!
