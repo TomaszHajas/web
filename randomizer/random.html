@@ -70,6 +70,10 @@
 			return 0;
 		}
 	}
+	console.log(parseRoll("1d2"));
+	console.log(parseRoll("2d2"));
+	console.log(parseRoll("1d2+2"));
+	
 	
 	function getRandomLine(text){
     		var lines = text.split('\n');
@@ -85,7 +89,6 @@
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(/\d/.test(firstMatchNoBrackets)){
 			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
-				console.log(parseRoll("1d2"));
 				random(replacedFirstMatch);
 			}else{
 				firstMatchPath = firstMatchNoBrackets+".txt";
