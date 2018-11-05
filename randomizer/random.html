@@ -62,6 +62,7 @@
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
+				console.log(numbers);
 				return rollXYTimes(numbers[0], numbers[1]);
 			}else{
 				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
@@ -71,11 +72,6 @@
 			return 0;
 		}
 	}
-	console.log(rollXYTimes(1, 2));
-	console.log(parseRoll("1d2"));
-	console.log(parseRoll("2d2"));
-	console.log(parseRoll("1d2+2"));
-	
 	
 	function getRandomLine(text){
     		var lines = text.split('\n');
