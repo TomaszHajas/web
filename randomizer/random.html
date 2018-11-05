@@ -67,9 +67,11 @@
 				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
 			}
 		}else{
+			console.log("zero");
 			return 0;
 		}
 	}
+	console.log(rollXYTimes(1, 2));
 	console.log(parseRoll("1d2"));
 	console.log(parseRoll("2d2"));
 	console.log(parseRoll("1d2+2"));
