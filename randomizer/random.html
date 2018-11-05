@@ -62,9 +62,13 @@
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
-				console.log(numbers);
+				console.log(numbers[0]);
+				console.log(numbers[1]);
 				return rollXYTimes(numbers[0], numbers[1]);
 			}else{
+				console.log(numbers[0]);
+				console.log(numbers[1]);
+				console.log(numbers[2]);
 				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
 			}
 		}else{
