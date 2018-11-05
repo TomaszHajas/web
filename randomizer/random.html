@@ -85,7 +85,7 @@
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(/\d/.test(firstMatchNoBrackets)){
 			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
-				console.log(replacedFirstMatch);
+				console.log(parseRoll(firstMatchNoBrackets));
 				random(replacedFirstMatch);
 			}else{
 				firstMatchPath = firstMatchNoBrackets+".txt";
