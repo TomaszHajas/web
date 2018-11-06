@@ -1,33 +1,3 @@
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
-Trap, which is... <br/>[trait/trap_trait]<br/>[trait/trap_trait]<br/>[trait/trap_trait]
 [creature/creature] investigating some other encounter.
 [creature/creature]'s tracks or droppings.
 Damaged object.
@@ -60,8 +30,6 @@ Burned object.
 Unusually big object.
 Sudden end of the path.
 Trap, which is... [trait/trap_trait]
-Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]
-Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
 Unusual [place/structure].
 Ruined [place/structure].
 Path-blocking object.
