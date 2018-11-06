@@ -17,7 +17,9 @@
 	<title>Randomizer</title>
 </head>
 <body>
+	<p>Adventurers encounter...</p>
 	<p id="random"></p>
+	<br>
 	<br>
 	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
 	<br>
@@ -82,7 +84,7 @@
 	
 	function random(template){
 		if(template == ''){
-			document.getElementById("random").innerHTML = ">>> Roll twice and merge results! <<<";
+			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
