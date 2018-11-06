@@ -67,7 +67,7 @@ Weird-behaving [creature/creature].
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
 Pile of almost identical [item/item]s.
 [creature/creature] corpse.
-Geared [creature/creature] corpse containing [item/item] and [item/item].
+Geared [creature/humanoid] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
 Sick [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
