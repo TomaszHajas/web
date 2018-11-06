@@ -103,7 +103,7 @@ Stench source coming from nearby [adjective/place] [place/structure].
 Strangely shaped clouds on the horizon on [1d12+0] direction.
 Small [creature/creature] eating adventurer's supplies.
 Poisonous plant.
-Bush full of herbs.
+Patch full of herbs.
 Animated [adjective/object] [item/item].
 Water bank.
 Pond filled with [item/consumable/food].
