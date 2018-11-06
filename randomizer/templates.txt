@@ -1,36 +1,33 @@
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
-[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
-
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [creature/creature] investigating some other encounter.
 [creature/creature]'s tracks or droppings.
 Damaged object.
@@ -76,7 +73,7 @@ Steed without owner.
 [adjective/appearance] [adjective/personality] [noun/job] Character offering a help in things related to his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/location]s - who am I?"
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
@@ -104,14 +101,14 @@ Geared [creature/creature] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
 Sick [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
-Signpost showing a way to nearby [adjective/place] [place/location].
+Signpost showing a way to nearby [adjective/place] [place/area].
 Signpost showing a way to nearby [adjective/place] [place/structure].
-Signpost showing a wrong way to nearby [adjective/place] [place/location].
+Signpost showing a wrong way to nearby [adjective/place] [place/area].
 Signpost showing a wrong way to nearby [adjective/place] [place/structure].
 Arrow symbol pointing at [1d12+0] direction.
 Lair of [2d4-1] [creature/creature](s).
 Underground entrance leading to [adjective/place] [place/structure].
-Narrow passage leading to [adjective/place] [place/location].
+Narrow passage leading to [adjective/place] [place/area].
 Narrow passage leading to [adjective/place] [place/structure].
 [adjective/place] [place/structure] emanating with magic.
 Trapped [creature/creature].
