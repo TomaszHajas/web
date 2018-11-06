@@ -1,22 +1,29 @@
-Creature investigating some other encounter.
-Creature tracks or droppings.
+[creature/creature] investigating some other encounter.
+[creature/creature]'s tracks or droppings.
 Damaged object.
 Traces of combat.
 Sounds of combat.
 Blood spattering.
 Body part.
-Ambush of hostile creatures.
-Bonfire with food roasting.
+Ambush of [2d4-1] x [creature/creature].
+Bonfire with [item/food] roasting.
 Bonfire remains.
-Creature crying.
-Creature laughing.
+[creature/creature] crying.
+[creature/creature] laughing.
 Small camp.
 Small hideout.
 Entrance to the underground.
 Crossroads.
 Closed gate blocking the path.
-Hollowed object, with loot inside.
-Container with loot.
+Hollowed object, with [adjective/object] [item/item] inside.
+Basket with [item/food] inside.
+Flask with [item/drink] inside.
+Container with [1d4+0] x [item/item].
+Container with [item/item] and [adjective/object] [item/item].
+Container with [2d4-1] gold piece(s).
+Container with [2d6-1] electrum piece(s).
+Container with [2d8-1] silver piece(s).
+Container with [2d10-1] copper piece(s).
 Fire source.
 Light source.
 Burned object.
@@ -30,96 +37,103 @@ Ruined structure.
 Path-blocking object.
 Broken vehicle.
 Steed without owner.
-Magic items merchant.
-Character looking for item related to his/her job.
-Character disturbing adventurers by performing his/her job.
-Character offering a help in things related to his/her job.
-Character performing his job.
-Character who tells a riddle, rewarding with item for a good answer.
-Character who tells a local legend.
-Character who lost a way.
-Drunk character.
-Character asking for money.
-Character trying to blackmail adventurers.
-Two characters arguing over the way they should go.
-Two identical characters.
-Character being executed by other characters.
-Sleeping creature.
-Shady character hiding his/her identity.
-Character who breaks local law.
-Character enforcing local law on adventurers.
-Group of characters debating over a local problem.
-Group of hostile creatures.
-Powerful hostile creature.
-Weird-looking creature.
-Weird-behaving creature.
-Creature in environmental danger.
-Creature in conflict with group of other creatures.
-Two groups of creatures in conflict.
-Pile of almost identical objects.
-Creature corpse.
-Geared creature corpse.
-Wounded creature.
-Sick creature.
-Character about to commit suicide.
-Signpost showing a way to nearest point of interest.
-Signpost showing a wrong way.
-Arrow symbol pointing at some direction.
-Lair of one or more creatures.
-Underground entrance.
-Narrow passage.
-Place emanating with magic.
-Trapped creature.
-Hungry creature.
-Pregnant creature.
-Creature eating.
-Creature making use of its magical powers.
-Local military squad.
-Hostile military squad.
-Creature interested in adventurer's item.
-Two creatures making out.
-Place emanating with sacred power.
-Place emanating with demonic power.
+[adjective/appearance] [adjective/personality] [creature/humanoid] merchant selling magical items.
+[adjective/appearance] [adjective/personality] [noun/job] looking for item related to his/her job.
+[adjective/appearance] [adjective/personality] [noun/job] disturbing adventurers by performing his/her job.
+[adjective/appearance] [adjective/personality] [noun/job] Character offering a help in things related to his/her job.
+[adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
+[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with item for a good answer.
+[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
+[creature/humanoid] trying to [verb/verb] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
+Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
+[adjective/appearance] [adjective/personality] [creature/humanoid] trying to blackmail adventurers.
+Two [creature/humanoid]s arguing over the way they should go.
+Two identical [creature/humanoid]s.
+[adjective/appearance] [adjective/personality] [creature/humanoid] being executed by [creature/humanoid]s.
+Sleeping [creature/creature].
+Shady [adjective/appearance] character hiding his/her identity.
+[adjective/appearance] [adjective/personality] [creature/humanoid] breaking local law.
+[adjective/appearance] [adjective/personality] [creature/humanoid] enforcing local law on adventurers.
+Group of [creature/humanoid]s debating over a local problem.
+Group of [2d4-1] hostile [creature/creature]s.
+Powerful hostile [creature/creature].
+Weird-looking [creature/creature].
+Weird-behaving [creature/creature].
+[creature/creature] in environmental danger.
+[creature/creature] in conflict with group of [2d4-1] [creature/creature]s.
+[2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
+Pile of almost identical [item/item]s.
+[creature/creature] corpse.
+Geared [creature/creature] corpse containing [item/item] and [item/item].
+Wounded [creature/creature].
+Sick [creature/creature].
+[adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
+Signpost showing a way to nearby [adjective/place] [place/location].
+Signpost showing a way to nearby [adjective/place] [place/structure].
+Signpost showing a wrong way to nearby [adjective/place] [place/location].
+Signpost showing a wrong way to nearby [adjective/place] [place/structure].
+Arrow symbol pointing at [1d12+0] direction.
+Lair of [2d4-1] [creature/creature](s).
+Underground entrance leading to [adjective/place] [place/structure].
+Narrow passage leading to [adjective/place] [place/location].
+Narrow passage leading to [adjective/place] [place/structure].
+[adjective/place] [place/structure] emanating with magic.
+Trapped [creature/creature].
+Hungry [creature/creature].
+Pregnant [creature/creature].
+[creature/creature] eating.
+[creature/creature] making use of its magical powers in order to [verb/verb].
+Local military squad consisting of [2d4-1] [creature/humanoid](s).
+Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
+[creature/creature] interested in adventurer's item.
+Two [creature/creature]s making out.
+[adjective/place] [place/structure] emanating with sacred power.
+[adjective/place] [place/structure] emanating with demonic power.
 Damaged bridge.
-Passage guarded by one or more creatures.
+Damaged [adjective/place] [place/structure].
+Passage guarded by [2d4-1] x [creature/creature].
 Unlucky omen, like a black cat, raven, number 13, broken mirror, horseshoe turned downwards.
 Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, number 7, horseshoe turned upwards.
-Artistic performance.
-Unusual item.
-Stench source.
-Strangely shaped clouds on the horizon.
-Small creature eating adventurer's supplies.
+Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
+Unusual [item/item].
+Stench source coming from nearby [adjective/place] [place/structure].
+Strangely shaped clouds on the horizon on [1d12+0] direction.
+Small [creature/creature] eating adventurer's supplies.
 Poisonous plant.
 Bush full of herbs.
-Animated object.
+Animated [adjective/object] [item/item].
 Water bank.
 Container with liquid.
 Bush or tree full of fruits.
+Tree with [item/food] growing on it.
 Vegetable patch.
 Herb patch.
 Mysterious fog, dust, smoke or mist.
 Swarm of insects.
 Minor landslide, avalanche or earthquake.
 Quicksand or sinkhole.
-Toll station.
-Character which shares rumor for a rumor.
-Character asking adventurers for a direction.
-Beautiful view.
-Waterfall.
-Powerful artifact which is hard to aquire.
-Projectile in environmental object.
-Poster with wanted character.
+Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] which shares rumor for a rumor.
+[adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/place].
+Beautiful view of [adjective/place] [place/place].
+Hideout behind a waterfall with container containing [adjective/object] [item/item] and [adjective/object] [item/item].
+Powerful [adjective/object] [item/item] which is hard to aquire.
+Projectile struck in [adjective/place] [place/structure].
+Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
 Poster warning about dangers ahead.
-Creature willing to join adventurers.
-Character willing to recruit adventurers.
-Character telling adventurers to go certain way.
-Group of slaves and their guards.
-Helpless creature looking for its parent.
-Stolen item from adventurer's equipment.
-Creature being chased by one or more other creatures.
+[creature/creature] willing to join adventurers.
+[adjective/appearance] [adjective/personality] [creature/humanoid] willing to recruit adventurers.
+[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go in [1d12+0] direction.
+[2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
+Helpless [creature/creature] looking for its parent.
+Random item stolen item from adventurer's equipment.
+Most expensive item stolen item from adventurer's equipment.
+[creature/creature] being chased by [2d4-1] x [creature/creature](s).
 Chilling wind.
 Sudden disappearance of light source.
-Animal's voice.
+[creature/beast]'s voice.
 Swarm of small creatures.
 Shadow of a winged animal passes.
 Partially buried object.
@@ -127,10 +141,10 @@ Water splashing noise.
 Dripping liquid.
 Mechanical noises, like creaking gate, spinning mill.
 Mysterious fire combustion.
-Character asking for being escorted.
-Talking animal.
-Mysterious mark on environmental object.
+[adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
+Talking [creature/beast].
+Mysterious mark on [adjective/place] [place/structure].
 Gas cloud source.
-Hidden passage.
+Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
 Illusory encounter.
