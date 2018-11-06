@@ -1,3 +1,24 @@
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
 [creature/creature] investigating some other encounter.
 [creature/creature]'s tracks or droppings.
 Damaged object.
@@ -29,9 +50,9 @@ Light source.
 Burned object.
 Unusually big object.
 Sudden end of the path.
-One-featured trap.
-Two-featured trap.
-Three-featured trap.
+Trap, which is... [trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]
+Trap, which is... \n[trait/trap_trait]\n[trait/trap_trait]\n[trait/trap_trait]
 Unusual [place/structure].
 Ruined [place/structure].
 Path-blocking object.
@@ -124,6 +145,11 @@ Beautiful view of [adjective/place] [place/place].
 Hideout behind a waterfall with container containing [adjective/object] [item/item] and [adjective/object] [item/item].
 Powerful [adjective/object] [item/item] which is hard to aquire.
 Projectile struck in [adjective/place] [place/structure].
+Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verm/verb] [noun/germanic_prefix][noun/germanic_suffix].
+Note containing instruction on how to [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix].
+Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/germanic_prefix][noun/germanic_suffix].
+Note with crafting schematics of [item/item].
+Notice regarding a [noun/job] job offer which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
 Poster warning about dangers ahead.
 [creature/creature] willing to join adventurers.
