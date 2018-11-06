@@ -6,7 +6,7 @@ Sounds of combat.
 Blood spattering.
 Body part.
 Ambush of [2d4-1] x [creature/creature].
-Bonfire with [item/food] roasting.
+Bonfire with [item/consumable/food] roasting.
 Bonfire remains.
 [creature/humanoid] crying.
 [creature/humanoid] laughing.
@@ -16,8 +16,8 @@ Entrance to the underground.
 Crossroads.
 Closed gate blocking the path.
 Hollowed object, with [adjective/object] [item/item] inside.
-Basket with [item/food] inside.
-Flask with [item/drink] inside.
+Basket with [item/consumable/food] inside.
+Flask with [item/consumable/drink] inside.
 Container with [1d4+0] x [item/item].
 Container with [item/item] and [adjective/object] [item/item].
 Container with [2d4-1] gold piece(s).
