@@ -32,8 +32,8 @@ Sudden end of the path.
 One-featured trap.
 Two-featured trap.
 Three-featured trap.
-Unusual structure.
-Ruined structure.
+Unusual [place/structure].
+Ruined [place/structure].
 Path-blocking object.
 Broken vehicle.
 Steed without owner.
