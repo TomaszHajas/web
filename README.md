@@ -2,8 +2,8 @@
 Creativity enhancing, template-based random sentence generator
 
 ## Sample dice rolls:
-[2d4]\
-[1d52]\
+~~[2d4]~~\
+[1d52+0]\
 [1d6+2]\
 [1d6-2]\
 [1d6*2]\
@@ -56,6 +56,10 @@ Creativity enhancing, template-based random sentence generator
 ###### place
 [place/area]\
 [place/structure]
+
+###### trait
+[trait/job_trait]\
+[trait/trap_trait]
 
 ###### verb
 [verb/verb]
