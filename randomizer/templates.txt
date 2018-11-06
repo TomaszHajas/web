@@ -132,7 +132,7 @@ Poster warning about dangers ahead.
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Helpless [creature/creature] looking for its parent.
 Random item appears to be stolen from adventurer's equipment.
-Most expensive item appears to be stolen item from adventurer's equipment.
+Most expensive item appears to be stolen from adventurer's equipment.
 [creature/creature] being chased by [2d4-1] x [creature/creature](s).
 Chilling wind.
 Sudden disappearance of light source.
