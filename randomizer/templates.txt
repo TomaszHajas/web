@@ -8,8 +8,8 @@ Body part.
 Ambush of [2d4-1] x [creature/creature].
 Bonfire with [item/food] roasting.
 Bonfire remains.
-[creature/creature] crying.
-[creature/creature] laughing.
+[creature/humanoid] crying.
+[creature/humanoid] laughing.
 Small camp.
 Small hideout.
 Entrance to the underground.
