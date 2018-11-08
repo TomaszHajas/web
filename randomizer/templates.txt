@@ -129,7 +129,7 @@ Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verm/verb
 Note containing instruction on how to [verb/verb] [creature/creature].
 Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/germanic_prefix][noun/germanic_suffix].
 Note with crafting schematics of [item/item].
-Notice regarding a [noun/job] job offer which is... [trait/job_trait]
+Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
 Poster warning about dangers ahead.
 [creature/creature] willing to join adventurers.
