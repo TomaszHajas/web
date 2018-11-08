@@ -6,6 +6,8 @@ Yellow
 Green
 Smelly
 Fragnant
+Pocket
+Unwieldy
 Heavy
 Light
 Sharp
