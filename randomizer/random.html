@@ -89,7 +89,7 @@
 	
 	function getRandomLine(text){
     		var lines = text.split('\n');
-    		return lines[Math.floor(Math.random()*lines.length)];
+    		return lines[Math.floor(Math.random()*lines.length)].replace(/\r?\n|\r/g, '');
 	}
 	
 	function random(template){
