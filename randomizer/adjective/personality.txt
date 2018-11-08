@@ -112,3 +112,6 @@ Sex-addicted
 Alcohol-addicted
 Drug-addicted
 Amnesiac
+Kleptomaniac
+Agoraphobic
+Claustrophobic
