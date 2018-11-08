@@ -143,6 +143,7 @@ Ride
 Ruin
 Ridicule
 Rebuild
+Recruit
 Reincarnate
 Replenish
 Run
