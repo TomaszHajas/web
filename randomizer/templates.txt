@@ -120,8 +120,8 @@ Quicksand or sinkhole.
 Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] which shares rumor for a rumor.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who wants to [verb/verb] adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/place].
-Beautiful view of [adjective/place] [place/place].
+[adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/location].
+Beautiful view of [adjective/place] [place/area].
 Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
 Powerful [adjective/item] [item/item] which is hard to aquire.
 Projectile struck in [adjective/place] [place/structure].
