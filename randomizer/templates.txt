@@ -88,6 +88,7 @@ Hungry [creature/creature].
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
 Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
 [creature/creature] interested in adventurer's item.
+[adjective/appearance] [adjective/personality] [creature/humanoid] offering a free [adjective/item] [item/item].
 Two [creature/creature]s making out.
 [adjective/place] [place/structure] emanating with sacred power.
 [adjective/place] [place/structure] emanating with demonic power.
@@ -97,7 +98,7 @@ Passage guarded by [2d4-1] x [creature/creature].
 Unlucky omen, like a black cat, raven, number 13, broken mirror, horseshoe turned downwards.
 Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, number 7, horseshoe turned upwards.
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
-Unusual [item/item].
+[adjective/item] [item/item] in the middle of the path.
 [adjective/item] [item/item] with [noun/symbol] symbol on it.
 [adjective/item] [item/item] with a name engraved on it - "[noun/anglo_saxon_prefix][noun/anglo_saxon_suffix]".
 [creature/creature] with [noun/symbol] symbol on it.
