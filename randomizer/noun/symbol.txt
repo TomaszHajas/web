@@ -2,6 +2,7 @@ Heart
 Arrow
 Sword
 Shield
+Helmet
 Axe
 Bone
 Skull
@@ -10,9 +11,12 @@ Flame
 Droplet
 Flower
 Feather
-Bird
+Eagle
 Fish
+Bird
+Beast
 Tree
+Plant
 Number
 Letter
 Star
@@ -22,7 +26,11 @@ Triangle
 Hexagon
 Cross
 Bear
+Hare
+Badger
+Dog
 Horse
+Dragon
 Man
 Eye
 Fist
@@ -31,3 +39,8 @@ Pentagram
 Moon
 Sun
 Snowflake
+Ring
+Crescent
+Diamond
+Key
+Insect
