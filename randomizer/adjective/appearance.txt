@@ -98,3 +98,4 @@ Slender
 Plump
 Anorectic
 Obese
+Pregnant
