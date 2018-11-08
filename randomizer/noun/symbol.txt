@@ -43,4 +43,5 @@ Ring
 Crescent
 Diamond
 Key
-Insect
+Bug
+House
