@@ -37,6 +37,7 @@ Talkative
 Silent
 Shouting
 Whispering
+Stuttering
 Absent-minded
 Focused
 Depressed
