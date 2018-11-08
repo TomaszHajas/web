@@ -97,6 +97,7 @@ Round-faced
 Handsome
 Ugly
 Hygienic
+Sweaty
 Unhygienic
 Unaesthetic
 Swaying
@@ -126,3 +127,4 @@ Slow-talking
 Fatigued
 Wounded
 Crippled
+Wet
