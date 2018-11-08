@@ -81,7 +81,7 @@ Narrow passage leading to [adjective/place] [place/structure].
 [adjective/place] [place/structure] emanating with magic.
 Trapped [creature/creature].
 Hungry [creature/creature].
-Pregnant [creature/creature].
+[creature/creature] giving birth.
 [creature/creature] eating [item/consumable/food].
 [creature/creature] making use of its magical powers in order to [verb/verb].
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
