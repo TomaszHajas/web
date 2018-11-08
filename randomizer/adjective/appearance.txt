@@ -1,5 +1,8 @@
-Bright-eyed
+Blue-eyed
 Dark-eyed
+Brown-eyed
+Green-eyed
+Red-eyed
 Long-eared
 Short-eared
 Long-nosed
@@ -33,12 +36,19 @@ Pale
 Scarred
 Pure-skinned
 Fingerless
+Deaf
+Perceptive
+Mute
 Blind
 Sharp-eyed
 Thick-clothed
 Naked
 Drowsy
 Vigorous
+Gigantic
+Dwarfish
+Towering
+Tiny
 Tall
 Short
 Bulky
@@ -56,6 +66,7 @@ Dark-skinned
 Light-skinned
 Fat
 Skinny
+Slender
 Repulsive
 Attractive
 Healthy
@@ -88,6 +99,7 @@ Ugly
 Hygienic
 Unhygienic
 Unaesthetic
+Swaying
 Limping
 Straight-walking
 Big-breasted
@@ -111,3 +123,6 @@ Deep-voiced
 Lisping
 Fast-talking
 Slow-talking
+Fatigued
+Wounded
+Crippled
