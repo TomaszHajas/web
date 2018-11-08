@@ -109,3 +109,5 @@ Bearded
 High-voiced
 Deep-voiced
 Lisping
+Fast-talking
+Slow-talking
