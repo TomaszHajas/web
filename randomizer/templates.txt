@@ -97,8 +97,9 @@ Unlucky omen, like a black cat, raven, number 13, broken mirror, horseshoe turne
 Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, number 7, horseshoe turned upwards.
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 Unusual [item/item].
-[item/item] with [symbol/symbol] symbol on it.
-[creature/creature] with [symbol/symbol] symbol on it.
+[item/item] with [noun/symbol] symbol on it.
+[creature/creature] with [noun/symbol] symbol on it.
+[place/structure] with [noun/symbol] symbol on it.
 Stench source coming from nearby [adjective/place] [place/structure].
 Strangely shaped clouds on the horizon on [1d12+0] direction.
 Small [creature/creature] eating adventurer's supplies.
