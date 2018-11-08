@@ -39,6 +39,8 @@ Shouting
 Whispering
 Absent-minded
 Focused
+Depressed
+Elated
 Sad
 Happy
 Sensitive
@@ -96,5 +98,15 @@ Stingy
 Generous
 Autistic
 Pervert
+Voyeuristic
+Heterosexual
+Homosexual
 Creative
 Repetitive
+Hyperactive
+Hypoactive
+Bipolar
+Schizophrenic
+Sex-addicted
+Alcohol-addicted
+Drug-addicted
