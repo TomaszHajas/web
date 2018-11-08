@@ -91,3 +91,4 @@ Sensing. Activated by smell.
 Charming. Tries to charm its target.
 Verbal. Triggered by certain words.
 Antiverbal. Disarmed by certain words.
+Illusory. Its effects aren't real.
