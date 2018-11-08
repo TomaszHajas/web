@@ -67,6 +67,8 @@ Dark
 Bright
 Hidden
 Visible
+Natural
+Man-made
 Foggy
 Clear
 Open
