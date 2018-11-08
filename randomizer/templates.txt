@@ -107,7 +107,7 @@ Poisonous plant.
 Patch full of herbs.
 Animated [adjective/object] [item/item].
 Water bank.
-Pond filled with [item/consumable/food].
+Pond filled with [item/consumable/drink].
 Container with liquid.
 Bush or tree full of fruits.
 Tree with [item/food] growing on it.
