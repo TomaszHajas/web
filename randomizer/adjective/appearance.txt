@@ -47,6 +47,7 @@ Bulky
 Flaccid
 Big
 Small
+Peg-legged
 Legless
 Long-legged
 Armless
@@ -83,6 +84,9 @@ Birth-marked
 Sharp-faced
 Round-faced
 Handsome
+Ugly
+Hygienic
+Unhygienic
 Unaesthetic
 Limping
 Straight-walking
@@ -99,3 +103,9 @@ Plump
 Anorectic
 Obese
 Pregnant
+Feminine
+Manly
+Bearded
+High-voiced
+Deep-voiced
+Lisping
