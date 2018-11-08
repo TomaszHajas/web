@@ -110,7 +110,7 @@ Water bank.
 Pond filled with [item/consumable/drink].
 Container with liquid.
 Bush or tree full of fruits.
-Tree with [item/food] growing on it.
+Tree with [item/consumable/food] growing on it.
 Vegetable patch.
 Herb patch.
 Mysterious fog, dust, smoke or mist.
