@@ -38,6 +38,7 @@ Hand
 Pentagram
 Moon
 Sun
+Cloud
 Snowflake
 Ring
 Crescent
