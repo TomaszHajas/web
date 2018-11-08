@@ -39,10 +39,7 @@
 	<br>
 	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
 	
-<script>
-	var test = "onetwothree";
-	console.log(test.replace("two", "four"));
-	
+<script>	
 	// Check for the various File API support.
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
   		// Great success! All the File APIs are supported.
@@ -74,15 +71,11 @@
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
 			if(operation == null){
-				return rollXYTimes(numbers[0], numbers[1]);
+				return parseOperation("+", rollXYTimes(numbers[0], numbers[1]), 0)
 			}else{
-				console.log(numbers[0]);
-				console.log(numbers[1]);
-				console.log(numbers[2]);
 				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
 			}
 		}else{
-			console.log("zero");
 			return 0;
 		}
 	}
