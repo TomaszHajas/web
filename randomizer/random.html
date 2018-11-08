@@ -27,7 +27,7 @@
 	<p id="random"></p>
 	<br>
 	<br>
-	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
+	<button onClick="javascript:window.location.href='/randomizer/random.html'">Roll again!</button>
 	<br>
 	<br>
 	<form action="addTemplate.php" method="post">
@@ -36,8 +36,13 @@
 		<input type="text" name="template"><br>
 		<input type="submit">
 	</form>
+	<br>
+	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
 	
 <script>
+	var test = "onetwothree";
+	test.replace("three", "four");
+	console.log(test);
 	
 	// Check for the various File API support.
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
