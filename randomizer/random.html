@@ -96,7 +96,7 @@
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(/\d/.test(firstMatchNoBrackets)){
-			   	replacedFirstMatch = template.replace(firstMatch, parseRoll(firstMatchNoBrackets));
+			   	replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
 				random(replacedFirstMatch);
 			}else{
 				firstMatchPath = firstMatchNoBrackets+".txt";
