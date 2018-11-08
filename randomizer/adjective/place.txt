@@ -2,6 +2,8 @@ Northern
 Southern
 Western
 Eastern
+Rightward
+Leftward
 High
 Low
 Windy
