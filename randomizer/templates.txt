@@ -15,11 +15,11 @@ Small hideout.
 Entrance to the underground.
 Crossroads.
 Closed gate blocking the path.
-Hollowed object, with [adjective/object] [item/item] inside.
+Hollowed object, with [adjective/item] [item/item] inside.
 Basket with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
 Container with [1d4+0] x [item/item].
-Container with [item/item] and [adjective/object] [item/item].
+Container with [item/item] and [adjective/item] [item/item].
 Container with [2d4-1] gold piece(s).
 Container with [2d6-1] electrum piece(s).
 Container with [2d8-1] silver piece(s).
@@ -105,7 +105,7 @@ Strangely shaped clouds on the horizon on [1d12+0] direction.
 Small [creature/creature] eating adventurer's supplies.
 Poisonous plant.
 Patch full of herbs.
-Animated [adjective/object] [item/item].
+Animated [adjective/item] [item/item].
 Water bank.
 Pond filled with [item/consumable/drink].
 Container with liquid.
@@ -122,8 +122,8 @@ Toll station stationed by [adjective/appearance] [adjective/personality] [creatu
 [adjective/appearance] [adjective/personality] [creature/humanoid] who wants to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/place].
 Beautiful view of [adjective/place] [place/place].
-Hideout behind a waterfall with container containing [adjective/object] [item/item] and [adjective/object] [item/item].
-Powerful [adjective/object] [item/item] which is hard to aquire.
+Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
+Powerful [adjective/item] [item/item] which is hard to aquire.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verm/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
