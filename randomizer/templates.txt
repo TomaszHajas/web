@@ -82,7 +82,7 @@ Narrow passage leading to [adjective/place] [place/structure].
 Trapped [creature/creature].
 Hungry [creature/creature].
 Pregnant [creature/creature].
-[creature/creature] eating.
+[creature/creature] eating [item/consumable/food].
 [creature/creature] making use of its magical powers in order to [verb/verb].
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
 Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
