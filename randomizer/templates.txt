@@ -19,7 +19,7 @@ Hollowed object, with [adjective/item] [item/item] inside.
 Basket with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
 Container with [1d4+0] x [item/item].
-Container with [item/item] and [adjective/item] [item/item].
+Container with [adjective/item] [item/item] and [adjective/item] [item/item].
 Container with [2d4-1] gold piece(s).
 Container with [2d6-1] electrum piece(s).
 Container with [2d8-1] silver piece(s).
@@ -44,6 +44,7 @@ Steed without owner.
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
@@ -98,6 +99,7 @@ Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, numbe
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 Unusual [item/item].
 [adjective/item] [item/item] with [noun/symbol] symbol on it.
+[adjective/item] [item/item] with a name engraved on it - "[noun/anglo_saxon_prefix][noun/anglo_saxon_suffix]".
 [creature/creature] with [noun/symbol] symbol on it.
 [adjective/place] [place/structure] with [noun/symbol] symbol on it.
 Stench source coming from nearby [adjective/place] [place/structure].
