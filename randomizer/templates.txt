@@ -125,7 +125,7 @@ Beautiful view of [adjective/place] [place/area].
 Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
 Powerful [adjective/item] [item/item] which is hard to aquire.
 Projectile struck in [adjective/place] [place/structure].
-Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verm/verb] [noun/germanic_prefix][noun/germanic_suffix].
+Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
 Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/germanic_prefix][noun/germanic_suffix].
 Note with crafting schematics of [item/item].
