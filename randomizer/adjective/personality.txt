@@ -110,3 +110,4 @@ Schizophrenic
 Sex-addicted
 Alcohol-addicted
 Drug-addicted
+Amnesiac
