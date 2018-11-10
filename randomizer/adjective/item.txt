@@ -23,7 +23,11 @@ Hard
 Spiked
 Punctured
 Common
+Uncommon
 Exotic
+Ordinary
+Rare
+Regular
 Simple
 Slippery
 Complex
