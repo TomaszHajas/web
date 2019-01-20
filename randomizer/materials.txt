@@ -72,6 +72,7 @@ Ceramics
 Paper
 Cardboard
 Plastic
+Styrofoam
 Wax
 Silk
 Linen
