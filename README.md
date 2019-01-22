@@ -1,4 +1,4 @@
-# The Tables of Randomness
+# Tables of Randomness
 Creativity enhancing, template-based random sentence generator
 
 ## Sample dice rolls:
