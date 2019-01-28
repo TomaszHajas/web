@@ -107,6 +107,7 @@ Repetitive
 Hyperactive
 Hypoactive
 Bipolar
+Unipolar
 Schizophrenic
 Sex-addicted
 Alcohol-addicted
@@ -115,3 +116,12 @@ Amnesiac
 Kleptomaniac
 Agoraphobic
 Claustrophobic
+Conservative
+Liberal
+Superstitious
+Avoidant
+Contactful
+Careless
+Perfectionist
+Compulsive
+Stable
