@@ -124,7 +124,13 @@ Deep-voiced
 Lisping
 Fast-talking
 Slow-talking
+Twitching
+Blinking
+Stuttering
+Slurring
 Fatigued
 Wounded
 Crippled
+Greasy
 Wet
+Dusty
