@@ -44,6 +44,7 @@ Steed without owner.
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
+[creature/creature] trying to [verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
@@ -115,7 +116,6 @@ Container with liquid.
 Bush or tree full of fruits.
 Tree with [item/consumable/food] growing on it.
 Vegetable patch.
-Herb patch.
 Mysterious fog, dust, smoke or mist.
 Swarm of insects.
 Minor landslide, avalanche or earthquake.
@@ -152,6 +152,8 @@ Partially buried object.
 Water splashing noise.
 Dripping liquid.
 Mechanical noises, like creaking gate, spinning mill.
+Incoming footsteps.
+Receding footsteps.
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
 Talking [creature/beast].
