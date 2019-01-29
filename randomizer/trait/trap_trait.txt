@@ -92,3 +92,5 @@ Charming. Tries to charm its target.
 Verbal. Triggered by certain words.
 Antiverbal. Disarmed by certain words.
 Illusory. Its effects aren't real.
+Unreliable. Sometimes works, sometimes not.
+Selective. Works only on specific kind of target.
