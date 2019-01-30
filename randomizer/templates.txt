@@ -25,7 +25,8 @@ Container with [2d6-1] electrum piece(s).
 Container with [2d8-1] silver piece(s).
 Container with [2d10-1] copper piece(s).
 Uncanny vibration.
-Sound source.
+High-pitched sound.
+Low-pitched sound.
 Cold source.
 Heat source.
 Fire source.
