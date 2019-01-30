@@ -24,6 +24,7 @@ Container with [2d4-1] gold piece(s).
 Container with [2d6-1] electrum piece(s).
 Container with [2d8-1] silver piece(s).
 Container with [2d10-1] copper piece(s).
+Heat source.
 Fire source.
 Light source.
 Burned environmental object.
@@ -162,7 +163,14 @@ Talking [creature/beast].
 Gas cloud source.
 Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
+Steep terrain.
 Illusory encounter.
-Unusual to weather.
+Humidity increase.
+Humidity decrease.
+Atmospheric pressure increase.
+Atmospheric pressure decrease.
+Temperature increase.
+Temperature decrease.
+Unusual weather.
+Weather phenomenon typical to local environment.
 Vision obscurement.
-Precipitation typical to local environment.
