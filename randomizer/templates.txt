@@ -1,6 +1,6 @@
 [creature/creature] investigating some other encounter.
 [creature/creature]'s tracks or droppings.
-Damaged object.
+Damaged environmental object.
 Traces of combat.
 Sounds of combat.
 Blood spattering.
@@ -15,7 +15,7 @@ Small hideout.
 Entrance to the underground.
 Crossroads.
 Closed gate blocking the path.
-Hollowed object, with [adjective/item] [item/item] inside.
+Hollowed environmental object, with [adjective/item] [item/item] inside.
 Basket with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
 Container with [1d4+0] x [item/item].
@@ -26,13 +26,13 @@ Container with [2d8-1] silver piece(s).
 Container with [2d10-1] copper piece(s).
 Fire source.
 Light source.
-Burned object.
-Unusually big object.
+Burned environmental object.
+Unusually big environmental object.
 Sudden end of the path.
 Trap, which is... [trait/trap_trait]
 Unusual [place/structure].
 Ruined [place/structure].
-Path-blocking object.
+Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant selling magical items.
@@ -101,6 +101,7 @@ Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, numbe
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/item] [item/item] in the middle of the path.
 [adjective/item] [item/item] with [noun/symbol] symbol on it.
+Environmental object with a name engraved on it - "[noun/slavic_prefix][noun/slavic_suffix]".
 [adjective/item] [item/item] with a name engraved on it - "[noun/anglo_saxon_prefix][noun/anglo_saxon_suffix]".
 [creature/creature] with [noun/symbol] symbol on it.
 [adjective/place] [place/structure] with [noun/symbol] symbol on it.
@@ -121,6 +122,7 @@ Swarm of insects.
 Minor landslide, avalanche or earthquake.
 Quicksand or sinkhole.
 Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] who mistook one of the adventurers for person named [noun/hindu_prefix][noun/hindu_suffix].
 [adjective/appearance] [adjective/personality] [creature/humanoid] which shares rumor for a rumor.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who wants to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
