@@ -1,5 +1,7 @@
+clav
 slav
 slava
+clava
 dan
 dana
 mil
@@ -15,6 +17,9 @@ sekh
 mira
 voj
 voi
+wito
+woj
+vito
 hena
 ena
 hidar
@@ -27,3 +32,11 @@ gnev
 polk
 andru
 gost
+gast
+che
+cherni
+chudo
+chedo
+vig
+viga
+etka
