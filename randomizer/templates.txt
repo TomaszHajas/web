@@ -48,7 +48,7 @@ Steed without owner.
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
-[creature/creature] trying to [verb] adventurers.
+[creature/creature] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
