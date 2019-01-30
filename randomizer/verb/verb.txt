@@ -44,6 +44,7 @@ Dig
 Dance
 Dispatch
 Die
+Deal
 Defile
 Dispose
 Drink
@@ -176,6 +177,7 @@ Slay
 Sleep
 Sabotage
 Spin
+Starve
 Summon
 Sling
 Smash
