@@ -163,3 +163,6 @@ Gas cloud source.
 Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
 Illusory encounter.
+Unusual to weather.
+Vision obscurement.
+Precipitation typical to local environment.
