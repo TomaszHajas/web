@@ -46,6 +46,8 @@ Creativity enhancing, template-based random sentence generator
 [noun/anglo_saxon_suffix]\
 [noun/germanic_prefix]\
 [noun/germanic_suffix]\
+[noun/slavic_prefix]\
+[noun/slavic_suffix]\
 [noun/hindu_prefix]\
 [noun/hindu_suffix]\
 [noun/japanese_prefix]\
