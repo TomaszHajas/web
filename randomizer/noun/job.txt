@@ -241,6 +241,7 @@ Body Cleaner
 Consultant
 Activist
 Animal Sexer
+Animal Trainer
 Racer
 Bodyguard
 Hauler
