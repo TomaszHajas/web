@@ -115,3 +115,5 @@ Blessed
 Glowing
 Hot
 Icy
+Natural
+Mechanical
