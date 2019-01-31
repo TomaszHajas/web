@@ -47,6 +47,7 @@ Die
 Deal
 Defile
 Dispose
+Dispel
 Drink
 Defend
 Deploy
