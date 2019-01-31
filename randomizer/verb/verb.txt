@@ -102,6 +102,7 @@ Heal
 Help
 Howl
 Hunt
+Identify
 Ignite
 Inspire
 Imprison
