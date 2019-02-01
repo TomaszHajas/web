@@ -1,6 +1,6 @@
 function update(widget_id, time_format, date_format) {
   var ampm = " AM";
-  var now = new Date();
+  var now = new Date(date.valueOf() + (60+date.getTimezoneOffset()) * 60000);
   var hours = now.getHours();
   var minutes = now.getMinutes();
   var seconds = now.getSeconds();
