@@ -3,7 +3,7 @@
   background-color: <?php echo $background_color ?>;
   font-family: <?php echo $font_family ?>;
   font-size: <?php echo $font_size ?>;">
-  <h4 class="widget-title">GMT+1 Time</h4>
+  <h4 class="widget-title" style="text-align: left;">GMT+1 Time</h4>
   <ul>
     <li>
      <div class="time" style="display: inline-block;"></div>
