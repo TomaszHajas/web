@@ -52,6 +52,7 @@ Passage which opens only for a correct answer to riddle inscribed on it. The rid
 [creature/creature] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
+[adjective/appearance] [adjective/personality] [creature/humanoid] questioning [noun/abstract].
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to blackmail adventurers.
@@ -133,13 +134,12 @@ Toll station stationed by [adjective/appearance] [adjective/personality] [creatu
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
 Beautiful view of [adjective/place] [place/area].
 Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
-Powerful [adjective/item] [item/item] which is hard to aquire.
-Magical [item/item] which will [verb/verb] anything touched with its tip.
-Arcane [item/item] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
-Mystical [item/item] which will [verb/verb] creatures touched with it.
-Enchanted [item/item] which will [verb/verb] creature using it according to its purpose.
-Miraculous [item/item] which will [verb/verb] anything it's used on according to its purpose.
-Sorcerous [item/item] which will [verb/verb] creatures in [1d10*5] feet radius.
+Magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
+Arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
+Mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
+Enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
+Miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
+Sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
