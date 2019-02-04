@@ -53,7 +53,8 @@
 	}
 	
 	function randomize(){
-		javascript:window.location.href='/randomizer/index.html';
+		var address = '/randomizer/index.html'+"?seed="+parseInt(Math.random()*1000000);
+		javascript:window.location.href=address;
 	}
 	
 	function rollXYTimes(howMany, maxDieRoll){
