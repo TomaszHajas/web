@@ -66,10 +66,10 @@
 	
 	function getRandomNumber(){
 		seed = (Math.seed * 9301 + 49297) % 233280;
-    		var rnd = Math.seed / 233280;
+    		var rnd = parseFloat("0."+(Math.seed / 233280));
 		return rnd;
 	}
-	console.log(Math.random(2));
+	console.log(getRandomNumber());
 	
 	function randomize(){
 		var address = '/randomizer/index.html'+"?seed="+parseInt(Math.random()*1000000);
