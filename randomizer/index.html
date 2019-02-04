@@ -66,23 +66,18 @@
 	
 	function getRandomNumber(){
 		seed = (seed * 9301 + 49297) % 233280;
-		var rnd1 = seed / 233280;
-		console.log(seed);
-		console.log(rnd1);
-    		var rnd2 = parseFloat('0.'+rnd1);
-		return rnd2;
+		return seed / 233280;
 	}
-	console.log(getRandomNumber());
 	
 	function randomize(){
-		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+Math.random()*9000000);
+		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+getRandomNumber()*9000000);
 		javascript:window.location.href=address;
 	}
 	
 	function rollXYTimes(howMany, maxDieRoll){
 		var sum = 0;
 		for(var i = 0; i < howMany; i++){
-			sum += parseInt(Math.random()*maxDieRoll)+1;
+			sum += parseInt(getRandomNumber()*maxDieRoll)+1;
 		}
 		return sum;
 	}
@@ -114,7 +109,7 @@
 	
 	function getRandomLine(text){
     		var lines = text.split('\n');
-    		return lines[Math.floor(Math.random()*lines.length)].replace(/\r?\n|\r/g, '');
+    		return lines[Math.floor(getRandomNumber()*lines.length)].replace(/\r?\n|\r/g, '');
 	}
 	
 	function random(template){
