@@ -31,7 +31,7 @@
 	<p id="random"></p>
 	<br>
 	<br>
-	<button onClick="javascript:window.location.href='/randomizer/index.html'">Roll again!</button>
+	<button onClick="randomize()">Roll again!</button>
 	<br>
 	<br>
 	<form action="addTemplate.php" method="post">
@@ -43,12 +43,17 @@
 	<br>
 	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
 	
-<script>	
+<script>
+
 	// Check for the various File API support.
 	if (window.File && window.FileReader && window.FileList && window.Blob) {
   		// Great success! All the File APIs are supported.
 	} else {
   		alert('The File APIs are not fully supported in this browser.');
+	}
+	
+	function randomize(){
+		javascript:window.location.href='/randomizer/index.html';
 	}
 	
 	function rollXYTimes(howMany, maxDieRoll){
