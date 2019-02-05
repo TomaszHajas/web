@@ -156,10 +156,15 @@ Poster warning about dangers ahead.
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go in [1d12+0] direction.
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Helpless [creature/creature] looking for its parent.
-Random item appears to be stolen from adventurer's equipment.
-Most expensive item appears to be stolen from adventurer's equipment.
+Lack of random item from adventurer's equipment.
+Lack of most expensive item from adventurer's equipment.
+Sudden need to eat something.
+Sudden need to drink something.
+Sudden need to take a dump.
+Sudden need to empty one's bladder.
 [creature/creature] being chased by [2d4-1] x [creature/creature](s).
 Chilling wind.
+Sudden disappearance of air draft.
 Sudden disappearance of light source.
 [creature/beast]'s voice.
 Swarm of small creatures.
