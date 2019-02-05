@@ -158,8 +158,8 @@ Poster warning about dangers ahead.
 Helpless [creature/creature] looking for its parent.
 Lack of random item from adventurer's equipment.
 Lack of most expensive item from adventurer's equipment.
-Sudden need to eat something.
-Sudden need to drink something.
+Sudden need to eat [item/consumable/food].
+Sudden need to drink [item/consumable/drink].
 Sudden need to take a dump.
 Sudden need to empty one's bladder.
 [creature/creature] being chased by [2d4-1] x [creature/creature](s).
