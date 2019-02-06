@@ -42,6 +42,7 @@ Mute
 Blind
 Sharp-eyed
 Thick-clothed
+Half-naked
 Naked
 Drowsy
 Vigorous
