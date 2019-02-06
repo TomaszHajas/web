@@ -59,11 +59,10 @@
                		var pair = vars[i].split("=");
                		if(pair[0] == variable){return pair[1];}
        		}
-       		return(false);
+       		return(0);
 	}
 	
 	var seed = getQueryVariable("seed");
-	console.log(seed);
 	if(seed == 0){
 		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+Math.random()*9000000);
 		javascript:window.location.href=address;
