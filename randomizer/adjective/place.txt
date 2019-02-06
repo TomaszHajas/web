@@ -85,3 +85,5 @@ Restricted
 Public
 Abandoned
 Inhabited
+Calm
+Spooky
