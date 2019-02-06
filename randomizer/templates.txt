@@ -45,11 +45,16 @@ Steed without owner.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item/item]s and [item/item]s for [2d10*10]% of their market price.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trader selling [item/item]s and [item/item]s for [2d10]% of their market price.
 [adjective/appearance] [adjective/personality] [noun/job] looking for item related to his/her job.
+[adjective/appearance] [adjective/personality] [noun/job] forcing his/her services on adventurers and demanding a payment.
 [adjective/appearance] [adjective/personality] [noun/job] disturbing adventurers by performing his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] Character offering a help in things related to his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
+Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/animal].
+Mysterious puzzle which can be easily solved with use of [item/item].
+Enigmatic puzzle which can be easily solved by [noun/job].
+Tricky puzzle which encourages adventurers to [verb/verb] something.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
 [creature/creature] trying to [verb/verb] adventurers.
