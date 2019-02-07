@@ -123,17 +123,23 @@
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			if(/\d/.test(firstMatchNoBrackets)){
-			   	replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
+			if(firstMatchNoBrackets.includes("|")){
+				var array = firstMatchNoBrackets.split(',');
+				replacedFirstMatch = template.replace(firstMatch, array[Math.floor(Math.random()*array.length)]);
 				random(replacedFirstMatch);
 			}else{
-				firstMatchPath = firstMatchNoBrackets+".txt";
-				fetch(firstMatchPath)
-  					.then(response => response.text())
-  					.then(text => {
-					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+				if(/\d/.test(firstMatchNoBrackets)){
+					replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
 					random(replacedFirstMatch);
-				});
+				}else{
+					firstMatchPath = firstMatchNoBrackets+".txt";
+					fetch(firstMatchPath)
+						.then(response => response.text())
+						.then(text => {
+						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+						random(replacedFirstMatch);
+					});
+				}
 			}
 		}else{
 			document.getElementById("random").innerHTML = template;
