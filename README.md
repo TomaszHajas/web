@@ -9,6 +9,11 @@ Creativity enhancing, template-based random sentence generator
 [1d6*2]\
 [1d6:2]
 
+## Alternatives:
+[north|south|east|west]\
+[yes|no]\
+[left|right]
+
 ## Rollable tables:
 
 ###### adjective
