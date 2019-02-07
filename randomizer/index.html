@@ -124,14 +124,17 @@
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(firstMatchNoBrackets.includes("|")){
+				console.log("Altenative detected.");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, array[Math.floor(Math.random()*array.length)]);
 				random(replacedFirstMatch);
 			}else{
 				if(/\d/.test(firstMatchNoBrackets)){
+					console.log("Die roll detected");
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
 					random(replacedFirstMatch);
 				}else{
+					console.log("Table roll detected");
 					firstMatchPath = firstMatchNoBrackets+".txt";
 					fetch(firstMatchPath)
 						.then(response => response.text())
