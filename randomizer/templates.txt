@@ -161,8 +161,7 @@ Poster warning about dangers ahead.
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go in [1d12+0] direction.
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Helpless [creature/creature] looking for its parent.
-Lack of random item from adventurer's equipment.
-Lack of most expensive item from adventurer's equipment.
+Lack of [random|most expensive] item from adventurer's equipment.
 Sudden need to eat [item/consumable/food].
 Sudden need to drink [item/consumable/drink].
 Sudden need to take a dump.
@@ -178,8 +177,7 @@ Partially buried object.
 Water splashing noise.
 Dripping liquid.
 Mechanical noises, like creaking gate, spinning mill.
-Incoming footsteps.
-Receding footsteps.
+[Incoming|Receding] footsteps.
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
 Talking [creature/beast].
@@ -188,12 +186,9 @@ Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
 Steep terrain.
 Illusory encounter.
-Humidity increase.
-Humidity decrease.
-Atmospheric pressure increase.
-Atmospheric pressure decrease.
-Temperature increase.
-Temperature decrease.
+Humidity [increase|decrease].
+Atmospheric pressure [increase|decrease].
+Temperature [increase|decrease].
 Unusual weather.
 Weather phenomenon typical to local environment.
 Vision obscurement.
