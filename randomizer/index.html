@@ -124,7 +124,7 @@
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(firstMatchNoBrackets.includes("|")){
-				var array = firstMatchNoBrackets.split(',');
+				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, array[Math.floor(Math.random()*array.length)]);
 				random(replacedFirstMatch);
 			}else{
