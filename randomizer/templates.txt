@@ -40,6 +40,7 @@ Ruined [place/structure].
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
+[adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant buying up all possible items for [1d5*10]% of their market price.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item/item]s and [item/item]s for [2d10*10]% of their market price.
