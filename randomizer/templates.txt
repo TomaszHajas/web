@@ -73,7 +73,8 @@ Shady [adjective/appearance] character hiding his/her identity.
 [adjective/appearance] [adjective/personality] [creature/humanoid] breaking local law.
 [adjective/appearance] [adjective/personality] [creature/humanoid] enforcing local law on adventurers.
 Group of [creature/humanoid]s debating over a local problem.
-Group of [2d4-1] hostile [creature/creature]s.
+Group of [2d4-1] hostile [creature/creature]s approaching from [one side|two sides|all sides].
+[adjective/personality] [creature/creature] leading group of [2d4-1] [creature/creature]s.
 Powerful hostile [creature/creature].
 Weird-looking [creature/creature].
 Weird-behaving [creature/creature].
