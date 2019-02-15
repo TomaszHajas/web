@@ -191,6 +191,8 @@ Illusory encounter.
 Humidity [increase|decrease].
 Atmospheric pressure [increase|decrease].
 Temperature [increase|decrease].
+Gravity pull [increase|decrease].
+Gravity direction shift.
 Unusual weather.
 Weather phenomenon typical to local environment.
 Vision obscurement.
