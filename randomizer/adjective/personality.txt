@@ -125,3 +125,7 @@ Careless
 Perfectionist
 Compulsive
 Stable
+Pedantic
+Uncritical
+Educated
+Uneducated
