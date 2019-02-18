@@ -133,6 +133,8 @@ Noticeable
 Invisible
 Hidden
 Distinguishable
+Glowing
+Shadowy
 Greasy
 Wet
 Dusty
@@ -143,3 +145,9 @@ Thick
 Thin
 Wounded
 Crippled
+Heavy-clothed
+Light-clothed
+Armored
+Unprotected
+Armed
+Unarmed
