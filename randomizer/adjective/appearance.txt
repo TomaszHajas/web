@@ -117,6 +117,7 @@ Plump
 Anorectic
 Obese
 Pregnant
+Sterile
 Feminine
 Manly
 Bearded
