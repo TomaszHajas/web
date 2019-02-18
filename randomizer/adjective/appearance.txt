@@ -129,6 +129,10 @@ Twitching
 Blinking
 Stuttering
 Slurring
+Noticeable
+Invisible
+Hidden
+Distinguishable
 Greasy
 Wet
 Dusty
