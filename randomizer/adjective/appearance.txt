@@ -129,9 +129,13 @@ Twitching
 Blinking
 Stuttering
 Slurring
-Fatigued
-Wounded
-Crippled
 Greasy
 Wet
 Dusty
+Loud-breathing
+Gasping
+Wrinkled
+Thick
+Thin
+Wounded
+Crippled
