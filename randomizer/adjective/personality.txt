@@ -113,9 +113,16 @@ Sex-addicted
 Alcohol-addicted
 Drug-addicted
 Amnesiac
+Lunatic
+Psychopathic
+Sociopathic
+Sane
+Sober
 Kleptomaniac
 Agoraphobic
 Claustrophobic
+Egosyntonic
+Egodystonic
 Conservative
 Liberal
 Superstitious
@@ -129,3 +136,4 @@ Pedantic
 Uncritical
 Educated
 Uneducated
+Hypochondriac
