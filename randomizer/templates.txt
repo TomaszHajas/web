@@ -82,6 +82,7 @@ Weird-behaving [creature/creature].
 [creature/creature] in conflict with group of [2d4-1] [creature/creature]s.
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
 Pile containing [2d4+0] almost identical [item/item]s.
+[item/item] bearing mark of use by [noun/job].
 [creature/creature] corpse.
 Geared [creature/humanoid] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
