@@ -62,6 +62,7 @@ Cartographer
 Apothecary
 Banker
 Adventurer
+Tourist
 Explorer
 Artist
 Bookbinder
@@ -76,6 +77,12 @@ Smuggler
 Broker
 Gardener
 Architect
+Builder
+Constructor
+Inventor
+Scientist
+Researcher
+Archeologist
 Soldier
 Interpreter
 Innkeeper
