@@ -54,6 +54,7 @@ Disappointment
 Disbelief
 Dishonesty
 Disquiet
+Disintegrity
 Disregard
 Disturbance
 Divorce
@@ -95,6 +96,7 @@ Infancy
 Infatuation
 Inflation
 Insanity
+Integrity
 Intelligence
 Interest
 Irritation
@@ -128,6 +130,7 @@ Opportunity
 Pain
 Past
 Patience
+Patriotism
 Peace
 Peculiarity
 Perseverance
@@ -186,3 +189,10 @@ Weariness
 Wisdom
 Wit
 Worry
+Lust
+Gluttony
+Greed
+Sloth
+Wrath
+Envy
+Pride
