@@ -9,7 +9,6 @@ Duchy
 Province
 Land
 Site
-Crashsite
 Ruins
 Plain
 Field
