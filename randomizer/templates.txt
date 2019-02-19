@@ -45,6 +45,7 @@ Steed without owner.
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant buying up all possible items for [1d5*10]% of their market price.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item/item]s and [item/item]s for [2d10*10]% of their market price.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trader selling [item/item]s and [item/item]s for [2d10]% of their market price.
+[adjective/appearance] [adjective/personality] [creature/humanoid] rental clerk renting [item/item]s and [item/item]s for [1d10]% of their market price per day and 10x cheaper per hour.
 [adjective/appearance] [adjective/personality] [noun/job] looking for item related to his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] forcing his/her services on adventurers and demanding a payment.
 [adjective/appearance] [adjective/personality] [noun/job] disturbing adventurers by performing his/her job.
