@@ -41,6 +41,7 @@ Courage
 Crime
 Culture
 Curiosity
+Danger
 Death
 Deceit
 Dedication
@@ -162,6 +163,7 @@ Right
 Rumour
 Sacrifice
 Sadness
+Safety
 Sanity
 Satisfaction
 Self-Control
