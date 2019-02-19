@@ -215,6 +215,7 @@ Scholar
 Philosopher
 Librarian
 Boatman
+Captain
 Canaller
 Executioner
 Investigator
@@ -233,6 +234,7 @@ Navigator
 Peasant
 Landlord
 Roofer
+Queue Stander
 Stander
 Advertiser
 Bather
@@ -255,6 +257,7 @@ Wetnurse
 Body Cleaner
 Consultant
 Activist
+Protester
 Animal Sexer
 Animal Trainer
 Racer
@@ -281,3 +284,5 @@ Marauder
 Shaman
 Massagist
 Homeopath
+Critic
+Flatterer
