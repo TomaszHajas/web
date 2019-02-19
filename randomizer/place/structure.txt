@@ -1,4 +1,5 @@
 Fort
+Fortress
 Palace
 Keep
 Castle
@@ -21,10 +22,14 @@ Pylon
 Barracks
 Post
 Armory
+Siege Tower
 Trebuchet
 Catapult
 Mangonel
 Ballista
+Ship
+Automobile
+Aeroplane
 Pillar
 Stairs
 Corridor
@@ -89,6 +94,9 @@ Crossroads
 Forkroad
 Path
 Road
+Avenue
+Alley
+Court
 Tract
 Bridge
 Footbridge
