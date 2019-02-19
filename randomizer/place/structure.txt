@@ -8,9 +8,12 @@ Turret
 Watchtower
 Platform
 Wall
+Bulwark
 Pallisade
 Moat
 Fence
+Barrier
+Barricade
 Spire
 Arc
 Portal
@@ -44,6 +47,8 @@ Cabin
 Mansion
 Tent
 Campsite
+Crashsite
+Wreckage
 Outpost
 Pavillon
 Amphitheatre
@@ -115,6 +120,7 @@ Fountain
 Cistern
 Latrine
 Canal
+Channel
 Dam
 Sewers
 Dump
@@ -124,6 +130,8 @@ Den
 Hole
 Shop
 Marketplace
+Agora
+Square
 Stall
 Granary
 Hospital
