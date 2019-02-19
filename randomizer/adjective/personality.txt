@@ -134,6 +134,8 @@ Compulsive
 Stable
 Pedantic
 Uncritical
+Critical
+Flattering
 Educated
 Uneducated
 Hypochondriac
