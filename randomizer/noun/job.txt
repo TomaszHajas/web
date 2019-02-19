@@ -61,6 +61,7 @@ Official
 Cartographer
 Apothecary
 Banker
+Adventurer
 Explorer
 Artist
 Bookbinder
@@ -111,6 +112,7 @@ Town Crier
 Watchman
 Papermaker
 Bard
+Poet
 Courtesan
 Potter
 Alchemist
@@ -155,6 +157,7 @@ Marksman
 Mercenary
 Drummer
 Siege Engineer
+Engineer
 Scout
 Ranger
 Paladin
@@ -167,11 +170,14 @@ Wizard
 Brawler
 Fighter
 Mage
+Archmage
 Runepriest
 Artificer
 Warden
 Firefighter
 Recruit
+Slayer
+Zealot
 Janitor
 Prince
 Princess
@@ -261,7 +267,6 @@ Negotiator
 Gambler
 Officer
 Arsonist
-Massagist
 Shipmaker
 Necromancer
 Raider
