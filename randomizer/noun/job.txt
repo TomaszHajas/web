@@ -39,6 +39,7 @@ Candlemaker
 Sheriff
 Chainsmith
 Healer
+Doctor
 Bartender
 Waiter
 Street Cleaner
@@ -78,7 +79,7 @@ Soldier
 Interpreter
 Innkeeper
 Gravedigger
-Lumberjac
+Lumberjack
 Mechanic
 Electrician
 Jeweler
@@ -138,6 +139,7 @@ Marshal
 Messenger
 Minstrel
 Moneylender
+Rental Clerk
 Page
 Painter
 Physician
@@ -246,7 +248,7 @@ Racer
 Bodyguard
 Hauler
 Milker
-Foot Taster
+Food Taster
 Drunk
 Gelder
 Courier
@@ -265,3 +267,5 @@ Necromancer
 Raider
 Marauder
 Shaman
+Massagist
+Homeopath
