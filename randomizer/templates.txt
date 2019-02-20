@@ -57,6 +57,30 @@ Cryptic puzzle which can be easily solved by mimicking behavior of the [creature
 Mysterious puzzle which can be easily solved with use of [item/item].
 Enigmatic puzzle which can be easily solved by [noun/job].
 Tricky puzzle which encourages adventurers to [verb/verb] something.
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
 [creature/creature] trying to [verb/verb] adventurers.
