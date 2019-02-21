@@ -170,6 +170,7 @@ Poster warning about dangers ahead.
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Helpless [creature/creature] looking for its parent.
 Lack of [random|most expensive] item from adventurer's equipment.
+Sudden feeling of incoming [noun/abstract].
 Sudden need to eat [item/consumable/food].
 Sudden need to drink [item/consumable/drink].
 Sudden need to take a dump.
