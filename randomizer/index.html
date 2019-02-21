@@ -101,8 +101,8 @@
 		if(regexp.test(match)){
 			var numbers = match.match(/\d+/g).map(Number);
 			var operation = match.replace(/\d|d/g, '');
+			console.log(numbers[0]+""+numbers[1]+""+numbers[2]);
 			if(operation == null){
-				console.log(numbers[0]+""+numbers[1]);
 				return parseOperation("+", rollXYTimes(numbers[0], numbers[1]), 0)
 			}else{
 				return parseOperation(operation, rollXYTimes(numbers[0], numbers[1]), numbers[2]);
