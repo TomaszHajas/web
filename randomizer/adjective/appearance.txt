@@ -151,6 +151,11 @@ Thick
 Thin
 Wounded
 Crippled
+Drunk
+Poisoned
+Tired
+Exhausted
+Dying
 Thick-clothed
 Light-clothed
 Armored
