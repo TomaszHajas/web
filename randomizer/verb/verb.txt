@@ -1,3 +1,4 @@
+Accept
 Ascend
 Ask
 Assassinate
@@ -161,6 +162,8 @@ Pour
 Rape
 Reach
 Read
+Refine
+Refuse
 Remove
 Ride
 Ruin
