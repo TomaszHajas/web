@@ -1,3 +1,4 @@
+Ascend
 Ask
 Assassinate
 Banish
@@ -35,6 +36,7 @@ Charm
 Choke
 Cloak
 Craft
+Crash
 Crawl
 Crush
 Corrupt
@@ -45,12 +47,14 @@ Dance
 Dispatch
 Die
 Deal
+Debate
 Defile
 Dispose
 Dispel
 Drink
 Defend
 Deploy
+Descend
 Disturb
 Deliver
 Discover
@@ -62,6 +66,7 @@ Drive
 Drown
 Detonate
 Destroy
+Demolish
 Discourage
 Eat
 Employ
