@@ -51,7 +51,6 @@ Debate
 Defile
 Dispose
 Dispel
-Drink
 Defend
 Deploy
 Descend
@@ -61,6 +60,8 @@ Discover
 Disarm
 Defeat
 Delay
+Dress
+Drink
 Drop
 Drive
 Drown
@@ -183,6 +184,7 @@ Sing
 Slash
 Slay
 Sleep
+Slow
 Sabotage
 Spin
 Starve
@@ -206,6 +208,7 @@ Sting
 Stop
 Stride
 Strike
+Suture
 Spy
 Swim
 Take
@@ -219,6 +222,7 @@ Thrust
 Tan
 Teleport
 Transport
+Quicken
 Undermine
 Venge
 Walk
