@@ -182,6 +182,7 @@ Send
 Shake
 Shock
 Shape
+Strangle
 Stretch
 Swap
 Switch
