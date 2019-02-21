@@ -39,6 +39,7 @@ Craft
 Crash
 Crawl
 Crush
+Confront
 Corrupt
 Clean
 Cry
@@ -193,6 +194,7 @@ Sling
 Smash
 Submerge
 Submit
+Support
 Surrender
 Smite
 Stake
