@@ -40,6 +40,8 @@ Whispering
 Stuttering
 Absent-minded
 Focused
+Murderous
+Protective
 Depressed
 Elated
 Sad
