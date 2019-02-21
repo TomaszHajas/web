@@ -57,6 +57,7 @@ Cryptic puzzle which can be easily solved by mimicking behavior of the [creature
 Mysterious puzzle which can be easily solved with use of [item/item].
 Enigmatic puzzle which can be easily solved by [noun/job].
 Tricky puzzle which encourages adventurers to [verb/verb] something.
+Catchy puzzle which can be easily solved by displaying [noun/abstract].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] trying to [verb/verb] adventurers.
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] wanting adventurers to [verb/verb] [creature/creature].
