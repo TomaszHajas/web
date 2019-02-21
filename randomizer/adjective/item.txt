@@ -127,3 +127,5 @@ Antiseptic
 Disinfected
 Electric
 Bloodstained
+Metallic
+Wooden
