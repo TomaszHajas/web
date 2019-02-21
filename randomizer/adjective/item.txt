@@ -102,6 +102,8 @@ Proportional
 Painted
 Hygroscopic
 Hydrophobic
+Protective
+Deadly
 Doubled
 Halved
 Shiny
