@@ -10,6 +10,8 @@ Pocket
 Unwieldy
 Heavy
 Light
+Useful
+Useless
 Sharp
 Dull
 Big
@@ -18,6 +20,10 @@ Unpolished
 Polished
 Damaged
 Reinforced
+Cracked
+Fortified
+Fragmented
+Sturdy
 Soft
 Hard
 Spiked
@@ -50,6 +56,8 @@ Complete
 Thick
 Thin
 Broad
+Dense
+Loose
 Narrow
 Stiff
 Elastic
@@ -111,12 +119,18 @@ Burnt
 Magical
 Arcane
 Runic
+Astral
+Lunar
+Unearthly
+Celestial
 Infernal
 Cursed
 Blessed
 Glowing
 Hot
 Icy
+Snowy
+Smouldered
 Natural
 Mechanical
 Poisoned
@@ -129,3 +143,7 @@ Electric
 Bloodstained
 Metallic
 Wooden
+Flat
+Jagged
+Fine
+Broken
