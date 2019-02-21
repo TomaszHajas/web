@@ -2,7 +2,7 @@
 Creativity enhancing, template-based random sentence generator
 
 ## Sample dice rolls:
-~~[2d4]~~\
+[2d4]\
 [1d52+0]\
 [1d6+2]\
 [1d6-2]\
