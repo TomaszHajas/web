@@ -136,9 +136,11 @@ Lift
 Lick
 Manage
 Mark
+Maul
 Mine
 Make
 Modify
+Murder
 Merge
 Move
 Notice
@@ -206,6 +208,7 @@ Submit
 Support
 Surrender
 Smite
+Stab
 Stake
 Stalk
 Stand
