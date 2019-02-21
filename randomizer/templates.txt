@@ -58,29 +58,10 @@ Mysterious puzzle which can be easily solved with use of [item/item].
 Enigmatic puzzle which can be easily solved by [noun/job].
 Tricky puzzle which encourages adventurers to [verb/verb] something.
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
-Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature/creature] somewhere in [place/area].
+[adjective/personality] [god|goddess|deity] of [noun/abstract] trying to [verb/verb] adventurers.
+[adjective/personality] [god|goddess|deity] of [noun/abstract] wanting adventurers to [verb/verb] [creature/creature].
+[adjective/personality] [god|goddess|deity] of [noun/abstract] asking adventurers to [verb/verb] [item/item].
+[adjective/personality] [god|goddess|deity] of [noun/abstract] ordering adventurers to [verb/verb] [place/structure].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
 [creature/humanoid] trying to [verb/verb] [creature/humanoid].
 [creature/creature] trying to [verb/verb] adventurers.
