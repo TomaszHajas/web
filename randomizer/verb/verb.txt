@@ -56,6 +56,7 @@ Dispel
 Defend
 Deploy
 Descend
+Develop
 Disturb
 Deliver
 Discover
@@ -130,6 +131,7 @@ Leap
 Lay
 Lift
 Lick
+Manage
 Mark
 Mine
 Make
@@ -217,6 +219,7 @@ Suture
 Spy
 Swim
 Take
+Test
 Tire
 Touch
 Twist
@@ -227,6 +230,7 @@ Thrust
 Tan
 Teleport
 Transport
+Try
 Quicken
 Undermine
 Venge
