@@ -79,6 +79,7 @@ Employ
 Enchant
 Enrage
 Explore
+Export
 Extract
 Entertain
 Escape
@@ -121,6 +122,7 @@ Hunt
 Identify
 Ignite
 Inspire
+Import
 Imprison
 Imbue
 Investigate
