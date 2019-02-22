@@ -70,6 +70,8 @@ Spy among adventurers. It is widely known the spy knows only a part of rumor con
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 [adjective/appearance] [adjective/personality] [creature/humanoid] questioning [noun/abstract].
+[adjective/appearance] [adjective/personality] [creature/humanoid] pondering if [noun/abstract] is better than [noun/abstract].
+[adjective/appearance] [adjective/personality] [creature/humanoid] wondering if [item/item] is more useful than [item/item].
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to blackmail adventurers.
