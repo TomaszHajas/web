@@ -34,6 +34,7 @@ Prid
 Rado
 Rati
 Rosti
+Rus
 Samo
 Slav
 Sobe
