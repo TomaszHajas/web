@@ -122,8 +122,8 @@ Two [creature/creature]s making out.
 Damaged bridge.
 Damaged [adjective/place] [place/structure].
 Passage guarded by [2d4-1] x [creature/creature].
-Unlucky omen, like a black cat, raven, number 13, broken mirror, horseshoe turned downwards.
-Lucky omen, like albatross, chimneysweep, rabbit's foot, four-leaf clover, number 7, horseshoe turned upwards.
+Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards].
+Lucky omen - [albatross|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards].
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/item] [item/item] in the middle of the path.
 [adjective/item] [item/item] with [noun/symbol] symbol on it.
@@ -140,13 +140,13 @@ Animated [adjective/item] [item/item].
 Water bank.
 Pond filled with [item/consumable/drink].
 Container with liquid.
-Bush or tree full of fruits.
-Tree with [item/consumable/food] growing on it.
+[Bush|Tree] full of fruits.
+[Bush|Tree] with [item/consumable/food] growing on it.
 Vegetable patch.
-Mysterious fog, dust, smoke or mist.
+Mysterious [fog|dust|smoke|mist].
 Swarm of insects.
 Minor landslide, avalanche or earthquake.
-Quicksand or sinkhole.
+[Quicksand|Sinkhole] on path.
 Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who mistook one of the adventurers for person named [noun/hindu_prefix][noun/hindu_suffix].
 [adjective/appearance] [adjective/personality] [creature/humanoid] which shares rumor for a rumor.
