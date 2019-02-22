@@ -95,7 +95,7 @@ Weird-behaving [creature/creature].
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
 Pile containing [2d4] almost identical [item/item]s.
 [item/item] bearing mark of use by [noun/job].
-[item/item] about to be [lost/destroyed].
+[item/item] about to be [lost|destroyed].
 Half-[item/item] half-[item/item].
 [creature/creature] corpse.
 Geared [creature/humanoid] corpse containing [item/item] and [item/item].
