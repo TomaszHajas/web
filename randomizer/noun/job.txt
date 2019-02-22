@@ -278,6 +278,9 @@ Hauler
 Milker
 Food Taster
 Drunk
+Unemployed
+Retiree
+Pensioner
 Gelder
 Courier
 Overseer
