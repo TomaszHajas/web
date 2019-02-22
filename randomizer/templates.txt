@@ -37,6 +37,8 @@ Sudden end of the path.
 Trap, which is... [trait/trap_trait]
 Unusual [place/structure].
 Ruined [place/structure].
+[adjective/place] [place/area] said to be inhabited by [creature/creature]s.
+Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
