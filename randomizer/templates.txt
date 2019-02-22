@@ -189,7 +189,7 @@ Shadow of a winged animal passes.
 Partially buried object.
 Water splashing noise.
 Dripping liquid.
-Mechanical noises, like creaking gate, spinning mill.
+Mechanical noises resembling [creaking gate|closing door|spinning mill|watermill|combustion engine|conveyor belt|spinning chain].
 [Incoming|Receding] footsteps.
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
