@@ -203,6 +203,7 @@ Judge
 Almoner
 Pardoner
 Slave
+Servant
 Fool
 Teacher
 Mathematician
