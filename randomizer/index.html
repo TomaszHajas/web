@@ -126,7 +126,7 @@
 			if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected.");
 				var array = firstMatchNoBrackets.split('|');
-				replacedFirstMatch = template.replace(firstMatch, array[Math.floor(getRandomNumber()*array.length)]);
+				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
 				random(replacedFirstMatch);
 			}else{
 				if(/\d/.test(firstMatchNoBrackets)){
