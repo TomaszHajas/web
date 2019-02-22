@@ -40,6 +40,7 @@ Ruined [place/structure].
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
+[adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant buying up all possible items for [1d5*10]% of their market price.
@@ -90,6 +91,7 @@ Weird-behaving [creature/creature].
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
 Pile containing [2d4+0] almost identical [item/item]s.
 [item/item] bearing mark of use by [noun/job].
+Half-[item/item] half-[item/item].
 [creature/creature] corpse.
 Geared [creature/humanoid] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
@@ -107,6 +109,7 @@ Narrow passage leading to [adjective/place] [place/structure].
 [adjective/place] [place/structure] emanating with magic.
 Trapped [creature/creature].
 Hungry [creature/creature].
+Half-[creature/creature] half-[creature/creature].
 [creature/creature] giving birth.
 [creature/creature] eating [item/consumable/food].
 [creature/creature] making use of its magical powers in order to [verb/verb].
