@@ -62,6 +62,7 @@ Disquiet
 Disregard
 Disturbance
 Divorce
+Doom
 Dream
 Education
 Ego
@@ -152,6 +153,7 @@ Power
 Pride
 Principle
 Reality
+Redemption
 Relaxation
 Relief
 Religion
