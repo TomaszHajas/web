@@ -136,6 +136,7 @@ Glassmaker
 Bottler
 Butler
 Chancellor
+Manager
 King
 Clerk
 Clothier
@@ -204,6 +205,16 @@ Pardoner
 Slave
 Fool
 Teacher
+Mathematician
+Physicist
+Geographer
+Geologist
+Naturalist
+Sociologist
+Humanist
+Bookkeeper
+Translator
+Linguist
 Animal Trainer
 Houndmaster
 Molecatcher
@@ -261,6 +272,7 @@ Protester
 Animal Sexer
 Animal Trainer
 Racer
+Runner
 Bodyguard
 Hauler
 Milker
@@ -270,6 +282,8 @@ Gelder
 Courier
 Overseer
 Acupuncturist
+Aromatherapist
+Therapist
 Psychologist
 Psychiatrist
 Oarsman
@@ -279,6 +293,7 @@ Officer
 Arsonist
 Shipmaker
 Necromancer
+Rider
 Raider
 Marauder
 Shaman
