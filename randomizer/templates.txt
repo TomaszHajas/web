@@ -91,18 +91,17 @@ Weird-behaving [creature/creature].
 [creature/creature] in environmental danger.
 [creature/creature] in conflict with group of [2d4-1] [creature/creature]s.
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
-Pile containing [2d4+0] almost identical [item/item]s.
+Pile containing [2d4] almost identical [item/item]s.
 [item/item] bearing mark of use by [noun/job].
+[item/item] about to be [lost/destroyed].
 Half-[item/item] half-[item/item].
 [creature/creature] corpse.
 Geared [creature/humanoid] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
 Sick [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
-Signpost showing a way to nearby [adjective/place] [place/area].
-Signpost showing a way to nearby [adjective/place] [place/structure].
-Signpost showing a wrong way to nearby [adjective/place] [place/area].
-Signpost showing a wrong way to nearby [adjective/place] [place/structure].
+Signpost showing a [|wrong] way to nearby [adjective/place] [place/area].
+Signpost showing a [|wrong] way to nearby [adjective/place] [place/structure].
 Arrow symbol pointing at [1d12+0] direction.
 Lair of [2d4-1] [creature/creature](s).
 Underground entrance leading to [adjective/place] [place/structure].
