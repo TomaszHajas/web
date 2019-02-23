@@ -115,6 +115,7 @@ Deadly
 Doubled
 Halved
 Shiny
+Hollowed
 Burnt
 Magical
 Arcane
