@@ -170,6 +170,7 @@ Smiling
 Neutral-faced
 Surprised
 Dying
+Petrified
 Prone
 Sitting
 Crouching
