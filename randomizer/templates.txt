@@ -146,9 +146,9 @@ Container with liquid.
 [Bush|Tree] full of fruits.
 [Bush|Tree] with [item/consumable/food] growing on it.
 Vegetable patch.
-Mysterious [fog|dust|smoke|mist].
+Mysterious [fog|dust|smoke|mist|gas] cloud.
 Swarm of insects.
-Minor landslide, avalanche or earthquake.
+Sudden [minor landslide|avalanche|earthquake].
 [Quicksand|Sinkhole] on path.
 Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who mistook one of the adventurers for person named [noun/hindu_prefix][noun/hindu_suffix].
@@ -197,7 +197,6 @@ Mechanical noises resembling [creaking gate|door being closed|spinning mill|spin
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
 Talking [creature/beast].
-Gas cloud source.
 Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
 Steep terrain.
