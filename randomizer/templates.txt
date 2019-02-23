@@ -1,5 +1,5 @@
 [creature/creature] investigating some other encounter.
-[creature/creature]'s tracks or droppings.
+[creature/creature]'s [tracks|droppings|body part].
 Damaged environmental object.
 [Traces|Sounds] of combat.
 Blood spattering.
