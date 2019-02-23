@@ -2,9 +2,11 @@ Accept
 Ascend
 Ask
 Assassinate
+Bamboozle
 Banish
 Borrow
 Bear
+Beg
 Bend
 Bathe
 Bind
@@ -24,6 +26,7 @@ Burn
 Create
 Change
 Call
+Cheat
 Check
 Collect
 Cast
@@ -135,6 +138,7 @@ Lose
 Let
 Leap
 Lay
+Lie
 Lift
 Lick
 Manage
@@ -149,6 +153,7 @@ Move
 Notice
 Nourish
 Open
+Pay
 Pierce
 Pass
 Popularize
