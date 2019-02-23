@@ -113,6 +113,7 @@ Narrow passage leading to [adjective/place] [place/structure].
 Trapped [creature/creature].
 Hungry [creature/creature].
 Half-[creature/creature] half-[creature/creature].
+Weird hybrid with [creature/animal]'s head, [creature/animal]'s body and [creature/animal]'s limbs.
 [creature/creature] giving birth.
 [creature/creature] eating [item/consumable/food].
 [creature/creature] making use of its magical powers in order to [verb/verb].
