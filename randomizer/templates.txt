@@ -199,13 +199,12 @@ Mysterious fire combustion.
 Talking [creature/beast].
 Hidden passage to [adjective/place] [place/structure].
 Difficult terrain.
-Steep terrain.
+[Steep|Flat] terrain.
 Illusory encounter.
 Humidity [increase|decrease].
 Atmospheric pressure [increase|decrease].
 Temperature [increase|decrease].
 Gravity pull [increase|decrease].
 Gravity direction shift.
-Unusual weather.
-Weather phenomenon typical to local environment.
+Weather phenomenon [typical|untypical] to local environment.
 Vision obscurement.
