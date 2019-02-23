@@ -1,10 +1,10 @@
 [creature/creature] investigating some other encounter.
 [creature/creature]'s tracks or droppings.
 Damaged environmental object.
-Traces of combat.
-Sounds of combat.
+[Traces|Sounds] of combat.
 Blood spattering.
-Body part.
+Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis].
+Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus].
 Ambush of [2d4-1] x [creature/creature].
 Bonfire with [item/consumable/food] roasting.
 Bonfire remains.
@@ -180,13 +180,12 @@ Lack of [random|most expensive] item from adventurer's equipment.
 Sudden feeling of incoming [noun/abstract].
 Sudden need to eat [item/consumable/food].
 Sudden need to drink [item/consumable/drink].
-Sudden need to take a dump.
-Sudden need to empty one's bladder.
+Sudden need to [take a dump|empty one's bladder].
 [creature/creature] being chased by [2d4-1] x [creature/creature](s).
 Chilling wind.
-Sudden disappearance of air draft.
-Sudden disappearance of light source.
-[creature/beast]'s voice.
+Sudden [appearance|disappearance] of air draft.
+Sudden [appearance|disappearance] of light source.
+[creature/beast]'s sounds.
 Swarm of small creatures.
 Shadow of a winged animal passes.
 Partially buried object.
