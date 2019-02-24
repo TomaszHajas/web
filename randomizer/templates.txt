@@ -34,7 +34,9 @@ Light source.
 Burned environmental object.
 Unusually big environmental object.
 Sudden end of the path.
-Trap, which is... [trait/trap_trait]
+[noun/abstract]-bringing trap, which is... [trait/trap_trait]
+Trap making use of [item/item], which is... [trait/trap_trait]
+Trapped [place/structure], which is... [trait/trap_trait]
 Unusual [place/structure].
 Ruined [place/structure].
 [adjective/place] [place/area] said to be inhabited by [creature/creature]s.
