@@ -137,7 +137,7 @@ Environmental object with a name engraved on it - "[noun/slavic_prefix][noun/sla
 [creature/creature] with [noun/symbol] symbol on it.
 [adjective/place] [place/structure] with [noun/symbol] symbol on it.
 Stench source coming from nearby [adjective/place] [place/structure].
-Strangely shaped clouds on the horizon on [1d12+0] direction.
+[noun/symbol]-shaped clouds on the horizon on [1d12] direction.
 Small [creature/creature] eating adventurer's supplies.
 Poisonous plant.
 Patch full of herbs.
