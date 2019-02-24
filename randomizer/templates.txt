@@ -19,6 +19,9 @@ Hollowed environmental object, with [adjective/item] [item/item] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [1d4] x [item/item].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [2d20] pounds of [noun/material].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item] and [1d4] gold piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item].
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item] and [adjective/item] [item/item].
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d4-1] gold piece(s).
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d6-1] electrum piece(s).
@@ -161,19 +164,19 @@ Toll station stationed by [adjective/appearance] [adjective/personality] [creatu
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
 Beautiful view of [adjective/place] [place/area].
 Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with mysterious [item/item] making each creature which [verb/verb]s it [adjective/appearance].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with bewitched [item/item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with pacted [item/item] which summons [creature/creature] when someone [verb/verb]s it.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with hexed [item/item] which turns any [noun/material] it touches into [noun/material].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with cursed [item/item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with infinite [item/item] brimming with magic.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with mysterious [item/item] making each creature which [verb/verb]s it [adjective/appearance].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with bewitched [item/item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with pacted [item/item] which summons [creature/creature] when someone [verb/verb]s it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with hexed [item/item] which turns any [noun/material] it touches into [noun/material].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with cursed [item/item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with infinite [item/item] brimming with magic.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
