@@ -111,6 +111,7 @@ Underground entrance leading to [adjective/place] [place/structure].
 Narrow passage leading to [adjective/place] [place/area].
 Narrow passage leading to [adjective/place] [place/structure].
 [adjective/place] [place/structure] emanating with magic.
+[adjective/place] [place/structure] made of [noun/material].
 Trapped [creature/creature].
 Hungry [creature/creature].
 Half-[creature/creature] half-[creature/creature].
