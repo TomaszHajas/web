@@ -32,6 +32,8 @@ Indecisive
 Decisive
 Charismatic
 Submissive
+Charming
+Discharming
 Boring
 Talkative
 Silent
