@@ -150,7 +150,7 @@ Patch full of herbs.
 Animated [adjective/item] [item/item].
 Water bank.
 Pond filled with [item/consumable/drink].
-Container with liquid.
+[Barrel|Bucket|Urn|Container|Bowl|Goblet] with liquid.
 [Bush|Tree] full of fruits.
 [Bush|Tree] with [item/consumable/food] growing on it.
 Vegetable patch.
