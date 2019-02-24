@@ -13,7 +13,7 @@ Bonfire remains.
 Small camp.
 Small hideout.
 Entrance to the underground.
-Crossroads.
+[Crossroads|Road fork|Road turning left|Road turning right].
 Closed gate blocking the path.
 Hollowed environmental object, with [adjective/item] [item/item] inside.
 Basket with [item/consumable/food] inside.
