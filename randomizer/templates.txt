@@ -42,6 +42,7 @@ Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
+[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/animal].
 [adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
