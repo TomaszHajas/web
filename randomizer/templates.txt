@@ -165,6 +165,8 @@ Mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched
 Enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
 Miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
 Sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
+Enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
+Mysterious [item/item] of [noun/abstract] which makes each creature which [verb/verb]s it [adjective/appearance].
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
