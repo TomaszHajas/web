@@ -188,12 +188,12 @@ Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/ger
 [Scroll|Letter|Book|Tome|Diary] with [autobiography|biography] of [noun/germanic_prefix][noun/germanic_suffix] the [adjective/appearance].
 [Scroll|Letter|Book|Diary|Tome] containing notes of [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix], the [noun/job].
 [Scroll|Letter|Book|Diary|Tome] written by [noun/hindu_prefix][noun/hindu_suffix] telling story of how [noun/slavic_prefix][noun/slavic_suffix] managed to [verb/verb] [creature/creature].
-[Scroll|Letter|Book|Diary|Tome] written by [noun/japanese_prefix][noun/japanese_suffix] declaiming author's views on [noun/abstract].
-[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's experience with [creature/creature]s.
-[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's experience with [item/item]s.
+[Scroll|Letter|Book|Diary|Tome] written by [noun/japanese_prefix][noun/japanese_suffix] declaiming author's [positive|neutral|negative] views on [noun/abstract].
+[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's [positive|neutral|negative] experience with [creature/creature]s.
+[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's [positive|neutral|negative] experience with [item/item]s.
 [Scroll|Letter|Book|Diary|Tome] written by [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] describing author's adventures during visit in [adjective/place] [place/structure].
 [Scroll|Letter|Book|Diary|Tome] written by [noun/slavic_prefix][noun/slavic_suffix] describing author's adventures during exploration of [adjective/place] [place/area].
-[Note|Scroll|Letter|Book|Runestick] with crafting schematics of [item/item].
+[Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [item/item].
 Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
 Poster warning about dangers ahead.
