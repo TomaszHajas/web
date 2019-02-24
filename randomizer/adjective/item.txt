@@ -118,6 +118,7 @@ Shiny
 Hollowed
 Burnt
 Magical
+Antimagical
 Arcane
 Runic
 Astral
