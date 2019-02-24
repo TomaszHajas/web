@@ -211,8 +211,8 @@ Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
 Talking [creature/beast].
 Hidden passage to [adjective/place] [place/structure].
-Magical portal hidden inside [adjective/place] [place/structure]. It leads to [adjective/place] [place/structure] in [adjective/place] [place/area].
-Difficult terrain.
+Magical portal hidden inside [adjective/place] [place/structure]. It leads to [|pocket dimension containing] [adjective/place] [place/structure] in [adjective/place] [place/area].
+Difficult terrain made of [noun/material].
 [Steep|Flat] terrain.
 Illusory encounter.
 Humidity [increase|decrease].
