@@ -16,14 +16,14 @@ Entrance to the underground.
 [Crossroads|Road fork|Road turning left|Road turning right].
 Closed gate blocking the path.
 Hollowed environmental object, with [adjective/item] [item/item] inside.
-Basket with [item/consumable/food] inside.
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
-[Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [1d4] x [item/item].
-[Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item] and [adjective/item] [item/item].
-[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d4-1] gold piece(s).
-[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d6-1] electrum piece(s).
-[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d8-1] silver piece(s).
-[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d10-1] copper piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [1d4] x [item/item].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item] and [adjective/item] [item/item].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d4-1] gold piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d6-1] electrum piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d8-1] silver piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d10-1] copper piece(s).
 Uncanny vibration.
 [High|Low]-pitched sound.
 [Cold|Heat] source.
@@ -35,7 +35,7 @@ Sudden end of the path.
 [noun/abstract]-bringing trap, which is... [trait/trap_trait]
 Trap making use of [item/item], which is... [trait/trap_trait]
 Trapped [place/structure], which is... [trait/trap_trait]
-Unusual [place/structure].
+Unusual [place/structure] made of [noun/material].
 Ruined [place/structure].
 [adjective/place] [place/area] said to be inhabited by [creature/creature]s.
 Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
@@ -98,6 +98,7 @@ Pile containing [2d4] almost identical [item/item]s.
 [item/item] bearing mark of use by [noun/job].
 [item/item] about to be [lost|destroyed].
 Half-[item/item] half-[item/item].
+[item/item] partially made of [noun/material].
 [creature/creature] corpse.
 Geared [creature/humanoid] corpse containing [item/item] and [item/item].
 Wounded [creature/creature].
@@ -111,10 +112,10 @@ Underground entrance leading to [adjective/place] [place/structure].
 Narrow passage leading to [adjective/place] [place/area].
 Narrow passage leading to [adjective/place] [place/structure].
 [adjective/place] [place/structure] emanating with magic.
-[adjective/place] [place/structure] made of [noun/material].
 Trapped [creature/creature].
 Hungry [creature/creature].
 Half-[creature/creature] half-[creature/creature].
+Uncanny [creature/creature] made of [noun/material].
 Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
 [creature/creature] giving birth.
 [creature/creature] eating [item/consumable/food].
@@ -160,17 +161,19 @@ Toll station stationed by [adjective/appearance] [adjective/personality] [creatu
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
 Beautiful view of [adjective/place] [place/area].
 Hideout behind a waterfall with container containing [adjective/item] [item/item] and [adjective/item] [item/item].
-Magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
-Arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
-Mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
-Enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
-Miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
-Sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
-Enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
-Mysterious [item/item] making each creature which [verb/verb]s it [adjective/appearance].
-Bewitched [item/item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
-Pacted [item/item] which summons [creature/creature] when someone [verb/verb]s it.
-Infinite [item/item] brimming with magic.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with mysterious [item/item] making each creature which [verb/verb]s it [adjective/appearance].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with bewitched [item/item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with pacted [item/item] which summons [creature/creature] when someone [verb/verb]s it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with hexed [item/item] which turns any [noun/material] it touches into [noun/material].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with cursed [item/item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with infinite [item/item] brimming with magic.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 Note containing instruction on how to [verb/verb] [creature/creature].
@@ -196,7 +199,7 @@ Sudden [appearance|disappearance] of light source.
 [creature/beast]'s sounds.
 Swarm of small creatures.
 Shadow of a winged animal passes.
-Partially buried object.
+Partially buried object made of [noun/material].
 Water splashing noise.
 Dripping liquid.
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
