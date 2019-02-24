@@ -2,8 +2,6 @@
 
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type='text/javascript' src='http://code.jquery.com/jquery-1.8.2.js'></script>
-<meta name="description" content="The Randomizer.">
 <head>
 	<style type="text/css">
 		@font-face {
@@ -27,6 +25,7 @@
 		}
 	</style>
 	<title>Randomizer</title>
+	<meta id="description" name="description" content="The Randomizer.">
 </head>
 <body background="paper_background.jpg">
 	<p>Adventurers encounter...</p>
@@ -121,7 +120,7 @@
 	function random(template){
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
-			document.getElementById("description").content = "ROLL TWICE AND MERGE RESULTS";
+			document.getElementById("description").setAttribute("content", template.replace(/<[^>]*>/g, ''));
 		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
@@ -149,9 +148,7 @@
 			}
 		}else{
 			document.getElementById("random").innerHTML = template;
-			document.getElementById("description").content = template.replace(/<[^>]*>/g, '');
-			$('meta[name=description]').remove();
-    			$('head').append( '<meta name="description" content='+template.replace(/<[^>]*>/g, '')+'>' );
+			document.getElementById("description").setAttribute("content", template.replace(/<[^>]*>/g, ''));
 		}
 
 	}
