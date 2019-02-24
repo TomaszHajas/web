@@ -25,7 +25,6 @@
 		}
 	</style>
 	<title>The Randomizer</title>
-	<meta id="description" name="description" content="The Randomizer">
 </head>
 <body background="paper_background.jpg">
 	<p>Adventurers encounter...</p>
@@ -120,7 +119,6 @@
 	function random(template){
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
-			document.getElementById("description").setAttribute("content", template.replace(/<[^>]*>/g, ''));
 		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
@@ -148,7 +146,6 @@
 			}
 		}else{
 			document.getElementById("random").innerHTML = template;
-			document.getElementById("description").setAttribute("content", template.replace(/<[^>]*>/g, ''));
 		}
 
 	}
