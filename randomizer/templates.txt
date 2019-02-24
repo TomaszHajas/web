@@ -18,17 +18,15 @@ Closed gate blocking the path.
 Hollowed environmental object, with [adjective/item] [item/item] inside.
 Basket with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
-Container with [1d4+0] x [item/item].
-Container with [adjective/item] [item/item] and [adjective/item] [item/item].
-Container with [2d4-1] gold piece(s).
-Container with [2d6-1] electrum piece(s).
-Container with [2d8-1] silver piece(s).
-Container with [2d10-1] copper piece(s).
+[Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [1d4] x [item/item].
+[Chest|Coffer|Barrel|Crate|Sack|Container|Bin] with [adjective/item] [item/item] and [adjective/item] [item/item].
+[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d4-1] gold piece(s).
+[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d6-1] electrum piece(s).
+[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d8-1] silver piece(s).
+[Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin] with [2d10-1] copper piece(s).
 Uncanny vibration.
-High-pitched sound.
-Low-pitched sound.
-Cold source.
-Heat source.
+[High|Low]-pitched sound.
+[Cold|Heat] source.
 Fire source.
 Light source.
 Burned environmental object.
@@ -87,14 +85,14 @@ Sleeping [creature/creature].
 Shady [adjective/appearance] character hiding his/her identity.
 [adjective/appearance] [adjective/personality] [creature/humanoid] breaking local law.
 [adjective/appearance] [adjective/personality] [creature/humanoid] enforcing local law on adventurers.
-Group of [creature/humanoid]s debating over a local problem.
-Group of [2d4-1] hostile [creature/creature]s approaching from [one side|two sides|all sides].
-[adjective/personality] [creature/creature] leading group of [2d4-1] [creature/creature]s.
+Group of [2d4] [creature/humanoid]s debating over a local problem.
+Group of [2d4] hostile [creature/creature]s approaching from [one side|two sides|all sides].
+[adjective/personality] [creature/creature] leading group of [2d4] [creature/creature]s.
 Powerful hostile [creature/creature].
 Weird-looking [creature/creature].
 Weird-behaving [creature/creature].
 [creature/creature] in environmental danger.
-[creature/creature] in conflict with group of [2d4-1] [creature/creature]s.
+[creature/creature] in conflict with group of [2d4] [creature/creature]s.
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
 Pile containing [2d4] almost identical [item/item]s.
 [item/item] bearing mark of use by [noun/job].
@@ -195,7 +193,7 @@ Shadow of a winged animal passes.
 Partially buried object.
 Water splashing noise.
 Dripping liquid.
-Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped].
+Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
