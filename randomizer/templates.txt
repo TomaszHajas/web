@@ -42,7 +42,7 @@ Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
-[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/animal].
+[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast].
 [adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
@@ -57,7 +57,7 @@ Steed without owner.
 [adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
-Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/animal].
+Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/beast].
 Mysterious puzzle which can be easily solved with use of [item/item].
 Enigmatic puzzle which can be easily solved by [noun/job].
 Tricky puzzle which encourages adventurers to [verb/verb] something.
@@ -114,7 +114,7 @@ Narrow passage leading to [adjective/place] [place/structure].
 Trapped [creature/creature].
 Hungry [creature/creature].
 Half-[creature/creature] half-[creature/creature].
-Weird hybrid with [creature/animal]'s head, [creature/animal]'s body and [creature/animal]'s limbs.
+Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
 [creature/creature] giving birth.
 [creature/creature] eating [item/consumable/food].
 [creature/creature] making use of its magical powers in order to [verb/verb].
