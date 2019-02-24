@@ -59,7 +59,8 @@ Creativity enhancing, template-based random sentence generator
 [noun/japanese_suffix]\
 [noun/job]\
 [noun/symbol]\
-[noun/abstract]
+[noun/abstract]\
+[noun/material]
 
 ###### place
 [place/area]\
