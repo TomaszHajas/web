@@ -180,9 +180,20 @@ Hideout behind a waterfall with container containing [adjective/item] [item/item
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with infinite [item/item] brimming with magic.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
-Note containing instruction on how to [verb/verb] [creature/creature].
+[Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [verb/verb] [item/item].
 Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/germanic_prefix][noun/germanic_suffix].
-Note with crafting schematics of [item/item].
+[Note|Scroll|Letter|Book|Tome|Diary|Runestick] containing instruction on how to [verb/verb] [creature/creature].
+[Note|Scroll|Letter|Book|Tome|Diary|Runestick] describing [noun/abstract] of [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix].
+[Note|Scroll|Letter|Book|Tome|Diary|Runestick] telling deeds of [noun/germanic_prefix][noun/germanic_suffix] the [adjective/personality].
+[Scroll|Letter|Book|Tome|Diary] with [autobiography|biography] of [noun/germanic_prefix][noun/germanic_suffix] the [adjective/appearance].
+[Scroll|Letter|Book|Diary|Tome] containing notes of [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix], the [noun/job].
+[Scroll|Letter|Book|Diary|Tome] written by [noun/hindu_prefix][noun/hindu_suffix] telling story of how [noun/slavic_prefix][noun/slavic_suffix] managed to [verb/verb] [creature/creature].
+[Scroll|Letter|Book|Diary|Tome] written by [noun/japanese_prefix][noun/japanese_suffix] declaiming author's views on [noun/abstract].
+[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's experience with [creature/creature]s.
+[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's experience with [item/item]s.
+[Scroll|Letter|Book|Diary|Tome] written by [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] describing author's adventures during visit in [adjective/place] [place/structure].
+[Scroll|Letter|Book|Diary|Tome] written by [noun/slavic_prefix][noun/slavic_suffix] describing author's adventures during exploration of [adjective/place] [place/area].
+[Note|Scroll|Letter|Book|Runestick] with crafting schematics of [item/item].
 Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
 Poster warning about dangers ahead.
