@@ -1,7 +1,7 @@
 [creature/creature] investigating some other encounter.
 [creature/creature]'s [tracks|droppings|body part].
 Damaged environmental object.
-[Traces|Sounds] of combat.
+[Traces|Sounds|Smell] of combat.
 Blood spattering.
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis].
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus].
