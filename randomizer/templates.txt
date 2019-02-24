@@ -195,7 +195,7 @@ Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/ger
 [Scroll|Letter|Book|Diary|Tome] written by [noun/slavic_prefix][noun/slavic_suffix] describing author's adventures during exploration of [adjective/place] [place/area].
 [Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [item/item].
 Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
-Poster with wanted [adjective/appearance] [adjective/personality] [creature/humanoid].
+Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japanese_prefix][noun/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
 Poster warning about dangers ahead.
 [creature/creature] willing to join adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] willing to recruit adventurers.
