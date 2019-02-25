@@ -20,6 +20,7 @@ Spacious
 Compact
 Dimensional
 Persistent
+Illusory
 Fresh
 Ancient
 New
