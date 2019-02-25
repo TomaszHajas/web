@@ -22,6 +22,9 @@ Creativity enhancing, template-based random sentence generator
 [adjective/personality]\
 [adjective/place]
 
+###### adverb
+[adverb/adverb]
+
 ###### creature
 [creature/creature]\
 [creature/aberration]\
