@@ -136,7 +136,7 @@ Damaged bridge.
 Damaged [adjective/place] [place/structure].
 Passage guarded by [2d4-1] x [creature/creature].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards].
-Lucky omen - [albatross|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards].
+Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards].
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/item] [item/item] in the middle of the path.
 [adjective/item] [item/item] with [noun/symbol] symbol on it.
@@ -235,4 +235,5 @@ Temperature [increase|decrease].
 Gravity pull [increase|decrease].
 Gravity direction shift.
 Weather phenomenon [typical|untypical] to local environment.
+Rare natural phenomenon - [moonbow|rainbow|mirage|halo|aurora|red moon|solar eclipse|ball lightning|tornado|fire tornado|acid rain|egg-sized hailstorm|extreme rain|tsunami|extreme heat wave|extreme blizzard|earthquake|tectonic shift|lava eruption].
 Vision obscurement.
