@@ -95,6 +95,8 @@ Smelly
 Fragnant
 Young
 Old
+New
+Ancient
 Middle-aged
 Deformed
 Proportional
