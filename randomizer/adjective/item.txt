@@ -153,3 +153,6 @@ Fine
 Broken
 Safe
 Unsafe
+Animated
+Talking
+Vibrating
