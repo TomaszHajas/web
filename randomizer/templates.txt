@@ -45,7 +45,8 @@ Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/
 Path-blocking environmental object.
 Broken vehicle.
 Steed without owner.
-[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast].
+[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
+[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.|other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
 [adjective/appearance] [adjective/personality] [creature/humanoid] on a quest to [verb/verb] [|his/her] [creature/creature].
 Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/item].
 [adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
