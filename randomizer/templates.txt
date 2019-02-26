@@ -235,5 +235,6 @@ Gravity pull [increase|decrease].
 Gravity direction shift.
 Weather phenomenon [typical|untypical] to local environment.
 Rare natural phenomenon - [moonbow|rainbow|mirage|halo|aurora|red moon|solar eclipse|ball lightning|tornado|fire tornado|acid rain|egg-sized hailstorm|extreme rain|tsunami|extreme heat wave|extreme blizzard|earthquake|tectonic shift|lava eruption].
-Rain of [noun/material].
+Rain of [noun/material]. It will [verb/verb] any creature caught by it.
 Vision obscurement.
+Waking up from a dream. [|In their true forms.]
