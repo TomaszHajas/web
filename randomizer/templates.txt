@@ -44,7 +44,7 @@ Ruined [place/structure].
 Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
 Path-blocking environmental object.
 Broken vehicle.
-Steed without owner.
+[creature/beast] without owner. It seems to have a collar with a name tag - "[noun/hindu_prefix][noun/japanese_suffix]".
 [adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.|other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
 [adjective/appearance] [adjective/personality] [creature/humanoid] on a quest to [verb/verb] [|his/her] [creature/creature].
@@ -97,8 +97,8 @@ Group of [2d4] [creature/humanoid]s debating over a local problem.
 Group of [2d4] hostile [creature/creature]s approaching from [one side|two sides|all sides].
 [adjective/personality] [creature/creature] leading group of [2d4] [creature/creature]s.
 Powerful hostile [creature/creature].
-Weird-looking [creature/creature].
-Weird-behaving [creature/creature].
+Weird-looking [adjective/appearance] [creature/creature].
+Weird-behaving [adjective/personality] [creature/creature].
 [creature/creature] in environmental danger.
 [creature/creature] in conflict with group of [2d4] [creature/creature]s.
 [2d4-1] [creature/creature]s confronting [2d4-1] [creature/creature]s.
@@ -156,7 +156,7 @@ Water bank - [pond|lake|puddle|stream|river|river with waterfall].
 [Pond|Lake|Puddle|Stream|River|Waterfall] of [item/consumable/drink].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [adjective/color] liquid.
 [Bush|Tree] with [item/consumable/food] growing on it.
-[Vegetable patch|Field of crops|Fruit orchard].
+Vegetation cluster - [vegetable patch|field of crops|fruit orchard|woodlet|aggregation of bushes|field of ferns|mossy spots|grassy field].
 Mysterious [fog|dust|smoke|mist|gas] cloud which will [verb/verb] creature which [breathes it|enters it].
 Swarm of [adjective/color] insects.
 Sudden [minor landslide|avalanche|earthquake].
