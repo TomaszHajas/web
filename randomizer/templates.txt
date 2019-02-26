@@ -30,8 +30,8 @@ Flask with [item/consumable/drink] inside.
 Uncanny vibration.
 [High|Low]-pitched sound.
 [Cold|Heat] source.
-Fire source.
-Light source.
+Fire source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
+Light source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
 Burned environmental object.
 Unusually big environmental object.
 Sudden end of the path.
@@ -43,7 +43,7 @@ Ruined [place/structure].
 [adjective/place] [place/area] said to be inhabited by [creature/creature]s.
 Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
 Path-blocking environmental object.
-Broken vehicle.
+Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
 [creature/beast] without owner. It seems to have a collar with a name tag - "[noun/hindu_prefix][noun/japanese_suffix]".
 [adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.|other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
