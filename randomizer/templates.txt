@@ -112,7 +112,7 @@ Sick [creature/creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
 Signpost showing a [|wrong] way to nearby [adjective/place] [place/area].
 Signpost showing a [|wrong] way to nearby [adjective/place] [place/structure].
-Arrow symbol pointing at [1d12+0] direction.
+Arrow symbol pointing [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 Lair of [2d4-1] [creature/creature](s).
 Underground entrance leading to [adjective/place] [place/structure].
 Narrow passage leading to [adjective/place] [place/area].
@@ -145,7 +145,7 @@ Environmental object with a name engraved on it - "[noun/slavic_prefix][noun/sla
 [creature/creature] with [noun/symbol] symbol on it.
 [adjective/place] [place/structure] with [noun/symbol] symbol on it.
 Stench source coming from nearby [adjective/place] [place/structure].
-[noun/symbol]-shaped clouds on the horizon on [1d12] direction.
+[noun/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 Small [creature/creature] eating adventurer's supplies.
 Poisonous plant.
 Patch full of herbs.
@@ -201,7 +201,7 @@ Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japane
 Poster warning about dangers ahead.
 [creature/creature] willing to join adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] willing to recruit adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go in [1d12+0] direction.
+[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Helpless [creature/creature] looking for its parent.
 Lack of [random|most expensive] item from adventurer's equipment.
