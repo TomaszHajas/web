@@ -111,3 +111,6 @@ Celestial
 Infernal
 Cursed
 Blessed
+Safe
+Unsafe
+Deadly
