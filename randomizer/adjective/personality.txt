@@ -144,5 +144,7 @@ Critical
 Flattering
 Educated
 Uneducated
+Competent
+Incompetent
 Hypochondriac
 Obvious
