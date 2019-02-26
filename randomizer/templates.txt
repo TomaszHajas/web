@@ -73,9 +73,11 @@ Spy among adventurers. It is widely known the spy knows only a part of rumor con
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] wanting adventurers to [verb/verb] [creature/creature].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] asking adventurers to [verb/verb] [item/item].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] ordering adventurers to [verb/verb] [place/structure].
-[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] who attempted to [verb/verb] [creature/creature].
-[creature/humanoid] trying to [verb/verb] [creature/humanoid].
+[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature/creature] which [managed|attempted|failed] to [verb/verb] [creature/creature].
+[adjective/appearance] [adjective/personality] [creature/humanoid] telling a local rumor about [creature/humanoid] who [managed|attempted|failed] to [verb/verb] [item/item].
+[creature/humanoid] [about|attempting|failing] to [verb/verb] [creature/humanoid].
 [creature/creature] trying to [verb/verb] adventurers.
+[adjective/appearance] [adjective/personality] [creature/humanoid] willing to join adventurers. He/she's secretely cursed and transforms into [creature/creature] each time he/she attempts to [verb/verb] something. [|The curse is infectious.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 [adjective/appearance] [adjective/personality] [creature/humanoid] questioning [noun/abstract].
@@ -88,7 +90,7 @@ Two [creature/humanoid]s arguing over the way they should go.
 Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] being executed by [creature/humanoid]s.
 Sleeping [creature/creature]. [|With eyes open.|In weird position.|Snoring loudly.]
-Shady [adjective/appearance] character trying to hide his/her identity.
+Shady [adjective/appearance] character [managing|attempting|failing] to hide his/her identity.
 [adjective/appearance] [adjective/personality] [creature/humanoid] breaking local law.
 [adjective/appearance] [adjective/personality] [creature/humanoid] enforcing local law on adventurers.
 Group of [2d4] [creature/humanoid]s debating over a local problem.
@@ -150,11 +152,11 @@ Stench source coming from nearby [adjective/place] [place/structure].
 Small [creature/creature] eating adventurer's supplies.
 [adjective/color], [adjective/item], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [verb/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
 Animated [adjective/item] [item/item].
-Water bank.
-Pond filled with [item/consumable/drink].
+Water bank - [pond|lake|puddle|stream|river|river with waterfall].
+[Pond|Lake|Puddle|Stream|River|Waterfall] of [item/consumable/drink].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [adjective/color] liquid.
 [Bush|Tree] with [item/consumable/food] growing on it.
-Vegetable patch.
+[Vegetable patch|Field of crops|Fruit orchard].
 Mysterious [fog|dust|smoke|mist|gas] cloud which will [verb/verb] creature which [breathes it|enters it].
 Swarm of [adjective/color] insects.
 Sudden [minor landslide|avalanche|earthquake].
@@ -217,7 +219,7 @@ Sudden [appearance|disappearance] of light source.
 Group of [2d4] [creature/creature]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [noun/abstract].
 Passing shadow of a winged animal.
 Partially buried object made of [noun/material].
-Water splashing noise.
+Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
 Dripping [adjective/color] liquid.
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
