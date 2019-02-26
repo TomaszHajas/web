@@ -156,3 +156,5 @@ Unsafe
 Animated
 Talking
 Vibrating
+Fake
+Trapped
