@@ -18,6 +18,7 @@ Creativity enhancing, template-based random sentence generator
 
 ###### adjective
 [adjective/appearance]\
+[adjective/color]\
 [adjective/item]\
 [adjective/personality]\
 [adjective/place]
