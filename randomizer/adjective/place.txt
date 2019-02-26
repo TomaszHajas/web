@@ -114,3 +114,5 @@ Blessed
 Safe
 Unsafe
 Deadly
+Living
+Haunted
