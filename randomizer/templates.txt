@@ -180,6 +180,7 @@ Hideout behind a waterfall with container containing [adjective/item] [item/item
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with hexed [item/item] which turns any [noun/material] it touches into [noun/material].
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with cursed [item/item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with infinite [item/item] brimming with magic.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing talking [item/item] with [adjective/personality] personality.
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
 [Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [verb/verb] [item/item].
@@ -223,7 +224,7 @@ Mechanical noises resembling [creaking gate|door being closed|spinning mill|spin
 [Incoming|Receding] footsteps.
 Mysterious fire combustion.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for being escorted.
-Talking [creature/beast].
+Talking [creature/beast] with [adjective/personality] personality.
 Hidden passage to [adjective/place] [place/structure].
 Magical portal hidden inside [adjective/place] [place/structure]. It leads to [|pocket dimension containing] [adjective/place] [place/structure] in [adjective/place] [place/area].
 Difficult terrain made of [noun/material].
