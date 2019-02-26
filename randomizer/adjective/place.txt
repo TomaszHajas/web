@@ -116,3 +116,4 @@ Unsafe
 Deadly
 Living
 Haunted
+Trapped
