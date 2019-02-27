@@ -157,7 +157,8 @@ Water bank - [pond|lake|puddle|stream|river|river with waterfall].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [adjective/color] liquid.
 [Bush|Tree] with [item/consumable/food] growing on it.
 Vegetation cluster - [vegetable patch|field of crops|fruit orchard|woodlet|aggregation of bushes|field of ferns|mossy spots|grassy field].
-Mysterious [fog|dust|smoke|mist|gas] cloud which will [verb/verb] creature which [breathes it|enters it].
+Mysterious [fog|dust|smoke|mist|gas|darkness|insect] cloud which will [verb/verb] creature which [breathes it|enters it].
+Vision obscurement - [fog|dust|smoke|mist|gas|darkness|swarm of insects|lush vegetation|crowd of people|environmental obstacles].
 Swarm of [adjective/color] insects.
 Sudden [minor landslide|avalanche|earthquake].
 [Quicksand|Sinkhole] on path.
@@ -239,5 +240,4 @@ Gravity direction shift.
 Weather phenomenon [typical|untypical] to local environment.
 Rare natural phenomenon - [moonbow|rainbow|mirage|halo|aurora|red moon|solar eclipse|ball lightning|tornado|fire tornado|acid rain|egg-sized hailstorm|extreme rain|tsunami|extreme heat wave|extreme blizzard|earthquake|tectonic shift|lava eruption].
 Rain of [noun/material]. It will [verb/verb] any creature caught by it.
-Vision obscurement.
 Waking up from a dream. [|In their true forms.]
