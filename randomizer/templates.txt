@@ -127,7 +127,7 @@ Uncanny [creature/creature] made of [noun/material].
 Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
 [creature/creature] giving birth. [|In water.|With complications.|Of multiple children.|And dying afterwards.]
 [creature/creature] eating [item/consumable/food].
-[creature/creature] making use of its magical powers in order to [verb/verb].
+[creature/creature] making use of its magical powers in order to [verb/verb] something.
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
 Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
 [creature/creature] interested in adventurer's item.
