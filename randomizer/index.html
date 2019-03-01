@@ -136,10 +136,9 @@
 				}else{
 					console.log("Table roll detected");
 					firstMatchPath = firstMatchNoBrackets+".txt";
-					fetch(firstMatchPath)
+					fetch(firstMatchPath).catch(function(){console.log("RESPONSE: "+response);})
 						.then(response => response.text())
 						.then(text => {
-						console.log("RESPONSE: "+response);
 						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 						random(replacedFirstMatch);
 					})
