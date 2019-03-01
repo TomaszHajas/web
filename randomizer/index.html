@@ -136,11 +136,20 @@
 				}else{
 					console.log("Table roll detected");
 					firstMatchPath = firstMatchNoBrackets+".txt";
-					fetch(firstMatchPath).catch(function(){console.log("RESPONSE: "+response);})
+					fetch(firstMatchPath)
 						.then(response => response.text())
 						.then(text => {
 						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 						random(replacedFirstMatch);
+					})
+					.catch(function(){
+						console.log("TEST");
+						firstMatchPath = firstMatchPath+"/"+firstMatchPatch+".txt";
+						fetch(firstMatchPath)
+							.then(response => response.text())
+							.then(text => {
+							replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+							random(replacedFirstMatch);
 					})
 				}
 			}
