@@ -17,6 +17,7 @@ Peddler
 Blacksmith
 Carpenter
 Merchant
+Shopkeeper
 Saddler
 Mason
 Wheelwright
@@ -93,6 +94,7 @@ Electrician
 Jeweler
 Shepherd
 Writer
+Redactor
 Musician
 Performer
 Dancer
@@ -177,6 +179,8 @@ Warlock
 Wizard
 Brawler
 Fighter
+Warrior
+Gladiator
 Mage
 Archmage
 Runepriest
@@ -267,6 +271,7 @@ Raker
 Weeper
 Wetnurse
 Body Cleaner
+Dishwasher
 Consultant
 Activist
 Protester
@@ -305,3 +310,5 @@ Massagist
 Homeopath
 Critic
 Flatterer
+Coach
+Tatooist
