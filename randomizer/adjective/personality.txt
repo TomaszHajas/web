@@ -152,3 +152,8 @@ Hypochondriac
 Obvious
 Retarded
 Know-it-all
+Agreeable
+Contrarian
+Underachieving
+Overachieving
+Supportive
