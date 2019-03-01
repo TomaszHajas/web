@@ -95,6 +95,8 @@ Dependable
 Undependable
 Malicious
 Kind
+Responsible
+Irresponsible
 Observant
 Inobservant
 Encouraging
@@ -148,3 +150,5 @@ Competent
 Incompetent
 Hypochondriac
 Obvious
+Retarded
+Know-it-all
