@@ -157,3 +157,5 @@ Contrarian
 Underachieving
 Overachieving
 Supportive
+Fanatical
+Moderate
