@@ -140,7 +140,7 @@
 						.then(response => response.text())
 						.then(text => {
 						console.log(text);
-						if(text == "Notification   MapRequestHandler"){
+						if(text.includes("DOCTYPE")){
 							console.log("TEST");
 							firstMatchPath = firstMatchPath+"/"+firstMatchPatch+".txt";
 							fetch(firstMatchPath)
