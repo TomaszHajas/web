@@ -87,6 +87,8 @@ Swollen
 Slim
 Wealthy
 Poor
+Rich
+Homeless
 Quick
 Slow
 Dirty
