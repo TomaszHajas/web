@@ -215,6 +215,8 @@ Physicist
 Geographer
 Geologist
 Naturalist
+Biologist
+Zoologist
 Sociologist
 Humanist
 Bookkeeper
