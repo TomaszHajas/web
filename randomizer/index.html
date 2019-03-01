@@ -139,7 +139,7 @@
 					fetch(firstMatchPath)
 						.then(response => response.text())
 						.then(text => {
-						console.log(response);
+						console.log("RESPONSE: "+response);
 						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 						random(replacedFirstMatch);
 					})
