@@ -124,7 +124,7 @@
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(firstMatchNoBrackets.includes("|")){
-				console.log("Altenative detected.");
+				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
 				random(replacedFirstMatch);
@@ -139,9 +139,10 @@
 					fetch(firstMatchPath)
 						.then(response => response.text())
 						.then(text => {
+						console.log(response);
 						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 						random(replacedFirstMatch);
-					});
+					})
 				}
 			}
 		}else{
