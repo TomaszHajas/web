@@ -47,6 +47,7 @@ Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|cat
 [creature/beast] without owner. It seems to have a collar with a name tag - "[noun/hindu_prefix][noun/japanese_suffix]".
 [adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.|other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
+[creature] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing]. [|Seems to ignore his/her condition.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] on a quest to [verb/verb] [|his/her] [creature].
 Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item].
 [adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
