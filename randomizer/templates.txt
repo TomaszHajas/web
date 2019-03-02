@@ -14,15 +14,15 @@ Small [camp|hideout].
 Entrance to the underground.
 [Crossroads|Road fork|Road turning left|Road turning right].
 Closed [door|gate] made of [noun/material] blocking the path.
-Hollowed environmental object, with [adjective/item] [item/item] inside.
+Hollowed environmental object, with [adjective/item] [item] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [1d4] x [item/item].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [1d4] x [item].
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [2d20] pounds of [noun/material].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/item] and [1d4] gold piece(s).
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/item] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/item] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/item] and [adjective/item] [item/item].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item] and [1d4] gold piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item] inside.
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item] inside.
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item] and [adjective/item] [item].
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d4-1] gold piece(s).
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d6-1] electrum piece(s).
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d8-1] silver piece(s).
@@ -36,7 +36,7 @@ Burned environmental object.
 Unusually big environmental object.
 Sudden end of the path.
 [noun/abstract]-bringing trap, which is... [trait/trap_trait]
-Trap making use of [item/item], which is... [trait/trap_trait]
+Trap making use of [item], which is... [trait/trap_trait]
 Trapped [place/structure], which is... [trait/trap_trait]
 Unusual [place/structure] made of [noun/material].
 Ruined [place/structure].
@@ -48,33 +48,33 @@ Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|cat
 [adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.|other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
 [adjective/appearance] [adjective/personality] [creature/humanoid] on a quest to [verb/verb] [|his/her] [creature].
-Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/item].
+Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item].
 [adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
 [adjective/appearance] [adjective/personality] [creature/humanoid] merchant buying up all possible items for [1d5*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item/item]s and [item/item]s for [2d10*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] trader selling [item/item]s and [item/item]s for [2d10*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] rental clerk renting [item/item]s and [item/item]s for [1d10*10]% of their market price per day and 10x cheaper per hour.
+[adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item]s and [item]s for [2d10*10]% of their market price.
+[adjective/appearance] [adjective/personality] [creature/humanoid] trader selling [item]s and [item]s for [2d10*10]% of their market price.
+[adjective/appearance] [adjective/personality] [creature/humanoid] rental clerk renting [item]s and [item]s for [1d10*10]% of their market price per day and 10x cheaper per hour.
 [adjective/appearance] [adjective/personality] [noun/job] looking for item related to his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] forcing his/her services on adventurers and demanding a payment.
 [adjective/appearance] [adjective/personality] [noun/job] disturbing adventurers by performing his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] offering help in things related to his/her job.
 [adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
-[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
+[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/beast].
-Mysterious puzzle which can be easily solved with use of [item/item].
+Mysterious puzzle which can be easily solved with use of [item].
 Enigmatic puzzle which can be easily solved by [noun/job].
 Tricky puzzle which encourages adventurers to [verb/verb] something.
 Catchy puzzle which can be easily solved by displaying [noun/abstract].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [noun/job] who tried to [verb/verb] [creature] somewhere in [place/area].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] trying to [verb/verb] adventurers.
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] wanting adventurers to [verb/verb] [creature].
-[adjective/personality] [god|goddess|deity|demon] of [noun/abstract] asking adventurers to [verb/verb] [item/item].
+[adjective/personality] [god|goddess|deity|demon] of [noun/abstract] asking adventurers to [verb/verb] [item].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] ordering adventurers to [verb/verb] [place/structure].
 [adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature] which [managed|attempted|failed] to [verb/verb] [creature].
-[adjective/appearance] [adjective/personality] [creature/humanoid] telling a local rumor about [creature/humanoid] who [managed|attempted|failed] to [verb/verb] [item/item].
+[adjective/appearance] [adjective/personality] [creature/humanoid] telling a local rumor about [creature/humanoid] who [managed|attempted|failed] to [verb/verb] [item].
 [creature/humanoid] [about|attempting|failing] to [verb/verb] [creature/humanoid].
 [creature] trying to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] willing to join adventurers. He/she's secretely cursed and transforms into [creature] each time he/she attempts to [verb/verb] something. [|The curse is infectious.]
@@ -82,7 +82,7 @@ Spy among adventurers. It is widely known the spy knows only a part of rumor con
 [adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
 [adjective/appearance] [adjective/personality] [creature/humanoid] questioning [noun/abstract].
 [adjective/appearance] [adjective/personality] [creature/humanoid] pondering if [noun/abstract] is better than [noun/abstract].
-[adjective/appearance] [adjective/personality] [creature/humanoid] wondering if [item/item] is more useful than [item/item].
+[adjective/appearance] [adjective/personality] [creature/humanoid] wondering if [item] is more useful than [item].
 Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
 [adjective/appearance] [adjective/personality] [creature/humanoid] trying to blackmail adventurers.
@@ -102,13 +102,13 @@ Weird-behaving [adjective/personality] [creature].
 [creature] in environmental danger.
 [creature] in conflict with group of [2d4] [creature]s.
 [2d4-1] [creature]s confronting [2d4-1] [creature]s.
-Pile containing [2d4] almost identical [item/item]s.
-[item/item] bearing mark of use by [noun/job].
-[item/item] about to be [lost|destroyed].
-Half-[item/item] half-[item/item].
-[item/item] partially made of [noun/material].
+Pile containing [2d4] almost identical [item]s.
+[item] bearing mark of use by [noun/job].
+[item] about to be [lost|destroyed].
+Half-[item] half-[item].
+[item] partially made of [noun/material].
 [creature] corpse.
-Geared [creature/humanoid] corpse containing [item/item] and [item/item].
+Geared [creature/humanoid] corpse containing [item] and [item].
 Wounded [creature].
 Sick [creature].
 [adjective/appearance] [adjective/personality] [creature/humanoid] about to commit suicide.
@@ -131,27 +131,27 @@ Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
 Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
 [creature] interested in adventurer's item.
-[adjective/appearance] [adjective/personality] [creature/humanoid] offering a free [adjective/item] [item/item]. [|And running away.|And disappearing.]
+[adjective/appearance] [adjective/personality] [creature/humanoid] offering a free [adjective/item] [item]. [|And running away.|And disappearing.]
 Two [creature]s making out.
 [adjective/place] [place/structure] emanating with [sacred|demonic] power.
 Damaged bridge made of [noun/material].
 Damaged [adjective/place] [place/structure].
 Passage guarded by [2d4-1] x [creature].
-[adjective/item] [item/item] guarded by [adjective/personality] [creature].
+[adjective/item] [item] guarded by [adjective/personality] [creature].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards].
 Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards].
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
-[adjective/item] [item/item] in the middle of the path.
-[adjective/item] [item/item] with [noun/symbol] symbol on it.
+[adjective/item] [item] in the middle of the path.
+[adjective/item] [item] with [noun/symbol] symbol on it.
 Environmental object with a name engraved on it - "[noun/slavic_prefix][noun/slavic_suffix]".
-[adjective/item] [item/item] with a name engraved on it - "[noun/anglo_saxon_prefix][noun/anglo_saxon_suffix]".
+[adjective/item] [item] with a name engraved on it - "[noun/anglo_saxon_prefix][noun/anglo_saxon_suffix]".
 [creature] with [noun/symbol] symbol on it.
 [adjective/place] [place/structure] with [noun/symbol] symbol on it.
 Stench source coming from nearby [adjective/place] [place/structure].
 [noun/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 Small [creature] eating adventurer's supplies.
 [adjective/color], [adjective/item], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [verb/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
-Animated [adjective/item] [item/item].
+Animated [adjective/item] [item].
 Water bank - [pond|lake|puddle|stream|river|river with waterfall].
 [Pond|Lake|Puddle|Stream|River|Waterfall] of [item/consumable/drink].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [adjective/color] liquid.
@@ -168,24 +168,24 @@ Toll station stationed by [adjective/appearance] [adjective/personality] [creatu
 [adjective/appearance] [adjective/personality] [creature/humanoid] who wants to [verb/verb] adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
 Beautiful view of [adjective/place] [place/area].
-Hideout [behind a waterfall|on a tree] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [adjective/item] [item/item] and [adjective/item] [item/item].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with magical [item/item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with arcane [item/item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with mystical [item/item] of [noun/abstract] which will [verb/verb] creatures touched with it.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with enchanted [item/item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with miraculous [item/item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with sorcerous [item/item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with enigmatic [item/item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with mysterious [item/item] making each creature which [verb/verb]s it [adjective/appearance].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with bewitched [item/item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with pacted [item/item] which summons [creature] when someone [verb/verb]s it.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with hexed [item/item] which turns any [noun/material] it touches into [noun/material].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with cursed [item/item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with infinite [item/item] brimming with magic.
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing talking [item/item] with [adjective/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [noun/abstract].
+Hideout [behind a waterfall|on a tree] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [adjective/item] [item] and [adjective/item] [item].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with magical [item] of [noun/abstract] which will [verb/verb] anything touched with its tip.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with arcane [item] of [noun/abstract] which will [verb/verb] anything pointed by it, not farther than [1d10*5] feet.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with mystical [item] of [noun/abstract] which will [verb/verb] creatures touched with it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with enchanted [item] of [noun/abstract] which will [verb/verb] creature using it according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with miraculous [item] of [noun/abstract] which will [verb/verb] anything it's used on according to its purpose.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with sorcerous [item] of [noun/abstract] which will [verb/verb] creatures in [1d10*5] feet radius.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with enigmatic [item] of [noun/abstract] which makes each creature holding/wearing it [adjective/personality].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with mysterious [item] making each creature which [verb/verb]s it [adjective/appearance].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with bewitched [item] which teleports each creature which touches it to [adjective/place] [place/structure] in [adjective/place] [place/area].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with pacted [item] which summons [creature] when someone [verb/verb]s it.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with hexed [item] which turns any [noun/material] it touches into [noun/material].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with cursed [item] which turns any creature it touches into [noun/material] in [1d4*6] seconds.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with infinite [item] brimming with magic.
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing talking [item] with [adjective/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [noun/abstract].
 Projectile struck in [adjective/place] [place/structure].
 Letter ordering [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [verb/verb] [noun/germanic_prefix][noun/germanic_suffix].
-[Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [verb/verb] [item/item].
+[Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [verb/verb] [item].
 Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/germanic_prefix][noun/germanic_suffix].
 [Note|Scroll|Letter|Book|Tome|Diary|Runestick] containing instruction on how to [verb/verb] [creature].
 [Note|Scroll|Letter|Book|Tome|Diary|Runestick] describing [noun/abstract] of [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix].
@@ -195,10 +195,10 @@ Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/ger
 [Scroll|Letter|Book|Diary|Tome] written by [noun/hindu_prefix][noun/hindu_suffix] telling story of how [noun/slavic_prefix][noun/slavic_suffix] managed to [verb/verb] [creature].
 [Scroll|Letter|Book|Diary|Tome] written by [noun/japanese_prefix][noun/japanese_suffix] declaiming author's [positive|neutral|negative] views on [noun/abstract].
 [Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's [positive|neutral|negative] experience with [creature]s.
-[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's [positive|neutral|negative] experience with [item/item]s.
+[Scroll|Letter|Book|Diary|Tome] written by [noun/germanic_prefix][noun/germanic_suffix] describing author's [positive|neutral|negative] experience with [item]s.
 [Scroll|Letter|Book|Diary|Tome] written by [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] describing author's adventures during visit in [adjective/place] [place/structure].
 [Scroll|Letter|Book|Diary|Tome] written by [noun/slavic_prefix][noun/slavic_suffix] describing author's adventures during exploration of [adjective/place] [place/area].
-[Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [item/item].
+[Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [item].
 Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japanese_prefix][noun/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
 Poster warning about dangers ahead including [noun/abstract].
