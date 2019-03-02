@@ -139,14 +139,11 @@
 					fetch(firstMatchPath)
 						.then(response => response.text())
 						.then(text => {
-						console.log(text);
 						if(text.includes("DOCTYPE")){
-							console.log("TEST");
 							firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
 							fetch(firstMatchPath)
 								.then(response => response.text())
 								.then(text => {
-								console.log("TEST2");
 								replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 								random(replacedFirstMatch);
 							})
