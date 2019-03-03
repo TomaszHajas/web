@@ -117,3 +117,5 @@ Deadly
 Living
 Haunted
 Trapped
+Isolated
+Desolated
