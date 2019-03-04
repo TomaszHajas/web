@@ -128,7 +128,7 @@ Bloodied
 Slender
 Plump
 Anorectic
-Anemic
+Anaemic
 Chubby
 Obese
 Pregnant
