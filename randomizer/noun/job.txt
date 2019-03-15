@@ -314,3 +314,4 @@ Critic
 Flatterer
 Coach
 Tatooist
+Gelotologist
