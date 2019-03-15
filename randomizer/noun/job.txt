@@ -286,6 +286,7 @@ Hauler
 Milker
 Food Taster
 Drunk
+Drug Addict
 Unemployed
 Retiree
 Pensioner
@@ -315,3 +316,4 @@ Flatterer
 Coach
 Tatooist
 Gelotologist
+Drug Dealer
