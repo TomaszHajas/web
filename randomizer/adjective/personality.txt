@@ -159,3 +159,5 @@ Overachieving
 Supportive
 Fanatical
 Moderate
+Dependent
+Independent
