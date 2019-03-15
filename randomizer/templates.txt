@@ -126,7 +126,7 @@ Hungry [creature].
 Half-[creature] half-[creature].
 Uncanny [creature] made of [noun/material].
 Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
-[creature] giving birth. [|In water.|With complications.|Of multiple children.|And dying afterwards.]
+[creature] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
 [creature] eating [item/consumable/food].
 [creature] making use of its magical powers in order to [verb/verb] something.
 Local military squad consisting of [2d4-1] [creature/humanoid](s).
@@ -139,8 +139,8 @@ Damaged bridge made of [noun/material].
 Damaged [adjective/place] [place/structure].
 Passage guarded by [2d4-1] x [creature].
 [adjective/item] [item] guarded by [adjective/personality] [creature].
-Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards].
-Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards].
+Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards|someone walking under ladder|shoes on a table].
+Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards|dream catcher].
 Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/item] [item] in the middle of the path.
 [adjective/item] [item] with [noun/symbol] symbol on it.
