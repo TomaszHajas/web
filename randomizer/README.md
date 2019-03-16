@@ -45,6 +45,19 @@ Creativity enhancing, template-based random sentence generator
 
 ###### item
 [item/item]\
+[item/ammo]\
+[item/armor]\
+[item/focus]\
+[item/gear]\
+[item/instrument]\
+[item/livestock]\
+[item/melee_weapon]\
+[item/ranged_weapon]\
+[item/ring]\
+[item/scroll]\
+[item/trade_good]\
+[item/treasure]\
+[item/trinket]\
 [item/consumable/food]\
 [item/consumable/drink]\
 [item/consumable/potion]\
