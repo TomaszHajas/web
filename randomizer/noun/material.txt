@@ -95,6 +95,7 @@ Mithral
 Copper
 Tin
 Bronze
+Brass
 Iron
 Steel
 Lead
