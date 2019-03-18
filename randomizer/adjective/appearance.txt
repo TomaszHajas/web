@@ -79,6 +79,8 @@ Repulsive
 Attractive
 Healthy
 Sick
+Lucky
+Unlucky
 Clumsy
 Agile
 Weak
