@@ -37,6 +37,8 @@ Mayor
 Wool Carder
 Dyer
 Candlemaker
+Hairdresser
+Shaver
 Sheriff
 Chainsmith
 Healer
