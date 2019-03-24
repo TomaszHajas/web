@@ -183,6 +183,7 @@ Capable
 Restrained
 Unbound
 Stunned
+Sleeping
 Confused
 Conscious
 Unconscious
