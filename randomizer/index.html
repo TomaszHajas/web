@@ -160,12 +160,17 @@
 
 	}
 	
-	fetch("templates.txt")
-  		.then(response => response.text())
-  		.then(text => {
-		randomTemplate = getRandomLine(text);
-		random(randomTemplate);
-	});
+	var template = getQueryVariable("template");
+	if(template != false){
+		random(template);
+	}else{
+		fetch("templates.txt")
+			.then(response => response.text())
+			.then(text => {
+			randomTemplate = getRandomLine(text);
+			random(randomTemplate);
+		});
+	}
 	
 </script>
 
