@@ -62,8 +62,9 @@
        		return(false);
 	}
 	
+	var template = getQueryVariable("template");
 	var seed = getQueryVariable("seed");
-	if(seed == 0 || seed === ""){
+	if((template == 0 || template === "") && (seed == 0 || seed === "")){
 		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+Math.random()*9000000);
 		javascript:window.location.href=address;
 	}
@@ -160,7 +161,6 @@
 
 	}
 	
-	var template = getQueryVariable("template");
 	if(template != false){
 		random(template);
 	}else{
