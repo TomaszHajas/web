@@ -44,15 +44,18 @@ Creativity enhancing, template-based random sentence generator
 [creature/undead]
 
 ###### item
-[item/item]\
+[item/mundane]\
+[item/magic]\
+[item/wondrous]\
+[item/component]\
 [item/ammo]\
 [item/armor]\
 [item/focus]\
 [item/gear]\
 [item/instrument]\
 [item/livestock]\
-[item/melee_weapon]\
-[item/ranged_weapon]\
+[item/melee]\
+[item/ranged]\
 [item/ring]\
 [item/scroll]\
 [item/trade_good]\
