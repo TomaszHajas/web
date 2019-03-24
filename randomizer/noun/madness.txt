@@ -1,0 +1,71 @@
+The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.
+The character becomes incapacitated and spends the duration screaming, laughing, or weeping.
+The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear.
+The character begins babbling and is incapable of normal speech or spellcasting.
+The character must use his or her action each round to attack the nearest creature.
+The character experiences vivid hallucinations and has disadvantage on ability checks.
+The character does whatever anyone tells him or her to do that isn't obviously self-destructive.
+The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.
+The character is stunned.
+The character falls unconscious.
+The opposite sex of his/her own race
+1 - Specific race, 2 - Characters of friendly races but of a specific class, 3 - A specific type of animal, pet, or plant, 4 - Characters using a specific type of weapon, often gunpowder weapons 
+Schizophrenia (WH). At the start of an adventure and every 2 to 3 hours thereafter, the player should roll d9 and consult the following chart: 1 - No effect, 2 - Temporary Amnesia, 3 - Depression, 4 - Heroic Idiocy, 5 - Introversion, 6 - Kleptomania, 7 - Manic, 8 - Megalomania, 9 - Pathological Lying
+The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.
+The character experiences vivid hallucinations and has disadvantage on ability checks.
+The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks
+The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.
+The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.
+The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.
+The character is blinded (25%) or deafened (75%).
+The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.
+The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect.
+Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.
+The character loses the ability to speak.
+The character falls unconscious. No amount of jostling or damage can wake the character.
+The character gains flaw: "Being drunk keeps me sane."
+The character gains flaw: "I keep whatever I find."
+The character gains flaw: "I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name."
+The character gains flaw: "I must bend the truth, exaggerate, or outright lie to be interesting to other people."
+The character gains flaw: "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."
+The character gains flaw: "I find it hard to care about anything that goes on around me."
+The character gains flaw: "I don't like the way people judge me all the time."
+The character gains flaw: "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."
+The character gains flaw: "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time."
+The character gains flaw: "There's only one person I can trust. And only I can see this special friend."
+The character gains flaw: "I can't take anything seriously. The more serious the situation, the funnier I find it."
+The character gains flaw: "I've discovered that I really like killing people."
+Absent-Mindedness (WH). These characters lose concentration quickly and can never remember where things are. They may move or take up during a round, but may never do both.
+Allergy (WH). Such characters are allergic to some substance, e.g., a particular food, animal hair, or dust. The nature of the allergic reaction will vary accordingly, ranging from a rash to uncontrollable sneezing or being violently ill. Dwarfs never suffer from allergies; if the dice indicate that a Dwarf character as an allergy, roll again for another minor disorder.
+Biting Fingernails (WH). This disorder is self-explanatory. It is not harmful, although it may offend some characters.
+Headaches (WH). These characters suffer from blinding headaches which start immediately after any checks against Intelligence, Wisdom or Charisma-based whether or not the check is successful. The headaches last for d100 game turns, during which time all percentage characteristics are reduced by 1 point.
+Narcissism (WH). Characters who develop this unhealthy fascination with their own image must check against Wisdom every time they pass a mirror or other reflecting surface. If the check is failed, they stop immediately, lost in rapt contemplation of their reflection. They make another Wisdom check every round in order to tear themselves away.
+Nightmares (WH). These characters suffer from recurring nightmares, usually of the trauma that caused the disorder. They thrash about and cry out in their sleep, but have no recollection of the dreams when awoken. This does not directly harm the character, but may be irritating to others.
+Shaking: These characters suffer from uncontrollable trembling, which reduces their BS and Dex by 1 point each.
+Skin Complaint (WH). If a character breaks out in a nervous rash, roll on the Hit Location Chart to determine where the rash is. The rash is uncomfortable but not harmful, although a rash on the face will reduce the character's Charisma by d2 points.
+Stammer (WH). Characters with a stammer suffer a penalty of 1 points to Charisma and may not use Charisma-based skills.
+Talking To Self (WH). These characters are constantly talking to themselves in a low mumble which is impossible for other characters to make out, but which is irritating and impossible to ignore. They must pass a Wisdom check in order to stop muttering for d10 game turns and may not use Silent Move or Concealment skills while muttering.
+Talking In Sleep (WH). These characters talk in their sleep, either carrying on a one-sided conversation or giving some sort of running commentary. This is usually connected with the events that led up to the disorder.
+Agoraphobia (WH). Whenever afflicted characters are out of doors, their Wisdom is halved. The gamesmaster may modify this according to circumstances; the character would probably be less nervous in a dense wood than on an open plain. 
+Alcoholism (WH). They become addicted to alcohol and whenever there is an opportunity to drink anything alcoholic, they must pass a Wisdom check in order to resist the temptation. If the test is failed, the character will keep going until the drink runs out or until a Wisdom check is passed. Each drink reduces the character's Wisdom by 1, so it becomes increasingly difficult to resist another drink.
+Alignment Change (WH). Roll 1d3 to determine if character becomes Good, Neutral or Evil, then roll another 1d3 to determine if character becomes Lawful, Neutral or Chaotic.
+Amnesia (WH). Characters cannot remember anything that happened before the disorder took hold. Memory loss is total - they forget their name, life history, and any spells. Skills are not forgotten, but the character will not realise that they are available unless reminded by another character. To overcome amnesia, characters are allowed to make an Intelligence check once per month - at the GM's discretion.
+Animosity (WH). Unreasoning hatred. A character suffers Animosity against: 1 - The opposite sex of own race, 2 - A friendly race, 3 - Friendly races of a specific class, 4 - All friendly characters, 5 - Particular person, group, or religion. Each time character encounters such object of animosity, must pass on Wisdom check or attack immediately. All Charisma checks between them have -2 penalty.
+Anorexia (WH). Characters must pass a Wisdom check after eating or be unable to keep the food down. After one month, character's Constitution fall by 2 points. After two months, character loses next 2 points of Constitution and two points of Strength. After three months, the character gets -2 Armor Class penalty. Lost points are recovered within a month of the affliction being cured.
+Claustrophobia (WH). Fear of confined spaces. The precise definition of a confined space is left up to the GM, but generally anywhere with a ceiling less than 7 feet high, any corridor less than 3 feet wide, or any room less than 5 feet square will cause the character's Wisdom to be temporarily halved.
+Catatonia (WH). Whenever characters with this affliction fails a Fear check. On failure, they become robbed of the power of speech for D6 hours and will not acknowledge the presence of any other creature. On failing a Horror check, they additionally remain frozen to the spot for D6 hours, curled up into a tight ball. 
+Dementia (WH). Each time the character takes any kind of mind-based check the GM should first impose a Wisdom check. If this check is failed, the character fails initial check too and suffers the following temporary effects: Amnesia, all mental attributes drop to 2, character becomes confused and babbles incoherently. Character may make a Wisdom check every 10 minutes in order to revert to normal.
+Depression (WH). Deep pessimism. Depressed characters refuse to see any good, value, or hope in anything. Any attempts to cheer them up are doomed to failure and they lose 1d2 Charisma points.
+Drug Addiction (WH). Character must make Wisdom check every day to resist craving. On failute, they will do everything in their power to obtain the drug and take it immediately. Characters who fail check when drug is not available suffer -2 penalty to Wisdom, Intelligence and Charisma.
+Fear Of Darkness (WH). In total darkness, the character's Wisdom is reduced to a quarter of its normal level. In semi-darkness, such as in moonlight and underground by torchlight, it is halved. 
+Frenzy (WH). A check is made against Wisdom, whenever the character is placed under some kind of stress - principally at the beginning of an encounter. On failure, for duration of the encounter, characters are immune to Fear, will always press attacks on their enemies where given the opportunity, deal +1 melee damage and their AC rises by 1.
+Gluttony (WH). If character has an opportunity to eat during the course of a game, a Wisdom check must be made. If the check is failed, they will eat until there is no food left. For three months, each month of insanity increases character's Constitution by 2, but Initiative falls by 2 and Speed falls by 5. The profile returns to normal within a month of the affliction being cured.
+Hatred (WH). Unreasoning hatred. A character suffers Animosity against: 1 - The opposite sex of own race, 2 - Specific race, 3 - Friendly races of a specific class, 4 - specific animal or pet, 5 - Particular person, group, or religion. Each time character encounters such object of animosity, must pass on Wisdom check or attack immediately. All Charisma checks between them have -2 penalty.
+Heroic Idiocy (WH). Insensitivity to danger. Character with this problem ignore the results of any Fear checks.
+Introversion (WH). Self-centredness. Introverted characters lose interest in the outside world. They lose 1d2 Charisma and must make a Wisdom check in order to make any form of communication.
+Kleptomania (WH). Every time they have an opportunity to steal, a Wisdom check must be made to resist the temptation. The GM should modify the check according to the circumstances: for example, the check might be made against half DC to resist stealing a bag of nuts from a crowded shop or against twice the DC to resist stealing a gem from an idol in a deserted temple.
+Manic (WH). Hyper-tension. Manic characters become tense, wild-eyed, and over-active, gaining 2 Initiative points but losing 1 Charisma. 
+Manic Depression (WH). At the start of an adventure and every 2 to 3 hours thereafter, the player should roll a D6. On a score of 1-3, the character is Manic, while on a score of 4-6 the character is subject to Depression. The die should also be rolled every time the character makes a mind-based check, whether or not the check is successful.
+Megalomania (WH). Inflated ego. Megalomaniacs become filled with an inflated sense of their own importance and an insatiable lust for power. They will seek to be the leader of any group and will go to extreme lengths to gain any position of authority, however mean. They become subject to Animosity against any character who challenges their authority or refuses to obey without question.
+Pathological Lying (WH). Afflicted characters will lie about everything - this has no effect on their character profile or abilities, but should be roleplayed as much as possible. The GM should impose penalties against a pathological liar who tells the truth, regardless of the circumstances.
+Phobia (WH). Irrational fear. These characters become subject to fear against: 
