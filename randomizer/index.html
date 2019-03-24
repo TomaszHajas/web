@@ -162,7 +162,7 @@
 	}
 	
 	if(template != false){
-		random(template);
+		random(urldecode(template));
 	}else{
 		fetch("templates.txt")
 			.then(response => response.text())
