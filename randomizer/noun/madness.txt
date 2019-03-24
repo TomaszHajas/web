@@ -8,9 +8,6 @@ The character does whatever anyone tells him or her to do that isn't obviously s
 The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.
 The character is stunned.
 The character falls unconscious.
-The opposite sex of his/her own race
-1 - Specific race, 2 - Characters of friendly races but of a specific class, 3 - A specific type of animal, pet, or plant, 4 - Characters using a specific type of weapon, often gunpowder weapons 
-Schizophrenia (WH). At the start of an adventure and every 2 to 3 hours thereafter, the player should roll d9 and consult the following chart: 1 - No effect, 2 - Temporary Amnesia, 3 - Depression, 4 - Heroic Idiocy, 5 - Introversion, 6 - Kleptomania, 7 - Manic, 8 - Megalomania, 9 - Pathological Lying
 The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.
 The character experiences vivid hallucinations and has disadvantage on ability checks.
 The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks
@@ -68,4 +65,5 @@ Manic (WH). Hyper-tension. Manic characters become tense, wild-eyed, and over-ac
 Manic Depression (WH). At the start of an adventure and every 2 to 3 hours thereafter, the player should roll a D6. On a score of 1-3, the character is Manic, while on a score of 4-6 the character is subject to Depression. The die should also be rolled every time the character makes a mind-based check, whether or not the check is successful.
 Megalomania (WH). Inflated ego. Megalomaniacs become filled with an inflated sense of their own importance and an insatiable lust for power. They will seek to be the leader of any group and will go to extreme lengths to gain any position of authority, however mean. They become subject to Animosity against any character who challenges their authority or refuses to obey without question.
 Pathological Lying (WH). Afflicted characters will lie about everything - this has no effect on their character profile or abilities, but should be roleplayed as much as possible. The GM should impose penalties against a pathological liar who tells the truth, regardless of the circumstances.
-Phobia (WH). Irrational fear. These characters become subject to fear against: 
+Phobia (WH). Irrational fear. These characters become subject to fear against: 1 - The opposite sex of own race, 2 - Specific race, 3 - Characters of friendly races but of a specific class, 4 - A specific type of animal, pet, or plant, 5 - Characters using a specific type of weapon, often gunpowder weapons 
+Schizophrenia (WH). At the start of an adventure and every 2 to 3 hours thereafter, the player should roll d9 and consult the following chart: 1 - No effect, 2 - Temporary Amnesia, 3 - Depression, 4 - Heroic Idiocy, 5 - Introversion, 6 - Kleptomania, 7 - Manic, 8 - Megalomania, 9 - Pathological Lying
