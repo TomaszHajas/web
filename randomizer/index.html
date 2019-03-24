@@ -62,16 +62,16 @@
        		return(false);
 	}
 	
-	var template = getQueryVariable("template");
-	var seed = getQueryVariable("seed");
-	if((template == false) && (seed == 0 || seed === "")){
-		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+Math.random()*9000000);
+	var paramTemplate = getQueryVariable("template");
+	var paramSeed = getQueryVariable("seed");
+	if((paramTemplate == false) && (paramSeed == 0 || paramSeed === "")){
+		var address = '/randomizer/index.html'+"?paramSeed="+parseInt(1000000+Math.random()*9000000);
 		javascript:window.location.href=address;
 	}
 	
 	function getRandomNumber(){
-		seed = (seed * 9301 + 49297) % 233280;
-		return seed / 233280;
+		paramSeed = (paramSeed * 9301 + 49297) % 233280;
+		return paramSeed / 233280;
 	}
 	
 	function randomize(){
@@ -161,11 +161,13 @@
 
 	}
 	
-	if(template != false){
-		console.log(template);
-		console.log(urldecode(template));
-		random(urldecode(template));
+	if(paramTemplate != false){
+		console.log(paramTemplate);
+		console.log(urldecode(paramTemplate));
+		random(urldecode(paramTemplate));
 	}else{
+		console.log(paramTemplate);
+		console.log(urldecode(paramTemplate));
 		fetch("templates.txt")
 			.then(response => response.text())
 			.then(text => {
