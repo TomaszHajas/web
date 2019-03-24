@@ -164,11 +164,11 @@
 	
 	if(paramTemplate != false){
 		console.log("test1"+paramTemplate);
-		console.log("test2"+urldecode(paramTemplate));
+		console.log("test2"+decodeURI(paramTemplate));
 		random(urldecode(paramTemplate));
 	}else{
 		console.log("test3"+paramTemplate);
-		console.log("test4"+urldecode(paramTemplate));
+		console.log("test4"+decodeURI(paramTemplate));
 		fetch("templates.txt")
 			.then(response => response.text())
 			.then(text => {
