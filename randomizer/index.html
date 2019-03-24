@@ -162,6 +162,8 @@
 	}
 	
 	if(template != false){
+		console.log(template);
+		console.log(urldecode(template));
 		random(urldecode(template));
 	}else{
 		fetch("templates.txt")
