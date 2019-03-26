@@ -101,6 +101,8 @@ Musician
 Performer
 Dancer
 Actor
+Comedian
+Memist
 Hooker
 Tax Collector
 Thug
