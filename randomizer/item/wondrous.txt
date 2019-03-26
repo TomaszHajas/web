@@ -1,20 +1,20 @@
-Azorius Charm
-Boros Charm
+Azorius Charm (500 gp, 0.1 lb)
+Boros Charm (500 gp, 0.1 lb)
 Charm of Animal Conjuring
 Charm of Darkvision
 Charm of Feather Falling
-Charm of Heroism
+Charm of Heroism (180 gp, 0.1 lb)
 Charm of Restoration
 Charm of the Slayer
 Charm of Vitality (960 gp, 0.1 lb)
-Dimir Charm
-Golgari Charm
-Gruul Charm
-Izzet Charm
-Orzhov Charm
-Rakdos Charm
-Selesnya Charm
-Simic Charm
+Dimir Charm (500 gp 0.1 lb)
+Golgari Charm (500 gp, 0.1 lb)
+Gruul Charm (500 gp, 0.1 lb)
+Izzet Charm (500 gp, 0.1 lb)
+Orzhov Charm (500 gp, 0.1 lb)
+Rakdos Charm (500 gp, 0.1 lb)
+Selesnya Charm (500 gp, 0.1 lb)
+Simic Charm (500 gp, 0.1 lb)
 Circlet of Human Perfection (500 gp, 0.5 lb)
 Green Copper Ewer (5000 gp, 0.5 lb)
 Statuette of Saint Markovia (5000 gp, 0.5 lb)
