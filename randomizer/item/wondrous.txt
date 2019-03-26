@@ -1,12 +1,12 @@
 Azorius Charm (500 gp, 0.1 lb)
 Boros Charm (500 gp, 0.1 lb)
-Charm of Animal Conjuring
-Charm of Darkvision
-Charm of Feather Falling
-Charm of Heroism (180 gp, 0.1 lb)
-Charm of Restoration
-Charm of the Slayer
-Charm of Vitality (960 gp, 0.1 lb)
+Charm of Animal Conjuring (750 gp, 0.1 lb)
+Charm of Darkvision (500 gp, 0.1 lb)
+Charm of Feather Falling (1500 gp, 0.1 lb)
+Charm of Heroism (250 gp, 0.1 lb)
+Charm of Restoration (1000 gp, 0.1 lb)
+Charm of the Slayer (10000 gp, 0.1 lb)
+Charm of Vitality (1000 gp, 0.1 lb)
 Dimir Charm (500 gp 0.1 lb)
 Golgari Charm (500 gp, 0.1 lb)
 Gruul Charm (500 gp, 0.1 lb)
