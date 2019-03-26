@@ -161,9 +161,9 @@
 
 	}
 	
-	console.log("TEST: " + urldecode(paramTemplate));
+	console.log("TEST: " + decodeURI(paramTemplate));
 	if(paramTemplate != ""){
-		random(urldecode(paramTemplate));
+		random(decodeURI(paramTemplate));
 	}else{
 		fetch("templates.txt")
 			.then(response => response.text())
