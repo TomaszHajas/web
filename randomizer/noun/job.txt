@@ -151,6 +151,8 @@ Gardener
 Fletcher
 Herald
 Herbalist
+Poisoner
+Tinker
 Knight
 Marshal
 Messenger
