@@ -121,6 +121,7 @@
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
+			console.log("TEMPLATE: "+template);
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
@@ -161,7 +162,6 @@
 
 	}
 	
-	console.log("TEST: " + decodeURI(paramTemplate));
 	if(paramTemplate != ""){
 		random(decodeURI(paramTemplate));
 	}else{
