@@ -64,7 +64,7 @@
 	
 	var paramTemplate = getQueryVariable("template");
 	var paramSeed = getQueryVariable("seed");
-	if((paramTemplate === "" || paramTemplate == false) && (paramSeed == 0 || paramSeed === "")){
+	if((paramTemplate === "" || paramTemplate == false) && (paramSeed == false || paramSeed === "")){
 		console.log("test6"+decodeURI(paramTemplate));
 		var address = '/randomizer/index.html'+"?paramSeed="+parseInt(1000000+Math.random()*9000000);
 		javascript:window.location.href=address;
