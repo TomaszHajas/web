@@ -103,6 +103,7 @@ Dancer
 Actor
 Comedian
 Memist
+Prankster
 Hooker
 Tax Collector
 Thug
@@ -252,6 +253,9 @@ Suicider
 Spiritualist
 Sewer Worker
 Athlete
+Bodybuilder
+Crossfitter
+Dietician
 Navigator
 Peasant
 Landlord
@@ -321,3 +325,4 @@ Coach
 Tatooist
 Gelotologist
 Drug Dealer
+
