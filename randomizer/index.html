@@ -118,6 +118,7 @@
 	}
 	
 	function random(template){
+		console.log(template);
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
@@ -157,6 +158,7 @@
 				}
 			}
 		}else{
+			console.log(template);
 			document.getElementById("random").innerHTML = template;
 		}
 
