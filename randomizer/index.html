@@ -165,7 +165,7 @@
 	}
 	
 	if(paramTemplate != ""){
-		random(decodeURI(paramTemplate));
+		random(decodeURIComponent(paramTemplate));
 	}else{
 		fetch("templates.txt")
 			.then(response => response.text())
