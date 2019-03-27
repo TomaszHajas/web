@@ -215,6 +215,8 @@ Almoner
 Pardoner
 Slave
 Servant
+Homeless
+Scavenger
 Fool
 Teacher
 Mathematician
