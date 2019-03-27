@@ -1,7 +1,7 @@
 # The Randomizer
 Creativity enhancing, template-based random sentence generator
 
-## Sample dice rolls:
+## Dice rolls:
 [2d4]\
 [1d52+0]\
 [1d6+2]\
