@@ -162,7 +162,9 @@
 	}
 	
 	if(paramTemplate != ""){
-		random(decodeURIComponent(paramTemplate));
+		var decodedTemplate = decodeURIComponent(paramTemplate);
+		random(decodedTemplate);
+		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		fetch("templates.txt")
 			.then(response => response.text())
