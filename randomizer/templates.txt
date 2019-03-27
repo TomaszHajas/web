@@ -202,7 +202,7 @@ Love letter from [noun/anglo_saxon_prefix][noun/anglo_saxon_suffix] to [noun/ger
 [Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [item/mundane].
 Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
 Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japanese_prefix][noun/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
-Poster warning about dangers ahead including [noun/abstract].
+Poster warning about dangers ahead involving [noun/abstract].
 [creature] willing to join adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] willing to recruit adventurers.
 [adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
