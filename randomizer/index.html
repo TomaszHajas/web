@@ -135,9 +135,7 @@
 	
 	function random(template){
 		console.log(template);
-		if(template == ''){
-			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
-		}else if(template.includes("[") || template.includes("]")){
+		if(template.includes("[") && template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\.*?\[.*?\].*?\]/;
@@ -146,17 +144,17 @@
 			if(nestedMatch != null && nestedMatch.length > 0){
 				nested = getFirstNestedSquareBrackets(template);
 				console.log("nested "+nested);
-				template = template.replace(nestedMatch[0], random(nested));
+				return random(template.replace(nestedMatch[0], random(nested)));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
-				random(replacedFirstMatch);
+				return random(replacedFirstMatch);
 			}else{
 				if(/\d/.test(firstMatchNoBrackets)){
 					console.log("Die roll detected");
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
-					random(replacedFirstMatch);
+					return random(replacedFirstMatch);
 				}else{
 					console.log("Table roll detected");
 					firstMatchPath = firstMatchNoBrackets+".txt";
@@ -169,31 +167,29 @@
 								.then(response => response.text())
 								.then(text => {
 								replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
-								random(replacedFirstMatch);
+								return random(replacedFirstMatch);
 							})
 						}else{
 							replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
-							random(replacedFirstMatch);
+							return random(replacedFirstMatch);
 						}
 					})
 				}
 			}
-		}else{
-			document.getElementById("random").innerHTML = template;
 		}
 		return template;
 	}
 	
 	if(paramTemplate != ""){
 		var decodedTemplate = decodeURIComponent(paramTemplate);
-		random(decodedTemplate);
+		document.getElementById("random").innerHTML = random(decodedTemplate);
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		fetch("templates.txt")
 			.then(response => response.text())
 			.then(text => {
 			randomTemplate = getRandomLine(text);
-			random(randomTemplate);
+			document.getElementById("random").innerHTML = random(randomTemplate);
 		});
 	}
 	
