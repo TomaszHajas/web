@@ -134,6 +134,7 @@
 	}
 	
 	function random(template){
+		console.log(template);
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
@@ -144,7 +145,6 @@
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(nestedMatch.length > 0){
 				replacedFirstNestedMatch = template.replace(nestedMatch[0]), random(getFirstNestedSquareBrackets(template));
-				console.log(replacedFirstNestedMatch);
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
