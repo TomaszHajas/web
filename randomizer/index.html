@@ -146,7 +146,7 @@
 			if(nestedMatch != null && nestedMatch.length > 0){
 				nested = getFirstNestedSquareBrackets(template);
 				console.log("nested "+nested);
-				template = template.replace(nestedMatch[0]), random(nested);
+				template = template.replace(nestedMatch[0]), random(nested));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
