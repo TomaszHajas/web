@@ -117,14 +117,35 @@
     		return lines[Math.floor(getRandomNumber()*lines.length)].replace(/\r?\n|\r/g, '');
 	}
 	
+	function getFirstNestedSquareBrackets(template){
+		var openingSquareBracketCount = 0;
+		var lastOpeningSquareBracketIndex = 0;
+		for(int i = 0; i < template.length; i++){
+			if(template.charAt(i) == ']' && openingSquareBracketCount > 1){
+			   	return template.substring(lastOpeningSquareBracketIndex, i);
+			}else if(template.charAt(i) == '['){
+				openingSquareBracketCount++;
+				lastOpeningSquareBracketIndex = i;
+			}else if(template.charAt(i) == ']'){
+				openingSquareBracketCount--;
+			}
+		}
+		return template;
+	}
+	
 	function random(template){
 		if(template == ''){
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
+			nestedRegexp = /\.*?\[.*?\].*?\]/;
 			firstMatch = regexp.exec(template)[0];
+			firstNestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			if(firstMatchNoBrackets.includes("|")){
+			if(firstNestedMatch.length > 0){
+				replacedFirstNestedMatch = template.replace(firstNestedMatch), random(getFirstNestedSquareBrackets(template)));
+				console.log(replacedFirstNestedMatch);
+			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
