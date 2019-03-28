@@ -144,7 +144,9 @@
 			nestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(nestedMatch != null && nestedMatch.length > 0){
-				template = template.replace(nestedMatch[0]), random(getFirstNestedSquareBrackets(template));
+				nested = getFirstNestedSquareBrackets(template);
+				console.log("nested "+nested);
+				template = template.replace(nestedMatch[0]), random(nested);
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
