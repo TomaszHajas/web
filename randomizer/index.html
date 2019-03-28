@@ -143,7 +143,7 @@
 			nestedRegexp = /\.*?\[.*?\].*?\]/;
 			nestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			if(nestedMatch.length > 0){
+			if(nestedMatch != null && nestedMatch.length > 0){
 				replacedFirstNestedMatch = template.replace(nestedMatch[0]), random(getFirstNestedSquareBrackets(template));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
