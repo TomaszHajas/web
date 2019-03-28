@@ -291,3 +291,4 @@ Wipe
 Rub
 Paint
 Carve
+Tie
