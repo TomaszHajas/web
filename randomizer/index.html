@@ -120,7 +120,7 @@
 	function getFirstNestedSquareBrackets(template){
 		var openingSquareBracketCount = 0;
 		var lastOpeningSquareBracketIndex = 0;
-		for(int i = 0; i < template.length; i++){
+		for(var i = 0; i < template.length; i++){
 			if(template.charAt(i) == ']' && openingSquareBracketCount > 1){
 			   	return template.substring(lastOpeningSquareBracketIndex, i);
 			}else if(template.charAt(i) == '['){
