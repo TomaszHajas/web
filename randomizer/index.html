@@ -134,7 +134,7 @@
 	}
 	
 	function random(template){
-		console.log(template);
+		console.log("on enter: "+template);
 		if(template.includes("[") && template.includes("]")){
 			regexp = /\[.*?\]/;
 			firstMatch = regexp.exec(template)[0];
@@ -175,6 +175,7 @@
 				})
 			}
 		}
+		console.log("before return: "+template);
 		return template;
 	}
 	
