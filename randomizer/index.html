@@ -138,12 +138,12 @@
 			document.getElementById("random").innerHTML = "ROLL TWICE AND MERGE RESULTS";
 		}else if(template.includes("[") || template.includes("]")){
 			regexp = /\[.*?\]/;
-			nestedRegexp = /\.*?\[.*?\].*?\]/;
 			firstMatch = regexp.exec(template)[0];
-			firstNestedMatch = nestedRegexp.exec(template);
+			nestedRegexp = /\.*?\[.*?\].*?\]/;
+			nestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
-			if(firstNestedMatch.length > 0){
-				replacedFirstNestedMatch = template.replace(firstNestedMatch), random(getFirstNestedSquareBrackets(template));
+			if(nestedMatch.length > 0){
+				replacedFirstNestedMatch = template.replace(nestedMatch[0]), random(getFirstNestedSquareBrackets(template));
 				console.log(replacedFirstNestedMatch);
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
