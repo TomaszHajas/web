@@ -289,3 +289,5 @@ Force
 Invoke
 Wipe
 Rub
+Paint
+Carve
