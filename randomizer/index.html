@@ -150,31 +150,29 @@
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
 				return random(replacedFirstMatch);
+			}else if(/\d/.test(firstMatchNoBrackets)){
+				console.log("Die roll detected");
+				replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
+				return random(replacedFirstMatch);
 			}else{
-				if(/\d/.test(firstMatchNoBrackets)){
-					console.log("Die roll detected");
-					replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
-					return random(replacedFirstMatch);
-				}else{
-					console.log("Table roll detected");
-					firstMatchPath = firstMatchNoBrackets+".txt";
-					fetch(firstMatchPath)
-						.then(response => response.text())
-						.then(text => {
-						if(text.includes("DOCTYPE")){
-							firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
-							fetch(firstMatchPath)
-								.then(response => response.text())
-								.then(text => {
-								replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
-								return random(replacedFirstMatch);
-							})
-						}else{
+				console.log("Table roll detected");
+				firstMatchPath = firstMatchNoBrackets+".txt";
+				fetch(firstMatchPath)
+					.then(response => response.text())
+					.then(text => {
+					if(text.includes("DOCTYPE")){
+						firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
+						fetch(firstMatchPath)
+							.then(response => response.text())
+							.then(text => {
 							replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 							return random(replacedFirstMatch);
-						}
-					})
-				}
+						})
+					}else{
+						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+						return random(replacedFirstMatch);
+					}
+				})
 			}
 		}
 		return template;
