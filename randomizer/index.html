@@ -166,10 +166,12 @@
 							.then(response => response.text())
 							.then(text => {
 							replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+							console.log("1 "+replacedFirstMatch);
 							return random(replacedFirstMatch);
 						})
 					}else{
 						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+						console.log("2 "+replacedFirstMatch);
 						return random(replacedFirstMatch);
 					}
 				})
