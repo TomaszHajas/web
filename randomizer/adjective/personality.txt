@@ -161,3 +161,4 @@ Fanatical
 Moderate
 Dependent
 Independent
+Corrupted
