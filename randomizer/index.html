@@ -157,7 +157,7 @@
 			}else{
 				console.log("Table roll detected");
 				firstMatchPath = firstMatchNoBrackets+".txt";
-				fetch(firstMatchPath)
+				return fetch(firstMatchPath)
 					.then(response => response.text())
 					.then(text => {
 					if(text.includes("DOCTYPE")){
