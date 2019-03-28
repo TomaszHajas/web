@@ -35,6 +35,7 @@ Uncommon
 Exotic
 Ordinary
 Rare
+Legendary
 Regular
 Simple
 Slippery
@@ -129,6 +130,7 @@ Unearthly
 Celestial
 Infernal
 Cursed
+Corrupted
 Blessed
 Ethereal
 Dimensional
