@@ -158,12 +158,16 @@
 				console.log("Table roll detected");
 				firstMatchPath = firstMatchNoBrackets+".txt";
 				
-				var fs = require('fs');
-				var text = fs.readFileSync(firstMatchPath);
+				var req = new XMLHttpRequest();
+    				req.open("GET", firstMatchPath, false); // 'false': synchronous.
+    				req.send(null);
+				var text = req.responseText;
 				
 				if(text.includes("DOCTYPE")){
 					firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
-					text = fs.readFileSync(firstMatchPath);
+					req.open("GET", firstMatchPath, false); // 'false': synchronous.
+    					req.send(null);
+					text = req.responseText;
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 					console.log("1 "+replacedFirstMatch);
 					return random(replacedFirstMatch);
