@@ -157,6 +157,24 @@
 			}else{
 				console.log("Table roll detected");
 				firstMatchPath = firstMatchNoBrackets+".txt";
+				
+				var fs = require('fs');
+				var text = fs.readFileSync(firstMatchPath);
+				
+				if(text.includes("DOCTYPE")){
+					firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
+					var content = fs.readFileSync(firstMatchPath);
+						replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+						console.log("1 "+replacedFirstMatch);
+						return random(replacedFirstMatch);
+					})
+				}else{
+					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+					console.log("2 "+replacedFirstMatch);
+					return random(replacedFirstMatch);
+				}
+				
+				/*
 				return await fetch(firstMatchPath)
 					.then(response => response.text())
 					.then(text => {
@@ -175,6 +193,7 @@
 						return random(replacedFirstMatch);
 					}
 				})
+				*/
 			}
 		}else{
 			console.log("before return: "+template);
