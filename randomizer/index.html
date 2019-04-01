@@ -206,7 +206,9 @@
 	
 	if(paramTemplate != ""){
 		var decodedTemplate = decodeURIComponent(paramTemplate);
-		document.getElementById("random").innerHTML = random(decodedTemplate);
+		random(decodedTemplate).then(function(result){
+			document.getElementById("random").innerHTML = result;
+		});
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		fetch("templates.txt")
