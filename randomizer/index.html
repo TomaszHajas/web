@@ -143,7 +143,7 @@
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(nestedMatch != null && nestedMatch.length > 0){
 				nested = getFirstNestedSquareBrackets(template);
-				console.log("nested "+nested);
+				console.log("nested match"+nestedMatch);
 				return random(template.replace(nestedMatch[0], random(nested))).then(function(result){ return result; });;
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
