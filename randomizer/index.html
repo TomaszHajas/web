@@ -140,12 +140,11 @@
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\[.*?\[.*?\].*?\]/;
 			nestedMatch = nestedRegexp.exec(template);
-			console.log("nestedmatch: "+nestedMatch);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
 			if(nestedMatch != null && nestedMatch.length > 0){
 				nested = getFirstNestedSquareBrackets(template);
 				console.log("nested "+nested);
-				return random(template.replace(nestedMatch[0], random(nested)));
+				return random(template.replace(nestedMatch[0], random(nested))).then(function(result){ return result; });;
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
