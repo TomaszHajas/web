@@ -136,7 +136,7 @@
 	async function random(template){
 		console.log("on enter: "+template);
 		if(template.includes("[") && template.includes("]")){
-			regexp = /\[.*?\]/;
+			regexp = /\[.*?[^[]*\]/;
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\[[^]]*\[[^]]*\][^[]*\]/;
 			nestedMatch = nestedRegexp.exec(template);
