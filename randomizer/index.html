@@ -212,9 +212,9 @@
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		var templateReq = new XMLHttpRequest();
-    		req.open("GET", "templates.txt", false); // 'false': synchronous.
-    		req.send(null);
-		var templates = req.responseText;
+    		templateReq.open("GET", "templates.txt", false); // 'false': synchronous.
+    		templateReq.send(null);
+		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
 		random(randomTemplate).then(function(result){
 			document.getElementById("random").innerHTML = result;
