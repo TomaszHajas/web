@@ -1,46 +1,318 @@
+Alchemist (AL)
+Behtu (ToB)
+Deep One (ToB)
+Deep One Archimandrite (ToB)
+Deep One Hybrid Priest (ToB)
+Derro Fetal Savant (ToB)
+Folk of Leng (ToB)
+Giff
+Moss Lurker (ToB)
+Oak Wilden Clubber (AL)
+Oak Wilden Punisher (AL)
+Sea Spawn
+Skulk
+Zhent Martial Arts Adept
+Engineer
+Hybrid Brute
+Hybrid Flier
+Hybrid Poisoner
+Hybrid Shocker
+Hybrid Spy
 Aarakocra
-Aasimar
-Bugbear
-Deep Gnome
+Aarakocra Simulacra
+Abjurer
+Acolyte
+Anarch
+Apprentice Wizard
+Archdruid
+Archer
+Archmage
+Assassin
+Bandit
+Bandit Captain
+Bandit Lord (ToB)
+Bard
+Berserker
+Biomancer
+Black Knight Commander (ToB)
+Blackguard
+Blood Witch
+Champion
+City Watch Captain (ToB)
+Commoner
+Conjurer
+Cosmotronic Blastseeker
+Counterflux Blastseeker
+Cult Fanatic
+Cultist
+Diviner
+Druid
+Druid of the Old Ways
+Emerald Order Cult Leader (ToB)
+Enchanter
+Evoker
+Firefist
+Flux Blastseeker
+Frontline Medic
+Galvanic Blastseeker
+Gladiator
+Griffon Cavalry Rider
+Guard
+Horncaller
+Illusionist
+Knight
+Kraken Priest
+Lawmage
+Mage
+Martial Arts Adept
+Master Thief
+Mind Mage
+Necromancer
+Noble
+Precognitive Mage
+Priest
+Rakdos Lampooner
+Rakdos Performer, Blade Juggler
+Rakdos Performer, Fire Eater
+Rakdos Performer, High-Wire Acrobat
+Reckoner
+Rubblebelt Stalker
+Scorchbringer Guard
+Scorpion Cultist (ToB)
+Scout
+Soldier
+Spy
+Swashbuckler
+Thought Spy
+Thug
+Transmuter
+Tribal Warrior
+Veteran
+War Priest
+Warlock of the Archfey
+Warlock of the Fiend
+Warlock of the Great Old One
+Warlord
+Bearfolk (ToB)
+Bullywug
+Burrowling (ToB)
 Derro
-Dragonborn
-Drow
+Derro
+Derro Savant
+Derro Savant
+Derro Shadow Antipaladin (ToB)
+Albino Dwarf Spirit Warrior
+Albino Dwarf Warrior
+Deformed Duergar
 Duergar
-Eladrin
-Firbolg
-Forest Gnome
-Genasi
-Ghostwise Halfling
-Gith
+Duergar Darkhaft
+Duergar Despot
+Duergar Kavalrachni
+Duergar Kavalrachni
+Duergar Keeper of the Flame
+Duergar Mind Master
+Duergar Soulblade
+Duergar Soulblade
+Duergar Spy
+Duergar Stone Guard
+Duergar Stone Guard
+Duergar Warlord
+Duergar Xarrorn
+Duergar Xarrorn
+Dwarven Ringmage (ToB)
+Emerald Enclave Scout
+Ilsadun, Mutated Dwarf (AL)
+Lords' Alliance Guard
+Panopticus Wizard
+Wolf Reaver Dwarf (ToB)
+Drow
+Drow Arachnomancer
+Drow Elite Warrior
+Drow Favored Consort
+Drow Gunslinger
+Drow House Captain
+Drow Inquisitor
+Drow Mage
+Drow Matron Mother
+Drow Priestess of Lolth
+Drow Shadowblade
+Elvish Veteran Archer (ToB)
+Gloom Weaver
+Golgari Shaman
+Shadow Dancer
+Shadow Fey (ToB)
+Shadow Fey Duelist (ToB)
+Shadow Fey Forest Hunter (ToB)
+Shadow Fey Guardian (ToB)
+Soul Monger
+Erina Defender (ToB)
+Erina Scrounger (ToB)
+Einherjar (ToB)
+Pine Wilden Ranger (AL)
+Pine Wilden Warrior (AL)
+Willow Wilden Sentinel (AL)
+Willow Wilden Watcher (AL)
+Firenewt Warlock of Imix
+Firenewt Warrior
+Gearforged Templar (ToB)
+Githyanki Gish
+Githyanki Kith'rak
+Githyanki Knight
+Githyanki Supreme Commander
+Githyanki Warrior
+Githzerai Anarch
+Githzerai Enlightened
+Githzerai Monk
+Githzerai Zerth
+Flind
 Gnoll
+Gnoll Fang of Yeenoghu
+Gnoll Flesh Gnawer
+Gnoll Havoc Runner (ToB)
+Gnoll Hunter
+Gnoll Pack Lord
+Deep Gnome (Svirfneblin)
+Devilbound Gnomish Prince (ToB)
+Werebat
+Bugbear
+Bugbear Chief
+Dust Goblin (ToB)
 Goblin
-Goliath
+Goblin Boss
+Goblin Gang MemberKKW
+Hobgoblin
+Hobgoblin Captain
+Hobgoblin Devastator
+Hobgoblin Iron Shadow
+Hobgoblin Warlord
+Nilbog
 Grimlock
 Grung
-Half-Elf
-Half-Orc
-High Elf
-Hill Dwarf
-Hobgoblin
-Human
-Human Variant
+Grung Elite Warrior
+Grung Wildling
+Shard Shunner
+Barovian Witch
+Black Earth Guard
+Black Earth Priest
+Burrowshark
+Crushing Wave Priest
+Crushing Wave Reaver
+Dark Tide Knight
+Dragonclaw
+Dragonfang
+Dragonsoul
+Dragonwing
+Eonic Drifter (ToB)
+Eternal Flame Guardian
+Eternal Flame Priest
+Evil Mage
+Fathomer
+Feathergale Knight
+Flamewrath
+Half-Red Dragon Veteran
+Howling Hatred Initiate
+Howling Hatred Priest
+Hurricane
+Lords' Alliance Spy
+One-Eyed Shiver
+Razerblast
+Redbrand Ruffian
+Sacred Stone Monk
+Skyweaver
+Stonemelder
+Thayan Apprentice
+Thayan Warrior
+Uthgardt Shaman
+Veteran Of The Gauntlet
+Zhentarim Thug
+Werebear
+Wereboar
+Wererat
+Wereraven
+Weretiger
+Werewolf
+Werewolf (Krallenhorde)
 Kenku
+Ravenfolk Doom Croaker (ToB)
+Ravenfolk Scout (ToB)
+Ravenfolk Warrior (ToB)
 Kobold
-Lightfoot Halfling
-Lizardfolk
-Merfolk
-Moutain Dwarf
-Ogrog
-Orc
-Quaggoth
-Rock Gnome
-Sahugin
-Stout Halfling
-Tabaxi
-Tiefling
-Tortle
-Triton
-Troglodyte
+Kobold Alchemist (ToB)
+Kobold Chieftain (ToB)
+Kobold Dragonshield
+Kobold Inventor
+Kobold Scale Sorcerer
+Kobold Trapsmith (ToB)
 Winged Kobold
-Wood Elf
+Kraul Death Priest
+Kraul Warrior
+Kuo-toa
+Kuo-toa Archpriest
+Kuo-toa Monitor
+Kuo-toa Whip
+Lava Child
+Lemurfolk (ToB)
+Lemurfolk Greyfur (ToB)
+Chameleon Lizardfolk Snoop (AL)
+Chameleon Lizardfolk Spy (AL)
+Gecko Lizardfolk Infiltrator (AL)
+Gecko Lizardfolk Scout (AL)
+Gila Lizardfolk Brute (AL)
+Gila Lizardfolk Savage (AL)
+Kes'thak the Lizard King (AL)
+Komodo Lizardfolk Champion (AL)
+Komodo Lizardfolk Sentry (AL)
+Lizard King
+Lizard Queen
+Lizardfolk
+Lizardfolk Shaman
+Qamala, Lizardfolk Priestess (AL)
+Meazel
+Merfolk
+Zegana
+Mongrelfolk
+Nagpa
+Noctiny (ToB)
+Orc
+Orc Blade of Ilneval
+Orc Claw of Luthic
+Orc Eye of Gruumsh
+Orc Hand of Yurtrus
+Orc Nurtured One of Yurtrus
+Orc Red Fang of Shargaas
+Orc War Chief
+Orog
+Quaggoth
+Quaggoth Thonot
+Ramag (ToB)
+Ratfolk (ToB)
+Ratfolk Rogue (ToB)
+Roachling Lord (ToB)
+Roachling Skirmisher (ToB)
+Sahuagin
+Sahuagin Baron
+Sahuagin Priestess
+Shadow Fey Enchantress (ToB)
+Deep Scion
+Jackalwere
+Nkosi (ToB)
+Nkosi Pridelord (ToB)
+Subek (ToB)
+Tabaxi Hunter
+Tabaxi Minstrel
+Thri-kreen
+Thri-kreen (Psionic)
+Tortle
+Tortle
+Tortle Druid
+Tortle Druid
+Tosculi Elite Bow Raider (ToB)
+Troglodyte
+Troglodyte Champion of Laogzed
+Trollkin Reaver (ToB)
+Xvart
+Xvart Speaker
+Xvart Warlock of Raxivort
+Yuan-Ti Broodling (AL)
+Yuan-ti Broodguard
 Yuan-ti Pureblood
