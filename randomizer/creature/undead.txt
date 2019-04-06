@@ -1,57 +1,152 @@
+Accursed Defiler (ToB)
+Acererak Demilich
+Adult Blue Dracolich
 Alhoon
 Allip
+Allosaurus Zombie (AL)
+Angatra (ToB)
 Ankylosaurus Zombie
+Anointed
+Arcane Guardian (ToB)
+Archelon Zombie (AL)
 Ash Zombie
 Avatar of Death
 Banshee
+Beggar Ghoul (ToB)
 Beholder Zombie
-Blazing Skeleton
+Blazing SkeletonStream
+Blood Drinker Vampire
 Bodak
+Bone Collective (ToB)
 Bone Naga (Guardian)
 Bone Naga (Spirit)
 Boneclaw
+Bonepowder Ghoul (ToB)
+Brachiosaurus Zombie (AL)
+Brain in a Jar
+Brontosaurus Zombie (AL)
 Centaur Mummy
+Corpse Mound (ToB)
 Crawling Claw
+Darakhul Ghoul (ToB)
 Death Knight
+Death Tyrant
 Deathlock
 Deathlock Mastermind
 Deathlock Wight
+Deathlock Wight
+Deathwisp (ToB)
+Deinonychus Zombie (AL)
+Demilich
+Devkarin Lich
+Dilophosaurus Zombie (AL)
+Dimetrodon Zombie (AL)
+Dissimortuum (ToB)
 Dread Warrior
+Drowned Maiden (ToB)
+Edimmu (ToB)
 Eidolon
+Emperor of the Ghouls (ToB)
+Eternal
+Fext (ToB)
 Flameskull
+Flutterflesh (ToB)
 Geist
 Ghast
 Ghost
+Ghost Knight (ToB)
 Ghoul
 Giant Skeleton
+Giganotosaurus Zombie (AL)
 Girallon Zombie
+Gloamwing
 Gnoll Witherling
+Gray Thirster (ToB)
 Greater Zombie
+Grim Jester (ToB)
+Hadrosaurus Zombie (AL)
+Haugbui (ToB)
+Illithilich
+Imperial Ghoul (ToB)
+Indentured Spirit
+Iron Ghoul (ToB)
+Jarad Vod Savo
+Lich
+Lich Hound (ToB)
+Mallqui (ToB)
+Mask Wight (ToB)
+Mavka (ToB)
+Mind Drinker Vampire
+Mindful Marauder
+Mindless Marauder
 Minotaur Skeleton
+Mosasaurus Zombie (AL)
 Mummy
+Mummy Lord
+Myling (ToB)
+Nemicolopterus Zombie (AL)
+Nightveil Specter
 Nightwalker
+Nihileth (ToB)
+Nihilethic Zombie (ToB)
+Obzedat Ghost
 Ogre Zombie
 Ooze Master
+Pachycephalosaurus Zombie (AL)
 Phantom Warrior
+Plesiosaurus Zombie (AL)
 Poltergeist
+Pteranodon Zombie (AL)
+Putrid Haunt (ToB)
+Quetzalcoatlus Zombie (AL)
 Revenant
+Risen Reaver (ToB)
+Rotting Wind (ToB)
+Rusalka (ToB)
+Sand Silhouette (ToB)
+Sarcophagus Slime (ToB)
+Sarcosuchus Zombie (AL)
 Shadow
+Shadow Assassin
+Sharkjaw Skeleton (ToB)
+Shroud (ToB)
 Skeleton
+Skin Bat (ToB)
+Skull Lord
 Spawn of Kyuss
 Specter
+Spectral Guardian (ToB)
+Stegosaurus Zombie (AL)
 Strahd Zombie
 Sword Wraith Commander
 Sword Wraith Warrior
+Therizinosaurus Zombie (AL)
 Thunderbeast Skeleton
+Titanosaurus Zombie (AL)
 Tomb Dwarf
 Topi
+Triceratops Zombie (AL)
+Troodon Zombie (AL)
 Tyrannosaurus Zombie
+Undead Bulette
+Vaettir (ToB)
 Vampire Neonate
 Vampire Spawn
 Vampiric Mist
+Vampiric Mist
+Velociraptor Zombie (AL)
+Venomous Mummy (ToB)
 Warhorse Skeleton
 Wight
 Will-o'-Wisp
+Wormhearted Suffragan (ToB)
 Wraith
 Yellow Musk Zombie
+Zealoraptor Zombie (AL)
 Zombie
+Vampire
+Vampire Spellcaster
+Vampire Warlock (ToB)
+Vampire Warrior
+Zorak Lightdrinker
+Atropal
