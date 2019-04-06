@@ -1,71 +1,140 @@
+Cambion
+Cambium (ToB)
+Devourer
+Dream Eater (ToB)
+Hell Hound
+Herald of Blood (ToB)
+Herald of Darkness (ToB)
+Howler
+Kalke (ToB)
+Koschei (ToB)
+Larva
+Night Hag
+Nightmare
+Rakshasa
+Soul Eater (ToB)
+Star-Spawn of Cthulhu (ToB)
+Stuhac (ToB)
+Tiamat
+Umbral Vampire (ToB)
+Vargouille
+Abyssal Giant Lizard (AL)
 Abyssal Wretch
+Akyishigal, Demon Lord of Cockroaches (ToB)
 Alkilith
-Amnizu
-Arcanaloth
+Alquam, Demon Lord of Night (ToB)
+Apau Perape (ToB)
+Archfiend of Ifnir
 Armanite
 Babau
 Balor
-Barbed Devil
-Barghest
+Baphomet
+Baphomet
 Barlgura
+Berstuc (ToB)
+Bulezau
+Cackler
+Camazotz, Demon Lord of Bats and Fire (ToB)
+Chasme
+Demogorgon
+Demogorgon
+Draegloth
+Dretch
+Dybbuk
+Fraz-Urb'luu
+Fraz-Urb'luu
+Glabrezu
+Goristro
+Hezrou
+Juiblex
+Juiblex
+Kishi Demon (ToB)
+Malakbel (ToB)
+Manes
+Marilith
+Master of Cruelties
+Maurezhi
+Maw Demon
+Mechuiti, Demon Lord of Apes (ToB)
+Molydeus
+Nabassu
+Nalfeshnee
+Orcus
+Orcus
+Psoglav Demon (ToB)
+Qorgeth, Demon Lord of The Devouring Worm (ToB)
+Quasit
+Rakdos
+Rubezahl (ToB)
+Rutterkin
+Shadow Demon
+Shoosuva
+Sibriex
+Sire of Insanity
+Soulstringer Demon
+Spawn of Akyishigal (ToB)
+Vrock
+Wastrilith
+Yeenoghu
+Yeenoghu
+Zuggtmoy
+Zuggtmoy
+Tanarukk
+Graz'zt
+Graz'zt
+Yochlol
+Amnizu
+Arbeyach, Prince of Swarms (ToB)
+Automata Devil (ToB)
+Bael
+Barbed Devil
 Bearded Devil
 Black Abishai
 Blue Abishai
 Bone Devil
-Bulezau
-Cambion
-Canoloth
 Chain Devil
-Chasme
-Devourer
-Dhergoloth
-Draegloth
-Dretch
-Dybbuk
+Chort Devil (ToB)
+Crystalline Devil (ToB)
 Erinyes
-Glabrezu
-Goristro
+Geryon
+Gilded Devil (ToB)
 Green Abishai
-Hell Hound
-Hezrou
 Horned Devil
-Howler
-Hydroloth
+Hutijin
 Ice Devil
 Ice Devil Spear
 Imp
-Incubus
-Larva
+Ink Devil (ToB)
+Koralk (Harvester Devil) (ToB)
 Lemure
-Manes
-Marilith
-Maurezhi
-Maw Demon
+Lunar Devil (ToB)
+Mammon, Archduke of Greed (ToB)
 Merregon
-Mezzoloth
-Nabassu
-Nalfeshnee
+Moloch
 Narzugon
-Night Hag
-Nightmare
 Nupperibo
-Nycaloth
-Oinoloth
+Orobas Devil (ToB)
 Orthon
 Pit Fiend
-Quasit
-Rakshasa
 Red Abishai
-Rutterkin
-Shadow Demon
-Shoosuva
+Salt Devil (ToB)
+Spawn of Arbeyach (ToB)
 Spined Devil
-Succubus
-Tanarukk
-Ultroloth
-Vargouille
-Vrock
-Wastrilith
+Titivilus
+Totivillus, Scribe of Hell (ToB)
 White Abishai
+Zariel
+Barghest
+Bouda (ToB)
+Incubus
+Succubus
+Arcanaloth
+Canoloth
+Dhergoloth
+Hydroloth
+Merrenoloth
+Mezzoloth
+Nycaloth
+Oinoloth
+Ultroloth
 Yagnoloth
-Yochlol
