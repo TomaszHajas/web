@@ -150,3 +150,5 @@ Vampire Warlock (ToB)
 Vampire Warrior
 Zorak Lightdrinker
 Atropal
+Bone Swarm (ToB)
+Swarm Of Nemicolopterus Zombies (AL)
