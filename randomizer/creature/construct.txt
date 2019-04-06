@@ -95,3 +95,6 @@ Witchlight (ToB)
 Xanka (ToB)
 Clockwork Abomination (ToB)
 Marut
+Clockwork Beetle Swarm (ToB)
+Swarm of Books
+Swarm of Mechanical Spiders
