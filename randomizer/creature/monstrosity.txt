@@ -1,12 +1,23 @@
 Abominable Yeti
 Adult Kruthik
 Aldani (Lobsterfolk)
+Alseid (ToB)
+Alseid Grovekeeper (ToB)
+Amonkhet Hydra
+Amonkhet Sphinx
+Androsphinx
+Angler Worm (ToB)
 Ankheg
 Banderhobb
 Basilisk
 Behir
+Blemmyes (ToB)
+Bukavac (ToB)
 Bulette
 Carrion Crawler
+Category 1 Krasis
+Category 2 Krasis
+Category 3 Krasis
 Catoblepas
 Cave Fisher
 Centaur
@@ -15,45 +26,65 @@ Chitine
 Choldrith
 Chupacabra
 Cockatrice
+Criosphinx
 Darkmantle
 Death Dog
 Decapus
-Dining Table
 Displacer Beast
-Doppelganger
+Dogmole Juggernaut (ToB)
+Doppelrat (ToB)
 Drider
+Eala (ToB)
 Eblis
 Ettercap
 Female Steeder
 Froghemoth
+Ghostwalk Spider (ToB)
 Giant Ice Toad
+Giant River Serpent
 Giant Strider
 Girallon
+Goat-Man (ToB)
 Gorgon
 Gray Render
 Grick
 Grick Alpha
 Griffon
 Guardian Naga
+Gynosphinx
+Gypsosphinx (ToB)
 Harpy
 Hippogriff
 Homarid
 Hook Horror
+Horakh (ToB)
+Hound of the Night (ToB)
 Hydra
 Ice Toad
+Imy-ut Ushabti (ToB)
+Isonade (ToB)
+Isperia
 Kamadan
+Kot Bayun (ToB)
+Krake Spawn (ToB)
 Kraken
 Kruthik Hive Lord
 Lamia
+Leshy (ToB)
 Leucrotta
+Likho (ToB)
+Loxoda (ToB)
+Mahoru (ToB)
 Male Steeder
 Malformed Kraken
 Manticore
 Manticore, Heart-Piercer
+Map Mimic (ToB)
 Medusa
 Merrow
-Mimic
+Millitaur (ToB)
 Minotaur
+Owl Harpy (ToB)
 Owlbear
 Peryton
 Phase Spider
@@ -61,14 +92,22 @@ Piercer
 Pterafolk
 Purple Worm
 Purple Wormling
+Rat King (ToB)
 Remorhaz
 Roc
 Roper
 Rust Monster
+Sand Hag (ToB)
+Sandwurm
 Sea Lion
+Shadhavar (ToB)
 Shadow Mastiff
-Spider Shark
+Skyjek Roc
+Skyswimmer
+Son of Fenris (ToB)
+Spider SharkMag
 Spirit Naga
+Stryx (ToB)
 Su-Monster
 Sunbird
 The Angry
@@ -77,23 +116,49 @@ The Lonely
 The Lost
 The Wretched
 Tlincalli
+Tosculi Drone (ToB)
+Tosculi Hive-Queen (ToB)
+Tosculi Warrior (ToB)
 Trapper
 Umber Hulk
+Undercity Medusa
+Vapor Lynx (ToB)
+Wampus Cat (ToB)
+Water Leaper (ToB)
+White Ape (ToB)
 Winter Wolf
 Worg
+Wurm
 Yakfolk Priest
 Yakfolk Warrior
+Yestabrod
 Yeti
 Young Kruthik
 Young Remorhaz
+Zorbo
+Dining Table
+Doppelganger
+Dune Mimic (ToB)
+Lazav
+Mimic
 Yuan-ti Abomination
 Yuan-ti Anathema
-Yuan-ti Malison (Snake head)
-Yuan-ti Malison (Snake arms)
-Yuan-ti Malison (Snake lower body)
-Yuan-ti Malison (Snake tails)
-Yuan-ti Malison (Snake skin)
+Yuan-ti Malison (Type 1)
+Yuan-ti Malison (Type 2)
+Yuan-ti Malison (Type 3)
+Yuan-ti Malison (Type 4)
+Yuan-ti Malison (Type 5)
 Yuan-ti Mind Whisperer
 Yuan-ti Nightmare Speaker
 Yuan-ti Pit Master
-Zorbo
+Astral Dreadnought
+Elder Dinosaur
+Elder Dinosaur (Etali, Primal Storm)
+Elder Dinosaur (Ghalta, Primal Hunger)
+Elder Dinosaur (Nezahal, Primal Tide)
+Elder Dinosaur (Tetzimoc, Primal Death)
+Elder Dinosaur (Zacama, Primal Calamity)
+Elder Dinosaur (Zetalpa, Primal Dawn)
+Kraken
+Tarrasque
+Zaratan (ToB)
