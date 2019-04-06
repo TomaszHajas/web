@@ -1,24 +1,35 @@
+Algaepygmy (AL)
 Assassin Vine
 Awakened Shrub
 Awakened Tree
 Awakened Zurkhwood
 Bridesmaid of Zuggtmoy
+Cactid (ToB)
+Cavelight Moss (ToB)
 Chamberlain of Zuggtmoy
+Child of the Briar (ToB)
 Chuul Spore Servant
 Corpse Flower
+Deathcap Myconid (ToB)
+Dragonleaf Tree (ToB)
 Drow Spore Servant
 Duergar Spore Servant
+Frostveil (ToB)
 Gas Spore
 Hook Horror Spore Servant
 Kelpie
 Mantrap
+Mi-Go (ToB)
+Mindrot Thrall (ToB)
 Myconid Adult
 Myconid Sovereign
 Myconid Sprout
 Needle Blight
 Quaggoth Spore Servant
+Ravenala (ToB)
 Shambling Mound
 Shrieker
+Tendril Puppet (ToB)
 Thorn Slinger
 Thorny
 Treant
@@ -27,7 +38,12 @@ Tri-Flower Frond
 Twig Blight
 Vegepygmy
 Vegepygmy Chief
+Vesiculosa (ToB)
 Vine Blight
+Vine Lord (ToB)
+Vine Troll Skeleton (ToB)
 Violet Fungus
+Weeping Treant (ToB)
 Wood Woad
 Yellow Musk Creeper
+Morphoi (ToB)
