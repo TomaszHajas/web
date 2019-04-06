@@ -1,17 +1,28 @@
+Aboleth
+Arboreal Grappler (ToB)
+Asanbosam (ToB)
+Bagiennik (ToB)
+Balhannoth
+Beholder
 Berbalang
 Blue Slaad
+Chelicerae (ToB)
+Choker
 Choker
 Chuul
 Cloaker
 Death Kiss
-Death Slaad
+Dorreq (ToB)
+Eater of Dust (Yakat-Shi) (ToB)
+Elder Brain
+Fate Eater (ToB)
 Flumph
+Flying Horror
 Gauth
 Gazer
 Gibbering Mouther
-Gray Slaad
-Green Slaad
 Grell
+Huge Chuul (AL)
 Intellect Devourer
 Ixitxachitl
 Ixitxachitl Cleric
@@ -19,229 +30,413 @@ Mind Flayer
 Mind Flayer Arcanist
 Mind Flayer Psion
 Mindwitness
+Mngwa (ToB)
+Mordant Snare (ToB)
+Morkoth
 Neogi
 Neogi Hatchling
 Neogi Master
 Neothelid
 Nothic
+Ostinato (ToB)
 Otyugh
+Qwyllion (ToB)
 Red Slaad
+Rift Swine (ToB)
+Shadow Horror
+Shoggoth (ToB)
+Skittering Horror
 Slaad Tadpole
 Spectator
+Spider of Leng (ToB)
 Star Spawn Grue
 Star Spawn Hulk
+Star Spawn Larva Mage
 Star Spawn Mangler
 Star Spawn Seer
+Tusked Skyfish (ToB)
 Ulitharid
+Urochar (Strangling Watcher) (ToB)
 Vampiric Ixitxachitl
 Vampiric Ixitxachitl Cleric
-Allosaurus 
-Almiraj 
-Ankylosaurus 
-Ape 
-Aurochs 
-Axe Beak 
-Baboon 
-Badger 
-Bat 
-Black Bear 
-Blood Hawk 
-Boar 
-Brontosaurus 
-Brown Bear 
-Camel 
-Cat 
-Cave Bear 
-Clawfoot Raptor 
-Constrictor Snake 
-Cow 
-Crab 
-Crag Cat 
-Cranium Rat 
-Crocodile 
-Deep Rothé 
-Deer 
-Deinonychus 
-Dimetrodon 
-Dire Wolf 
-Dolphin 
-Draft Horse 
-Eagle 
-Elephant 
-Elk 
-Female Steeder 
-Flying Monkey 
-Flying Snake 
-Frilled Deathspitter 
-Frog 
-Giant Ape 
-Giant Badger 
-Giant Bat 
-Giant Boar 
-Giant Centipede 
-Giant Constrictor Snake 
-Giant Crab 
-Giant Crayfish 
-Giant Crocodile 
-Giant Eagle 
-Giant Elk 
-Giant Fire Beetle 
-Giant Fly 
-Giant Frog 
-Giant Goat 
-Giant Hyena 
-Giant Lightning Eel 
-Giant Lizard 
-Giant Octopus 
-Giant Owl 
-Giant Poisonous Snake 
-Giant Rat 
-Giant Rat (Diseased) 
-Giant Riding Lizard 
-Giant Scorpion 
-Giant Sea Horse 
-Giant Shark 
-Giant Snapping Turtle 
-Giant Spider 
-Giant Subterranean Lizard 
-Giant Toad 
-Giant Vulture 
-Giant Wasp 
-Giant Weasel 
-Giant Wolf Spider 
-Goat 
-Gremlin 
-Hadrosaurus 
-Hawk 
-Huge Giant Crab 
-Hulking Crab 
-Hunter Shark 
-Hyena 
-Jackal 
-Jaculi 
-Kavu Predator 
-Killer Whale 
-Lion 
-Lizard 
-Male Steeder 
-Mammoth 
-Mastiff 
-Mule 
-Octopus 
-Owl 
-Ox 
-Panther 
-Plesiosaurus 
-Poisonous Snake 
-Polar Bear 
-Pony 
-Pteranodon 
-Quetzalcoatlus 
-Quipper 
-Rat 
-Raven 
-Reef Shark 
-Rhinoceros 
-Riding Horse 
-Rothé 
-Saber-Toothed Tiger 
-Scorpion 
-Sea Horse 
-Serpopard 
-Sky Leviathan 
-Spider 
-Spider King 
-Steel Leaf Kavu 
-Stegosaurus 
-Stench Kow 
-Stirge 
-Tiger 
-Tressym 
-Triceratops 
-Tyrannosaurus Rex 
-Velociraptor 
-Vulture 
-Warhorse 
-Weasel 
-Wolf 
-Swarm of Bats 
-Swarm of Beetles 
-Swarm of Centipedes 
-Swarm of Cranium Rats 
-Swarm of Insects 
-Swarm of Poisonous Snakes 
-Swarm of Quippers 
-Swarm of Rats 
-Swarm of Ravens 
-Swarm of Rot Grubs 
-Swarm of Spiders 
-Swarm of Wasps 
-Thunderbeast Skeleton
+Voidling (ToB)
+Xhkarsh (ToB)
+Mamura (ToB)
+Death Slaad
+Gray Slaad
+Green Slaad
+Allosaurus
+Almiraj
+Ammit
+Amphiptere (ToB)
+Ankylosaurus
+Ape
+Archelon (AL)
+Aurochs
+Awakened Brown Bear
+Awakened Elk
+Awakened Giant Wasp
+Axe Beak
+Baboon
+Badger
+Bastet Temple Cat (ToB)
+Bat
+Black Bear
+Blood Hawk
+Boar
+Bone Crab (ToB)
+Brachiosaurus (AL)
+Brontosaurus
+Brown Bear
+Camel
+Carrion Beetle (ToB)
+Cat
+Cave Bear
+Cerodon
+Clawfoot Raptor
+Constrictor Snake
+Cow
+Crab
+Crag Cat
+Cranium Rat
+Crocodile
+Deep Rothé
+Deer
+Deinonychus
+Dilophosaurus (AL)
+Dimetrodon
+Dire Wolf
+Dogmole (ToB)
+Dolphin
+Draft Horse
+Drakon (ToB)
+Eagle
+Elephant
+Elk
+Female Steeder
+Flying Monkey
+Flying Snake
+Frilled Deathspitter
+Frog
+Garroter Crab (ToB)
+Gbahali (Postosuchus) (ToB)
+Giant Ant (ToB)
+Giant Ant Queen (ToB)
+Giant Ape
+Giant Badger
+Giant Bat
+Giant Boar
+Giant Centipede
+Giant Clam (AL)
+Giant Constrictor Snake
+Giant Crab
+Giant Crayfish
+Giant Crocodile
+Giant Eagle
+Giant Elk
+Giant Fire Beetle
+Giant Fly
+Giant Flying Spider
+Giant Frog
+Giant Goat
+Giant Hyena
+Giant Lightning Eel
+Giant Lizard
+Giant Octopus
+Giant Owl
+Giant Poisonous Snake
+Giant Rat
+Giant Rat (Diseased)
+Giant Riding Lizard
+Giant Scorpion
+Giant Sea Horse
+Giant Shark
+Giant Snapping Turtle
+Giant Spider
+Giant Spitting Lizard (AL)
+Giant Subterranean Lizard
+Giant Toad
+Giant Vulture
+Giant Wasp
+Giant Weasel
+Giant Wolf Spider
+Giganotosaurus (AL)
+Gishath, Sun's Avatar
+Glass Gator (ToB)
+Goat
+Gremlin
+Hadrosaurus
+Haungharassk
+Hawk
+Hippopotamus
+Huge Giant Crab
+Hulking Crab
+Hunter Shark
+Hyena
+J'ba Fofi Spider (ToB)
+Jackal
+Jaculi
+Kavu Predator
+Killer Whale
+Kongamato (ToB)
+Krenshar (AL)
+Large Drake
+Lion
+Lizard
+Male Steeder
+Mammoth
+Mastiff
+Mbielu (ToB)
+Metal Wasp
+Mosasaurus (AL)
+Mule
+Mutated Crocodile (AL)
+Mutated Giant Vultures (AL)
+Mutated Hunting Dogs (AL)
+Nemicolopterus (AL)
+Ngobou (ToB)
+Night Scorpion (ToB)
+Octopus
+Owl
+Ox
+Pachycephalosaurus (AL)
+Panther
+Plesiosaurus
+Poisonous Snake
+Polar Bear
+Pony
+Pteranodon
+Quetzalcoatlus
+Quipper
+Rat
+Raven
+Red-Banded Line Spider (ToB)
+Reef Shark
+Rhinoceros
+Riding Horse
+River Serpent
+Rothé
+Saber-Toothed Tiger
+Sand Spider (ToB)
+Sarcosuchus (AL)
+Savager (ToB)
+Scorpion
+Sea Horse
+Serpopard
+Serpopard (ToB)
+Sky Leviathan
+Small Drake
+Spider
+Spider King
+Spinosaurus (ToB)
+Steel Leaf Kavu
+Stegosaurus
+Stench Kow
+Stirge
+Stygian Fat-Tailed Scorpion (ToB)
+Suturefly (ToB)
+Swamp Adder (ToB)
+Sylgar (AL)
+Therizinosaurus (AL)
+Tiger
+Titanoboa (ToB)
+Titanosaurus (AL)
+Tressym
+Triceratops
+Troodon (AL)
+Tyrannosaurus Rex
+Velociraptor
+Vulture
+War Ostrich (ToB)
+Warhorse
+Weasel
+Wharfling (ToB)
+Wolf
+Ychen Bannog (ToB)
+Young Spinosaurus (ToB)
+Zanskaran Viper (ToB)
+Zealoraptor (AL)
+Andrenjinyi (ToB)
+Angel of Amonkhet
 Archon Of Redemption
+Archon of the Triumvirate
+Battleforce Angel
+Buraq (ToB)
+Chained Angel (ToB)
 Couatl
+Deathpact Angel
 Deva
+Felidar
+Felidar
+Fidele Angel (ToB)
+Firebird (ToB)
+Firemane Angel
+Hundun (ToB)
+Ki-rin
 Pegasus
 Planetar
+Ratatosk (ToB)
+Sandman (ToB)
+Skein Witch (ToB)
+Solar
+Temple Dog (ToB)
+Unicorn
+Uraeus (ToB)
+Valkyrie (ToB)
+Aurelia
+Ancient Titan (ToB)
+Empyrean
+Alchemical Homunculus
+Algorith (ToB)
 Animated Armor
+Animated Ballista
 Animated Object (Huge)
 Animated Object (Large)
 Animated Object (Medium)
 Animated Object (Small)
 Animated Object (Tiny)
+Animated Statue of Lolth
+Animated Stove
 Animated Table
+Bore Worm
 Bronze Scout
+Broodiken (ToB)
 Broom of Animated Attack
 Cadaver Collector
 Clay Gladiator
 Clay Golem
+Clockwork Beetle (ToB)
+Clockwork Hound (ToB)
+Clockwork Huntsman (ToB)
+Clockwork Kraken
+Clockwork Myrmidon (ToB)
+Clockwork Watchman (ToB)
+Clockwork Weaving Spider (ToB)
 Creepy Doll
+Crystal Golem
 Duergar Hammerer
 Duergar Screamer
 Duodrone
+Emerald Eye (ToB)
+Empty Cloak (ToB)
+Eye Golem (ToB)
+Fellforged (ToB)
+Feyward Tree (ToB)
 Flesh Golem
 Flying Staff
 Flying Sword
+Gnarljak (ToB)
 Guardian Portrait
+Halaster Horror
 Hellfire Engine
 Helmed Horror
+Hoard Golem (ToB)
 Homunculus
+Idolic Deity (ToB)
 Iron Cobra
 Iron Golem
-Marut
+Iron Spider
+Library Automaton (ToB)
+Living Unseen Servant
+Living Wick (ToB)
+Loading RigKKW
+Mad Golem
+Monkey Stone Golem (AL)
 Monodrone
+Monolith Champion (ToB)
+Monolith Footman (ToB)
 Nimblewright
 Oaken Bolter
 Pentadrone
+Possessed Pillar (ToB)
 Quadrone
 Retriever
 Rug of Smothering
 Sacred Statue
+Salt Golem (ToB)
+Scaladar
 Scarecrow
+Servitor Thrull
 Servo
+Shabti (ToB)
 Shield Guardian
+Shockerstomper
 Skaab
+Smaragdine Golem (ToB)
+Spider Thief (ToB)
 Spiked Tomb Guardian
+Steam Golem (ToB)
 Steel Predator
 Stone Cursed
 Stone Defender
 Stone Golem
 Stone Juggernaut
 Strahd's Animated Armor
-Swarm of Books
-Swarm of Mechanical Spiders
 Tiny Servant
 Tomb Guardian
+Tophet (ToB)
 Tridrone
+Ushabti (ToB)
 Walking Statue of Waterdeep
+Winged Thrull
+Witchlight (ToB)
+Xanka (ToB)
+Clockwork Abomination (ToB)
+Marut
+
+
+
+Adult Amonkhet Dragon
+Adult Black Dragon
+Adult Blue Dragon
+Adult Brass Dragon
+Adult Bronze Dragon
+Adult Cave Dragon (ToB)
+Adult Copper Dragon
+Adult Flame Dragon (ToB)
+Adult Gold Dragon
+Adult Green Dragon
+Adult Mithral Dragon (ToB)
+Adult Red Dragon
+Adult Sea Dragon (ToB)
+Adult Silver Dragon
+Adult Void Dragon (ToB)
+Adult White Dragon
+Adult Wind Dragon (ToB)
+Alehouse Drake (ToB)
 Ambush Drake
+Amonkhet Dragon Wyrmling
+Ancient Amonkhet Dragon
+Ancient Black Dragon
+Ancient Blue Dragon
+Ancient Brass Dragon
+Ancient Bronze Dragon
+Ancient Copper Dragon
+Ancient Flame Dragon (ToB)
+Ancient Gold Dragon
+Ancient Green Dragon
+Ancient Mithral Dragon (ToB)
+Ancient Red Dragon
+Ancient Sea Dragon (ToB)
+Ancient Silver Dragon
+Ancient Void Dragon (ToB)
+Ancient White Dragon
+Ancient Wind Dragon (ToB)
+Ash Drake (ToB)
 Black Dragon Wyrmling
 Black Guard Drake
 Blue Dragon Wyrmling
 Blue Guard Drake
 Brass Dragon Wyrmling
 Bronze Dragon Wyrmling
+Cave Dragon Wyrmling (ToB)
 Copper Dragon Wyrmling
+Coral Drake (ToB)
+Crimson Drake (ToB)
+Deep Drake (ToB)
+Dragon Eel (ToB)
 Dragon Turtle
+Elder Shadow Drake (ToB)
 Faerie Dragon (Blue)
 Faerie Dragon (Green)
 Faerie Dragon (Indigo)
@@ -249,239 +444,716 @@ Faerie Dragon (Orange)
 Faerie Dragon (Red)
 Faerie Dragon (Violet)
 Faerie Dragon (Yellow)
+Flame Dragon Wyrmling (ToB)
 Gold Dragon Wyrmling
 Green Dragon Wyrmling
 Green Guard Drake
 Guard Drake
+Jaculus (ToB)
+Lantern Dragonette (ToB)
+Lindwurm (ToB)
+Niv-Mizzet
+Paper Drake (ToB)
 Pseudodragon
 Red Dragon Wyrmling
 Red Guard Drake
+Rust Drake (ToB)
+Sandwyrm (ToB)
+Sea Dragon Wyrmling (ToB)
 Silver Dragon Wyrmling
+Star Drake (ToB)
+Void Dragon Wyrmling (ToB)
 White Dragon Wyrmling
 White Guard Drake
+Wind Dragon Wyrmling (ToB)
 Wyvern
+Young Amonkhet Dragon
 Young Black Dragon
 Young Blue Dragon
 Young Brass Dragon
 Young Bronze Dragon
+Young Cave Dragon (ToB)
 Young Copper Dragon
+Young Flame Dragon (ToB)
 Young Gold Dragon
 Young Green Dragon
+Young Mithral Dragon (ToB)
 Young Red Dragon
 Young Red Shadow Dragon
+Young Sea Dragon (ToB)
 Young Silver Dragon
+Young Void Dragon (ToB)
 Young White Dragon
+Young Wind Dragon (ToB)
+Zmey (ToB)
+Zmey Headling (ToB)
+Naina (ToB)
+Adult Rime Worm (ToB)
 Air Elemental
 Air Elemental Myrmidon
+Air Elemental Myrmidon
+Al-Aeshma Genie (ToB)
+Anubian (ToB)
+Arclight Phoenix
 Azer
+Big Xorn
+Blistercoil Weird
+Chronalmental (ToB)
 Chwinga
 Dao
 Djinni
 Dust Mephit
 Earth Elemental
 Earth Elemental Myrmidon
+Earth Elemental Myrmidon
 Efreeti
+Elder Tempest
+Elemental Locus (ToB)
 Fire Elemental
 Fire Elemental Myrmidon
 Fire Elemental Myrmidon
 Fire Snake
+Firegeist (ToB)
 Flail Snail
+Fluxcharger
 Four-Armed Gargoyle
 Frost Salamander
 Galeb Duhr
+Galvanice Weird
 Gargoyle
 Geonid
 Giant Four-Armed Gargoyle
 Ice Mephit
+Imix
 Invisible Stalker
+Leviathan
+Liosalfar (ToB)
 Magma Mephit
 Magmin
 Marid
 Mud Mephit
+Ogrémoch
+Olhydra
+Phoenix
+Poison Weird
+Rime Worm Grub (ToB)
 Salamander
+Sathaq Worm (ToB)
+Slow Storm (ToB)
 Smoke Mephit
+Spark (ToB)
 Steam Mephit
+Thuellai (ToB)
 Water Elemental
 Water Elemental Myrmidon
 Water Elemental Myrmidon
 Water Weird
 Xorn
+Yan-C-Bin
+Zaratan
+Avatar of Boreas
+Elemental (shapechanger)
+
+ToB (3pp)
+Abominable Beauty (ToB)
+Ala (ToB)
 Annis Hag
-Autumn Eladrin
+Aridni (ToB)
+Azza Gremlin (ToB)
+Baba Yaga's Horsemen (Black Night) (ToB)
+Baba Yaga's Horsemen (Bright Day) (ToB)
+Baba Yaga's Horsemen (Red Sun) (ToB)
+Beli (ToB)
+Bereginyas (ToB)
 Bheur Hag
 Blink Dog
+Blood Hag (ToB)
 Boggle
+Boloti (ToB)
+Bucca (ToB)
+Chernomoi (ToB)
+Cikavak (ToB)
+Clurichaun (ToB)
+Conclave Dryad
 Darkling
 Darkling Elder
+Dau (ToB)
+Domovoi (ToB)
 Dryad
-Fey
-Fey (elf)
+Dullahan (ToB)
+Duskthorn Dryad (ToB)
+Eel Hound (ToB)
+Eleinomae (ToB)
+Far Darrig (ToB)
+Fear Smith (ToB)
+Fraughashar (ToB)
+Gerridae (ToB)
 Green Hag
+Ice Maiden (ToB)
+Kikimora (ToB)
 Korred
+Lord of the Hunt (ToB)
+Lorelei (ToB)
+Malphas (Storm Crow) (ToB)
 Meenlock
+Miremal (ToB)
+Mirror Hag (ToB)
+Moonlit King (ToB)
 Nereid
+Nichny (ToB)
 Pixie
+Pombero (ToB)
+Queen of Night and Magic (ToB)
+Queen of Witches (ToB)
 Quickling
+Red Hag (ToB)
+Redcap (ToB)
 Redcap
+River King (ToB)
+Rum Gremlin (ToB)
 Satyr
+Scheznyki (ToB)
 Sea Hag
-Spring Eladrin
+Selang (ToB)
+Shadow Beast (ToB)
+Shellycoat (ToB)
+Snow Queen (ToB)
+Spire Walker (ToB)
 Sprite
+Trostani
+Vila (ToB)
+Vile Barber (ToB)
+Yeth Hound
+Autumn Eladrin
+Spring Eladrin
 Summer Eladrin
 Winter Eladrin
-Yeth Hound
+Bear King (ToB)
+Hulking Whelp (ToB)
+Mirager (ToB)
+Cambion
+Cambium (ToB)
+Devourer
+Dream Eater (ToB)
+Hell Hound
+Herald of Blood (ToB)
+Herald of Darkness (ToB)
+Howler
+Kalke (ToB)
+Koschei (ToB)
+Larva
+Night Hag
+Nightmare
+Rakshasa
+Soul Eater (ToB)
+Star-Spawn of Cthulhu (ToB)
+Stuhac (ToB)
+Tiamat
+Umbral Vampire (ToB)
+Vargouille
+Abyssal Giant Lizard (AL)
 Abyssal Wretch
+Akyishigal, Demon Lord of Cockroaches (ToB)
 Alkilith
-Amnizu
-Arcanaloth
+Alquam, Demon Lord of Night (ToB)
+Apau Perape (ToB)
+Archfiend of Ifnir
 Armanite
 Babau
 Balor
-Barbed Devil
-Barghest
+Baphomet
+Baphomet
 Barlgura
+Berstuc (ToB)
+Bulezau
+Cackler
+Camazotz, Demon Lord of Bats and Fire (ToB)
+Chasme
+Demogorgon
+Demogorgon
+Draegloth
+Dretch
+Dybbuk
+Fraz-Urb'luu
+Fraz-Urb'luu
+Glabrezu
+Goristro
+Hezrou
+Juiblex
+Juiblex
+Kishi Demon (ToB)
+Malakbel (ToB)
+Manes
+Marilith
+Master of Cruelties
+Maurezhi
+Maw Demon
+Mechuiti, Demon Lord of Apes (ToB)
+Molydeus
+Nabassu
+Nalfeshnee
+Orcus
+Orcus
+Psoglav Demon (ToB)
+Qorgeth, Demon Lord of The Devouring Worm (ToB)
+Quasit
+Rakdos
+Rubezahl (ToB)
+Rutterkin
+Shadow Demon
+Shoosuva
+Sibriex
+Sire of Insanity
+Soulstringer Demon
+Spawn of Akyishigal (ToB)
+Vrock
+Wastrilith
+Yeenoghu
+Yeenoghu
+Zuggtmoy
+Zuggtmoy
+Tanarukk
+Graz'zt
+Graz'zt
+Yochlol
+Amnizu
+Arbeyach, Prince of Swarms (ToB)
+Automata Devil (ToB)
+Bael
+Barbed Devil
 Bearded Devil
 Black Abishai
 Blue Abishai
 Bone Devil
-Bulezau
-Cambion
-Canoloth
 Chain Devil
-Chasme
-Devourer
-Dhergoloth
-Draegloth
-Dretch
-Dybbuk
+Chort Devil (ToB)
+Crystalline Devil (ToB)
 Erinyes
-Glabrezu
-Goristro
+Geryon
+Gilded Devil (ToB)
 Green Abishai
-Hell Hound
-Hezrou
 Horned Devil
-Howler
-Hydroloth
+Hutijin
 Ice Devil
 Ice Devil Spear
 Imp
-Incubus
-Larva
+Ink Devil (ToB)
+Koralk (Harvester Devil) (ToB)
 Lemure
-Manes
-Marilith
-Maurezhi
-Maw Demon
+Lunar Devil (ToB)
+Mammon, Archduke of Greed (ToB)
 Merregon
-Mezzoloth
-Nabassu
-Nalfeshnee
+Moloch
 Narzugon
-Night Hag
-Nightmare
 Nupperibo
-Nycaloth
-Oinoloth
+Orobas Devil (ToB)
 Orthon
 Pit Fiend
-Quasit
-Rakshasa
 Red Abishai
-Rutterkin
-Shadow Demon
-Shoosuva
+Salt Devil (ToB)
+Spawn of Arbeyach (ToB)
 Spined Devil
-Succubus
-Tanarukk
-Ultroloth
-Vargouille
-Vrock
-Wastrilith
+Titivilus
+Totivillus, Scribe of Hell (ToB)
 White Abishai
+Zariel
+Barghest
+Bouda (ToB)
+Incubus
+Succubus
+Arcanaloth
+Canoloth
+Dhergoloth
+Hydroloth
+Merrenoloth
+Mezzoloth
+Nycaloth
+Oinoloth
+Ultroloth
 Yagnoloth
-Yochlol
+Bloodfray Giant
+Borborygmos
+Carrion Ogre
 Cloud Giant
-Cloud Giant Smiling One
+Corrupted Ogre Chieftain (ToB)
 Cyclops
+Degenerate Titan (ToB)
+Desert Giant (ToB)
 Dire Troll
 Ettin
 Fire Giant
-Fire Giant Dreadnought
+Flab Giant (ToB)
 Fomorian
+Forest Marauder (ToB)
 Frost Giant
-Frost Giant Everlasting One
+Guardian Giant
+Gug (ToB)
 Half-Ogre (Ogrillon)
 Hill Giant
-Mouth of Grolantor
+Jotun Giant (ToB)
+Lake Troll (ToB)
+Nivix Cyclops
 Ogre
 Ogre Battering Ram
 Ogre Bolt Launcher
 Ogre Chain Brute
 Ogre Howdah
 Oni
+Orzhov Giant
 Rot Troll
 Spirit Troll
 Stone Giant
-Stone Giant Dreamwalker
 Storm Giant
+Sunder Shaman
+Thursir Giant (ToB)
 Troll
 Venom Troll
+Zimwi (ToB)
+Cloud Giant Smiling One
+Fire Giant Dreadnought
+Frost Giant Everlasting One
+Mouth of Grolantor
+Hraesvelgr, The Corpse Swallower (ToB)
+Stone Giant Dreamwalker
+Storm Giant Quintessent
+Alchemist (AL)
+Behtu (ToB)
+Deep One (ToB)
+Deep One Archimandrite (ToB)
+Deep One Hybrid Priest (ToB)
+Derro Fetal Savant (ToB)
+Folk of Leng (ToB)
+Giff
+Moss Lurker (ToB)
+Oak Wilden Clubber (AL)
+Oak Wilden Punisher (AL)
+Sea Spawn
+Skulk
+Zhent Martial Arts Adept
+Engineer
+Hybrid Brute
+Hybrid Flier
+Hybrid Poisoner
+Hybrid Shocker
+Hybrid Spy
 Aarakocra
-Aasimar
-Bugbear
-Deep Gnome
+Aarakocra Simulacra
+Abjurer
+Acolyte
+Anarch
+Apprentice Wizard
+Archdruid
+Archer
+Archmage
+Assassin
+Bandit
+Bandit Captain
+Bandit Lord (ToB)
+Bard
+Berserker
+Biomancer
+Black Knight Commander (ToB)
+Blackguard
+Blood Witch
+Champion
+City Watch Captain (ToB)
+Commoner
+Conjurer
+Cosmotronic Blastseeker
+Counterflux Blastseeker
+Cult Fanatic
+Cultist
+Diviner
+Druid
+Druid of the Old Ways
+Emerald Order Cult Leader (ToB)
+Enchanter
+Evoker
+Firefist
+Flux Blastseeker
+Frontline Medic
+Galvanic Blastseeker
+Gladiator
+Griffon Cavalry Rider
+Guard
+Horncaller
+Illusionist
+Knight
+Kraken Priest
+Lawmage
+Mage
+Martial Arts Adept
+Master Thief
+Mind Mage
+Necromancer
+Noble
+Precognitive Mage
+Priest
+Rakdos Lampooner
+Rakdos Performer, Blade Juggler
+Rakdos Performer, Fire Eater
+Rakdos Performer, High-Wire Acrobat
+Reckoner
+Rubblebelt Stalker
+Scorchbringer Guard
+Scorpion Cultist (ToB)
+Scout
+Soldier
+Spy
+Swashbuckler
+Thought Spy
+Thug
+Transmuter
+Tribal Warrior
+Veteran
+War Priest
+Warlock of the Archfey
+Warlock of the Fiend
+Warlock of the Great Old One
+Warlord
+Bearfolk (ToB)
+Bullywug
+Burrowling (ToB)
 Derro
-Dragonborn
-Drow
+Derro
+Derro Savant
+Derro Savant
+Derro Shadow Antipaladin (ToB)
+Albino Dwarf Spirit Warrior
+Albino Dwarf Warrior
+Deformed Duergar
 Duergar
-Eladrin
-Firbolg
-Forest Gnome
-Genasi
-Ghostwise Halfling
-Gith
+Duergar Darkhaft
+Duergar Despot
+Duergar Kavalrachni
+Duergar Kavalrachni
+Duergar Keeper of the Flame
+Duergar Mind Master
+Duergar Soulblade
+Duergar Soulblade
+Duergar Spy
+Duergar Stone Guard
+Duergar Stone Guard
+Duergar Warlord
+Duergar Xarrorn
+Duergar Xarrorn
+Dwarven Ringmage (ToB)
+Emerald Enclave Scout
+Ilsadun, Mutated Dwarf (AL)
+Lords' Alliance Guard
+Panopticus Wizard
+Wolf Reaver Dwarf (ToB)
+Drow
+Drow Arachnomancer
+Drow Elite Warrior
+Drow Favored Consort
+Drow Gunslinger
+Drow House Captain
+Drow Inquisitor
+Drow Mage
+Drow Matron Mother
+Drow Priestess of Lolth
+Drow Shadowblade
+Elvish Veteran Archer (ToB)
+Gloom Weaver
+Golgari Shaman
+Shadow Dancer
+Shadow Fey (ToB)
+Shadow Fey Duelist (ToB)
+Shadow Fey Forest Hunter (ToB)
+Shadow Fey Guardian (ToB)
+Soul Monger
+Erina Defender (ToB)
+Erina Scrounger (ToB)
+Einherjar (ToB)
+Pine Wilden Ranger (AL)
+Pine Wilden Warrior (AL)
+Willow Wilden Sentinel (AL)
+Willow Wilden Watcher (AL)
+Firenewt Warlock of Imix
+Firenewt Warrior
+Gearforged Templar (ToB)
+Githyanki Gish
+Githyanki Kith'rak
+Githyanki Knight
+Githyanki Supreme Commander
+Githyanki Warrior
+Githzerai Anarch
+Githzerai Enlightened
+Githzerai Monk
+Githzerai Zerth
+Flind
 Gnoll
+Gnoll Fang of Yeenoghu
+Gnoll Flesh Gnawer
+Gnoll Havoc Runner (ToB)
+Gnoll Hunter
+Gnoll Pack Lord
+Deep Gnome (Svirfneblin)
+Devilbound Gnomish Prince (ToB)
+Werebat
+Bugbear
+Bugbear Chief
+Dust Goblin (ToB)
 Goblin
-Goliath
+Goblin Boss
+Goblin Gang MemberKKW
+Hobgoblin
+Hobgoblin Captain
+Hobgoblin Devastator
+Hobgoblin Iron Shadow
+Hobgoblin Warlord
+Nilbog
 Grimlock
 Grung
-Half-Elf
-Half-Orc
-High Elf
-Hill Dwarf
-Hobgoblin
-Human
-Human Variant
+Grung Elite Warrior
+Grung Wildling
+Shard Shunner
+Barovian Witch
+Black Earth Guard
+Black Earth Priest
+Burrowshark
+Crushing Wave Priest
+Crushing Wave Reaver
+Dark Tide Knight
+Dragonclaw
+Dragonfang
+Dragonsoul
+Dragonwing
+Eonic Drifter (ToB)
+Eternal Flame Guardian
+Eternal Flame Priest
+Evil Mage
+Fathomer
+Feathergale Knight
+Flamewrath
+Half-Red Dragon Veteran
+Howling Hatred Initiate
+Howling Hatred Priest
+Hurricane
+Lords' Alliance Spy
+One-Eyed Shiver
+Razerblast
+Redbrand Ruffian
+Sacred Stone Monk
+Skyweaver
+Stonemelder
+Thayan Apprentice
+Thayan Warrior
+Uthgardt Shaman
+Veteran Of The Gauntlet
+Zhentarim Thug
+Werebear
+Wereboar
+Wererat
+Wereraven
+Weretiger
+Werewolf
+Werewolf (Krallenhorde)
 Kenku
+Ravenfolk Doom Croaker (ToB)
+Ravenfolk Scout (ToB)
+Ravenfolk Warrior (ToB)
 Kobold
-Lightfoot Halfling
-Lizardfolk
-Merfolk
-Moutain Dwarf
-Ogrog
-Orc
-Quaggoth
-Rock Gnome
-Sahugin
-Stout Halfling
-Tabaxi
-Tiefling
-Tortle
-Triton
-Troglodyte
+Kobold Alchemist (ToB)
+Kobold Chieftain (ToB)
+Kobold Dragonshield
+Kobold Inventor
+Kobold Scale Sorcerer
+Kobold Trapsmith (ToB)
 Winged Kobold
-Wood Elf
+Kraul Death Priest
+Kraul Warrior
+Kuo-toa
+Kuo-toa Archpriest
+Kuo-toa Monitor
+Kuo-toa Whip
+Lava Child
+Lemurfolk (ToB)
+Lemurfolk Greyfur (ToB)
+Chameleon Lizardfolk Snoop (AL)
+Chameleon Lizardfolk Spy (AL)
+Gecko Lizardfolk Infiltrator (AL)
+Gecko Lizardfolk Scout (AL)
+Gila Lizardfolk Brute (AL)
+Gila Lizardfolk Savage (AL)
+Kes'thak the Lizard King (AL)
+Komodo Lizardfolk Champion (AL)
+Komodo Lizardfolk Sentry (AL)
+Lizard King
+Lizard Queen
+Lizardfolk
+Lizardfolk Shaman
+Qamala, Lizardfolk Priestess (AL)
+Meazel
+Merfolk
+Zegana
+Mongrelfolk
+Nagpa
+Noctiny (ToB)
+Orc
+Orc Blade of Ilneval
+Orc Claw of Luthic
+Orc Eye of Gruumsh
+Orc Hand of Yurtrus
+Orc Nurtured One of Yurtrus
+Orc Red Fang of Shargaas
+Orc War Chief
+Orog
+Quaggoth
+Quaggoth Thonot
+Ramag (ToB)
+Ratfolk (ToB)
+Ratfolk Rogue (ToB)
+Roachling Lord (ToB)
+Roachling Skirmisher (ToB)
+Sahuagin
+Sahuagin Baron
+Sahuagin Priestess
+Shadow Fey Enchantress (ToB)
+Deep Scion
+Jackalwere
+Nkosi (ToB)
+Nkosi Pridelord (ToB)
+Subek (ToB)
+Tabaxi Hunter
+Tabaxi Minstrel
+Thri-kreen
+Thri-kreen (Psionic)
+Tortle
+Tortle
+Tortle Druid
+Tortle Druid
+Tosculi Elite Bow Raider (ToB)
+Troglodyte
+Troglodyte Champion of Laogzed
+Trollkin Reaver (ToB)
+Xvart
+Xvart Speaker
+Xvart Warlock of Raxivort
+Yuan-Ti Broodling (AL)
+Yuan-ti Broodguard
 Yuan-ti Pureblood
 Abominable Yeti
 Adult Kruthik
 Aldani (Lobsterfolk)
+Alseid (ToB)
+Alseid Grovekeeper (ToB)
+Amonkhet Hydra
+Amonkhet Sphinx
+Androsphinx
+Angler Worm (ToB)
 Ankheg
 Banderhobb
 Basilisk
 Behir
+Blemmyes (ToB)
+Bukavac (ToB)
 Bulette
 Carrion Crawler
+Category 1 Krasis
+Category 2 Krasis
+Category 3 Krasis
 Catoblepas
 Cave Fisher
 Centaur
@@ -490,45 +1162,65 @@ Chitine
 Choldrith
 Chupacabra
 Cockatrice
+Criosphinx
 Darkmantle
 Death Dog
 Decapus
-Dining Table
 Displacer Beast
-Doppelganger
+Dogmole Juggernaut (ToB)
+Doppelrat (ToB)
 Drider
+Eala (ToB)
 Eblis
 Ettercap
 Female Steeder
 Froghemoth
+Ghostwalk Spider (ToB)
 Giant Ice Toad
+Giant River Serpent
 Giant Strider
 Girallon
+Goat-Man (ToB)
 Gorgon
 Gray Render
 Grick
 Grick Alpha
 Griffon
 Guardian Naga
+Gynosphinx
+Gypsosphinx (ToB)
 Harpy
 Hippogriff
 Homarid
 Hook Horror
+Horakh (ToB)
+Hound of the Night (ToB)
 Hydra
 Ice Toad
+Imy-ut Ushabti (ToB)
+Isonade (ToB)
+Isperia
 Kamadan
+Kot Bayun (ToB)
+Krake Spawn (ToB)
 Kraken
 Kruthik Hive Lord
 Lamia
+Leshy (ToB)
 Leucrotta
+Likho (ToB)
+Loxoda (ToB)
+Mahoru (ToB)
 Male Steeder
 Malformed Kraken
 Manticore
 Manticore, Heart-Piercer
+Map Mimic (ToB)
 Medusa
 Merrow
-Mimic
+Millitaur (ToB)
 Minotaur
+Owl Harpy (ToB)
 Owlbear
 Peryton
 Phase Spider
@@ -536,14 +1228,22 @@ Piercer
 Pterafolk
 Purple Worm
 Purple Wormling
+Rat King (ToB)
 Remorhaz
 Roc
 Roper
 Rust Monster
+Sand Hag (ToB)
+Sandwurm
 Sea Lion
+Shadhavar (ToB)
 Shadow Mastiff
-Spider Shark
+Skyjek Roc
+Skyswimmer
+Son of Fenris (ToB)
+Spider SharkMag
 Spirit Naga
+Stryx (ToB)
 Su-Monster
 Sunbird
 The Angry
@@ -552,56 +1252,102 @@ The Lonely
 The Lost
 The Wretched
 Tlincalli
+Tosculi Drone (ToB)
+Tosculi Hive-Queen (ToB)
+Tosculi Warrior (ToB)
 Trapper
 Umber Hulk
+Undercity Medusa
+Vapor Lynx (ToB)
+Wampus Cat (ToB)
+Water Leaper (ToB)
+White Ape (ToB)
 Winter Wolf
 Worg
+Wurm
 Yakfolk Priest
 Yakfolk Warrior
+Yestabrod
 Yeti
 Young Kruthik
 Young Remorhaz
+Zorbo
+Dining Table
+Doppelganger
+Dune Mimic (ToB)
+Lazav
+Mimic
 Yuan-ti Abomination
 Yuan-ti Anathema
-Yuan-ti Malison (Snake head)
-Yuan-ti Malison (Snake arms)
-Yuan-ti Malison (Snake lower body)
-Yuan-ti Malison (Snake tails)
-Yuan-ti Malison (Snake skin)
+Yuan-ti Malison (Type 1)
+Yuan-ti Malison (Type 2)
+Yuan-ti Malison (Type 3)
+Yuan-ti Malison (Type 4)
+Yuan-ti Malison (Type 5)
 Yuan-ti Mind Whisperer
 Yuan-ti Nightmare Speaker
 Yuan-ti Pit Master
-Zorbo
+Astral Dreadnought
+Elder Dinosaur
+Elder Dinosaur (Etali, Primal Storm)
+Elder Dinosaur (Ghalta, Primal Hunger)
+Elder Dinosaur (Nezahal, Primal Tide)
+Elder Dinosaur (Tetzimoc, Primal Death)
+Elder Dinosaur (Zacama, Primal Calamity)
+Elder Dinosaur (Zetalpa, Primal Dawn)
+Kraken
+Tarrasque
+Zaratan (ToB)
 Adult Oblex
 Black Pudding
+Corrupting Ooze (ToB)
+Dipsa (ToB)
 Elder Oblex
 Gelatinous Cube
 Gray Ooze
 Gray Ooze (Psychic)
+Huge Gray Ooze
+Intelligent Black Pudding
 Oblex Spawn
 Ochre Jelly
+Oozasis (ToB)
+Ooze-Folk
+Sap Demon (ToB)
+Skitterhaunt (ToB)
 Slithering Tracker
+Treacle (ToB)
+Algaepygmy (AL)
 Assassin Vine
 Awakened Shrub
 Awakened Tree
 Awakened Zurkhwood
 Bridesmaid of Zuggtmoy
+Cactid (ToB)
+Cavelight Moss (ToB)
 Chamberlain of Zuggtmoy
+Child of the Briar (ToB)
 Chuul Spore Servant
 Corpse Flower
+Deathcap Myconid (ToB)
+Dragonleaf Tree (ToB)
 Drow Spore Servant
 Duergar Spore Servant
+Frostveil (ToB)
 Gas Spore
 Hook Horror Spore Servant
 Kelpie
 Mantrap
+Mi-Go (ToB)
+Mindrot Thrall (ToB)
 Myconid Adult
 Myconid Sovereign
 Myconid Sprout
 Needle Blight
 Quaggoth Spore Servant
+Ravenala (ToB)
 Shambling Mound
 Shrieker
+Tendril Puppet (ToB)
 Thorn Slinger
 Thorny
 Treant
@@ -610,64 +1356,193 @@ Tri-Flower Frond
 Twig Blight
 Vegepygmy
 Vegepygmy Chief
+Vesiculosa (ToB)
 Vine Blight
+Vine Lord (ToB)
+Vine Troll Skeleton (ToB)
 Violet Fungus
+Weeping Treant (ToB)
 Wood Woad
 Yellow Musk Creeper
+Morphoi (ToB)
+Wolf Spirit Swarm (ToB)
+Oculo Swarm (ToB)
+Death Butterfly Swarm (ToB)
+Greater Death Butterfly Swarm (ToB)
+Manabane Scarab Swarm (ToB)
+Prismatic Beetle Swarm (ToB)
+Swarm Of Nemicolopterus (AL)
+Swarm of Bats
+Swarm of Beetles
+Swarm of Centipedes
+Swarm of Cranium Rats
+Swarm of Insects
+Swarm of Poisonous Snakes
+Swarm of Quippers
+Swarm of Rats
+Swarm of Ravens
+Swarm of Rot Grubs
+Swarm of Spiders
+Swarm of Wasps
+Wharfling Swarm (ToB)
+Clockwork Beetle Swarm (ToB)
+Swarm of Books
+Swarm of Mechanical Spiders
+Fire Dancer Swarm (ToB)
+Sluagh Swarm (ToB)
+Ia'Affrat the Insatiable (ToB)
+Cobbleswarm (ToB)
+Bone Swarm (ToB)
+Swarm Of Nemicolopterus Zombies (AL)
+Accursed Defiler (ToB)
+Acererak Demilich
+Adult Blue Dracolich
 Alhoon
 Allip
+Allosaurus Zombie (AL)
+Angatra (ToB)
 Ankylosaurus Zombie
+Anointed
+Arcane Guardian (ToB)
+Archelon Zombie (AL)
 Ash Zombie
 Avatar of Death
 Banshee
+Beggar Ghoul (ToB)
 Beholder Zombie
-Blazing Skeleton
+Blazing SkeletonStream
+Blood Drinker Vampire
 Bodak
+Bone Collective (ToB)
 Bone Naga (Guardian)
 Bone Naga (Spirit)
 Boneclaw
+Bonepowder Ghoul (ToB)
+Brachiosaurus Zombie (AL)
+Brain in a Jar
+Brontosaurus Zombie (AL)
 Centaur Mummy
+Corpse Mound (ToB)
 Crawling Claw
+Darakhul Ghoul (ToB)
 Death Knight
+Death Tyrant
 Deathlock
 Deathlock Mastermind
 Deathlock Wight
+Deathlock Wight
+Deathwisp (ToB)
+Deinonychus Zombie (AL)
+Demilich
+Devkarin Lich
+Dilophosaurus Zombie (AL)
+Dimetrodon Zombie (AL)
+Dissimortuum (ToB)
 Dread Warrior
+Drowned Maiden (ToB)
+Edimmu (ToB)
 Eidolon
+Emperor of the Ghouls (ToB)
+Eternal
+Fext (ToB)
 Flameskull
+Flutterflesh (ToB)
 Geist
 Ghast
 Ghost
+Ghost Knight (ToB)
 Ghoul
 Giant Skeleton
+Giganotosaurus Zombie (AL)
 Girallon Zombie
+Gloamwing
 Gnoll Witherling
+Gray Thirster (ToB)
 Greater Zombie
+Grim Jester (ToB)
+Hadrosaurus Zombie (AL)
+Haugbui (ToB)
+Illithilich
+Imperial Ghoul (ToB)
+Indentured Spirit
+Iron Ghoul (ToB)
+Jarad Vod Savo
+Lich
+Lich Hound (ToB)
+Mallqui (ToB)
+Mask Wight (ToB)
+Mavka (ToB)
+Mind Drinker Vampire
+Mindful Marauder
+Mindless Marauder
 Minotaur Skeleton
+Mosasaurus Zombie (AL)
 Mummy
+Mummy Lord
+Myling (ToB)
+Nemicolopterus Zombie (AL)
+Nightveil Specter
 Nightwalker
+Nihileth (ToB)
+Nihilethic Zombie (ToB)
+Obzedat Ghost
 Ogre Zombie
 Ooze Master
+Pachycephalosaurus Zombie (AL)
 Phantom Warrior
+Plesiosaurus Zombie (AL)
 Poltergeist
+Pteranodon Zombie (AL)
+Putrid Haunt (ToB)
+Quetzalcoatlus Zombie (AL)
 Revenant
+Risen Reaver (ToB)
+Rotting Wind (ToB)
+Rusalka (ToB)
+Sand Silhouette (ToB)
+Sarcophagus Slime (ToB)
+Sarcosuchus Zombie (AL)
 Shadow
+Shadow Assassin
+Sharkjaw Skeleton (ToB)
+Shroud (ToB)
 Skeleton
+Skin Bat (ToB)
+Skull Lord
 Spawn of Kyuss
 Specter
+Spectral Guardian (ToB)
+Stegosaurus Zombie (AL)
 Strahd Zombie
 Sword Wraith Commander
 Sword Wraith Warrior
+Therizinosaurus Zombie (AL)
 Thunderbeast Skeleton
+Titanosaurus Zombie (AL)
 Tomb Dwarf
 Topi
+Triceratops Zombie (AL)
+Troodon Zombie (AL)
 Tyrannosaurus Zombie
+Undead Bulette
+Vaettir (ToB)
 Vampire Neonate
 Vampire Spawn
 Vampiric Mist
+Vampiric Mist
+Velociraptor Zombie (AL)
+Venomous Mummy (ToB)
 Warhorse Skeleton
 Wight
 Will-o'-Wisp
+Wormhearted Suffragan (ToB)
 Wraith
 Yellow Musk Zombie
+Zealoraptor Zombie (AL)
 Zombie
+Vampire
+Vampire Spellcaster
+Vampire Warlock (ToB)
+Vampire Warrior
+Zorak Lightdrinker
+Atropal
