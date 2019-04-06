@@ -1,51 +1,97 @@
+Alchemical Homunculus
+Algorith (ToB)
 Animated Armor
+Animated Ballista
 Animated Object (Huge)
 Animated Object (Large)
 Animated Object (Medium)
 Animated Object (Small)
 Animated Object (Tiny)
+Animated Statue of Lolth
+Animated Stove
 Animated Table
+Bore Worm
 Bronze Scout
+Broodiken (ToB)
 Broom of Animated Attack
 Cadaver Collector
 Clay Gladiator
 Clay Golem
+Clockwork Beetle (ToB)
+Clockwork Hound (ToB)
+Clockwork Huntsman (ToB)
+Clockwork Kraken
+Clockwork Myrmidon (ToB)
+Clockwork Watchman (ToB)
+Clockwork Weaving Spider (ToB)
 Creepy Doll
+Crystal Golem
 Duergar Hammerer
 Duergar Screamer
 Duodrone
+Emerald Eye (ToB)
+Empty Cloak (ToB)
+Eye Golem (ToB)
+Fellforged (ToB)
+Feyward Tree (ToB)
 Flesh Golem
 Flying Staff
 Flying Sword
+Gnarljak (ToB)
 Guardian Portrait
+Halaster Horror
 Hellfire Engine
 Helmed Horror
+Hoard Golem (ToB)
 Homunculus
+Idolic Deity (ToB)
 Iron Cobra
 Iron Golem
-Marut
+Iron Spider
+Library Automaton (ToB)
+Living Unseen Servant
+Living Wick (ToB)
+Loading RigKKW
+Mad Golem
+Monkey Stone Golem (AL)
 Monodrone
+Monolith Champion (ToB)
+Monolith Footman (ToB)
 Nimblewright
 Oaken Bolter
 Pentadrone
+Possessed Pillar (ToB)
 Quadrone
 Retriever
 Rug of Smothering
 Sacred Statue
+Salt Golem (ToB)
+Scaladar
 Scarecrow
+Servitor Thrull
 Servo
+Shabti (ToB)
 Shield Guardian
+Shockerstomper
 Skaab
+Smaragdine Golem (ToB)
+Spider Thief (ToB)
 Spiked Tomb Guardian
+Steam Golem (ToB)
 Steel Predator
 Stone Cursed
 Stone Defender
 Stone Golem
 Stone Juggernaut
 Strahd's Animated Armor
-Swarm of Books
-Swarm of Mechanical Spiders
 Tiny Servant
 Tomb Guardian
+Tophet (ToB)
 Tridrone
+Ushabti (ToB)
 Walking Statue of Waterdeep
+Winged Thrull
+Witchlight (ToB)
+Xanka (ToB)
+Clockwork Abomination (ToB)
+Marut
