@@ -189,3 +189,21 @@ Ychen Bannog (ToB)
 Young Spinosaurus (ToB)
 Zanskaran Viper (ToB)
 Zealoraptor (AL)
+Death Butterfly Swarm (ToB)
+Greater Death Butterfly Swarm (ToB)
+Manabane Scarab Swarm (ToB)
+Prismatic Beetle Swarm (ToB)
+Swarm Of Nemicolopterus (AL)
+Swarm of Bats
+Swarm of Beetles
+Swarm of Centipedes
+Swarm of Cranium Rats
+Swarm of Insects
+Swarm of Poisonous Snakes
+Swarm of Quippers
+Swarm of Rats
+Swarm of Ravens
+Swarm of Rot Grubs
+Swarm of Spiders
+Swarm of Wasps
+Wharfling Swarm (ToB)
