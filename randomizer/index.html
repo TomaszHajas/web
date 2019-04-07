@@ -135,8 +135,9 @@
 				mostNestedClosingSquareBracketIndex = i;
 			}
 		}
-		var mostNestedRandom = random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex)).then(function(result){ return result; });
-		return template.substring(0, mostNestedOpeningSquareBracketIndex) + mostNestedRandom + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
+		random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex)).then(function(result){ 
+			return template.substring(0, mostNestedOpeningSquareBracketIndex) + result + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
+		});
 	}
 	
 	async function random(template){
