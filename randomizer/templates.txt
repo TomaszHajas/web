@@ -1,3 +1,28 @@
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] claiming he/she's a reverse [noun/job].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] who thinks he/she's [creature].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [merchant|trader|clerk] [trading magical items|buying up all possible items for [1d5*10]% of their market price||buying [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price|selling [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price|renting [item/mundane]s and [item/mundane]s for [1d10*10]% of their market price per day and 10x cheaper per hour].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] looking for item related to his/her job.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] forcing his/her services on adventurers and demanding a payment.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] disturbing adventurers by performing his/her job.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] offering help in things related to his/her job.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] performing his/er job.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who tells a riddle, rewarding with [adjective/item] [item/mundane] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] on a quest to [verb/verb] [|his/her] [creature].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who tells a local legend about [creature] which [managed|attempted|failed] to [verb/verb] [creature].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling a local rumor about [creature/humanoid] who [managed|attempted|failed] to [verb/verb] [item/mundane].
+[adjective/appearance] [adjective/personality] [creature/humanoid] willing to join adventurers. He/she's secretely cursed and transforms into [creature] each time he/she attempts to [verb/verb] something. [|The curse is infectious.]
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] trying to [verb/verb] adventurers.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who lost a way.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] [questioning [noun/abstract]|pondering if [noun/abstract] is better than [noun/abstract]|wondering if [item/mundane] is more useful than [item/mundane]].
+Drunk [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] asking for money.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] trying to blackmail adventurers.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] [breaking local law|enforcing local law on adventurers].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] willing to recruit adventurers.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
+Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/mundane].
 [creature] investigating some other encounter.
 [creature]'s [tracks|droppings|body part].
 Damaged environmental object.
@@ -45,24 +70,7 @@ Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/
 Path-blocking environmental object.
 Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
 [creature/beast] without owner. It seems to have a collar with a name tag - "[noun/hindu_prefix][noun/japanese_suffix]".
-[adjective/appearance] [adjective/personality] [creature/humanoid] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
-[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
 [creature] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing]. [|Seems to ignore his/her condition.]
-[adjective/appearance] [adjective/personality] [creature/humanoid] on a quest to [verb/verb] [|his/her] [creature].
-Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/mundane].
-[adjective/appearance] [adjective/personality] [creature/humanoid] claiming he's a reverse [noun/job].
-[adjective/appearance] [adjective/personality] [creature/humanoid] who thinks he/she's [creature].
-[adjective/appearance] [adjective/personality] [creature/humanoid] merchant trading magical items.
-[adjective/appearance] [adjective/personality] [creature/humanoid] merchant buying up all possible items for [1d5*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] trader buying [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] trader selling [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price.
-[adjective/appearance] [adjective/personality] [creature/humanoid] rental clerk renting [item/mundane]s and [item/mundane]s for [1d10*10]% of their market price per day and 10x cheaper per hour.
-[adjective/appearance] [adjective/personality] [noun/job] looking for item related to his/her job.
-[adjective/appearance] [adjective/personality] [noun/job] forcing his/her services on adventurers and demanding a payment.
-[adjective/appearance] [adjective/personality] [noun/job] disturbing adventurers by performing his/her job.
-[adjective/appearance] [adjective/personality] [noun/job] offering help in things related to his/her job.
-[adjective/appearance] [adjective/personality] [noun/job] performing his/er job.
-[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a riddle, rewarding with [adjective/item] [item/mundane] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [place/area]s - who am I?"
 Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/beast].
 Mysterious puzzle which can be easily solved with use of [item/mundane].
@@ -74,26 +82,13 @@ Spy among adventurers. It is widely known the spy knows only a part of rumor con
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] wanting adventurers to [verb/verb] [creature].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] asking adventurers to [verb/verb] [item/mundane].
 [adjective/personality] [god|goddess|deity|demon] of [noun/abstract] ordering adventurers to [verb/verb] [place/structure].
-[adjective/appearance] [adjective/personality] [creature/humanoid] who tells a local legend about [creature] which [managed|attempted|failed] to [verb/verb] [creature].
-[adjective/appearance] [adjective/personality] [creature/humanoid] telling a local rumor about [creature/humanoid] who [managed|attempted|failed] to [verb/verb] [item/mundane].
 [creature/humanoid] [about|attempting|failing] to [verb/verb] [creature/humanoid].
 [creature] trying to [verb/verb] adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] willing to join adventurers. He/she's secretely cursed and transforms into [creature] each time he/she attempts to [verb/verb] something. [|The curse is infectious.]
-[adjective/appearance] [adjective/personality] [creature/humanoid] trying to [verb/verb] adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] who lost a way.
-[adjective/appearance] [adjective/personality] [creature/humanoid] questioning [noun/abstract].
-[adjective/appearance] [adjective/personality] [creature/humanoid] pondering if [noun/abstract] is better than [noun/abstract].
-[adjective/appearance] [adjective/personality] [creature/humanoid] wondering if [item/mundane] is more useful than [item/mundane].
-Drunk [adjective/appearance] [adjective/personality] [creature/humanoid].
-[adjective/appearance] [adjective/personality] [creature/humanoid] asking for money.
-[adjective/appearance] [adjective/personality] [creature/humanoid] trying to blackmail adventurers.
 Two [creature/humanoid]s arguing over the way they should go.
 Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
-[adjective/appearance] [adjective/personality] [creature/humanoid] being executed by [creature/humanoid]s.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] being executed by [2d4] [creature/humanoid]s.
 Sleeping [creature]. [|With eyes open.|In weird position.|Snoring loudly.]
 Shady [adjective/appearance] character [managing|attempting|failing] to hide his/her identity.
-[adjective/appearance] [adjective/personality] [creature/humanoid] breaking local law.
-[adjective/appearance] [adjective/personality] [creature/humanoid] enforcing local law on adventurers.
 Group of [2d4] [creature/humanoid]s debating over a local problem.
 Group of [2d4] hostile [creature]s approaching from [one side|two sides|all sides].
 [adjective/personality] [creature] leading group of [2d4] [creature]s.
@@ -163,11 +158,11 @@ Vision obscurement - [fog|dust|smoke|mist|gas|darkness|swarm of insects|lush veg
 Swarm of [adjective/color] insects.
 Sudden [minor landslide|avalanche|earthquake].
 [Quicksand|Sinkhole] on path.
-Toll station stationed by [adjective/appearance] [adjective/personality] [creature/humanoid].
-[adjective/appearance] [adjective/personality] [creature/humanoid] who mistook one of the adventurers for person named [noun/hindu_prefix][noun/hindu_suffix].
-[adjective/appearance] [adjective/personality] [creature/humanoid] which shares rumor for a rumor.
-[adjective/appearance] [adjective/personality] [creature/humanoid] who wants to [verb/verb] adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] asking adventurers for direction to [adjective/place] [place/structure].
+Toll station stationed by [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who mistook one of the adventurers for person named [noun/hindu_prefix][noun/hindu_suffix].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] which shares rumor for a rumor.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who wants to [verb/verb] adventurers.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] asking adventurers for direction to [adjective/place] [place/structure].
 Beautiful view of [adjective/place] [place/area].
 Hideout [behind a waterfall|on a tree] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [adjective/item] [item/mundane] and [adjective/item] [item/mundane].
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with magical [item/mundane] of [noun/abstract] which will [verb/verb] anything touched with its tip.
@@ -204,8 +199,6 @@ Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait
 Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japanese_prefix][noun/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
 Poster warning about dangers ahead involving [noun/abstract].
 [creature] willing to join adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] willing to recruit adventurers.
-[adjective/appearance] [adjective/personality] [creature/humanoid] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 [2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Young [creature] looking for its parent. [|One of the adventurers is mistaken for such.]
 Lack of [random|most expensive] item from adventurer's equipment.
