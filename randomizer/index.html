@@ -153,11 +153,11 @@
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\[[^\]]*\[/;
 			nestedMatch = nestedRegexp.exec(template);
-			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,''); //TODO, get inner only
+			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,'');
+			firstMatchNoBrackets = removeHtmlMarkers(firstMatchNoBrackets);
 			console.log("nestedMatch: "+nestedMatch);
 			if(nestedMatch != null && nestedMatch.length > 0){
 				console.log("Nested brackets detected");
-				template = removeHtmlMarkers(template);
 				return random(randomizeFirstMostNestedSquareBrackets(template));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
