@@ -139,7 +139,7 @@
 			}
 		}
 		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+"xxx"+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+"xxx"+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
-		var result = random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)).resolve('this is a sample promise');
+		var result = await random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)).resolve('this is a sample promise');
 		return template.substring(0, mostNestedOpeningSquareBracketIndex) + result + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
 	}
 	
