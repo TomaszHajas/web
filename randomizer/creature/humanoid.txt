@@ -179,7 +179,7 @@ Bugbear Chief
 Dust Goblin (ToB)
 Goblin
 Goblin Boss
-Goblin Gang MemberKKW
+Goblin Gang Member
 Hobgoblin
 Hobgoblin Captain
 Hobgoblin Devastator
