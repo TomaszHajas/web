@@ -159,11 +159,11 @@
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
-				return await random(replacedFirstMatch).resolve('this is a sample promise');
+				return random(replacedFirstMatch);
 			}else if(/\d/.test(firstMatchNoBrackets)){
 				console.log("Die roll detected");
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
-				return await random(replacedFirstMatch).resolve('this is a sample promise');
+				return random(replacedFirstMatch);
 			}else{
 				console.log("Table roll detected");
 				firstMatchPath = firstMatchNoBrackets+".txt";
@@ -180,7 +180,7 @@
 					text = req.responseText;
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 					console.log("1 "+replacedFirstMatch);
-					return await random(replacedFirstMatch).resolve('this is a sample promise');
+					return random(replacedFirstMatch);
 				}else{
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 					console.log("2 "+replacedFirstMatch);
