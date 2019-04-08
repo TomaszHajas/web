@@ -143,9 +143,14 @@
 		return template.substring(0, mostNestedOpeningSquareBracketIndex) + result + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
 	}
 	
+	function removeHtmlMarkers(template){
+		return template.replace("<b>", "").replace("</b>", "");
+	}
+	
 	function random(template){
 		console.log("on enter: "+template);
 		if(template.includes("[") && template.includes("]")){
+			template = removeHtmlMarkers(template);
 			regexp = /\[.*?[^[]*\]/;
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\[[^\]]*\[/;
