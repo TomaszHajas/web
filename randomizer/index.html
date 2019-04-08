@@ -147,6 +147,7 @@
 			nestedRegexp = /\[[^\]]*\[[^\]]*\][^[]*\]/;
 			nestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,''); //TODO, get inner only
+			console.log("nestedMatch: "nestedMatch);
 			if(nestedMatch != null && nestedMatch.length > 0){
 				console.log("Nested brackets detected");
 				return random(randomizeFirstMostNestedSquareBrackets(template));
