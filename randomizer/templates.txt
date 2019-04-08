@@ -1,5 +1,5 @@
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] claiming he/she's a reverse [noun/job].
-[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] who thinks he/she's [creature].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job|]] who thinks he/she's [creature].
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [merchant|trader|clerk] [trading magical items|buying up all possible items for [1d5*10]% of their market price||buying [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price|selling [item/mundane]s and [item/mundane]s for [2d10*10]% of their market price|renting [item/mundane]s and [item/mundane]s for [1d10*10]% of their market price per day and 10x cheaper per hour].
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] looking for item related to his/her job.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] forcing his/her services on adventurers and demanding a payment.
