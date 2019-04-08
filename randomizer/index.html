@@ -135,7 +135,7 @@
 				mostNestedClosingSquareBracketIndex = i;
 			}
 		}
-		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
+		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+"xxx"+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+"xxx"+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
 		return template.substring(0, mostNestedOpeningSquareBracketIndex) + random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)) + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
 	}
 	
