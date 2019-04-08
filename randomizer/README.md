@@ -1,5 +1,5 @@
 # The Randomizer
-Creativity enhancing, template-based random sentence generator
+Creativity enhancing, template-based random sentence generator. Now with nested queries!
 
 ## Dice rolls:
 [2d4]\
