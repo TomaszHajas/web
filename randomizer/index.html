@@ -118,21 +118,24 @@
 	}
 	
 	function randomizeFirstMostNestedSquareBrackets(template){
-		var biggestSquareBracketDifference = 0;
+		var biggestOpeningSquareBracketDifference = 0;
+		var biggestClosingSquareBracketDifference = 0;
 		var currentSquareBracketDifference = 0;
 		var mostNestedOpeningSquareBracketIndex = 0;
 		var mostNestedClosingSquareBracketIndex = 0;
 		for(var i = 0; i < template.length; i++){
 			if(template.charAt(i) == '['){
 				currentSquareBracketDifference++;
+				if(currentSquareBracketDifference > biggestOpeningSquareBracketDifference){
+					biggestOpeningSquareBracketDifference = currentSquareBracketDifference;
+					mostNestedOpeningSquareBracketIndex = i;
+				}
 			}else if(template.charAt(i) == ']'){
 				currentSquareBracketDifference--;
-			}
-			if(currentSquareBracketDifference > biggestSquareBracketDifference){
-				biggestSquareBracketDifference = currentSquareBracketDifference;
-				mostNestedOpeningSquareBracketIndex = i;
-			}else if(currentSquareBracketDifference > biggestSquareBracketDifference - 1){
-				mostNestedClosingSquareBracketIndex = i;
+				if(currentSquareBracketDifference > biggestClosingSquareBracketDifference){
+					biggestClosingSquareBracketDifference = i;
+					mostNestedClosingSquareBracketIndex = i;
+				}
 			}
 		}
 		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+"xxx"+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+"xxx"+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
