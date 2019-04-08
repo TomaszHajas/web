@@ -144,7 +144,7 @@
 		if(template.includes("[") && template.includes("]")){
 			regexp = /\[.*?[^[]*\]/;
 			firstMatch = regexp.exec(template)[0];
-			nestedRegexp = /\[[^\]]*\[[^\]]*\][^[]*\]/;
+			nestedRegexp = /\[.*?\[/;
 			nestedMatch = nestedRegexp.exec(template);
 			firstMatchNoBrackets = firstMatch.replace(/[\[\]']+/g,''); //TODO, get inner only
 			console.log("nestedMatch: "+nestedMatch);
