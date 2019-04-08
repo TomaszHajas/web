@@ -5,7 +5,7 @@
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] forcing his/her services on adventurers and demanding a payment.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] disturbing adventurers by performing his/her job.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] offering help in things related to his/her job.
-[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] performing his/er job.
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [noun/job] performing his/er job.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] who tells a riddle, rewarding with [adjective/item] [item/mundane] for a good answer. The riddle is: "I [verb/verb] [noun/symbol]s and [verb/verb] [creature/beast]s - who am I?"
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [verb/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [verb/verb] [noun/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
