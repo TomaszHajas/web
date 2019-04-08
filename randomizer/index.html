@@ -138,7 +138,6 @@
 				}
 			}
 		}
-		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+"xxx"+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+"xxx"+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
 		var result = random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1));
 		return template.substring(0, mostNestedOpeningSquareBracketIndex) + result + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
 	}
@@ -150,7 +149,6 @@
 	function random(template){
 		console.log("on enter: "+template);
 		if(template.includes("[") && template.includes("]")){
-			template = removeHtmlMarkers(template);
 			regexp = /\[.*?[^[]*\]/;
 			firstMatch = regexp.exec(template)[0];
 			nestedRegexp = /\[[^\]]*\[/;
@@ -159,6 +157,7 @@
 			console.log("nestedMatch: "+nestedMatch);
 			if(nestedMatch != null && nestedMatch.length > 0){
 				console.log("Nested brackets detected");
+				template = removeHtmlMarkers(template);
 				return random(randomizeFirstMostNestedSquareBrackets(template));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
