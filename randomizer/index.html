@@ -154,7 +154,7 @@
 			console.log("nestedMatch: "+nestedMatch);
 			if(nestedMatch != null && nestedMatch.length > 0){
 				console.log("Nested brackets detected");
-				return await random(randomizeFirstMostNestedSquareBrackets(template)).resolve('this is a sample promise');
+				return random(randomizeFirstMostNestedSquareBrackets(template));
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
