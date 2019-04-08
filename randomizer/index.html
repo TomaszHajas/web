@@ -131,7 +131,7 @@
 			if(currentSquareBracketDifference > biggestSquareBracketDifference){
 				biggestSquareBracketDifference = currentSquareBracketDifference;
 				mostNestedOpeningSquareBracketIndex = i;
-			}else if(currentSquareBracketDifference == biggestSquareBracketDifference - 1){
+			}else if(currentSquareBracketDifference > biggestSquareBracketDifference - 1){
 				mostNestedClosingSquareBracketIndex = i;
 			}
 		}
