@@ -216,9 +216,12 @@
 	
 	if(paramTemplate != ""){
 		var decodedTemplate = decodeURIComponent(paramTemplate);
+		/*
 		random(decodedTemplate).then(function(result){
 			document.getElementById("random").innerHTML = result;
 		});
+		*/
+		document.getElementById("random").innerHTML = random(randomTemplate);
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		var templateReq = new XMLHttpRequest();
