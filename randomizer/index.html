@@ -117,7 +117,7 @@
     		return lines[Math.floor(getRandomNumber()*lines.length)].replace(/\r?\n|\r/g, '');
 	}
 	
-	function randomizeFirstMostNestedSquareBrackets(template){
+	async function randomizeFirstMostNestedSquareBrackets(template){
 		var biggestOpeningSquareBracketDifference = 0;
 		var biggestClosingSquareBracketDifference = 0;
 		var currentSquareBracketDifference = 0;
