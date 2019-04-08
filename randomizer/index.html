@@ -221,7 +221,7 @@
 			document.getElementById("random").innerHTML = result;
 		});
 		*/
-		document.getElementById("random").innerHTML = random(randomTemplate);
+		document.getElementById("random").innerHTML = random(decodedTemplate);
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		var templateReq = new XMLHttpRequest();
