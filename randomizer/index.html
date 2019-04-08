@@ -139,7 +139,8 @@
 			}
 		}
 		console.log("function: "+template.substring(0, mostNestedOpeningSquareBracketIndex)+"xxx"+template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)+"xxx"+template.substring(mostNestedClosingSquareBracketIndex+1, template.length));
-		return template.substring(0, mostNestedOpeningSquareBracketIndex) + random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)) + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
+		var result = random(template.substring(mostNestedOpeningSquareBracketIndex, mostNestedClosingSquareBracketIndex+1)).resolve('this is a sample promise');
+		return template.substring(0, mostNestedOpeningSquareBracketIndex) + result + template.substring(mostNestedClosingSquareBracketIndex+1, template.length);
 	}
 	
 	async function random(template){
@@ -153,16 +154,16 @@
 			console.log("nestedMatch: "+nestedMatch);
 			if(nestedMatch != null && nestedMatch.length > 0){
 				console.log("Nested brackets detected");
-				return random(randomizeFirstMostNestedSquareBrackets(template));
+				return await random(randomizeFirstMostNestedSquareBrackets(template)).resolve('this is a sample promise');
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
-				return random(replacedFirstMatch);
+				return await random(replacedFirstMatch).resolve('this is a sample promise');
 			}else if(/\d/.test(firstMatchNoBrackets)){
 				console.log("Die roll detected");
 				replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
-				return random(replacedFirstMatch);
+				return await random(replacedFirstMatch).resolve('this is a sample promise');
 			}else{
 				console.log("Table roll detected");
 				firstMatchPath = firstMatchNoBrackets+".txt";
@@ -179,11 +180,11 @@
 					text = req.responseText;
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 					console.log("1 "+replacedFirstMatch);
-					return random(replacedFirstMatch);
+					return await random(replacedFirstMatch).resolve('this is a sample promise');
 				}else{
 					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
 					console.log("2 "+replacedFirstMatch);
-					return random(replacedFirstMatch);
+					return await random(replacedFirstMatch).resolve('this is a sample promise');
 				}
 				
 				/*
