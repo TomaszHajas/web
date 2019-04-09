@@ -22,7 +22,22 @@ Drunk [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creat
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] [breaking local law|enforcing local law on adventurers].
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] willing to recruit adventurers.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
+Artistic performance of [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|].
 Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/mundane].
+Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
+Group of [2d4] [creature/humanoid]s debating over a local problem.
+Group of [2d4] hostile [creature]s approaching from [one side|two sides|all sides].
+[adjective/personality] [creature] leading group of [2d4] [creature]s.
+[creature] in conflict with group of [2d4] [creature]s.
+[2d4] [creature]s confronting [2d4] [creature]s.
+Lair of [2d4] [creature](s).
+Local military squad consisting of [2d4] [creature/humanoid](s).
+Hostile military squad consisting of [2d4] [creature/humanoid](s).
+Passage guarded by group of [2d4] [creature]s.
+[2d4] x [creature/humanoid] slaves and their [2d4] x [creature/humanoid] guards.
+Group of [2d4] [creature]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [noun/abstract].
+Ambush of [2d4] [creature]s.
+[creature] being chased by [2d4] [creature]s.
 [creature] investigating some other encounter.
 [creature]'s [tracks|droppings|body part].
 Damaged environmental object.
@@ -30,7 +45,6 @@ Damaged environmental object.
 [adjective/color] [thick|watery|dried] spattering.
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis].
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus].
-Ambush of [2d4-1] x [creature].
 Bonfire with [item/consumable/food] roasting.
 Bonfire remains.
 [creature/humanoid] crying.
@@ -42,21 +56,9 @@ Closed [door|gate] made of [noun/material] blocking the path.
 Hollowed environmental object, with [adjective/item] [item/mundane] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [item/consumable/food] inside.
 Flask with [item/consumable/drink] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [1d4] x [item/mundane].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [2d20] pounds of [noun/material].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/mundane] and [1d4] gold piece(s).
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/mundane] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/mundane] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/mundane] and [adjective/item] [item/mundane].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d4-1] gold piece(s).
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d6-1] electrum piece(s).
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d8-1] silver piece(s).
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [2d10-1] copper piece(s).
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [[1d4] x [item/mundane]|[2d20] pounds of [noun/material]|[adjective/item] [item/mundane] and [1d4] gold piece(s)|[adjective/item] [item/mundane] inside|[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [adjective/item] [item/mundane] inside|[adjective/item] [item/mundane] and [adjective/item] [item/mundane]].
+[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [[2d4-1] gold piece(s)|[2d6-1] electrum piece(s)|[2d8-1] silver piece(s)|[2d10-1] copper piece(s)].
 Uncanny vibration.
-[High|Low]-pitched sound.
-[Cold|Heat] source.
-Fire source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
-Light source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
 Burned environmental object.
 Unusually big environmental object.
 Sudden end of the path.
@@ -66,7 +68,6 @@ Trapped [place/structure], which is... [trait/trap_trait]
 Unusual [place/structure] made of [noun/material].
 Ruined [place/structure].
 [adjective/place] [place/area] said to be inhabited by [creature]s.
-Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
 Path-blocking environmental object.
 Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
 [creature/beast] without owner. It seems to have a collar with a name tag - "[noun/hindu_prefix][noun/japanese_suffix]".
@@ -89,15 +90,10 @@ Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] being executed by [2d4] [creature/humanoid]s.
 Sleeping [creature]. [|With eyes open.|In weird position.|Snoring loudly.]
 Shady [adjective/appearance] character [managing|attempting|failing] to hide his/her identity.
-Group of [2d4] [creature/humanoid]s debating over a local problem.
-Group of [2d4] hostile [creature]s approaching from [one side|two sides|all sides].
-[adjective/personality] [creature] leading group of [2d4] [creature]s.
-Powerful hostile [creature].
+Powerful hostile [creature] [in its lair|].
 Weird-looking [adjective/appearance] [creature].
 Weird-behaving [adjective/personality] [creature].
 [creature] in environmental danger.
-[creature] in conflict with group of [2d4] [creature]s.
-[2d4-1] [creature]s confronting [2d4-1] [creature]s.
 Pile containing [2d4] almost identical [item/mundane]s.
 [item/mundane] bearing mark of use by [noun/job].
 [item/mundane] about to be [lost|destroyed].
@@ -111,7 +107,6 @@ Sick [creature].
 Signpost showing a [|wrong] way to nearby [adjective/place] [place/area].
 Signpost showing a [|wrong] way to nearby [adjective/place] [place/structure].
 Arrow symbol pointing [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
-Lair of [2d4-1] [creature](s).
 Underground entrance leading to [adjective/place] [place/structure].
 [adjective/place] passage leading to [adjective/place] [place/area].
 [adjective/place] passage leading to [adjective/place] [place/structure].
@@ -124,19 +119,15 @@ Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature
 [creature] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
 [creature] eating [item/consumable/food].
 [creature] making use of its magical powers in order to [verb/verb] something.
-Local military squad consisting of [2d4-1] [creature/humanoid](s).
-Hostile military squad consisting of [2d4-1] [creature/humanoid](s).
 [creature] interested in adventurer's item.
 [adjective/appearance] [adjective/personality] [creature/humanoid] offering a free [adjective/item] [item/mundane]. [|And running away.|And disappearing.]
 Two [creature]s making out.
 [adjective/place] [place/structure] emanating with [sacred|demonic] power.
 Damaged bridge made of [noun/material].
 Damaged [adjective/place] [place/structure].
-Passage guarded by [2d4-1] x [creature].
 [adjective/item] [item/mundane] guarded by [adjective/personality] [creature].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards|someone walking under ladder|shoes on a table].
 Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards|dream catcher].
-Artistic performance of [adjective/appearance] [adjective/personality] [creature/humanoid].
 [adjective/item] [item/mundane] in the middle of the path.
 [adjective/item] [item/mundane] with [noun/symbol] symbol on it.
 Environmental object with a name engraved on it - "[noun/slavic_prefix][noun/slavic_suffix]".
@@ -199,19 +190,13 @@ Notice regarding a [noun/job] job offer with wage of 5gp/day, which is... [trait
 Poster with wanted [adjective/appearance] [creature/humanoid] named [noun/japanese_prefix][noun/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
 Poster warning about dangers ahead involving [noun/abstract].
 [creature] willing to join adventurers.
-[2d4-1] x [creature/humanoid] slaves and their [2d4-1] x [creature/humanoid] guards.
 Young [creature] looking for its parent. [|One of the adventurers is mistaken for such.]
 Lack of [random|most expensive] item from adventurer's equipment.
 Sudden feeling of incoming [noun/abstract].
 Sudden need to eat [item/consumable/food].
 Sudden need to drink [item/consumable/drink].
 Sudden need to [take a dump|empty one's bladder].
-[creature] being chased by [2d4-1] x [creature](s).
-Chilling wind.
-Sudden [appearance|disappearance] of air draft.
-Sudden [appearance|disappearance] of light source.
 [creature/beast]'s sounds.
-Group of [2d4] [creature]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [noun/abstract].
 Passing shadow of a winged animal.
 Partially buried object made of [noun/material].
 Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
@@ -226,6 +211,13 @@ Magical portal hidden inside [adjective/place] [place/structure]. It leads to [|
 Difficult terrain made of [noun/material].
 [Steep|Flat] terrain.
 Illusory encounter.
+Chilling wind.
+[High|Low]-pitched sound.
+[Cold|Heat] source.
+Fire source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
+Light source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
+Sudden [appearance|disappearance] of air draft.
+Sudden [appearance|disappearance] of light source.
 Humidity [increase|decrease].
 Atmospheric pressure [increase|decrease].
 Temperature [increase|decrease].
