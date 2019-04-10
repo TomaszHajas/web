@@ -1,0 +1,198 @@
+Antechamber or waiting room for spectators
+Guardroom fortified against intruders
+Vault for holding important treasures, accessible only by locked or secret door ( percent chance of being trapped)
+Room containing a puzzle that must be solved to bypass a trap or monster
+Trap designed to kill or capture creatures
+Observation room, allowing guards or spectators to observe creatures moving through the dungeon
+Armory stocked with weapons and armor
+Audience chamber, used to receive guests
+Banquet room for important celebrations
+Barracks where the lair's defenders are quartered
+Bedroom, for use by leaders
+Chapel where the lair's inhabitants worship
+Cistern or well for drinking water
+Guardroom for the defense of the lair
+Kennel for pets or guard beasts
+Kitchen for food storage and preparation
+Pen or prison where captives are held
+Storage, mostly nonperishable goods
+Throne room where the lair's leaders hold court
+Torture chamber
+Training and exercise room
+Trophy room or museum
+Latrine or bath
+Workshop for the construction of weapons, armor, tools, and other goods
+Conjuring room, used to summon creatures that guard the maze
+Guard room for sentinels that patrol the maze
+Lair for guard beasts that patrol the maze
+Pen or prison accessible only by secret door, used to hold captives condemned to the maze
+Shrine dedicated to a god or other entity
+Storage for food, as well as tools used by the maze's guardians to keep the complex in working order
+Trap to confound or kill those sent into the maze
+Well that provides drinking water
+Workshop where doors, torch sconces, and other furnishings are repaired and maintained
+Barracks for miners
+Bedroom for a supervisor or manager
+Chapel dedicated to a patron deity of miners, earth, or protection
+Cistern providing drinking water for miners
+Guardroom
+Kitchen used to feed workers
+Laboratory used to conduct tests on strange minerals extracted from the mine
+Lode where metal ore is mined ( percent chance of being depleted)
+Office used by the mine supervisor
+Smithy for repairing damaged tools
+Storage for tools and other equipment
+Strong room or vault used to store ore for transport to the surface
+Decorated foyer or antechamber
+Armory used by the portal's guardians
+Audience chamber for receiving visitors
+Barracks used by the portal's guards
+Bedroom for use by the highranking members of the order that guards the portal
+Chapel dedicated to a deity or deities related to the portal and its defenders
+Cistern providing fresh water
+Classroom for use of initiates learning about the portal's secrets
+Conjuring room for summoning creatures used to investigate or defend the portal
+Crypt where the remains of those that died guarding the portal are kept
+Dining room
+Divination room used to investigate the portal and events tied to it
+Dormitory for visitors and guards
+Entry room or vestibule
+Gallery for displaying trophies and objects related to the portal and those that guard it
+Guardroom to protect or watch over the portal
+Kitchen
+Laboratory for conducting experiments relating to the portal and creatures that emerge from it
+Library holding books about the portal's history
+Pen or prison for holding captives or creatures that emerge from the portal
+Planar junction, where the gate to another plane once stood ( percent chance of being active)
+Storage
+Strong room or vault, for guarding valuable treasures connected to the portal or funds used to pay the planar gate's guardians
+Study
+Torture chamber, for questioning creatures that pass through the portal or that attempt to clandestinely use it
+Workshop for constructing tools and gear needed to study the portal
+Antechamber where visitors seeking access to the stronghold wait
+Armory holding highquality gear, including light siege weapons such as ballistas
+Audience chamber used by the master of the stronghold to receive visitors
+Aviary or zoo for keeping exotic creatures
+Banquet room for hosting celebrations and guests
+Barracks used by elite guards
+Bath outfitted with a marble floor and other luxurious accoutrements
+Bedroom for use by the stronghold's master or important guests
+Chapel dedicated to a deity associated with the stronghold's master
+Cistern providing drinking water
+Dining room for intimate gatherings or informal meals
+Dressing room featuring a number of wardrobes
+Gallery for the display of expensive works of art and trophies
+Game room used to entertain visitors
+Kennel where monsters or trained animals that protect the stronghold are kept
+Kitchen designed to prepare exotic foods for large numbers of guests
+Library with an extensive collection of rare books
+Lounge used to entertain guests
+Pantry, including cellar for wine or spirits
+Sitting room for family and intimate guests
+Stable
+Storage for mundane goods and supplies
+Strong room or vault for protecting important treasures ( percent chance of being hidden behind a secret door)
+Study, including a writing desk
+Throne room, elaborately decorated
+Waiting room where lesser guests are held before receiving an audience
+Crypt belonging to the stronghold's master or someone else of importance
+Armory filled with weapons and armor, battle banners, and pennants
+Audience chamber where priests of the temple receive commoners and lowranking visitors
+Banquet room used for celebrations and holy days
+Barracks for the temple's military arm or its hired guards
+Cells where the faithful can sit in quiet contemplation
+Central temple built to accommodate rituals
+Chapel dedicated to a lesser deity associated with the temple's major deity
+Classroom used to train initiates and priests
+Conjuring room, specially sanctified and used to summon extraplanar creatures
+Crypt for a high priest or similar figure, hidden and heavily guarded by creatures and traps
+Dining room (large) for the temple's servants and lesser priests
+Dining room (small) for the temple's high priests
+Divination room, inscribed with runes and stocked with soothsaying implements
+Dormitory for lesser priests or students
+Kennel for animals or monsters associated with the temple's deity
+Kitchen (might bear a disturbing resemblance to a torture chamber in an evil temple)
+Library, well stocked with religious treatises
+Prison for captured enemies (in good or neutral temples) or those designated as sacrifices (in evil temples)
+Robing room containing ceremonial outfits and items
+Stable for riding horses and mounts belonging to the temple, or for visiting messengers and caravans
+Storage holding mundane supplies
+Strong room or vault holding important relics and ceremonial items, heavily trapped
+Torture chamber, used in inquisitions (in good or neutral temples with a lawful bent) or for the sheer joy of causing pain (evil temples)
+Trophy room where art celebrating key figures and events from mythology is displayed
+Well for drinking water, defendable in the case of attack or siege
+Workshop for repairing or creating weapons, religious items, and tools
+Antechamber for those that have come to pay respect to the dead or prepare themselves for burial rituals
+Chapel dedicated to deities that watch over the dead and protect their resting places
+Crypt for less important burials
+Divination room, used in rituals to contact the dead for guidance
+False crypt (trapped) to kill or capture thieves
+Gallery to display the deeds of the deceased through trophies, statues, paintings and so forth
+Grand crypt for a noble, high priest, or other important individual
+Guardroom, usually guarded by undead, constructs, or other creatures that don't need to eat or sleep
+Robing room for priests to prepare for burial rituals
+Storage, stocked with tools for maintaining the tomb and preparing the dead for burial
+Tomb where the wealthiest and most important folk are interred, protected by secret doors and traps
+Workshop for embalming the dead
+Antechamber for visiting dignitaries
+Armory containing mundane and magic gear used by the treasure vault's guards
+Barracks for guards
+Guardroom to defend against intruders
+Kennel for trained beasts used to guard the treasure vault
+Kitchen for feeding guards
+Watch room that allows guards to observe those who approach the dungeon
+Prison for hold ing captured intruders
+Strong room or vault, for guarding the treasure hidden in the dungeon, accessible only by locked or secret door
+Torture chamber for extracting information from captured intruders
+Trap or other trick designed to kill or capture creatures that enter the dungeon
+Antechamber
+Armory
+Audience chamber
+Aviary
+Banquet room
+Barracks
+Bath or latrine
+Bedroom
+Bestiary
+Cell
+Chantry
+Chapel
+Cistern
+Classroom
+Closet
+Conjuring room
+Court
+Crypt
+Divination room
+Dormitory
+Dressing room
+Gallery
+Game room
+Hall
+Hall, great
+Hallway
+Kennel
+Laboratory
+Library
+Lounge
+Meditation chamber
+Observatory
+Office
+Pantry
+Pen or prison
+Reception room
+Refectory
+Robing room
+Salon
+Shrine
+Sitting room
+Smithy
+Storage room
+Strong room or vault
+Temple
+Throne room
+Training or exercise room
+Waiting room
+Nursery or schoolroom
+Well
+Workshop
