@@ -23,6 +23,7 @@ Drunk [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creat
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] willing to recruit adventurers.
 [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 Artistic performance of [[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|].
+[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] being executed by [2d4] [creature/humanoid]s.
 Group of [2d4] [creature/humanoid]s on a quest to [verb/verb] [|their] [item/mundane].
 Group of [2d4] [creature/humanoid]s debating over [noun/abstract] at [adjective/place] [place/structure].
 Group of [2d4] [creature/humanoid]s debating over a local problem.
@@ -87,7 +88,6 @@ Spy among adventurers. It is widely known the spy knows only a part of rumor con
 [creature] trying to [verb/verb] adventurers.
 Two [creature/humanoid]s arguing over the way they should go.
 Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
-[[adjective/appearance]|] [[adjective/personality]|] [Male|Female] [[creature/humanoid]|] [[noun/job]|] being executed by [2d4] [creature/humanoid]s.
 Sleeping [creature]. [|With eyes open.|In weird position.|Snoring loudly.]
 Shady [adjective/appearance] character [managing|attempting|failing] to hide his/her identity.
 Powerful hostile [creature] [in its lair|].
