@@ -170,7 +170,7 @@
 				return random(replacedFirstMatch);
 			}else{
 				console.log("Table roll detected");
-				firstMatchPath = firstMatchNoBrackets+".txt";
+				firstMatchPath = "tables/"+firstMatchNoBrackets+".txt";
 				
 				var req = new XMLHttpRequest();
     				req.open("GET", firstMatchPath, false); // 'false': synchronous.
