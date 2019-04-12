@@ -84,6 +84,55 @@ Brazier
 Harbor
 Port
 Dock
+Chair
+Stool
+Rocking chair
+Bench
+Couch
+Bed
+Bunk bed
+Hammock
+Mattress
+Jukebox
+Table
+Desk
+Drawing board
+Pedestal
+End table
+Workbench
+Bookcase
+Cabinet
+Closet
+Cupboard
+Pantry
+Chest of drawers
+Chest
+Coat rack
+Drawer
+Hatstand
+Stand
+Shelf
+Sideboard
+Safe
+Umbrella stand
+Wardrobe
+Wine rack
+Aquarium
+Weapon rack
+Bottle
+Jar
+Urn
+Barrel
+Can
+Drum
+Tub
+Box
+Crate
+Bag
+Sack
+Lamp
+Sconce
+Chandelier
 Siege Tower
 Trebuchet
 Catapult
