@@ -8,6 +8,7 @@ Cobbler
 Miller
 Cheesemaker
 Baker
+Craftsman
 Auctioneer
 Porter
 Ropemaker
