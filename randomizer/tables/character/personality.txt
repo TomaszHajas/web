@@ -1,5 +1,7 @@
 Dumb
 Smart
+Determinated
+Lax
 Inexperienced
 Experienced
 Lazy
