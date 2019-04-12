@@ -90,6 +90,7 @@ Scientist
 Researcher
 Archeologist
 Soldier
+Legionnaire
 Interpreter
 Innkeeper
 Gravedigger
@@ -313,6 +314,7 @@ Retiree
 Pensioner
 Lawyer
 Justiciar
+Hero
 Charlatan
 Gelder
 Courier
