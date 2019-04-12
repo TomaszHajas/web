@@ -1,0 +1,29 @@
+Move
+Crawl
+Drop prone
+Swim
+Climb
+Stand up
+High jump
+Long jump
+Tumble
+Overrun
+Mark
+Attack
+Dash
+Help
+Search
+Grapple
+Disengage
+Use object
+Ready
+Shove away
+Shove aside
+Dodge
+Swap gear
+Use class feature
+Cast a spell
+Escape
+Hide
+Improvise
+Readied action
