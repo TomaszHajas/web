@@ -1,0 +1,137 @@
+Aberrant Dragonmark
+Acrobat
+Actor
+Alchemist
+Alert
+Animal Handler
+Arcanist
+Athlete
+Barbed Hide
+Blade Mastery
+Bountiful Luck
+Bountiful Luck (XGE)
+Brawny
+Burglar
+Charger
+Critter Friend
+Crossbow Expert
+Defensive Duelist
+Diplomat
+Dragon Fear
+Dragon Fear (XGE)
+Dragon Hide
+Dragon Hide (XGE)
+Dragon Wings
+Dragonmark of Detection
+Dragonmark of Finding
+Dragonmark of Handling
+Dragonmark of Healing
+Dragonmark of Hospitality
+Dragonmark of Making
+Dragonmark of Passage
+Dragonmark of Scribing
+Dragonmark of Sentinel
+Dragonmark of Shadow
+Dragonmark of Storm
+Dragonmark of Warding
+Drow High Magic
+Drow High Magic (XGE)
+Dual Wielder
+Dungeon Delver
+Durable
+Dwarf Resilience
+Dwarven Fortitude (XGE)
+Elemental Adept
+Elven Accuracy
+Elven Accuracy (XGE)
+Empathic
+Everybody's Friend
+Fade Away
+Fade Away (XGE)
+Fell Handed
+Fey Teleportation
+Fey Teleportation (XGE)
+Flail Mastery
+Flames of Phlegethos
+Flames of Phlegethos
+Gourmand
+Grappler
+Great Weapon Master
+Greater Dragonmark (Detection)
+Greater Dragonmark (Finding)
+Greater Dragonmark (Handling)
+Greater Dragonmark (Healing)
+Greater Dragonmark (Hospitality)
+Greater Dragonmark (Making)
+Greater Dragonmark (Passage)
+Greater Dragonmark (Scribing)
+Greater Dragonmark (Sentinel)
+Greater Dragonmark (Shadow)
+Greater Dragonmark (Storm)
+Greater Dragonmark (Warding)
+Grudge-Bearer
+Healer
+Heavily Armored
+Heavy Armor Master
+Historian
+Human Determination
+Infernal Constitution
+Infernal Constitution (XGE)
+Inspiring Leader
+Investigator
+Keen Mind
+Lightly Armored
+Linguist
+Lucky
+Mage Slayer
+Magic Initiate
+Martial Adept
+Master of Disguise
+Medic
+Medium Armor Master
+Menacing
+Mobile
+Moderately Armored
+Mounted Combatant
+Naturalist
+Observant
+Orcish Aggression
+Orcish Fury
+Orcish Fury (XGE)
+Perceptive
+Performer
+Polearm Master
+Prodigy
+Prodigy (XGE)
+Quick-Fingered
+Quicksmithing
+Resilient
+Revenant Blade
+Ritual Caster
+Savage Attacker
+Second Chance
+Second Chance (XGE)
+Sentinel
+Servo Crafting
+Sharpshooter
+Shield Master
+Silver-Tongued
+Skilled
+Skulker
+Spear Mastery
+Spell Sniper
+Squat Nimbleness
+Squat Nimbleness (XGE)
+Stealthy
+Survivalist
+Svirfneblin Magic
+Tavern Brawler
+Theologian
+Tough
+Vampiric Exultation
+War Caster
+Warhammer Master
+Weapon Master
+Wonder Maker
+Wood  Magic
+Wood  Magic (XGE)
