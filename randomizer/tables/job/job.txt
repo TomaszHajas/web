@@ -48,6 +48,7 @@ Street Cleaner
 Sailor
 Armorer
 Stablemaster
+Master
 Priest
 Judge
 Noble
@@ -148,6 +149,8 @@ Bottler
 Butler
 Chancellor
 Manager
+Boss
+Commander
 King
 Clerk
 Clothier
@@ -307,6 +310,9 @@ Drug Addict
 Unemployed
 Retiree
 Pensioner
+Lawyer
+Justiciar
+Charlatan
 Gelder
 Courier
 Overseer
