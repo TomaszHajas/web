@@ -9,7 +9,8 @@ Long jump
 Tumble
 Overrun
 Mark
-Attack
+Melee attack
+Ranged attack
 Dash
 Help
 Search
