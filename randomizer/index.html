@@ -178,7 +178,7 @@
 				var text = req.responseText;
 				
 				if(text.includes("DOCTYPE")){
-					firstMatchPath = firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
+					firstMatchPath = "tables/"+firstMatchNoBrackets+"/"+firstMatchNoBrackets+".txt";
 					req.open("GET", firstMatchPath, false); // 'false': synchronous.
     					req.send(null);
 					text = req.responseText;
