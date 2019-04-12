@@ -41,7 +41,7 @@
 		<input type="submit">
 	</form>
 	<br>
-	<button onClick="javascript:window.location.href='/randomizer/templates.txt'">View Templates</button>
+	<button onClick="javascript:window.location.href='/randomizer/templates/templates.txt'">View Templates</button>
 	
 <script>
 
@@ -229,7 +229,7 @@
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
 		var templateReq = new XMLHttpRequest();
-    		templateReq.open("GET", "templates.txt", false); // 'false': synchronous.
+    		templateReq.open("GET", "templates/templates.txt", false); // 'false': synchronous.
     		templateReq.send(null);
 		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
