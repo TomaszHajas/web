@@ -7,6 +7,7 @@ Long-eared
 Short-eared
 Pointy-eared
 Earless
+Albinos
 Long-nosed
 Short-nosed
 Long-necked
