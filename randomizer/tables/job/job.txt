@@ -346,4 +346,4 @@ Coach
 Tatooist
 Gelotologist
 Drug Dealer
-
+Training Dummy
