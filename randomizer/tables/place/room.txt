@@ -10,6 +10,7 @@ Barracks
 Bedroom
 Chapel
 Oratory
+Dovecote
 Cabinet
 Garderobe
 Cellar
