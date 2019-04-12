@@ -1,6 +1,10 @@
 Minimality
 Optimality
 Maximality
+Transportation
+Suspension
+Stability
+Unstability
 Ability
 Adoration
 Advantage
