@@ -11,7 +11,7 @@ Suspicious
 Quiet
 Dumb
 Smart
-Determinated
+Determined
 Lax
 Inexperienced
 Experienced
