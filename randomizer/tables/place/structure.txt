@@ -78,9 +78,9 @@ Farm
 Plantation
 Garden
 Furnace
+Fireplace
 Kiln
 Smelter
-Brazier
 Harbor
 Port
 Dock
@@ -115,6 +115,8 @@ Shelf
 Sideboard
 Safe
 Umbrella stand
+Weapon stand
+Armor stand
 Wardrobe
 Wine rack
 Aquarium
@@ -131,8 +133,11 @@ Crate
 Bag
 Sack
 Lamp
-Sconce
+Torch sconce
+Torch stand
 Chandelier
+Brazier
+Bonfire
 Siege Tower
 Trebuchet
 Catapult
