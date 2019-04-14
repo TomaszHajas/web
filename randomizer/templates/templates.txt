@@ -39,7 +39,7 @@ Passage guarded by group of [2d4] [creature]s.
 Group of [2d4] [creature]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [abstract/abstract].
 Ambush of [2d4] [creature]s.
 [creature] being chased by [2d4] [creature]s.
-[Square|Circle|Rectangle|Oval|Triangle|Cross|[L|O|P|T|S|Y|H|J|D|I|E|F|U]]-shaped [room|chamber] with entrance on [upper|lower|left|right] edge of it, [far from|close to] the center. The longest line between opposed walls is [4d4*5] feet long, while the shortest has [2d4] feet. There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [object/furniture] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [object/furniture] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].
+[Square|Circle|Rectangle|Oval|Triangle|Cross|House|Pentagon|Hexagon|[L|O|P|T|S|Y|H|J|D|I|E|F|U]]-shaped [room|chamber] with entrance on [upper|lower|left|right] edge of it, [far from|close to] the center. The longest line between opposed walls is [4d4*5] feet long, while the shortest has [2d4*5] feet. There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].
 [creature] investigating some other encounter.
 [creature]'s [tracks|droppings|body part].
 Damaged environmental object.
