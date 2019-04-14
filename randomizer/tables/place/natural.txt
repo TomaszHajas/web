@@ -1,6 +1,8 @@
 Tree
 Branch pile
 Bush
+Spiky bush
+Cactus
 Flower patch
 Grass patch
 Moss cluster
@@ -20,12 +22,12 @@ Ore deposit
 Pond
 Puddle
 Insect colony
-Lava pit
-Fire wall
+Lava
+Fire
 Pit
 Crevice
 Cracked ground
-Muddy ground
+Mud
 Quicksand
 Sinkhole
 Landslide
@@ -33,3 +35,5 @@ Fog
 Haze
 Mist
 Smoke
+Bone pile
+Dead creature
