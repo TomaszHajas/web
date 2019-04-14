@@ -6,6 +6,8 @@ Column
 Arch
 Arc
 Stairs
+Ladder
+Stepladder
 Corridor
 Tunnel
 Room
