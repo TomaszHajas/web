@@ -147,7 +147,6 @@
 	}
 	
 	function random(template){
-		template = removeHtmlMarkers(template);
 		console.log("on enter: "+template);
 		if(template.includes("[") && template.includes("]")){
 			regexp = /\[.*?[^[]*\]/;
