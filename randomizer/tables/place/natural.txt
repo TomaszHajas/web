@@ -1,0 +1,35 @@
+Tree
+Branch pile
+Bush
+Flower patch
+Grass patch
+Moss cluster
+Herb patch
+Branch
+Tree log
+Tree stump
+Living stump
+Mushroom circle
+Mushroom cluster
+Stone
+Stone pile
+Rock
+Stone rubble
+Mineral cluster
+Ore deposit
+Pond
+Puddle
+Insect colony
+Lava pit
+Fire wall
+Pit
+Crevice
+Cracked ground
+Muddy ground
+Quicksand
+Sinkhole
+Landslide
+Fog
+Haze
+Mist
+Smoke
