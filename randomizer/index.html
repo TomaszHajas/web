@@ -133,7 +133,7 @@
 			}else if(template.charAt(i) == ']'){
 				currentSquareBracketDifference--;
 				if(currentSquareBracketDifference > biggestClosingSquareBracketDifference){
-					biggestClosingSquareBracketDifference = i;
+					biggestClosingSquareBracketDifference = currentSquareBracketDifference;
 					mostNestedClosingSquareBracketIndex = i;
 				}
 			}
