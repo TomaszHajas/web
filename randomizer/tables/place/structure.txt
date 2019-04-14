@@ -36,6 +36,8 @@ Gibber
 Cage
 Ditch
 Pit
+Pitfall
+Pool
 Trap
 Maypole
 Totem
