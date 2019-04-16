@@ -10,6 +10,7 @@ Beg
 Bend
 Bathe
 Bind
+Blame
 Befriend
 Blow
 Beat
@@ -292,3 +293,5 @@ Rub
 Paint
 Carve
 Tie
+Vote
+Nod
