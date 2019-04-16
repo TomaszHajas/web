@@ -125,6 +125,8 @@ Wardrobe
 Wine rack
 Aquarium
 Weapon rack
+Grand piano
+Harpsichord
 Bottle
 Jar
 Urn
