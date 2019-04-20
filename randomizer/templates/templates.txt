@@ -128,7 +128,7 @@ Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|numb
 [object/adjective] [object/mundane] with [abstract/symbol] symbol on it.
 Environmental object with a name engraved on it - "[character/slavic_prefix][character/slavic_suffix]".
 [object/adjective] [object/mundane] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
-[creature] with [abstract/symbol] symbol on it.
+[creature] with [abstract/symbol] symbol on its body part.
 [place/adjective] [place/structure] with [abstract/symbol] symbol on it.
 Stench source coming from nearby [place/adjective] [place/structure].
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
