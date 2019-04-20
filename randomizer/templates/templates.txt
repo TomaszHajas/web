@@ -41,21 +41,19 @@ Ambush of [2d4] [creature]s.
 [creature] being chased by [2d4] [creature]s.
 [place/adjective] [room|chamber] of [[4d4*5]-feet square|[4d4*5]-feet diameter circle|[4d4*5] by [4d4*5] feet rectangle|[4d4*5] by [4d4*5] feet Oval|[4d4*5]-feet edge triangle|[4d4*5]-feet cross|[4d4*5] by [4d4*5] feet house|[2d4*5]-feet edge pentagon|[2d4*5]-feet edge hexagon|[4d4*5] by [4d4*5] feet [L|O|P|T|S|Y|H|J|D|I|E|F|U] letter] shape. Entrance is on its [upper|lower|left|right] edge, [far from|close to] the center. Ceiling is [1d4*5] feet above ground. There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].[| There is a [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]].]
 [creature] investigating some other encounter.
-[creature]'s [tracks|droppings|body part].
-Damaged environmental object.
+[Tracks|Droppings|Body part] belonging to [creature].
+[object/adjective] [[place/natural]|[place/structure]].
 [Traces|Sounds|Smell] of combat.
 [adjective/color] [thick|watery|dried] spattering.
-Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis].
-Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus].
-Bonfire with [object/food] roasting.
-Bonfire remains.
-[creature/humanoid] crying.
-[creature/humanoid] laughing.
+Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [creature].
+Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [creature].
+Bonfire[, lit| remains. [It was extinguished [1d8] hour(s) ago|[It has lost all the heat]]| with [object/food] roasting].
+Sound of [heavy-breathing|crying|laughing|giggling|snoring|gasping|groaning|sighing|sniffing|burping|yelling|whispering|coughing|sneezing|yawning|growling|roaring|hiccupy] [creature/humanoid].
 Small [camp|hideout].
-Entrance to the underground.
+[Entrance|Crevice|Stairs|Ladder|Rope] leading down.
 [Crossroads|Road fork|Road turning left|Road turning right].
 Closed [door|gate] made of [object/material] blocking the path.
-Hollowed environmental object, with [object/adjective] [object/mundane] inside.
+[Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/mundane] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/food] inside.
 Flask with [object/drink] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [[1d4] x [object/mundane]|[2d20] pounds of [object/material]|[object/adjective] [object/mundane] and [1d4] gold piece(s)|[object/adjective] [object/mundane] inside|[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/adjective] [object/mundane] inside|[object/adjective] [object/mundane] and [object/adjective] [object/mundane]].
@@ -81,10 +79,7 @@ Enigmatic puzzle which can be easily solved by [character/job].
 Tricky puzzle which encourages adventurers to [action/verb] something.
 Catchy puzzle which can be easily solved by displaying [abstract/abstract].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [character/job] who tried to [action/verb] [creature] somewhere in [place/area].
-[character/personality] [god|goddess|deity|demon] of [abstract/abstract] trying to [action/verb] adventurers.
-[character/personality] [god|goddess|deity|demon] of [abstract/abstract] wanting adventurers to [action/verb] [creature].
-[character/personality] [god|goddess|deity|demon] of [abstract/abstract] asking adventurers to [action/verb] [object/mundane].
-[character/personality] [god|goddess|deity|demon] of [abstract/abstract] ordering adventurers to [action/verb] [place/structure].
+[character/personality] [god|goddess|deity|demon] of [abstract/abstract] [trying to [action/verb] adventurers|wanting adventurers to [action/verb] [creature]|asking adventurers to [action/verb] [object/mundane]|ordering adventurers to [action/verb] [[place/structure]|[place/natural]]].
 [creature/humanoid] [about|attempting|failing] to [action/verb] [creature/humanoid].
 [creature] trying to [action/verb] adventurers.
 Two [creature/humanoid]s arguing over the way they should go.
