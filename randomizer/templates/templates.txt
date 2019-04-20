@@ -68,7 +68,7 @@ Half-[creature] half-[creature].
 Uncanny [creature] made of [object/material].
 Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
 [creature] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
-[creature] [drinking [object/drink]|eating [object/food]].
+[creature] [drinking [object/drink]|eating [[object/material]|[object/food]]].
 [creature] making use of its magical powers in order to [action/verb] [[creature]|[object/mundane]|[[place/structure]|[place/natural]|[place/building]]].
 [character/personality] [creature] interested in adventurer's item.[| Tries to [action/verb] it.]
 Talking [creature/beast] with [character/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [abstract/abstract].
@@ -163,6 +163,7 @@ Poster warning about dangers ahead involving [abstract/abstract].
 [creature] willing to join adventurers.
 Young [creature] looking for its parent. [|One of the adventurers is mistaken for such.]
 Lack of [random|most expensive] item from adventurer's equipment.
+Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing].
 Sudden feeling of incoming [abstract/abstract].
 Sudden need to eat [object/food].
 Sudden need to drink [object/drink].
