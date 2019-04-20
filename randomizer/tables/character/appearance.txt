@@ -167,7 +167,8 @@ Dusty
 Loud-breathing
 Gasping
 Sneezy
-Crying
+Yawny
+Tearful
 Wrinkled
 Thick
 Thin
