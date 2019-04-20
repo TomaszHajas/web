@@ -40,9 +40,14 @@ Group of [2d4] [creature]s migrating [north|north-east|east|south-east|south|sou
 Ambush of [2d4] [creature]s.
 [creature] being chased by [2d4] [creature]s.
 [place/adjective] [room|chamber] of [[4d4*5]-feet square|[4d4*5]-feet diameter circle|[4d4*5] by [4d4*5] feet rectangle|[4d4*5] by [4d4*5] feet Oval|[4d4*5]-feet edge triangle|[4d4*5]-feet cross|[4d4*5] by [4d4*5] feet house|[2d4*5]-feet edge pentagon|[2d4*5]-feet edge hexagon|[4d4*5] by [4d4*5] feet [L|O|P|T|S|Y|H|J|D|I|E|F|U] letter] shape. Entrance is on its [upper|lower|left|right] edge, [far from|close to] the center. Ceiling is [1d4*5] feet above ground. There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].[| There is a [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]].]
+[object/adjective] [[place/natural]|[place/structure]].
+[Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/mundane] inside.
+Trapped [place/structure], which is... [trap/adjective]
+Unusual [place/structure] made of [object/material].
+Ruined [place/structure].
+[place/adjective] [place/area] said to be inhabited by [creature]s.
 [creature] investigating some other encounter.
 [Tracks|Droppings|Body part] belonging to [creature].
-[object/adjective] [[place/natural]|[place/structure]].
 [Traces|Sounds|Smell] of combat.
 [object/color] [thick|watery|dried] spattering.
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [creature].
@@ -53,21 +58,27 @@ Small [camp|hideout].
 [Entrance|Crevice|Stairs|Ladder|Rope] leading down.
 [Crossroads|Road fork|Road turning left|Road turning right].
 Closed [door|gate] made of [object/material] blocking the path.
-[Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/mundane] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/food] inside.
 Flask with [object/drink] inside.
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [[1d4] x [object/mundane]|[2d20] pounds of [object/material]|[object/adjective] [object/mundane] and [1d4] gold piece(s)|[object/adjective] [object/mundane] inside|[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/adjective] [object/mundane] inside|[object/adjective] [object/mundane] and [object/adjective] [object/mundane]].
 [Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [[2d4-1] gold piece(s)|[2d6-1] electrum piece(s)|[2d8-1] silver piece(s)|[2d10-1] copper piece(s)].
+Pile containing [2d4] almost identical [object/mundane]s.
+[object/mundane] bearing mark of use by [character/job].
+[object/mundane] about to be [lost|destroyed].
+Half-[object/mundane] half-[object/mundane]. It fuses functionalities of both items.
+[object/mundane] partially made of [object/material].
+[object/adjective] [object/mundane] in the middle of the path.
+[object/adjective] [object/mundane] with [abstract/symbol] symbol on it.
+[object/adjective] [object/mundane] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [magical|arcane|mystical|enchanted|miraculous|sorcerous|enigmatic|mysterious|bewitched|pacted|hexed|cursed|infinite] [object/mundane] of [abstract/abstract] which will [[action/verb] anything touched with its tip|[action/verb] anything pointed by it, not farther than [1d10*5] feet|[action/verb] [creatures|[creature]] touched with it|[action/verb] creature using it according to its purpose|[action/verb] anything it's used on according to its purpose|[action/verb] [creatures|[creature]] in [1d10*5] feet radius|make each creature holding/wearing it [[character/appearance]|[character/personality]]|teleport each creature which touches it to [place/adjective] [place/structure] in [place/adjective] [place/area]|summon [creature] when someone attempts to [action/verb] it|turn any [object/material] it touches into [object/material]|turns any creature it touches into [object/material] in [1d4*6] seconds [for 1 minute|for 1 hour|for 1 day|for 1 year|permanently]|try to [discourage adventurers from|encourage adventurers to] [abstract/abstract]. It is capable of [writing text|talking|communicating telepathically in [1d10*5] feet radius] and has [character/personality] personality].
+[creature] corpse. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
+Geared [character/appearance] [creature/humanoid] [male/female] corpse containing [object/adjective] [object/mundane][| and [object/adjective] [object/mundane]]. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
 Uncanny vibration.
 Burned environmental object.
 Unusually big environmental object.
 Sudden end of the path.
 [abstract/abstract]-bringing trap, which is... [trap/adjective]
 Trap making use of [object/mundane], which is... [trap/adjective]
-Trapped [place/structure], which is... [trap/adjective]
-Unusual [place/structure] made of [object/material].
-Ruined [place/structure].
-[place/adjective] [place/area] said to be inhabited by [creature]s.
 Path-blocking environmental object.
 Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
 [creature/beast] without owner. It seems to have a collar with a name tag - "[character/hindu_prefix][character/japanese_suffix]".
@@ -89,48 +100,35 @@ Shady [character/appearance] character [managing|attempting|failing] to hide his
 Powerful hostile [creature] [in its lair|].
 Weird-looking [character/appearance] [creature].
 Weird-behaving [character/personality] [creature].
-[creature] in environmental danger.
-Pile containing [2d4] almost identical [object/mundane]s.
-[object/mundane] bearing mark of use by [character/job].
-[object/mundane] about to be [lost|destroyed].
-Half-[object/mundane] half-[object/mundane].
-[object/mundane] partially made of [object/material].
-[creature] corpse.
-Geared [creature/humanoid] corpse containing [object/mundane] and [object/mundane].
-Wounded [creature].
-Sick [creature].
-[character/appearance] [character/personality] [creature/humanoid] about to commit suicide.
-Signpost showing a [|wrong] way to nearby [place/adjective] [place/area].
-Signpost showing a [|wrong] way to nearby [place/adjective] [place/structure].
-Arrow symbol pointing [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
-Underground entrance leading to [place/adjective] [place/structure].
-[place/adjective] passage leading to [place/adjective] [place/area].
-[place/adjective] passage leading to [place/adjective] [place/structure].
-[place/adjective] [place/structure] emanating with magic.
-Trapped [creature].
-Hungry [creature].
+[character/appearance] [creature] in environmental danger.
+[character/personality] [creature] about to commit suicide.[| Not aware of it.]
+Trapped [character/personality] [creature]. The trap was... [trap/adjective]
 Half-[creature] half-[creature].
 Uncanny [creature] made of [object/material].
 Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
 [creature] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
-[creature] eating [object/food].
-[creature] making use of its magical powers in order to [action/verb] something.
-[creature] interested in adventurer's item.
-[character/appearance] [character/personality] [creature/humanoid] offering a free [object/adjective] [object/mundane]. [|And running away.|And disappearing.]
-Two [creature]s making out.
-[place/adjective] [place/structure] emanating with [sacred|demonic] power.
-Damaged bridge made of [object/material].
-Damaged [place/adjective] [place/structure].
+[creature] [drinking [object/drink]|eating [object/food]].
+[creature] making use of its magical powers in order to [action/verb] [[creature]|[object/mundane]|[[place/structure]|[place/natural]|[place/building]]].
+[character/personality] [creature] interested in adventurer's item.[| Tries to [action/verb] it.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [character/job] offering a free [object/adjective] [object/mundane]. [|And running away.|And disappearing.]
+[1d3] [creature]s making out.[| Loud.]
+Signpost showing a [|wrong] way to nearby [place/adjective] [place/area].
+Signpost showing a [|wrong] way to nearby [place/adjective] [place/structure].
+Signpost with arrow symbol pointing [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
+[place/adjective] [passage|entrance] leading to [place/adjective] [[place/area]|[place/structure]|[place/natural]|[place/building]].
+[place/adjective] [[place/structure]|[place/natural]|[place/building]] emanating with [magic|demonic power|sacred power].
+[place/adjective] [[place/structure]|[place/natural]|[place/building]] made of [object/material].
+[place/adjective] [[place/structure]|[place/natural]|[place/building]] with [abstract/symbol] symbol on it.
+Stench source coming from nearby [place/adjective] [[place/structure]|[place/natural]].
+Beautiful view of [place/adjective] [[place/area]|[place/building]].
+Projectile struck in [place/adjective] [[place/structure]|[place/natural]].
+Hidden passage to [place/adjective] [[place/area]|[place/building]|[place/structure]|[place/natural]].
+Magical portal hidden inside [place/adjective] [place/building]|[place/structure]|[place/natural]. It leads to [|pocket dimension containing] [place/adjective] [place/building]|[place/structure]|[place/natural] in [place/adjective] [place/area].
 [object/adjective] [object/mundane] guarded by [character/personality] [creature].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards|someone walking under ladder|shoes on a table].
 Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards|dream catcher].
-[object/adjective] [object/mundane] in the middle of the path.
-[object/adjective] [object/mundane] with [abstract/symbol] symbol on it.
 Environmental object with a name engraved on it - "[character/slavic_prefix][character/slavic_suffix]".
-[object/adjective] [object/mundane] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
 [creature] with [abstract/symbol] symbol on its body part.
-[place/adjective] [place/structure] with [abstract/symbol] symbol on it.
-Stench source coming from nearby [place/adjective] [place/structure].
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 Small [creature] eating adventurer's supplies.
 [object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
@@ -150,10 +148,7 @@ Toll station stationed by [[character/appearance]|] [[character/personality]|] [
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|] which shares rumor for a rumor.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|] who wants to [action/verb] adventurers.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|] asking adventurers for direction to [place/adjective] [place/structure].
-Beautiful view of [place/adjective] [place/area].
-Hideout [behind a waterfall|on a tree] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [object/adjective] [object/mundane] and [object/adjective] [object/mundane].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [magical|arcane|mystical|enchanted|miraculous|sorcerous|enigmatic|mysterious|bewitched|pacted|hexed|cursed|infinite] [object/mundane] of [abstract/abstract] which will [[action/verb] anything touched with its tip|[action/verb] anything pointed by it, not farther than [1d10*5] feet|[action/verb] [creatures|[creature]] touched with it|[action/verb] creature using it according to its purpose|[action/verb] anything it's used on according to its purpose|[action/verb] [creatures|[creature]] in [1d10*5] feet radius|make each creature holding/wearing it [[character/appearance]|[character/personality]]|teleport each creature which touches it to [place/adjective] [place/structure] in [place/adjective] [place/area]|summon [creature] when someone attempts to [action/verb] it|turn any [object/material] it touches into [object/material]|turns any creature it touches into [object/material] in [1d4*6] seconds [for 1 minute|for 1 hour|for 1 day|for 1 year|permanently]|try to [discourage adventurers from|encourage adventurers to] [abstract/abstract]. It is capable of [writing text|talking|communicating telepathically in [1d10*5] feet radius] and has [character/personality] personality].
-Projectile struck in [place/adjective] [place/structure].
+Hideout behind [object/natural] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [object/adjective] [object/mundane] and[ [object/adjective] [object/mundane]|].
 Letter ordering [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to [action/verb] [character/germanic_prefix][character/germanic_suffix].
 [Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [action/verb] [object/mundane].
 Love letter from [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to [character/germanic_prefix][character/germanic_suffix].
@@ -186,8 +181,6 @@ Mechanical noises resembling [creaking gate|door being closed|spinning mill|spin
 Mysterious fire combustion.
 [character/appearance] [character/personality] [creature/humanoid] asking for being escorted.
 Talking [creature/beast] with [character/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [abstract/abstract].
-Hidden passage to [place/adjective] [place/structure].
-Magical portal hidden inside [place/adjective] [place/structure]. It leads to [|pocket dimension containing] [place/adjective] [place/structure] in [place/adjective] [place/area].
 Difficult terrain made of [object/material].
 [Steep|Flat] terrain.
 Illusory encounter.
