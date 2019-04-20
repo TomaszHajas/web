@@ -8,6 +8,7 @@ Short-eared
 Pointy-eared
 Earless
 Albinos
+Melanic
 Long-nosed
 Short-nosed
 Long-necked
@@ -215,6 +216,7 @@ Grappling
 Crippled
 Dizzy
 Swollen-eyed
+Tailed
 Horned
 Scaled
 Furry
