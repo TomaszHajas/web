@@ -22,6 +22,7 @@ Small-eyed
 Slant-eyed
 Round-eyed
 Thick-browed
+Monobrowed
 Browless
 Gray-haired
 Brown-haired
@@ -42,6 +43,7 @@ Bald
 Depilated
 Hairy
 Freckled
+Pimpled
 Pale
 Leprous
 Soft-skinned
@@ -164,6 +166,8 @@ Wet
 Dusty
 Loud-breathing
 Gasping
+Sneezy
+Crying
 Wrinkled
 Thick
 Thin
