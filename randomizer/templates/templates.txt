@@ -44,7 +44,7 @@ Ambush of [2d4] [creature]s.
 [Tracks|Droppings|Body part] belonging to [creature].
 [object/adjective] [[place/natural]|[place/structure]].
 [Traces|Sounds|Smell] of combat.
-[adjective/color] [thick|watery|dried] spattering.
+[object/color] [thick|watery|dried] spattering.
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [creature].
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [creature].
 Bonfire[, lit| remains. [It was extinguished [1d8] hour(s) ago|[It has lost all the heat]]| with [object/food] roasting].
@@ -133,16 +133,16 @@ Environmental object with a name engraved on it - "[character/slavic_prefix][cha
 Stench source coming from nearby [place/adjective] [place/structure].
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 Small [creature] eating adventurer's supplies.
-[adjective/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
+[object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
 Animated [object/adjective] [object/mundane].
 Water bank - [pond|lake|puddle|stream|river|river with waterfall].
 [Pond|Lake|Puddle|Stream|River|Waterfall] of [object/drink].
-[Barrel|Bucket|Urn|Container|Bowl|Goblet] with [adjective/color] liquid.
+[Barrel|Bucket|Urn|Container|Bowl|Goblet] with [object/color] liquid.
 [Bush|Tree] with [object/food] growing on it.
 Vegetation cluster - [vegetable patch|field of crops|fruit orchard|woodlet|aggregation of bushes|field of ferns|mossy spots|grassy field].
 Mysterious [fog|dust|smoke|mist|gas|darkness|insect] cloud which will [action/verb] creature which [breathes it|enters it].
 Vision obscurement - [fog|dust|smoke|mist|gas|darkness|swarm of insects|lush vegetation|crowd of people|environmental obstacles].
-Swarm of [adjective/color] insects.
+Swarm of [object/color] insects.
 Sudden [minor landslide|avalanche|earthquake].
 [Quicksand|Sinkhole] on path.
 Toll station stationed by [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|].
@@ -180,7 +180,7 @@ Sudden need to [take a dump|empty one's bladder].
 Passing shadow of a winged animal.
 Partially buried object made of [object/material].
 Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
-Dripping [adjective/color] liquid.
+Dripping [object/color] liquid.
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
 Mysterious fire combustion.
