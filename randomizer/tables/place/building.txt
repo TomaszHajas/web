@@ -53,6 +53,8 @@ Mine
 Quarry
 Shaft
 Lighthouse
+Harbor
+Port
 Watermill
 Shop
 Marketplace
