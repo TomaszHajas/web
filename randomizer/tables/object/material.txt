@@ -30,24 +30,12 @@ Salt
 Sugar
 Sulfur
 Gravel
-Water
 Ice
-Juice
-Alcohol
-Sulfuric acid
-Mercury
 Gelatin
-Oil
-Pitch
 Lye
 Potash
 Soap
 Cloth
-Blood
-Fat
-Milk
-Excrements
-Urine
 Feather
 Shell
 Bone
@@ -64,11 +52,6 @@ Leather
 Cartilage
 Soft tissue
 Skin
-Honey
-Slime
-Venom
-Vomit
-Semen
 Glass
 Ceramics
 Paper
