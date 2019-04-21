@@ -92,7 +92,7 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [place/adjective]
 
 ###### job
-[job/adjective]\
+[job/adjective]
 
 ###### trap
 [trap/adjective]
