@@ -72,7 +72,7 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [character/hindu_suffix]\
 [character/japanese_prefix]\
 [character/japanese_suffix]\
-[character/job]
+[character/job]\
 [character/appearance]\
 [character/personality]
 
