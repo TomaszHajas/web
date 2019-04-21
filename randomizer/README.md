@@ -50,7 +50,7 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [object/melee]\
 [object/ranged]\
 [object/ring]\
-[itobjectem/scroll]\
+[object/scroll]\
 [object/trade_good]\
 [object/treasure]\
 [object/trinket]\
