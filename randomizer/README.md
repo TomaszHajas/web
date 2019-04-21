@@ -16,13 +16,6 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 
 ## Rollable tables:
 
-###### adjective
-[adjective/appearance]\
-[adjective/color]\
-[adjective/item]\
-[adjective/personality]\
-[adjective/place]
-
 ###### adverb
 [adverb/adverb]
 
@@ -43,55 +36,66 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [creature/plant]\
 [creature/undead]
 
-###### item
-[item/mundane]\
-[item/magic]\
-[item/wondrous]\
-[item/component]\
-[item/ammo]\
-[item/armor]\
-[item/focus]\
-[item/gear]\
-[item/instrument]\
-[item/livestock]\
-[item/melee]\
-[item/ranged]\
-[item/ring]\
-[item/scroll]\
-[item/trade_good]\
-[item/treasure]\
-[item/trinket]\
-[item/consumable/food]\
-[item/consumable/drink]\
-[item/consumable/potion]\
-[item/consumable/poison]
+###### object
+[object/mundane]\
+[object/magic]\
+[object/wondrous]\
+[object/component]\
+[object/ammo]\
+[object/armor]\
+[object/focus]\
+[object/gear]\
+[object/instrument]\
+[object/livestock]\
+[object/melee]\
+[object/ranged]\
+[object/ring]\
+[itobjectem/scroll]\
+[object/trade_good]\
+[object/treasure]\
+[object/trinket]\
+[object/food]\
+[object/drink]\
+[object/potion]\
+[object/poison]\
+[object/adjective]\
+[object/color]
 
-###### noun
-[noun/anglo_saxon_prefix]\
-[noun/anglo_saxon_suffix]\
-[noun/germanic_prefix]\
-[noun/germanic_suffix]\
-[noun/slavic_prefix]\
-[noun/slavic_suffix]\
-[noun/hindu_prefix]\
-[noun/hindu_suffix]\
-[noun/japanese_prefix]\
-[noun/japanese_suffix]\
-[noun/job]\
-[noun/boon]\
-[noun/madness]\
-[noun/disease]\
-[noun/symbol]\
-[noun/abstract]\
-[noun/material]
+###### character
+[character/anglo_saxon_prefix]\
+[character/anglo_saxon_suffix]\
+[character/germanic_prefix]\
+[character/germanic_suffix]\
+[character/slavic_prefix]\
+[character/slavic_suffix]\
+[character/hindu_prefix]\
+[character/hindu_suffix]\
+[character/japanese_prefix]\
+[character/japanese_suffix]\
+[character/job]
+[character/appearance]\
+[character/personality]
+
+###### state
+[state/boon]\
+[state/madness]\
+[state/disease]\
+[state/symbol]\
+[state/abstract]\
+[state/material]
 
 ###### place
 [place/area]\
-[place/structure]
+[place/structure]\
+[place/natural]\
+[place/building]\
+[place/adjective]
 
-###### trait
-[trait/job_trait]\
-[trait/trap_trait]
+###### job
+[job/adjective]\
+
+###### trap
+[trap/adjective]
 
 ###### verb
 [verb/verb]
