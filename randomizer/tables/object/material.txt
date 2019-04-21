@@ -25,7 +25,6 @@ Clay
 Porcelain
 Concrete
 Gunpowder
-Nitroglycerin
 Salt
 Sugar
 Sulfur
