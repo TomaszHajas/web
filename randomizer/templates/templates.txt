@@ -83,7 +83,7 @@ Ruined [[place/building]|[place/structure]].
 [Tracks|Droppings|Body part] belonging to [creature].
 [Traces|Sounds|Smell] of combat.
 [object/color] [thick|watery|dried] spattering.
-Bonfire[, lit| remains. [It was extinguished [1d8] hour(s) ago|[It has lost all the heat]]| with [object/food] roasting].
+Bonfire[, lit| remains. [It was extinguished [1d8] hour(s) ago|It has lost all the heat]| with [object/food] roasting].
 Sound of [heavy-breathing|crying|laughing|giggling|snoring|gasping|groaning|sighing|sniffing|burping|yelling|whispering|coughing|sneezing|yawning|growling|roaring|hiccupy] [creature/humanoid].
 Small [camp|hideout].
 [Entrance|Crevice|Stairs|Ladder|Rope] leading down.
