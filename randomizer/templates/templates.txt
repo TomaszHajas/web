@@ -140,8 +140,8 @@ Environmental object with a name engraved on it - "[character/slavic_prefix][cha
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 [object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
 Animated [object/adjective] [object/mundane].
-Water bank - [pond|lake|puddle|stream|river|river with waterfall].
-[Pond|Lake|Puddle|Stream|River|Waterfall] of [object/drink].
+Water bank - [pool|pond|lake|puddle|stream|river|river with waterfall].
+[Pool|Pond|Lake|Puddle|Stream|River|Waterfall] of [[object/liquid]|[object/drink]].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [object/color] liquid.
 [Bush|Tree] with [object/food] growing on it.
 Vegetation cluster - [vegetable patch|field of crops|fruit orchard|woodlet|aggregation of bushes|field of ferns|mossy spots|grassy field].
@@ -187,6 +187,7 @@ Difficult terrain made of [object/material].
 Illusory encounter.
 Chilling wind.
 [High|Low]-pitched sound.
+Smell of [[object/food]|[object/drink]].
 [Cold|Heat] source.
 Fire source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
 Light source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
