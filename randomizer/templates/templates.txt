@@ -9,7 +9,7 @@
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a riddle, rewarding with [object/adjective] [object/mundane] for a good answer. The riddle is: "I [action/verb] [abstract/symbol]s and [action/verb] [creature/beast]s - who am I?"
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [action/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [action/verb] [object/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] on a quest to [action/verb] [|his/her] [[object/mundane]|[creature]].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] on a quest to [action/verb] [|his/her] [[object/mundane]|[creature]] because of [abstract/abstract].[| Seems to be quiet about it.| Seems to discourage adventurers from helping.| Seems to encourage adventurers to help.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a local [legend|rumor] about [creature] which [managed|attempted|failed] to [action/verb] [[object/mundane]|[creature]].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] willing to join adventurers. He/she's secretely cursed and transforms into [creature] each time he/she attempts to [action/verb] something. [|The curse is infectious.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] trying to [action/verb] adventurers.
@@ -26,14 +26,14 @@ Toll station stationed by [[character/appearance]|] [[character/personality]|] [
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] [breaking local law|enforcing local law on adventurers].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] willing to [join|recruit] adventurers.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] asking for being escorted.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] offering a free [object/adjective] [object/mundane].[| And running away.| And disappearing.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] offering a free [object/adjective] [object/mundane].[| And running away.| And disappearing.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 Artistic performance of [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|].
 Two [creature/humanoid]s arguing over the way they should go.
 Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
 [creature/humanoid] [about|attempting|failing] to [action/verb] [creature/humanoid].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|] being executed by [2d4] [creature/humanoid]s.
-Group of [2d4] [creature/humanoid]s on a quest to [action/verb] [|their] [object/mundane].
+Group of [2d4] x [[character/race]|[creature/humanoid]] on quest to [action/verb] [|their] [[object/mundane]|[creature]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
 Group of [2d4] [creature/humanoid]s debating over [abstract/abstract] at [place/adjective] [place/structure].
 Group of [2d4] [creature/humanoid]s debating over a local problem.
 Group of [2d4] hostile [creature]s approaching from [one side|two sides|all sides].
