@@ -175,3 +175,7 @@ Moderate
 Dependent
 Independent
 Corrupted
+Vegan
+Vegetarian
+Carnivorous
+Cannibalistic
