@@ -143,6 +143,8 @@ Slender
 Plump
 Anorectic
 Anaemic
+Ill
+Diabetic
 Chubby
 Obese
 Pregnant
