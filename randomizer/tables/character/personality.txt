@@ -90,6 +90,8 @@ Polite
 Impolite
 Shy
 Bold
+Timid
+Brazen
 Witty
 Serious
 Extravert
@@ -125,6 +127,8 @@ Heterosexual
 Homosexual
 Creative
 Repetitive
+Spontaneous
+Rigid
 Hyperactive
 Hypoactive
 Bipolar
@@ -179,3 +183,10 @@ Vegan
 Vegetarian
 Carnivorous
 Cannibalistic
+Democratic
+Socialistic
+Possessed
+Inspiring
+Inspired
+Enervating
+Enervated
