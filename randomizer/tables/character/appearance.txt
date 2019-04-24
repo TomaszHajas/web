@@ -7,6 +7,9 @@ Long-eared
 Short-eared
 Pointy-eared
 Earless
+Dry-lipped
+Big-lipped
+Narrow-lipped
 Albinos
 Melanic
 Long-nosed
@@ -153,6 +156,7 @@ Lisping
 Fast-talking
 Slow-talking
 Twitching
+Scratchy
 Blinking
 Stuttering
 Slurring
@@ -196,6 +200,16 @@ Unarmed
 Wounded
 Poisoned
 Infected
+Fatigued
+Bleeding
+Nauseated
+Vomitting
+Defecating
+Rash-skinned
+Tic-bearing
+Suffering
+Impotent
+Infertile
 Blistered
 Scalded
 Immobilized
