@@ -109,6 +109,10 @@ Jingly
 Fresh
 Rotten
 Weak
+Flawless
+Decayed
+Durable
+Frail
 Strong
 Stainless
 Rusty
@@ -131,6 +135,7 @@ Halved
 Shiny
 Hollowed
 Burnt
+Burning
 Magical
 Antimagical
 Arcane
