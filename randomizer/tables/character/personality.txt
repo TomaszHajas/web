@@ -5,7 +5,7 @@ Rude
 Rabble
 Braggard
 Curious
-Irritable
+Irritating
 Ponderous
 Suspicious
 Quiet
@@ -148,6 +148,18 @@ Agoraphobic
 Claustrophobic
 Egosyntonic
 Egodystonic
+Musical
+Amusical
+Hedonist
+Anhedonic
+Apathic
+Confabulating
+Delusional
+Euphoric
+Irritable
+Homicidal
+Manic
+Suicidal
 Conservative
 Liberal
 Superstitious
