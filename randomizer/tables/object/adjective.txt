@@ -1,5 +1,6 @@
 Dwarven
 Elven
+Gnomish
 Demonic
 Holy
 Black
