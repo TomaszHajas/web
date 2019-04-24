@@ -21,13 +21,19 @@ Number
 Letter
 Star
 Square
+Rectangle
 Circle
+Ellipse
 Triangle
+Semicircle
 Hexagon
 Cross
+Wolf
 Bear
+Lion
 Hare
 Badger
+Cat
 Dog
 Horse
 Dragon
@@ -46,3 +52,6 @@ Diamond
 Key
 Bug
 House
+Rainbow
+Horseshoe
+Clover
