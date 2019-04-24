@@ -6,7 +6,7 @@
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] disturbing adventurers by performing his/her job.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] offering help in things related to his/her job.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] performing his/er job.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a riddle, rewarding with [object/adjective] [object/mundane] for a good answer. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]]s and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]]s - who am I?"
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a riddle, rewarding with [object/adjective] [object/mundane] for a good answer. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [action/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [action/verb] [object/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] on a quest to [action/verb] [|his/her] [[object/mundane]|[creature]] because of [abstract/abstract].[| Seems to be quiet about it.| Seems to discourage adventurers from helping.| Seems to encourage adventurers to help.]
@@ -113,12 +113,8 @@ Sudden end of the path.
 Trap making use of [object/mundane], which is... [trap/adjective]
 Path-blocking environmental object - [[object/structure]|[object/natural]].
 Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]]s and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]]s - who am I?"
-Cryptic puzzle which can be easily solved by mimicking behavior of the [creature/beast].
-Mysterious puzzle which can be easily solved with use of [object/mundane].
-Enigmatic puzzle which can be easily solved by [character/job].
-Tricky puzzle which encourages adventurers to [action/verb] something.
-Catchy puzzle which can be easily solved by displaying [abstract/abstract].
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
+[[object/adjective]|[place/adjective]] puzzle which can be solved [by mimicking behavior of the [creature/beast]|with use of [object/mundane]|by [character/job]|by managing to [action/verb] something|by displaying [abstract/abstract]].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [character/job] who tried to [action/verb] 
 Signpost showing a [|wrong] way to nearby [place/adjective] [place/area].
 Signpost showing a [|wrong] way to nearby [place/adjective] [place/structure].
