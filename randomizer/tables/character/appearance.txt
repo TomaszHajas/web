@@ -160,6 +160,7 @@ Slow-talking
 Twitching
 Scratchy
 Blinking
+Unblinking
 Stuttering
 Slurring
 Noticeable
