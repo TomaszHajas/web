@@ -215,8 +215,7 @@ Anticipative
 Appreciative
 Articulate
 Aspiring
-Athletic
-Attractive
+Flirty
 Balanced
 Benevolent
 Brilliant
@@ -306,7 +305,9 @@ Lovable
 Lyrical
 Magnanimous
 Many-sided
-Masculine (Manly)
+Masculine
+Feminine
+Manly
 Mature
 Methodical
 Maticulous
@@ -758,7 +759,7 @@ Venal
 Venomous
 Vindictive
 Vulnerable
-Weak
+Weak-minded
 Weak-willed
 Well-meaning
 Willful
