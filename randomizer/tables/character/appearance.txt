@@ -204,9 +204,12 @@ Wounded
 Poisoned
 Infected
 Fatigued
+Tired
+Exhausted
+Encumbered
 Bleeding
 Nauseated
-Vomitting
+Vomiting
 Defecating
 Rash-skinned
 Tic-bearing
