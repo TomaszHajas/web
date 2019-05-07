@@ -1,0 +1,130 @@
+Casquehead lizard
+Iguana
+Earless lizard
+Spiny lizard
+Tree lizard
+Side-blotched lizard
+Horned lizard
+Anole
+Ground lizard
+Collared lizard
+Leopard lizard
+Iguanid
+Wood lizard
+Clubtail
+Agama
+Frilled lizard
+Chameleon
+Gecko
+Legless gecko
+Blind lizard
+Skink
+Spinytail lizard
+Plated lizard
+Night lizard
+Wall lizard
+Tegu
+Whiptail
+Spectacled lizard
+Slowwworm
+Glass lizard
+Legless lizard
+Knob-scaled lizard
+Monitor lizard
+Gila monster
+Bearded lizard
+Marine lizard
+Tuatara
+Wart snake
+Coral snake
+Pipe snake
+Boa
+Splitjaw snake
+Typical snake
+Elapid
+Burrowing snake
+Snail-eating snake
+Python
+Shield-tailed snake
+Viper
+Dragon snake
+Odd-scaled snake
+Sunbeam snake
+Spine-jawed snake
+Blindsnake
+Gharial
+Alligator
+Spectacled caiman
+Black caiman
+Freshwater crocodile
+Marsh crocodile
+Saltwater crocodile
+Desert crocodile
+Slender-snouted crocodile
+Sideneck turtle
+Big-headed turtle
+River turtle
+Pond turtle
+Box turtle
+Water turtle
+Marsh turtle
+Roofed turtle
+Tortoise
+Snapping turtle
+Mud turtle
+Sea turtle
+Ostrich
+Rhea
+Cassowary
+Emu
+Kiwi
+Elephant bird
+Tinamou
+Moa
+Chicken
+Turkey
+Duck
+Goose
+Nightjar
+Oilbird
+Potoo
+Frogmouth
+Swift
+Hummingbird
+Turaco
+Bustard
+Cuckoo
+Pigeon
+Mesite
+Sandgrouse
+FLamingo
+Grebe
+Wader
+Tropicbird
+Sunbittern
+Kagu
+Loon
+Albatross
+Petrel
+Penguin
+Stork
+Booby
+Cormorant
+Pelican
+Heron
+Ibis
+Hoatzin
+Vulture
+Hawk
+Owl
+Mouse bird
+Cuckoo roller
+Trogon
+Quetzal
+Hornbill
+Kingfisher
+Woodpecker
+Seriemas
+Falcon
+Parrot
+Passerine
