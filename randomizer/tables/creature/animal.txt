@@ -309,3 +309,34 @@ Dolphin
 Beluga
 Narwhal
 Porpoise
+Sponge
+Comb jelly
+Hydra
+Jellyfish
+Sea anemone
+Coral
+Starfish
+Sea urchin
+Sea cucumber
+Flatworm
+Roundworm
+Earthworm
+Leech
+Insect
+Arachnid
+Crustacean
+Myriapod
+Snail
+Slug
+Clam
+Oyster
+Scallop
+Geoduck
+Mussel
+Chiton
+Squid
+Octopus
+Cuttlefish
+Nautilus
+Spirula
+Tusk shells
