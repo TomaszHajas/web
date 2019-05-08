@@ -162,3 +162,85 @@ Sugarbird
 Oxpecker
 Wren
 Terror bird
+Elephant shrew
+Mole
+Aardvark
+Hyraxe
+Elephant
+Dugong
+Manatee
+Sloth
+Anteater
+Armadillo
+Treeshrew
+Flying lemur
+Lemur
+Bushbaby
+Monkey
+Ape
+Human
+Pika
+Rabbit
+Hare
+Scaly-tailed squirrel
+Springhare
+Beaver
+Gopher
+Kangaroo rat
+Kangaroo mouse
+Comb rat
+Mole rat
+Porcupine
+Dassie rat
+Cane rat
+Giant hutia
+Chinchilla rat
+Hutia
+Cavy
+Capybara
+Chinchilla
+Spiny rat
+Octodont
+Nutria
+Rock rat
+Jerboa
+Jumping mouse
+Hamster
+Muskrat
+Vole
+Lemming
+Mouse
+Rat
+Crested rat
+Spiny mouse
+Spiny dormouse
+Bamboo rat
+Zokor
+Mountain beaver
+Dormouse
+Squirrel
+Chipmunk
+Prairie dog
+Marmot
+Shrew
+Hedgehog
+Mole
+Solenodon
+Bat
+Pangolin
+Scaly anteater
+Cat
+Dog
+Whale
+Dolphin
+Porpoise
+Pig
+Deer
+Cattle
+Deer
+Giraffe
+Horse
+Donkey
+Zebra
+Tapir
+Rhinoceros
