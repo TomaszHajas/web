@@ -309,23 +309,99 @@ Dolphin
 Beluga
 Narwhal
 Porpoise
+Rotifer
 Sponge
+Bryozoan
+Hydrozoan
 Comb jelly
 Hydra
 Jellyfish
 Sea anemone
 Coral
 Starfish
+Crinoid
 Sea urchin
 Sea cucumber
 Flatworm
+Fluke
 Roundworm
 Earthworm
 Leech
-Insect
-Arachnid
-Crustacean
-Myriapod
+Beard worm
+Spoon worm
+Peanut worm
+Tardigrade
+Bristletail
+Silverfish
+Firebrat
+Mayfly
+Upwing fly
+Dragonfly
+Damselfly
+Earwig
+Cockroach
+Termite
+Mantis
+Webspinner
+Rock crawler
+Heelwalker
+Grasshopper
+Cricket
+Stick-bug
+Stonefly
+Zorapteran
+Bug
+Lice
+Booklice
+Barklice
+Thrip
+Beetle
+Fly
+Ant
+Bee
+Bumblebee
+Wasp
+Hornet
+Butterfly
+Moth
+Scorpionfly
+Alderfly
+Lacewing
+Snakefly
+Flea
+Stylop
+Cassidfly
+Mite
+Whip spider
+Spider
+Harvestman
+Tick
+Pseudoscorpion
+Tickspider
+Vinegaroon
+Scorpion
+Solifuge
+Horseshoe crab
+Barnacle
+Copepod
+Crab
+Lobster
+Crayfish
+Shrimp
+Mantis shrimp
+Krill
+Woodlouse
+Scud
+Sandhopper
+Sea spider
+Centipede
+Millipede
+Pauropod
+Symphylan
+Springtail
+Trilobite
+Sea squirt
+Lancelet
 Snail
 Slug
 Clam
