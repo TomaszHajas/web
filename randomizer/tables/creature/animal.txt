@@ -230,7 +230,61 @@ Bat
 Pangolin
 Scaly anteater
 Cat
+Civet
+Linsang
+Genet
+Hyena
+Mongoose
+Merkat
+Fossa
+Leopard
+Tiger
+Snow leopard
+Lion
+Jaguar
+Cheetah
+Cougar
+Jaguarundi
+Serval
+Caracal
+Ocelot
+Oncilla
+Bobcat
+Lynx
+Manul
+Wildcat
+Brown bear
+Polar bear
+Black bear
+Sloth bear
+Panda
 Dog
+Gray wolf
+Coyote
+Jackal
+Wild dog
+Bush dog
+Maned wolf
+Hoary fox
+Fox
+Raccoon dog
+Fennec fox
+Red fox
+Arctic fox
+Raccoon
+Coati
+Ringtail
+Red panda
+Stink badger
+Skunk
+Weasel
+Otter
+Badger
+Ferret
+Wolverine
+Seal
+Walrus
+Sea lion
 Horse
 Donkey
 Zebra
@@ -361,6 +415,7 @@ Ant
 Bee
 Bumblebee
 Wasp
+Dementor wasp
 Hornet
 Butterfly
 Moth
@@ -374,6 +429,17 @@ Cassidfly
 Mite
 Whip spider
 Spider
+Funnel-web spider
+Orb-weaver spider
+Trapdoor spider
+Jumping spider
+Wolf spider
+Long-legged spider
+Spitting spider
+Reculse spider
+Huntsman spider
+Crab spider
+Tarantula
 Harvestman
 Tick
 Pseudoscorpion
@@ -415,4 +481,4 @@ Octopus
 Cuttlefish
 Nautilus
 Spirula
-Tusk shells
+Tusk shell
