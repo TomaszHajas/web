@@ -1,3 +1,19 @@
+Black
+Blue
+Brown
+Cyan
+Green
+Grey
+Magenta
+Orange
+Pink
+Purple
+Red
+White
+Yellow
+Silver
+Gold
+
 Earless
 One-eared
 Two-eared
@@ -153,6 +169,7 @@ Biped
 Triped
 Quadruped
 Many-legged
+Palped
 
 Flying
 Jumping
