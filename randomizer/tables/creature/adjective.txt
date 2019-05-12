@@ -42,6 +42,8 @@ Many-nosed
 Long-nosed
 Big-nosed
 Small-nosed
+Trunked
+Snouted
 
 Antennaed
 
@@ -70,13 +72,20 @@ Probioscis
 Common
 Typical
 
+Wild
 Fairy
 Tropical
 Polar
+Snow
+Ice
 Prehistoric
 Water
 Sea
+Marine
 River
+Mud
+Freshwater
+Saltwater
 Swamp
 Marsh
 Fire
@@ -87,7 +96,14 @@ Earth
 Mountain
 Cave
 Rock
+Ground
 Bush
+Tree
+Wood
+Bamboo
+Wall
+Night
+Sun
 
 Greater
 Lesser
@@ -100,6 +116,7 @@ Large
 Huge
 Giant
 
+Spectacled
 Spotted
 Striped
 Streaked
@@ -119,6 +136,8 @@ Bearded
 Wooly
 Hackled
 Tufted
+Combed
+Crested
 
 Barbed
 Bristled
@@ -133,6 +152,9 @@ Antlered
 Ossiconed
 
 Hooved
+Wart
+Shielded
+Armored
 Plated
 Clawed
 Pincered
@@ -189,6 +211,8 @@ Sucking
 Gnawing
 Biting
 Chewing
+Snapping
+Killing
 Carnivorous
 Herbivorous
 
@@ -211,3 +235,4 @@ Long-tailed
 Whip-tailed
 Mace-tailed
 Sting-tailed
+Spine-tailed
