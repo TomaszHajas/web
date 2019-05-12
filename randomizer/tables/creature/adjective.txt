@@ -95,6 +95,7 @@ Wind
 Earth
 Mountain
 Cave
+Tunnel
 Rock
 Ground
 Bush
@@ -213,6 +214,7 @@ Biting
 Chewing
 Snapping
 Killing
+Whipping
 Carnivorous
 Herbivorous
 
