@@ -27,6 +27,8 @@ Long-nosed
 Big-nosed
 Small-nosed
 
+Antennaed
+
 Headless
 Two-headed
 Many-headed
@@ -46,14 +48,28 @@ Saw-toothed
 Toothed
 Sabretooth
 Fanged
+Mandibled
+Probioscis
 
 Common
 Typical
 
+Fairy
 Tropical
+Polar
+Prehistoric
 Water
-Arctic
+Sea
+River
+Swamp
 Marsh
+Fire
+Sand
+Desert
+Wind
+Earth
+Mountain
+Cave
 Rock
 Bush
 
@@ -92,9 +108,11 @@ Bristled
 Quilled
 Spined
 Spiked
+Stinging
 
 Horned
 Hollow-horned
+Antlered
 Ossiconed
 
 Hooved
@@ -110,6 +128,8 @@ Shelled
 Bony
 Skeletal
 Exoskeletal
+Thick-skinned
+Thin-skinned
 Slender
 
 Bat-winged
@@ -147,6 +167,10 @@ Digging
 Burrowing
 Hibernating
 Spitting
+Sucking
+Gnawing
+Biting
+Chewing
 
 Musk
 Stinky
@@ -156,8 +180,10 @@ Poisoned
 Web-spinning
 Slimy
 Oozing
+Waxy
 
 Mutated
+Devolved
 
 Tailless
 Short-tailed
