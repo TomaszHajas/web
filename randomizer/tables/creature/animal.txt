@@ -1,78 +1,31 @@
-Casquehead lizard
+Lizard
 Iguana
-Earless lizard
-Spiny lizard
-Tree lizard
-Side-blotched lizard
-Horned lizard
 Anole
-Ground lizard
-Collared lizard
-Leopard lizard
 Iguanid
-Wood lizard
 Clubtail
 Agama
-Frilled lizard
 Chameleon
 Gecko
-Legless gecko
-Blind lizard
 Skink
-Spinytail lizard
-Plated lizard
-Night lizard
-Wall lizard
 Tegu
 Whiptail
-Spectacled lizard
 Slowwworm
-Glass lizard
-Legless lizard
-Knob-scaled lizard
-Monitor lizard
+Varan
 Gila monster
 Bearded lizard
-Marine lizard
 Tuatara
-Wart snake
-Coral snake
-Pipe snake
+Snake
 Boa
-Splitjaw snake
-Typical snake
 Elapid
-Burrowing snake
-Snail-eating snake
 Python
-Shield-tailed snake
 Viper
-Dragon snake
-Odd-scaled snake
-Sunbeam snake
-Spine-jawed snake
 Blindsnake
 Gharial
 Alligator
-Spectacled caiman
-Black caiman
-Freshwater crocodile
-Marsh crocodile
-Saltwater crocodile
-Desert crocodile
-Slender-snouted crocodile
-Sideneck turtle
-Big-headed turtle
-River turtle
-Pond turtle
-Box turtle
-Water turtle
-Marsh turtle
-Roofed turtle
+Caiman
+Crocodile
+Turtle
 Tortoise
-Snapping turtle
-Mud turtle
-Sea turtle
 Ostrich
 Rhea
 Cassowary
@@ -170,10 +123,8 @@ Elephant
 Dugong
 Manatee
 Sloth
-Anteater
 Armadillo
 Treeshrew
-Flying lemur
 Lemur
 Bushbaby
 Monkey
@@ -182,41 +133,29 @@ Human
 Pika
 Rabbit
 Hare
-Scaly-tailed squirrel
+Squirrel
 Springhare
 Beaver
 Gopher
 Kangaroo rat
 Kangaroo mouse
-Comb rat
 Mole rat
 Porcupine
-Dassie rat
-Cane rat
-Giant hutia
-Chinchilla rat
 Hutia
+Chinchilla
 Cavy
 Capybara
-Chinchilla
-Spiny rat
 Octodont
 Nutria
-Rock rat
 Jerboa
-Jumping mouse
 Hamster
 Muskrat
 Vole
 Lemming
 Mouse
 Rat
-Crested rat
-Spiny mouse
-Spiny dormouse
-Bamboo rat
+Dormouse
 Zokor
-Mountain beaver
 Dormouse
 Squirrel
 Chipmunk
@@ -228,7 +167,7 @@ Mole
 Solenodon
 Bat
 Pangolin
-Scaly anteater
+Anteater
 Cat
 Civet
 Linsang
@@ -239,7 +178,6 @@ Merkat
 Fossa
 Leopard
 Tiger
-Snow leopard
 Lion
 Jaguar
 Cheetah
@@ -253,29 +191,18 @@ Bobcat
 Lynx
 Manul
 Wildcat
-Brown bear
-Polar bear
-Black bear
-Sloth bear
+Bear
 Panda
 Dog
-Gray wolf
+Wolf
 Coyote
 Jackal
-Wild dog
-Bush dog
-Maned wolf
-Hoary fox
 Fox
 Raccoon dog
-Fennec fox
-Red fox
-Arctic fox
+Fennec
 Raccoon
 Coati
 Ringtail
-Red panda
-Stink badger
 Skunk
 Weasel
 Otter
@@ -298,9 +225,7 @@ Pig
 Boar
 Hog
 Babirusa
-Four-horned antelope
 Nilgai
-Water buffalo
 Anoa
 Tamaraw
 Auroch
@@ -339,7 +264,6 @@ Urial
 Bharal
 Serow
 Goral
-Mountain goat
 Chamois
 Duiker
 Antelope
@@ -356,9 +280,7 @@ Musk deer
 Giraffe
 Okapi
 Hippopotamus
-Pygmy hippopotamus
 Whale
-Killer whale
 Dolphin
 Beluga
 Narwhal
@@ -381,15 +303,13 @@ Fluke
 Roundworm
 Earthworm
 Leech
-Beard worm
-Spoon worm
-Peanut worm
+Worm
 Tardigrade
 Bristletail
 Silverfish
 Firebrat
 Mayfly
-Upwing fly
+Fly
 Dragonfly
 Damselfly
 Earwig
@@ -410,12 +330,12 @@ Booklice
 Barklice
 Thrip
 Beetle
-Fly
 Ant
 Bee
 Bumblebee
 Wasp
-Dementor wasp
+Cockroach wasp
+Tarantula hawk
 Hornet
 Butterfly
 Moth
@@ -427,17 +347,10 @@ Flea
 Stylop
 Cassidfly
 Mite
-Whip spider
 Spider
-Funnel-web spider
-Orb-weaver spider
-Trapdoor spider
-Jumping spider
+Araneid
+Salticid
 Wolf spider
-Long-legged spider
-Spitting spider
-Reculse spider
-Huntsman spider
 Crab spider
 Tarantula
 Harvestman
@@ -447,7 +360,6 @@ Tickspider
 Vinegaroon
 Scorpion
 Solifuge
-Horseshoe crab
 Barnacle
 Copepod
 Crab
