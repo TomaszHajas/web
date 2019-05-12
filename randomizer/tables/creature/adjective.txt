@@ -95,6 +95,7 @@ Long-necked
 Short-necked
 
 Hairless
+Bald
 Hairy
 Maned
 Whiskered
