@@ -1,29 +1,71 @@
 Earless
-Large-eared
+One-eared
+Two-eared
+Many-eared
+Big-eared
 Small-eared
 Bat-eared
 
-Narrow-headed
-Greater
-Lesser
-Streaked
-Common
-Giant
-Cryptic
+Blind
+Colorblind
+Big-eyed
+Small-eyed
+Narrow-eyed
+Round-eyed
+Refractive-eyed
+Reflector-eyed
+Compound-eyed
+Pit-eyed
+One-eyed
+Two-eyed
+Many-eyed
 
+Noseless
+Two-nosed
+Many-nosed
+Long-nosed
+Big-nosed
+Small-nosed
+
+Headless
+Two-headed
+Many-headed
+Narrow-headed
+Big-headed
+Small-headed
+
+Common
+Typical
+
+Tropical
 Water
-Spotted
-Musk
 Arctic
 Marsh
-Typical
-Tufted
-Hollow-horned
-Pygmy
 Rock
 Bush
-Long-necked
 
+Greater
+Lesser
+Pygmy
+Diminutive
+Tiny
+Small
+Medium
+Large
+Huge
+Giant
+
+Spotted
+Striped
+Streaked
+Camouflaged
+
+Musk
+Stinky
+
+Neckless
+Long-necked
+Short-necked
 
 Hairy
 Maned
@@ -31,6 +73,7 @@ Whiskered
 Bearded
 Wooly
 Hackled
+Tufted
 
 Barbed
 Bristled
@@ -39,6 +82,7 @@ Spined
 Spiked
 
 Horned
+Hollow-horned
 Ossiconed
 
 Hooved
@@ -75,6 +119,7 @@ Uniped
 Biped
 Triped
 Quadruped
+Many-legged
 
 Flying
 Jumping
@@ -82,32 +127,22 @@ Undulating
 Crawling
 Swimming
 Diving
+Climbing
+Gliding
 Rolling
 
 Digging
 Burrowing
 Hibernating
+Spitting
 
 Venomous
+Venom-spitting
 Poisoned
 Web-spinning
 
 Mutated
 
-Blind
-Colorblind
-Round-eyed
-Refractive-eyed
-Reflector-eyed
-Compound-eyed
-
-Narrow-eyed
-Pit-eyed
-One-eyed
-Four-eyed
-Six-eyed
-
 Tailless
 Short-tailed
 Long-tailed
-
