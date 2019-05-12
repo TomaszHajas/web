@@ -33,6 +33,18 @@ Many-headed
 Narrow-headed
 Big-headed
 Small-headed
+Frilled
+Masked
+
+Wide-mouthed
+Narrow-mouthed
+Long-tongued
+Floppy-tongued
+Whip-tongued
+Saw-toothed
+Toothed
+Sabretooth
+Fanged
 
 Common
 Typical
@@ -58,15 +70,14 @@ Giant
 Spotted
 Striped
 Streaked
+Ringed
 Camouflaged
-
-Musk
-Stinky
 
 Neckless
 Long-necked
 Short-necked
 
+Hairless
 Hairy
 Maned
 Whiskered
@@ -87,14 +98,9 @@ Ossiconed
 
 Hooved
 Plated
-Scaled
 Clawed
 Pincered
 Spurred
-
-Toothed
-Sabretooth
-Fanged
 
 Feathered
 Beaked
@@ -103,6 +109,7 @@ Shelled
 Bony
 Skeletal
 Exoskeletal
+Slender
 
 Bat-winged
 Insect-winged
@@ -110,6 +117,10 @@ Bird-winged
 
 Finned
 Flippered
+Tentacled
+Gilled
+Scaled
+Pseudopoded
 
 Web-footed
 Legless
@@ -136,13 +147,18 @@ Burrowing
 Hibernating
 Spitting
 
+Musk
+Stinky
 Venomous
 Venom-spitting
 Poisoned
 Web-spinning
+Slimy
+Oozing
 
 Mutated
 
 Tailless
 Short-tailed
 Long-tailed
+Whip-tailed
