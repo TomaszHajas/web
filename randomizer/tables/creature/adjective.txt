@@ -189,3 +189,5 @@ Tailless
 Short-tailed
 Long-tailed
 Whip-tailed
+Mace-tailed
+Sting-tailed
