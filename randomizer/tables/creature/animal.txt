@@ -496,6 +496,7 @@ Lungfish
 Tenpounder
 Tarpon
 Eel
+Moray
 Mooneye
 Bonytongue
 Elephantfish
@@ -527,3 +528,4 @@ Goldfish
 Angelfish
 Lionfish
 Stonefish
+Pufferfish
