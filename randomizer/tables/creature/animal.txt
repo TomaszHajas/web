@@ -1,4 +1,5 @@
 Lizard
+Megalania
 Iguana
 Anole
 Iguanid
@@ -31,6 +32,7 @@ Turtle
 Tortoise
 Dimetrodon
 Tyrannosaurus
+Gorgonops
 Gigantosaurus
 Allosaurus
 Ceratosaurus
@@ -157,6 +159,7 @@ Deinotherium
 Dugong
 Manatee
 Sloth
+Megatherium
 Armadillo
 Glyptodont
 Treeshrew
@@ -427,6 +430,8 @@ Pseudoscorpion
 Tickspider
 Vinegaroon
 Scorpion
+Opabinia
+Euripterid
 Solifuge
 Barnacle
 Copepod
@@ -450,6 +455,7 @@ Sea squirt
 Lancelet
 Snail
 Slug
+Hallucigenia
 Clam
 Oyster
 Scallop
@@ -459,6 +465,7 @@ Chiton
 Squid
 Octopus
 Cuttlefish
+Dunkleosteus
 Nautilus
 Spirula
 Tusk shell
@@ -478,6 +485,7 @@ Axolotl
 Hagfish
 Lamprey
 Shark
+Megalodon
 Ray
 Stingray
 Whipray
