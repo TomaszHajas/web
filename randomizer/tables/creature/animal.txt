@@ -457,6 +457,7 @@ Lancelet
 Snail
 Slug
 Hallucigenia
+Ammonite
 Clam
 Oyster
 Scallop
