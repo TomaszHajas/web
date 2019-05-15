@@ -419,6 +419,7 @@ Cassidfly
 Mite
 Spider
 Megarachne
+Trylobite
 Araneid
 Salticid
 Wolf spider
