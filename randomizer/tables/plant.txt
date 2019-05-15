@@ -1,0 +1,238 @@
+Yarrow
+Sneezewort
+Bugle
+Lady's Mantle
+Mustard
+Angelica
+Parsley
+Columbine
+Cress
+Mugwort
+Daisy
+Bistort
+Cabbage
+Starwort
+Marigold
+Bindweed
+Harebell
+Bittercress
+Bittercress
+Bittercress
+Knapweed
+Centaury
+MouseEar
+Corydalis
+Chervil
+Willowherb
+Mayweed
+Celandine
+Nightshade
+Thistle
+Cinquefoil
+Strapwort
+Corydalis
+Hawksbeard
+Crosswort
+Orchid
+Carrot
+Foxglove
+Grass
+Sundew
+Bugloss
+Willowherb
+Helleborine
+Agrimony
+Spurge
+Eyebright
+Cudweed
+Meadowsweet
+Strawberry
+Fumatory
+Snowdrop
+Nettle
+Cleavers
+Bedstraw
+Cranesbill
+Ivy
+Cudweed
+Hogweed
+Hawkweed
+
+Savoy Hawkweed
+Leafy Hawkweed
+Trailing St John's Wort
+Imperforate St John's Wort
+Perforate St John's Wort
+Slender St John's Wort
+Common Catsear
+Himalayan Balsam
+Marsh Ragwort
+Fen Ragwort
+Ragwort
+Wall Lettuce
+White Dead-Nettle
+Red Dead-Nettle
+Nipplewort
+Bitter Vetchling
+Meadow Vetchling
+Common Duckweed
+Autumn Hawkbit
+
+Rough Hawkbit
+Ox-eye Daisy
+Common Toadflax
+Fairy or Purging Flax
+Twayblade
+Birdsfoot Trefoil
+Greater Birdsfoot Trefoil
+Ragged Robin
+Gipsywort
+Yellow Pimpernel
+Yellow Loosestrife
+May Lily
+Musk Mallow
+Pineapple Mayweed
+
+Scentless Mayweed
+
+Black Medick
+Lucerne
+Common Cow-wheat
+Corn Mint
+Spearmint
+Round-leaved Mint
+Bogbean
+Spignel
+Three-veined Sandwort
+Blinks
+Wall Lettuce
+Field Forgetmenot
+Tufted Forgetmenot
+? Forgetmenot
+Water Forgetmenot
+Creeping Forgetmenot
+Bog Asphodel
+Twayblade
+White Water-Lily
+Evening Primrose
+Wood Sorrel
+Yellow Oxalis
+Long-headed Poppy
+Common Poppy
+Bistort
+
+Water Pepper
+Pale Persicaria
+
+Redshank
+
+Small Water Pepper
+Butterbur
+Hawkweed Oxtongue
+Mouse-ear Hawkweed
+
+Ribwort Plantain
+Greater Plantain
+Heath Milkwort
+Common Solomon's Seal
+Whorled Solomon's Seal
+Knotgrass
+Bistort
+
+Equal-leaved Knotgrass
+
+Water Pepper
+Pale Persicaria
+
+Small Water Pepper
+Redshank
+
+Broad-leaved Pondweed
+Tormentil
+Marsh Cinquefoil
+Self Heal
+Lungwort
+Common Wintergreen
+Meadow Buttercup
+Common Water Crowfoot
+Lesser Celandine
+Lesser Spearwort
+? Crowfoot
+Creeping Buttercup
+Wild Radish
+Yellow Rattle
+Blackberry Bramble
+Raspberry
+Common Sorrel
+Sheep's Sorrel
+Curled Dock
+Broad-leaved Dock
+Devil's Scabius
+Autumn Hawkbit
+
+Common Figwort
+Skullcap
+Lesser Skullcap
+Cambridge Milk-Parsley
+Marsh Ragwort
+Ragwort
+Alpine Ragwort
+Fen Ragwort
+Groundsel
+Red Campion
+Ragged Robin
+White Campion
+Charlock
+Hedge Mustard
+Late Goldenrod
+Goldenrod
+Perennial Sow-Thistle
+Prickly Sow-Thistle
+Smooth Sow-Thistle
+Corn Spurrey
+Sand Spurrey
+Betony
+Hedge Woundwort
+Bog Stitchwort
+Lesser Stitchwort
+Greater Stitchwort
+Common Chickweed
+Bog Stitchwort
+Devil's Scabius
+Feverfew
+Tansy
+Dandelion
+Wood Sage
+Field Pennycress
+Large Thyme
+Upright Hedge Parsley
+Chickweed Wintergreen
+Large Hop Trefoil
+Lesser Trefoil
+Alsike Clover
+Red Clover
+White Clover
+Scentless Mayweed
+
+Coltsfoot
+Nettle
+Marsh Valerian
+Common Valerian
+Common Cornsalad
+Green Field Speedwell
+Wall Speedwell
+Brooklime
+Germander Speedwell
+Ivy-leaved Speedwell
+Heath Speedwell
+Marsh Speedwell
+Thyme-leaved Speedwell
+Tufted Vetch
+Hairy Tare
+Common Vetch
+Bush Vetch
+Field Pansy
+Marsh Violet
+Common Dog Violet
+Wild Pansy
+Ivy-leaved Bellflower
