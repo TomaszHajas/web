@@ -82,6 +82,7 @@ Rat Catcher
 Smuggler
 Broker
 Gardener
+Watchmaker
 Architect
 Builder
 Constructor
