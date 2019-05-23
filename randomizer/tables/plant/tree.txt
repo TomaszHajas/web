@@ -16,6 +16,7 @@ Birch
 Hornbeam
 Hazel
 Catalpa
+Henna
 Jacaranda
 Tabebuia
 Saguaro
