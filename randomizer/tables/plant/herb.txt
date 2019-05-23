@@ -29,7 +29,7 @@ Chili
 Papaya
 Coffee senna
 Khat
-São Caetano melon
+Melon
 Cornflower
 Vetiver
 Cinchona
@@ -37,11 +37,11 @@ Bitter orange
 Lemon
 Trifoliate orange , bitter orange
 Velvetleaf
-Blessed thistle
+Thistle
 Hawthorn
 Turmeric
-Yellow lady's slipper
-Digitalis or foxglove
+Lady's slipper
+Foxglove
 Purple coneflower
 Horsetail
 Yerba Santa
@@ -58,16 +58,16 @@ Robert geranium
 Ginkgo
 Ground-ivy
 Licorice root
-Common witch-hazel
-Sea buckthorn
+Witch-hazel
+Buckthorn
 Hoodia
 Goldenseal
 St. John's wort
 Yerba mate
-Star anise
+Anise
 Elecampane
 Jasmine
-Field scabious
+Scabious
 Chaparral
 Bay laurel
 Lavender
@@ -82,62 +82,61 @@ Tea tree oil
 Lemon balm
 Peppermint
 Kratom
-Bitter melon
 Noni
 Drumstick tree
 Watercress
 Lotus
-Nigella, black-caraway, black-cumin, and kalonji
-Tulsi or Holy Basil
-Evening primrose
+Black-cumin
+Basil
+Primrose
 Oregano
 Ginseng
 Opium poppy
 Passion flower
-Syrian Rue (aka Harmal )
-Umckaloabo , or South African Geranium
+Rue
+Geranium
 Kava
-Jamaica dogwood
+Dogwood
 Plantain
-Platycodon, balloon flower
+Balloon flower
 Abscess root
 Guava
-Wafer Ash
-Amargo, bitter-wood
-False sowthistle
+Ash
+Bitter-wood
+Sowthistle
 Cinnamon rose
 Rosemary
-Minnieroot, fever root, snapdragon root
-Curly dock or yellow dock
-White willow
+Feaver root
+Dock
+Willow
 Sage
 Elderberry
-Indian sandalwood
-Cotton lavender
+Sandalwood
+Lavender
 Ashoka tree
-Summer savory
+Savory
 Kanna
-Avaram senna
-Shoreline purslane
-Milk thistle
-Blue snakeweed
-Common chickweed
+Senna
+Purslane
+Thistle
+Snakeweed
+Chickweed
 Karvy
 Comfrey
 Clove
 Feverfew
 Dandelion
-Water germander
+Germander
 Thyme
-Small-leaved linden
+Linden
 Inchplant
 Charcoal-tree
 Red clover
 Fenugreek
 Wheatgrass
-White buttercup
+Buttercup
 Cat's claw
-Common nettle, stinging nettle
+Nnettle
 Blueberries
 Cranberry
 Bilberry
@@ -148,9 +147,32 @@ Bitter leaf
 Veronica
 Laurustinus
 Wild pansy
-European mistletoe
+Mistletoe
 Chasteberry
 Grape
 Ashwagandha
-Japanese hawkweed
+Hawkweed
 Ginger
+Couch-Grass
+Bent
+Foxtail
+Vernal-Grass
+Oat-grass
+Brome
+Dog's-Tail
+Cock's-Foot
+Hair-Grass
+Couch-Grass
+Fescue
+Fescue
+Sweet-Grass
+Soft-Grass
+Rye-Grass
+Millet
+Moor-Grass
+Grass
+Canary-Grass
+Timothy
+Reed
+Meadow-Grass
+Oat-grass
