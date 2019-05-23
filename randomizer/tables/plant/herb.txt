@@ -1,153 +1,110 @@
-Acacia gum
 Yarrow
 Cohosh
-Chestnut
 Snakeroot
 Hollyhock
 Water-plantain
 Garlic
 Aloe vera
 Marsh-mallow
-Konjac
+Devil's tongue
 Hepatica
 Angelica
-Dong quai
 Celery
 Burdock
 Arnica
-Astragalus
-Belladonna
-Neem
+Milkvetch
+Locoweed
+Nightshade
 Daisy
 Barberry
-Borage
+Starflower
 Salae
 Marigold
 Cannabis
 Cayenne
 Chili
-Papaya
-Coffee senna
-Khat
-Melon
+Coffeeweed
 Cornflower
 Vetiver
 Cinchona
-Lemon
-Orange
 Velvetleaf
 Thistle
-Hawthorn
 Turmeric
 Lady's slipper
 Foxglove
 Coneflower
 Horsetail
-Yerba Santa
+Pepperleaf
 Poppy
-Eucalyptus
-Wahoo
 Asthma-plant
-Açai
 Asafoetida
+Crow's foot
 Fumitory
 Snowdrop
 Ginkgo
-Ground-ivy
 Licorice root
-Witch-hazel
-Buckthorn
 Hoodia
 Goldenseal
 St. John's wort
 Yerba mate
-Anise
-Elecampane
+Horse-heal
 Jasmine
 Scabious
 Chaparral
-Bay laurel
 Lavender
-Henna
 Summer snowflake
-Flaxseed
-Magnolia-bark
+Flax
 Mallow
 Chamomile
-Alfalfa
-Tea tree oil
+Lucerne
 Lemon balm
 Peppermint
-Kratom
-Noni
-Drumstick tree
 Watercress
 Lotus
 Black-cumin
+Cumin
 Basil
-Primrose
+Suncup
 Oregano
 Ginseng
 Opium poppy
 Passion flower
 Rue
 Geranium
-Kava
-Dogwood
 Plantain
 Balloon flower
 Abscess root
-Guava
-Ash
-Bitter-wood
 Sowthistle
-Cinnamon rose
 Rosemary
 Feaver root
 Dock
-Willow
 Sage
-Elderberry
-Sandalwood
 Lavender
-Ashoka tree
 Savory
 Kanna
-Senna
 Purslane
 Thistle
 Snakeweed
 Chickweed
-Karvy
 Comfrey
-Clove
 Feverfew
 Dandelion
 Germander
 Thyme
-Linden
 Inchplant
-Charcoal-tree
 Red clover
 Fenugreek
 Wheatgrass
 Buttercup
-Cat's claw
-Nnettle
-Blueberries
-Cranberry
-Bilberry
+Nettle
+Charcoal-tree
 Valerian
 Common mullein
 Verbena
 Bitter leaf
 Veronica
-Laurustinus
 Wild pansy
 Mistletoe
-Chasteberry
-Grape
-Ashwagandha
 Hawkweed
 Ginger
 Couch-Grass
@@ -161,7 +118,6 @@ Cock's-Foot
 Hair-Grass
 Couch-Grass
 Fescue
-Fescue
 Sweet-Grass
 Soft-Grass
 Rye-Grass
@@ -173,3 +129,50 @@ Timothy
 Reed
 Meadow-Grass
 Oat-grass
+Sedge
+Spike-rush
+Cottongrass
+Rush
+Wood-rush
+Club-rush
+Bur-reed
+Reedmace
+Millet
+Fonio
+Maize
+Sorghum
+Barley
+Oats
+Rice
+Rye
+Spelt
+Teff
+Triticale
+Wheat
+Amaranth
+Buckwheat
+Chia
+Wuinoa
+Kañiwa
+Kiwicha
+Chickpea
+Bean
+Pea
+Lentil
+Lupin
+Peanut
+Soybean
+Mustard
+Rapeseed
+Safflower
+Sunflower
+Flax
+Hemp
+Poppy
+Brome-grass
+Reed-grass
+Horsetail
+Scouring-rush
+Fern
+Adder's-tongue
+Moonwort
