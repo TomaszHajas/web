@@ -85,6 +85,7 @@ Pear
 Rowan
 Whitebeam
 Coffee
+Bay laurel
 Orange
 Grapefruit
 Lemon
