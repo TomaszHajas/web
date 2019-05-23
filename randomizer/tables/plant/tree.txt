@@ -12,6 +12,7 @@ Aralia
 Schefflera
 Anise
 Alder
+Tea tree
 Birch
 Hornbeam
 Hazel
