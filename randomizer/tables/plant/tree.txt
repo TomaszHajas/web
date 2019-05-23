@@ -20,6 +20,7 @@ Tabebuia
 Saguaro
 Hackberry
 Dogwood
+Khat
 Garjan
 Sal
 Persimmon
