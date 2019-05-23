@@ -39,6 +39,7 @@ Dipelta
 Leatherwood
 Dryas
 Crowberry
+Seaberry
 Pagoda-bush
 Ephedra
 Heath
