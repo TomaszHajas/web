@@ -20,7 +20,6 @@ Water vine
 Watermelon
 Cucumber
 Climbing fig
-Ivy
 Bottle gourd
 Sweet pea
 Suikazura
@@ -31,6 +30,7 @@ Macquarie vine
 Pitcher plant
 Wonga wonga vine
 Five-leaved ivy
+Ground ivy
 Passionfruit
 Silk vine
 Kudzu vine
