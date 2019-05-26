@@ -252,3 +252,25 @@ Urn
 Top
 Wind-blown
 Broom
+Lipstick
+Chocolate
+Porcelain
+Coral
+Confederate
+Heart-leaved
+Cross
+Trumpet
+Baloon
+Staff
+Rosary
+Kangaroo
+Bottle
+Five-leaved
+Jade
+Goosefoot
+Arrowhead
+Fox
+Riverbank
+Glory
+Crimson
+Frost grape
