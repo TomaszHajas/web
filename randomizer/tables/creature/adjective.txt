@@ -153,6 +153,8 @@ Shelled
 Bony
 Skeletal
 Exoskeletal
+Mechanical
+Bionic
 Thick-skinned
 Thin-skinned
 Hard-skinned
