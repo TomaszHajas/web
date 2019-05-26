@@ -11,6 +11,7 @@ Butterfly Bush
 Mescalbean
 Heather
 Sweetshrub
+Sheepbush
 Carpenteria
 Spiraea
 Moss-heather
@@ -66,17 +67,28 @@ Rockrose
 Hebe
 Ivy
 Creambush
+Galberry
+Feverbush
 Goldenheather
 Hydrangea
 Aaron's beard
 Hyssop
 Indigo
+Cotton
 Sweetspire
+Jugflower
+Saskatoon
+Shadbush
+Sugarplum
+Tobbaco
+Fuchsia
 Cliffbush
 Spoonwood
 Kerria
+Inkberry
 Beauty-bush
 Copihue
+Chuckleberry
 Lantana
 Lavender
 Ledum
@@ -89,6 +101,7 @@ Mahonia
 Acerola
 Moonseed
 Meziensia
+Duscle
 Microcachrys
 Myricaria
 Neillia
@@ -99,11 +112,13 @@ Tree-peony
 Geebungs
 Pieris
 Leadwort
+Brittlebush
 Milkwort
 Firethorn
 Quillay
 Currant
 Tree poppy
+Dewberry
 Rose
 Rosemary
 Bramble
@@ -115,7 +130,11 @@ Skimmia
 Smilax
 Sorbaria
 Weaver's broom
+Winterberry
+Raspberry
+Wineberry
 Snowberry
+Blackberry
 Thymelaea
 Thyme
 Gorse
@@ -128,5 +147,7 @@ Mistletoe
 Weigela
 Yellowroot
 Brushholly
+Bearberry
+Bear corn
 Honeycup
 Burningbush
