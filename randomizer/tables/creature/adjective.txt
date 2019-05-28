@@ -60,6 +60,10 @@ Masked
 Mouthless
 Wide-mouthed
 Narrow-mouthed
+Wattled
+Dewlapped
+Combed
+Snooded
 Long-tongued
 Floppy-tongued
 Whip-tongued
@@ -73,7 +77,6 @@ Probioscis
 Common
 Typical
 Wild
-Fairy
 Tropical
 Polar
 Snow
@@ -104,7 +107,7 @@ Wood
 Bamboo
 Wall
 Night
-Day
+Diurnal
 Sun
 Moon
 Greater
@@ -122,6 +125,8 @@ Spotted
 Striped
 Streaked
 Ringed
+Ectothermic
+Endothermic
 Camouflaged
 Mimetic
 Neckless
@@ -156,10 +161,12 @@ Hooved
 Wart
 Shielded
 Armored
+Capapaced
 Plated
 Antropomorphic
 Amorphous
 Clawed
+Taloned
 Pincered
 Spurred
 Feathered
@@ -170,10 +177,12 @@ Skeletal
 Exoskeletal
 Mechanical
 Bionic
+Skinless
 Thick-skinned
 Thin-skinned
 Hard-skinned
 Soft-skinned
+Moulting
 Slender
 Bat-winged
 Insect-winged
@@ -215,6 +224,9 @@ Gliding
 Rolling
 Digging
 Burrowing
+Scavenging
+Grazing
+Browsing
 Hibernating
 Luring
 Stealthy
@@ -224,6 +236,7 @@ Blood-sucking
 Stinging
 Gnawing
 Biting
+Constricting
 Chewing
 Snapping
 Killing
@@ -236,6 +249,7 @@ Symbiotic
 Amensalistic
 Mutualistic
 Commensalistic
+Cannibalistic
 Carnivorous
 Herbivorous
 Omnivorous
@@ -262,6 +276,7 @@ Mimicking
 Gas-emitting
 Venomous
 Venom-spitting
+Toxic
 Poisoned
 Web-spinning
 Slimy
@@ -297,6 +312,7 @@ Long-bodied
 Short-bodied
 Big-bodied
 Small-bodied
+Air-breathing
 Water-breathing
 Water-floating
 Tremorsensing
@@ -307,6 +323,9 @@ Slow-moving
 Hygroscopic
 Metabolic
 Photosynthetic
+Fluorescent
+Oviparous
+Viviparous
 Nocturnal
 Water-storing
 Double-eyelid
@@ -320,3 +339,4 @@ Transparent
 Fire-breathing
 Ice-breathing
 Magical
+Fairy
