@@ -22,6 +22,7 @@ Amber
 Rubber
 Sand
 Clay
+Terracotta
 Porcelain
 Concrete
 Gunpowder
@@ -85,6 +86,7 @@ Lead
 Tungsten
 Titanium
 Silver
-Gold
 Electrum
+Orichalcum
+Gold
 Platinum
