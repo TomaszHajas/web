@@ -335,6 +335,7 @@ Officer
 Arsonist
 Shipmaker
 Necromancer
+Lich
 Rider
 Raider
 Marauder
