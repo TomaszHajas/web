@@ -340,6 +340,7 @@ Raider
 Marauder
 Shaman
 Massagist
+Chiropractor
 Homeopath
 Critic
 Flatterer
