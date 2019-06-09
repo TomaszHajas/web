@@ -22,6 +22,7 @@ Woodland
 Swamp
 Mire
 Marsh
+Peatbog
 Bog
 Wetland
 Rainforest
