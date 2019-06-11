@@ -1097,12 +1097,12 @@
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -1997,7 +1997,7 @@
 "distance": {
 "type": "self"
 }
-}, (300-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -2677,7 +2677,7 @@
 },
 "concentration": true
 }
-],.
+],
 	"You stand within 30 feet of mundane flames at least the size of a Large bonfire and channel that fire into a deadly attack. The fire travels through you and becomes a 60-foot cone. All creatures in that cone must make a Dexterity saving through. A creature takes 4d6 fire damage on a failed save, or half as much on a successful one. Each round, you may change your facing so that you attack a different area.",
 	"This spell lasts for 10 minutes, or as long as the fire you are channeling from continues to burn.	",
 }
@@ -2695,12 +2695,12 @@
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -2885,12 +2885,12 @@
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 20
 }
-},-foot diameter radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -3217,7 +3217,7 @@ Depending on what sort of minion you summon, it has one of the following templat
 "type": "feet",
 "amount": 10
 }
-},-foot radius sphere)
+},
 "components": {
 "v": true,
 "s": true,
@@ -3428,12 +3428,12 @@ Depending on what sort of minion you summon, it has one of the following templat
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -4385,7 +4385,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "type": "feet",
 "amount": 60
 }
-},-foot radius sphere)
+},
 "components": {
 "v": true,
 "s": true,
@@ -4434,7 +4434,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 },
 "concentration": true
 }
-],.
+],
 	"For the duration, you sense the presence of a single type of ore or mineral deposit within 60 feet of you. ",
 }
 
@@ -4489,12 +4489,12 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-}, feet radius)
+},
 "components": {
 "v": true,
 "m": "a pint of vinegar"
@@ -4743,17 +4743,11 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 	"♦	Size. You increase or decrease the creature’s adult size by one size category.",
 	"♦	Vigorous.* You improve its hit dice by 25%.",
 	"After choosing what change you want to make, the GM will roll 1d20 for each offspring it has. If you are attempting to change a trait marked by an asterisk, the GM rolls at disadvantage.",
-
-d20
-Result
-1-5
-Failure. The creature is horribly defective or mutated in some way. It may be stillborn, it might die shortly after birth, or it might survive to adulthood—in which case it will always breed true, and it may have gained unforseen abilities.
-6-9
-Failure. There is a 50% chance that it will pass on the trait to its offspring, however.
-10-18
-Success. There is a 50% chance that it will not pass the trait on to its offspring, however.
-19-20
-Complete success. The creature will always breed true.
+	"d20 Result:",
+	"1-5: Failure. The creature is horribly defective or mutated in some way. It may be stillborn, it might die shortly after birth, or it might survive to adulthood—in which case it will always breed true, and it may have gained unforseen abilities.",
+	"6-9: Failure. There is a 50% chance that it will pass on the trait to its offspring, however.",
+	"10-18: Success. There is a 50% chance that it will not pass the trait on to its offspring, however.",
+	"19-20: Complete success. The creature will always breed true.",
 
 	"At Higher Levels. When you cast this spell with a 9th-level spell slot, the GM always rolls with advantage.",
 }
@@ -4778,8 +4772,9 @@ Complete success. The creature will always breed true.
 }
 },
 "components": {
-"s": true
-},, M
+"s": true,
+"m": true
+},
 "duration": [
 {
 "type": "timed",
@@ -5155,12 +5150,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 300
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -5245,8 +5240,9 @@ Complete success. The creature will always breed true.
 },
 "components": {
 "v": true,
-"s": true
-}, M (a pinch of sand)
+"s": true,
+"m": "a pinch of sand"
+},
 "duration": [
 {
 "type": "timed",
@@ -5319,8 +5315,9 @@ Complete success. The creature will always breed true.
 },
 "components": {
 "v": true,
-"s": true
-},, M
+"s": true,
+"m": true
+},
 "duration": [
 {
 "type": "special"
@@ -5588,12 +5585,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 100
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -5802,21 +5799,21 @@ Complete success. The creature will always breed true.
 "range": {
 "type": "sphere",
 "distance": {
-"type": "feet",
-"amount": 
+"type": "miles",
+"amount": 3
 }
-},up to a 20-square-mile radius sphere)
+},
 "components": {
 "v": true,
 "s": true,
-"m": "a magical item used to control elementals of the appropriate kind, which must be placed in the center of the area to be affected and remain there permanently, and a large number of bricks made of elemental matter.
+"m": "a magical item used to control elementals of the appropriate kind, which must be placed in the center of the area to be affected and remain there permanently, and a large number of bricks made of elemental matter."
 },
 "duration": [
 {
 "type": "permanent"
 }
 ],
-	"You mark out a large area of land by surrounding it with bricks made out of the solidified material from one of the elemental planes (placed no more than five feet apart and/or three feet underground), and in the center of that area, you place the elemental-controlling item (which must be of the same element as the bricks). Then, when you cast this spell, a sphere containing all the land, water, and air you marked is permanently transferred to that plane, leaving nothing behind but a semicircular hole in the ground.",
+	"You mark out a large area of land (up to a 20-square-mile radius sphere) by surrounding it with bricks made out of the solidified material from one of the elemental planes (placed no more than five feet apart and/or three feet underground), and in the center of that area, you place the elemental-controlling item (which must be of the same element as the bricks). Then, when you cast this spell, a sphere containing all the land, water, and air you marked is permanently transferred to that plane, leaving nothing behind but a semicircular hole in the ground.",
 	"You create a pocket of Prime Material matter within that elemental plane. The water and air are self-renewing, and the temperature and weather conditions of your pocket are identical to the way they were when you cast this spell. ",
 	"The heart of this spell is in the elemental-controlling item. If this item is disturbed in any way, the spell immediately fails and the energies of the elemental plane flood into the protected area.",
 }
@@ -5948,12 +5945,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -6012,14 +6009,14 @@ Complete success. The creature will always breed true.
 "number": 1,
 "unit": "reaction"
 }
-],, which you take when you learn you are targeted by any divination magic or perceived through magical scrying sensors.
+],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -6095,7 +6092,7 @@ Complete success. The creature will always breed true.
 "components": {
 "v": true,
 "s": true,
-"m": "the heart’s blood of a hydra, and 8-inch square ceramic boxes covered in silver filigree, worth 100 gp each; the blood is consumed with the casting of the spell but the boxes are not and can be reused.
+"m": "the heart’s blood of a hydra, and 8-inch square ceramic boxes covered in silver filigree, worth 100 gp each; the blood is consumed with the casting of the spell but the boxes are not and can be reused."
 },
 "duration": [
 {
@@ -6725,7 +6722,7 @@ Complete success. The creature will always breed true.
 "type": "feet",
 "amount": 10
 }
-},-foot radius sphere)
+},
 "components": {
 "v": true,
 "s": true,
@@ -6758,12 +6755,12 @@ Complete success. The creature will always breed true.
 }
 ],, which you take when are about to enter combat.
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -6824,12 +6821,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 90
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -7146,12 +7143,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -7257,12 +7254,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 60
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -7337,12 +7334,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-}, foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -7374,12 +7371,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -7952,12 +7949,12 @@ Complete success. The creature will always breed true.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
-"type": "feet",
+"type": "miles",
 "amount": 5
 }
-},-mile radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -8611,12 +8608,12 @@ Up to 1 foot
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 60
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -8648,12 +8645,12 @@ Up to 1 foot
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
-"type": "feet",
+"type": "miles",
 "amount": 1
 }
-}, mile radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -8946,8 +8943,9 @@ Up to 1 foot
 },
 "components": {
 "v": true,
-"s": true
-},, M
+"s": true,
+"m": true
+},
 "duration": [
 {
 "type": "timed",
@@ -8964,15 +8962,10 @@ Up to 1 foot
 	"♦	On a successful attack, the staff casts dispel magic on the target. The dispel magic acts as if it was cast using a 6th-level spell slot.",
 	"♦	The target must make a Wisdom saving throw or be frightened of the blackstaff’s wielder for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
 	"♦	The target must make a Wisdom saving throw or become confused. It can’t take reactions, and must roll a d8 at the start of each of its turns to determine its behavior for that turn:",
-d8
-Behavior
-1-3
-The creature doesn’t move or take actions this turn.
-4-6
-The creature uses its action to make a melee attack against a randomly determined creature within its reach
-7-8
-The creature can act and move normally
-
+	"d8 Behavior:",
+	"1-3: The creature doesn’t move or take actions this turn.",
+	"4-6: The creature uses its action to make a melee attack against a randomly determined creature within its reach",
+	"7-8: The creature can act and move normally",
 	"♦	The target must make a Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
 	"♦	The target complete forgets all cantrips and 1st-level spells they he or she knows, if any. The target will not be able to re-cast those spells until after a short or long rest.",
 	"♦	The target is assaulted by terrifying images and takes 4d6 psychic damage, and be at disadvantage on all Intelligence and Charisma saving throws for the remainder of the spell’s duration.",
@@ -9776,7 +9769,7 @@ Death. While it looks like the desired creature, something went horribly wrong w
 },
 "concentration": true
 }
-],.
+],
 	"You open up a wormhole between your current location and an area well known to you that is no more than 1,000 miles away that is out-of-doors. If you or anyone else comes within 5 feet of either opening, that creature may make a Dexterity saving throw or get sucked through and instantly expelled at the other end.",
 	"The mage tunnel can stay open for as long as 10 minutes, but you can dismiss it as a bonus action.",
 }
@@ -10588,12 +10581,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -10738,12 +10731,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -10947,12 +10940,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -11250,12 +11243,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -11395,12 +11388,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -11431,12 +11424,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 100
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -12243,12 +12236,12 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -12559,12 +12552,12 @@ For the duration, you or one creature you touch gains advantage on saving throws
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "m": "a pinch of dust"
@@ -13358,7 +13351,7 @@ Jacinth or ruby (5,000 gp)
 "type": "feet",
 "amount": 30
 }
-},-foot radius sphere)
+},
 "components": {
 "v": true,
 "s": true
@@ -13963,8 +13956,9 @@ Jacinth or ruby (5,000 gp)
 },
 "components": {
 "v": true,
-"s": true
-},, M 
+"s": true,
+"m": true
+},
 "duration": [
 {
 "type": "permanent"
@@ -14027,7 +14021,7 @@ Jacinth or ruby (5,000 gp)
 "components": {
 "v": true,
 "s": true,
-"m": "a pinch of salt, three shark’s teeth, and an ounce of water.
+"m": "a pinch of salt, three shark’s teeth, and an ounce of water."
 },
 "duration": [
 {
@@ -14123,12 +14117,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 20
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -14296,12 +14290,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
-"type": "feet",
+"type": "mile",
 "amount": 2
 }
-},-mile radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -14369,12 +14363,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -14788,12 +14782,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -15105,12 +15099,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -15179,12 +15173,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true
@@ -15217,12 +15211,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
-"type": "feet",
+"type": "mile",
 "amount": 10
 }
-},-mile radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -15288,12 +15282,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -15308,7 +15302,7 @@ Jacinth or ruby (5,000 gp)
 },
 "concentration": true
 }
-],.
+],
 	"You draw the breath out of all creatures in range. Each creature in range must make a Constitution saving throw to resist. On a failure, the creature begins to suffocate. ",
 }
 
@@ -15463,7 +15457,7 @@ Jacinth or ruby (5,000 gp)
 "type": "feet",
 "amount": 10
 }
-},-foot radius sphere)
+},
 "components": {
 "v": true,
 "s": true,
@@ -15540,8 +15534,9 @@ Jacinth or ruby (5,000 gp)
 },
 "components": {
 "v": true,
-"s": true
-}, M (a drop of water)
+"s": true,
+"m": "a drop of water"
+},
 "duration": [
 {
 "type": "timed",
@@ -15672,12 +15667,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 120
 }
-},-foot radius)
+},
 "components": {
 "v": true,
 "s": true,
@@ -16092,8 +16087,9 @@ The creature is blinded or deafened until the end of your next turn.
 },
 "components": {
 "v": true,
-"s": true
-}, M (an amber rod)
+"s": true,
+"m": "an amber rod"
+},
 "duration": [
 {
 "type": "instant"
@@ -17008,7 +17004,7 @@ The creature is blinded or deafened until the end of your next turn.
 }
 }
 ],
-You create a magical zone that guards against the truth in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak the truth while in the radius. You know whether each creature succeeds or fails on its saving throw.
+	"You create a magical zone that guards against the truth in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak the truth while in the radius. You know whether each creature succeeds or fails on its saving throw.",
 	"An affected creature is aware of the spell and can thus avoid answering questions to which it doesn’t want to lie. Such a creature can hint at the truth as long as the bulk of its statement is a lie.",
 }
 
