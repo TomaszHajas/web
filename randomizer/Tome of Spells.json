@@ -2034,7 +2034,7 @@
 "components": {
 "v": true,
 "s": true,
-"m": "two sharp pieces of metal" and a shard of bone. 
+"m": "two sharp pieces of metal" and a shard of bone."
 },
 "duration": [
 {
@@ -2981,7 +2981,12 @@
 "meta": {
 "ritual": true
 },
-Casting Time: Special
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
 "range": {
 "type": "point",
 "distance": {
@@ -3146,7 +3151,7 @@ Casting Time: Special
 	"♦	One beast of challenge rating 4 or lower",
 	"♦	Two beasts of challenge rating 3 or lower",
 	"♦	Four beasts of challenge rating 2 or lower",
-Depending on what sort of spirit you summon, it has one of the following templates:
+	"Depending on what sort of spirit you summon, it has one of the following templates:",
 	"♦	Flame-Beast. The flame-beast is resistant to bludgeoning, piercing, and slashing damage from nonmagical weapons, and is immune to fire damage, and being grappled, paralyzed, restrained, or unconscious. It can move through a space as narrow as 1 inch without squeezing. Its attacks do fire damage. Any creature that touches the flame-beast or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage. It takes 1d6 damage if splashed by at least one gallon of water.",
 	"♦	Ghost-Beast. The ghost-beast has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, and is immune to necrotic and poison damage and to being charmed, frightened, grappled, paralyzed, poisoned, restrained, or unconscious. It has truesight to 100 feet. It can move through other creatures and objects as if they were difficult terrain. It takes 1d10 force damage if it ends its turn inside an object. The creature’s attacks do necrotic damage.",
 	"♦	Stone-Beast. The stone-beast can burrow at a speed of 30 feet, is resistant to bludgeoning, piercing, and slashing damage from nonmagical weapons, and is immune to poison damage, bludgeoning damage from magical weapons, and to being petrified, poisoned, or unconscious. Its AC becomes 16 (natural armor).",
@@ -3194,7 +3199,7 @@ Depending on what sort of spirit you summon, it has one of the following templat
 	"♦	One beast of challenge rating 3 or lower",
 	"♦	Two beasts of challenge rating 2 or lower",
 	"♦	Four beasts of challenge rating 1 or lower",
-Depending on what sort of minion you summon, it has one of the following templates:
+	"Depending on what sort of minion you summon, it has one of the following templates:",
 	"♦	Celestial. The creature has resistance to radiant damage and damage from bludgeoning, piercing, and slashing damage from nonmagical weapons, and is immune to being charmed or frightened. Its attacks are magical and deal an additional 2d8 radiant damage. It has advantage on saving throws against spells and other magical effects. ",
 	"♦	Fiendish. The creature has resistance to necrotic or fire damage and damage from bludgeoning, piercing, and slashing damage from nonmagical weapons, and is immune to being charmed or frightened. Its attacks are magical and deal an additional 2d8 necrotic or fire damage. It has advantage on saving throws against spells and other magical effects. ",
 }
@@ -3482,42 +3487,6 @@ Depending on what sort of minion you summon, it has one of the following templat
 ],
 	"You transform one mammalian beast of CR 1 or lower into a darkenbeast. You can only cast this spell when you and your target creature are not in sunlight",
 	"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can create one additional darkenbeast per spell slot above 4th level. ",
-}
-
-{
-"name": "Darkenbeast",
-"source": "ToS 3pp",
-"page": 1,
-"level": Medium monstrosity, neutral evil
-Armor Class: 14 (natural armor)
-Hit Points: 45 (6d8+18)
-Speed: 5 ft., fly 40 ft.
-STR
-DEX
-CON
-INT
-WIS
-CHA
-16 (+3)
-15 (+2)
-16 (+3)
-5 (-3)
-11 (+0)
-5 (-3)
-Saving Throws: Constitution +5
-Damage Vulnerabilities: radiant 
-Condition Immunities: blinded, charmed, deafened, exhaustion, frightened, stunned
-Skills: Perception +4
-Senses: darkvision 60 ft., passive Perception 14
-Languages: —
-Challenge: 3 (700 XP)
-Magic Resistance. The darkenbeast has advantage on saving throws against spells and other magical effects.
-Spell Imprinting. Each darkenbeast may have a single spell imprinted on it, which it can cast, once per day, without need for material components. This spell may be of any level and has a 25% chance of failure. Whether the spell is cast successfully or not, the darkenbeast immediately bursts into purple flame and dies, reverting to its true form.
-Sunlight Hypersensitivity: The darkenbeast takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
-Actions
-Multiattack. The darkenbeast may make two claw and one bite attack.
-Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) slashing.
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing.
 }
 
 {
@@ -4698,7 +4667,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "name": "Distort Life",
 "source": "ToS 3pp",
 "page": 1,
-"level": 6h-
+"level": 6,
 "school": "T",
 "meta": {
 "ritual": true
@@ -5175,7 +5144,13 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "name": "Druidcraft",
 "source": "ToS 3pp",
 "page": 1,
-"level": These are new variants of the spell druidcraft that appears in the Player’s Handbook, pg.236
+"level": 0,
+"school": "T",
+"components": {
+"v": true,
+"s": true
+},
+	"Whispering to the spirits of nature, you create one of the following effects within range:",
 	"♦	You perfectly mimic one animal or bird call.",
 	"♦	You place a magical mark on an object such as a rock or tree to mark a path or tell a message such as “danger: beasts” or “fresh water.” This mark is very subtle and causes no harm whatsoever, and lasts until you dispel it.",
 	"♦	You instantly make an unripe fruit ripen.",
@@ -6753,7 +6728,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "number": 1,
 "unit": "reaction"
 }
-],, which you take when are about to enter combat.
+],
 "range": {
 "type": "radius",
 "distance": {
@@ -6771,7 +6746,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "type": "instant"
 }
 ],
-	"You and all allies within range have advantage on your initiative roll.",
+	"After taking reaction when entering combat, you and all allies within range have advantage on your initiative roll.",
 }
 
 {
@@ -7281,7 +7256,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "name": "Glyph of Warding",
 "source": "ToS 3pp",
 "page": 1,
-"level": This is a new variant of the spell glyph of warding that appears in the Player’s Handbook, pg.245
+"level": 3,
 	"Sepia Snake Sigil. When triggered, a sepia snake springs into being and attacks the nearest living creature (other than you) within 10 feet of it, using your spell attack modifier. On a hit, it engulfs the target in a shimmering amber field of force. The target is restrained and incapacitated. These conditions remain for 12 hours, until you release the creature, or a dispel magic spell is cast on it. While in the amber field, the creature does not age or need to eat, drink, breathe, or sleep.",
 }
 
@@ -8176,34 +8151,7 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) pi
 "type": "instant"
 }
 ],
-	"You point to one creature you can see within range. That creature must make an Intelligence saving throw. On a failure, the creature is hurtled into a completely random plane of existence. You have no control over which plane the target ends up going to, and it is entirely possible that the target’s destination will instantly kill it. The GM should roll on the following table to randomly determine the destination:",
-
-d100	"Plane",
-01-04	"The Feywild",
-05-08	"The Shadowfell",
-09-12	"The Ethereal Plane",
-13-16	"The Astral Plane",
-17-20	"The Elemental Plane of Air",
-21-24	"The Elemental Plane of Earth",
-24-28	"The Elemental Plane of Fire",
-29-32	"The Elemental Plane of Water",
-33-36	"The Blessed Fields of Elysium",
-37-40	"The Clockwork Nirvana of Mechanus",
-41-44	"The Ever-Changing Chaos of Limbo",
-45-48	"The Gray Waste of Hades",
-49-52	"The Heroic Domains of Ysgard",
-53-56	"The Infinite Battlefield of Acheron",
-57-60	"The Infinite Layers of the Abyss",
-61-64	"The Nine Hells of Baator",
-65-68	"The Olympic Glades of Arborea",
-69-72	"The Peaceable Kingdoms of Arcadia",
-73-76	"The Seven Heavens of Mount Celestia",
-77-80	"The Tarterian Depths of Carceri",
-81-84	"The Twin Paradises of Bytopia",
-85-88	"The Wilderness of The Beastlands",
-89-92	"The Windswept Depths of Pandemonium",
-93-96	"The Outlands or the City of Sigil",
-97-00	"The Far Realm",
+	"You point to one creature you can see within range. That creature must make an Intelligence saving throw. On a failure, the creature is hurtled into a completely random plane of existence. You have no control over which plane the target ends up going to, and it is entirely possible that the target’s destination will instantly kill it. The GM should roll on predefined table to randomly determine the destination.",
 }
 
 {
@@ -8222,12 +8170,12 @@ d100	"Plane",
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 20
 }
-},-foot road centered on yourself)
+},
 "components": {
 "v": true,
 "s": true,
@@ -8281,28 +8229,18 @@ d100	"Plane",
 }
 ],
 	"You telekinetically hurl a loose rock that is within 10 feet of you. Make a ranged spell attack. On a hit, it inflicts bludgeoning damage depending on the rock’s size:",
-}
-
-{
-"name": "Diameter",
-"source": "ToS 3pp",
-"page": 1,
-"level": Damage
-Up to 1 foot
-2d4
-1-2 feet
-2d6
-2-3 feet
-2d8
-3-4 feet
-2d10
-4-5 feet
-3d8
-5-6 feet
-4d10
+	"Diameter/Damage:",
+	"Up to 1 foot: 2d4",
+	"1-2 feet: 2d6",
+	"2-3 feet: 2d8",
+	"3-4 feet: 2d10",
+	"4-5 feet: 3d8",
+	"5-6 feet: 4d10",
 
 	"If the rock strikes something hard, there is a 50% chance it will shatter into shrapnel. All creatures within 10 feet of the impact must make a Dexterity saving throw. A creature takes 2d6 damage on a failed saving throw, or half as much on a successful one.",
 }
+
+
 
 {
 "name": "Hurl Thunderbolt",
@@ -9363,20 +9301,13 @@ Up to 1 foot
 	"You place two living beasts, humanoids, giants, monstrosities, or plants (which must have an Intelligence of at least 1) in the cage and touch each of them while casting the spell. When you finish casting the spell, each creature must make a Constitution saving throw. If either of these rolls are successful, the spell fails.",
 	"If both creatures fail their saving throws, then over the course of the next 24 hours, the creatures begin to mutate and join together, taking on characteristics of both “parent” creatures. The GM should roll a d20.",
 
-Roll
-Result
-1-5
-Success. The resulting creature looks more or less like a combination of its two original forms.
-6
-Bonding. The creatures are not truly melded together but instead are conjoined in some way.
-7
-Imperfect Melding. The two creatures have joined together in a “tauric” fashion—half one creature and half the other.
-8
-Shapeshifter. The creature is melded but can shift between its two parent forms and may have a split personality—it does not have a “hybrid” form. The change may be voluntary or involuntary.
-9
-Dominance. The creature looks mostly like one of its original forms with only hints of the original creature.
-10
-Death. While it looks like the desired creature, something went horribly wrong with the transformation and it takes 15d10+20 necrotic damage. If it is still alive, it may be able to be nursed back to health.
+	"Roll Result:",
+	"1-5: Success. The resulting creature looks more or less like a combination of its two original forms.",
+	"6: Bonding. The creatures are not truly melded together but instead are conjoined in some way.",
+	"7: Imperfect Melding. The two creatures have joined together in a “tauric” fashion—half one creature and half the other.",
+	"8: Shapeshifter. The creature is melded but can shift between its two parent forms and may have a split personality—it does not have a “hybrid” form. The change may be voluntary or involuntary.",",
+	"9: Dominance. The creature looks mostly like one of its original forms with only hints of the original creature.",
+	"10: Death. While it looks like the desired creature, something went horribly wrong with the transformation and it takes 15d10+20 necrotic damage. If it is still alive, it may be able to be nursed back to health.",
 
 	"The resultant creature’s attributes, abilities, and attacks should be determined by the GM, using the original creatures’ attributes as a guideline. ",
 }
@@ -10502,7 +10433,7 @@ Death. While it looks like the desired creature, something went horribly wrong w
 "name": "Mordenkainen’s Defense Against Beasts",
 "source": "ToS 3pp",
 "page": 1,
-"level": 3nd-
+"level": 3,
 "school": "A",
 "time": [
 {
@@ -12426,9 +12357,13 @@ Death. While it looks like the desired creature, something went horribly wrong w
 }
 ],
 	"You turn a normal blade of grass into a magical quarterstaff that does 1d10 bludgeoning damage. If anyone other than you touches the staff, it turns back into grass.",
+}
 
-Renew Deposit
-9th-
+{
+"name": "Renew Deposit",
+"source": "ToS 3pp",
+"page": 1,
+"level": 9,
 "school": "T",
 "meta": {
 "ritual": true
@@ -12457,14 +12392,10 @@ Renew Deposit
 ],
 	"This spell is typically granted by gods of the earth, wealth, or dwarven gods. You cause a normally nonrenewable mineral resource to slowly grow back. You place a “seed” in the empty vein and then must let it grow; if it is interrupted before it has regrow, the spell ends.",
 
-Metal
-Time to Regrow
-Base metal and semiprecious gemstones (iron, copper, quartz, citrine)
-20 years
-Previous metal and fancy gemstones (silver, gold, amethyst, topaz)
-40 years
-Very rare metal, very valuable gemstones (mithral, adamantine, black opal, diamond)
-100 years
+	"Metal/Time to Regrow:",
+	"Base metal and semiprecious gemstones (iron, copper, quartz, citrine): 20 years",
+	"Previous metal and fancy gemstones (silver, gold, amethyst, topaz): 40 years",
+	"Very rare metal, very valuable gemstones (mithral, adamantine, black opal, diamond): 100 years",
 }
 
 {
@@ -12499,7 +12430,7 @@ Very rare metal, very valuable gemstones (mithral, adamantine, black opal, diamo
 }
 }
 ],
-For the duration, you or one creature you touch gains advantage on saving throws to resist magical spells.
+	"For the duration, you or one creature you touch gains advantage on saving throws to resist magical spells.",
 }
 
 {
@@ -12677,40 +12608,14 @@ For the duration, you or one creature you touch gains advantage on saving throws
 }
 ],
 	"You call into being the head, torso, and arms of an enormous humanoid being that appears to be made of the same substance as the ground from which it rose. It is bald and lacks all facial features save a mouth. You may use your action to direct its attack. It is capable of turning completely around but cannot leave the area from which it rose.",
-
-Colossus
-Gargantuan construct, unaligned
-Armor Class: 20 (natural armor)
-Hit Points: 310 (20d20+100)
-Speed: 18 (20,000 XP)
-STR
-DEX
-CON
-INT
-WIS
-CHA
-28 (+9)
-8 (-1)
-20 (+5)
-1 (-5)
-5 (-3)
-1 (-5)
-Damage Immunities: poison
-Damage Resistances: bludgeoning, piercing, and slashing damage from nonmagical weapons
-Condition Immunities: blinded, charmed, deafened, frightened, petrified, poisoned, prone, stunned, unconscious
-Senses: truesight 120 feet (blind beyond this radius)
-Languages: —
-Challenge: 
-Siege Monster. The colossus deals double damage to objects and structures.
-Actions
-Slam. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 48 (6d12+9) bludgeoning
 }
 
 {
 "name": "Rising Rot",
 "source": "ToS 3pp",
 "page": 1,
-"level": 5,level necromantic
+"level": 5,
+"school": "N",
 "time": [
 {
 "number": 1,
@@ -12954,24 +12859,15 @@ Slam. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 48 (6d12+9
 ],
 	"You turn a handful of sand into 2d4 cut and polished gemstones. Roll d20 to determine the type and value. The transformation is permanent and the gemstones continue to radiate magic.",
 
-d20
-Gemstone.
-1-4
-White agate or tiger eye (10 gp)
-5-8
-Chalcedony or citrine (50 gp)
-9-12
-Moonstone or sardonyx (50 gp)
-13-14
-Amber or coral (100 gp)
-15-16
-Red or red-brown garnet, spinel, or tourmaline (100 gp)
-17-19
-Topaz (500 gp)
-19
-Fire opal or yellow sapphire (1,000 gp)
-20
-Jacinth or ruby (5,000 gp)
+	"d20/Gemstone:",
+	"1-4: White agate or tiger eye (10 gp)",
+	"5-8: Chalcedony or citrine (50 gp)",
+	"9-12: Moonstone or sardonyx (50 gp)",
+	"13-14: Amber or coral (100 gp)",
+	"15-16: Red or red-brown garnet, spinel, or tourmaline (100 gp)",
+	"17-19: Topaz (500 gp)",
+	"19: Fire opal or yellow sapphire (1,000 gp)",
+	"20: Jacinth or ruby (5,000 gp)",
 }
 
 {
@@ -13615,7 +13511,7 @@ Jacinth or ruby (5,000 gp)
 "number": 1,
 "unit": "reaction"
 }
-],, which you take when someone you can see has teleported away.
+],
 "range": {
 "type": "point",
 "distance": {
@@ -13631,7 +13527,7 @@ Jacinth or ruby (5,000 gp)
 "type": "instant"
 }
 ],
-	"You discern the destination of another individual who used spells such as teleport, dimension door, or arcane gate. ",
+	"You discern the destination of another individual who visibly used spells such as teleport, dimension door, or arcane gate.",
 }
 
 {
@@ -14820,12 +14716,12 @@ Jacinth or ruby (5,000 gp)
 }
 ],
 "range": {
-"type": "sphere",
+"type": "cube",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot cube)
+},
 "components": {
 "v": true,
 "s": true,
@@ -15720,39 +15616,32 @@ Jacinth or ruby (5,000 gp)
 ],
 	"You may teleport a Small-sized inanimate object weighing 1 pound or less to any location on the same plane as you. The destination you choose must be familiar to you, and your familiarity with the destination determines whether the object arrives their successfully. The DM rolls 1d100 and consults the table.",
 
-Familiarity
-Mishap
-Similar Area
-Off Target
-On
-Target
-Permanent circle
-—
-—
-—
-01-100
-Associated object
-—
-—
-—
-01-100
-Very
-familiar
-01-05
-06-13
-14-24
-25-100
-Seen
-casually
-01-33
-34-43
-44-53
-54-100
-Viewed once
-01-43
-44-53
-54-73
-74-100
+	"Familiarity/Mishap/Similar Area/Off Target:",
+	"Permanent circle",
+	"—",
+	"—",
+	"—",
+	"01-100",
+	"Associated object",
+	"—",
+	"—",
+	"—",
+	"01-100",
+	"Very familiar",
+	"01-05",
+	"06-13",
+	"14-24",
+	"25-100",
+	"Seen casually",
+	"01-33",
+	"34-43",
+	"44-53",
+	"54-100",
+	"Viewed once",
+	"01-43",
+	"44-53",
+	"54-73",
+	"74-100",
 
 	"This spell otherwise acts exactly as the teleport spell. ",
 	"At Higher Levels. When you cast this spell with a spell slot of 4th level or higher, you double the weight of the item you can send for each spell slot above 3rd. (2 pounds with a 4th-level slot, 4 pounds with a 5th-level slot, 8 pounds with a 6th-level slot, 16 pounds with a 7th-level slot, 32 pounds with a 8th-level slot, and 64 pounds with a 9th-level slot.)",
@@ -15846,12 +15735,12 @@ Viewed once
 }
 ],
 "range": {
-"type": "sphere",
+"type": "radius",
 "distance": {
 "type": "feet",
 "amount": 10
 }
-},-foot long tentacles)
+},
 "components": {
 "v": true,
 "m": "a dried octopus tentacle"
@@ -15908,15 +15797,9 @@ Viewed once
 	"One of your arms transforms into a wriggling gray tentacle with sticky suction cups. You can use this tentacle to pick up objects with ease. The tentacle is 30 feet long.",
 	"If you strike someone with this tentacle, it does 1d6 + your Strength ability modifier in bludgeoning damage, plus 2d8 necrotic damage. In addition, the DM rolls on the following table to determine hit location and the effect that has:",
 
-d8
-Body Part
-Effect
-1-6
-Limb
-That limb is paralyzed until the end of your next turn. If it’s an arm, you cannot hold a weapon or shield in that hand. If it’s a leg, you must make a DC 15 Dexterity check or fall prone.
-7-8
-Head
-The creature is blinded or deafened until the end of your next turn.
+	"d8/Body Part/Effect",
+	"1-6: Limb - That limb is paralyzed until the end of your next turn. If it’s an arm, you cannot hold a weapon or shield in that hand. If it’s a leg, you must make a DC 15 Dexterity check or fall prone.",
+	"7-8: Head - The creature is blinded or deafened until the end of your next turn.",
 
 	"On a successful hit, you may choose to grapple that creature (escape DC is equal to your spell save DC). As long as the grapple remains in effect, that target is restrained. At the start of each of your turns, you inflict an additional 2d8 necrotic damage.",
 }
@@ -15934,12 +15817,12 @@ The creature is blinded or deafened until the end of your next turn.
 }
 ],
 "range": {
-"type": "sphere",
+"type": "cube",
 "distance": {
 "type": "feet",
 "amount": 30
 }
-},-foot cube)
+},
 "components": {
 "v": true,
 "s": true,
@@ -16041,7 +15924,7 @@ The creature is blinded or deafened until the end of your next turn.
 "number": 1,
 "unit": "reaction"
 }
-],, which you take when another creature attacks you
+],
 "range": {
 "type": "point",
 "distance": {
@@ -16063,7 +15946,7 @@ The creature is blinded or deafened until the end of your next turn.
 "concentration": true
 }
 ],
-	"You smack a hostile, attacking creature with the item you are holding on the head, face, or hand, forelimb, or paw while berating it, using an unarmed attack or your spell attack modifier to hit. The creature must make a Wisdom saving throw or be stunned for 1 round.",
+	"When reacting to being attacked in melee, you smack a hostile, attacking creature with the item you are holding on the head, face, or hand, forelimb, or paw while berating it, using an unarmed attack or your spell attack modifier to hit. The creature must make a Wisdom saving throw or be stunned for 1 round.",
 }
 
 {
@@ -16236,7 +16119,9 @@ The creature is blinded or deafened until the end of your next turn.
 "name": "Transmute Rock",
 "source": "ToS 3pp",
 "page": 1,
-"level": This are new variants of the spell transmute rock that appears in the Elemental Evil Player’s Companion, pg.22.
+"level": 5,
+"school": "T",
+	"You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects:",
 	"♦	Flowstone. You cause normal rock to flow like thick syrup, allowing it to move around objects, be directed into a mold and then allowed to harden, etc. This version of the spell has a duration of 1 minute.",
 	"♦	Transmute Sand to Stone. Nonmagical sand in the area no more than 10 feet deep transforms into sandstone for the spell’s duration. This is otherwise identical to the transmute mud to rock version of this spell.",
 	"♦	Transmute Snow to Stone. Nonmagical snow or ice in the area no more than 10 feet deep can be transformed into a soft, porous white rock such as soapstone or talc, or into chalk. This is otherwise identical to the transmute mud to rock version of this spell.",
@@ -16470,7 +16355,7 @@ The creature is blinded or deafened until the end of your next turn.
 "components": {
 "v": true,
 "s": true,
-"m": "the gemstone to be enchanted, which must be worth at least 50 gp each", an eyelash, and a tooth from any creature"
+"m": "the gemstone to be enchanted, which must be worth at least 50 gp each, an eyelash, and a tooth from any creature"
 },
 "duration": [
 {
