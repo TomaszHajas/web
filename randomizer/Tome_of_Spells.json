@@ -13404,6 +13404,9 @@
 				"s": true,
 				"m": "an item of jewelry that costs 50 gp per level of the spell it is designed to protect against"
 			},
+			"duration": [{
+				"type": "special"
+			}],
 			"classes": {
 				"fromClassList": [{
 					"name": "Wizard",
