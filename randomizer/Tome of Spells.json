@@ -1,5 +1,4 @@
 //todo:
-//entries
 //classes: find --> ("name": "(Beneficence|Bestow Curse)",) --> replace with --> 
 
 {
@@ -4253,7 +4252,8 @@
 "amount": 10
 }
 }
-], 
+],
+"entries": [
 	"You pray over a corpse, reducing the likelihood that it will rise as an undead. If the creature was doomed to rise as undead due to the way it was killed (such as being drained by a vampire), or someone casts a spell such as animate dead on the corpse, it will only have a 50% chance of success. This spell provides protection once before dissipating."
 ]
 }
@@ -4323,7 +4323,7 @@
 "components": {
 "v": true,
 "s": true,
-"m": "a vial filled with liquid from the boiled remains of a ghoul worth 50 gp".
+"m": "a vial filled with liquid from the boiled remains of a ghoul worth 50 gp"
 },
 "duration": [
 {
@@ -5432,6 +5432,7 @@
 "v": true,
 "s": true
 },
+"entries": [
 	"Whispering to the spirits of nature, you create one of the following effects within range:",
 	"♦	You perfectly mimic one animal or bird call.",
 	"♦	You place a magical mark on an object such as a rock or tree to mark a path or tell a message such as “danger: beasts” or “fresh water.” This mark is very subtle and causes no harm whatsoever, and lasts until you dispel it.",
@@ -7658,6 +7659,7 @@
 "source": "ToS 3pp",
 "page": 1,
 "level": 3,
+"entries": [
 	"Sepia Snake Sigil. When triggered, a sepia snake springs into being and attacks the nearest living creature (other than you) within 10 feet of it, using your spell attack modifier. On a hit, it engulfs the target in a shimmering amber field of force. The target is restrained and incapacitated. These conditions remain for 12 hours, until you release the creature, or a dispel magic spell is cast on it. While in the amber field, the creature does not age or need to eat, drink, breathe, or sleep."
 ]
 }
@@ -12670,6 +12672,7 @@
 "s": true,
 "m": "an item of jewelry that costs 50 gp per level of the spell it is designed to protect against"
 },
+"entries": [
 	"You enchant an amulet with the ability to protect the wearer from a specific spell that you know how to cast and that allows for a saving throw. ",
 	"When the wearer is attacked by that spell and fails the saving throw, the amulet absorbs the magic and shatters, protecting the wearer."
 ]
@@ -17014,6 +17017,7 @@
 "page": 1,
 "level": 5,
 "school": "T",
+"entries": [
 	"You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects:",
 	"♦	Flowstone. You cause normal rock to flow like thick syrup, allowing it to move around objects, be directed into a mold and then allowed to harden, etc. This version of the spell has a duration of 1 minute.",
 	"♦	Transmute Sand to Stone. Nonmagical sand in the area no more than 10 feet deep transforms into sandstone for the spell’s duration. This is otherwise identical to the transmute mud to rock version of this spell.",
