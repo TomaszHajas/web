@@ -5,10 +5,10 @@
 			"abbreviation": "ToS (3pp)",
 			"full": "Tome of Spells",
 			"authors": [
-				"Tomasz H."
+				"Tom H."
 			],
 			"version": "1.0",
-			"url": "https://www.froggodgames.com/book-lost-spells",
+			"url": "http://tomaszhajas.azurewebsites.net/",
 			"targetSchema": "1.1.2"
 		}],
 		"dateAdded": 1537874753
@@ -8107,6 +8107,7 @@
 			"source": "ToS 3pp",
 			"page": 1,
 			"level": 3,
+			"school": "A",
 			"time": [{
 				"number": 1,
 				"unit": "hour"
@@ -8117,6 +8118,14 @@
 					"type": "touch"
 				}
 			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "incense and powdered diamond worth at least 200 gp, which the spell consumes"
+			},
+			"duration": [{
+				"type": "special"
+			}],
 			"classes": {
 				"fromClassList": [{
 					"name": "Wizard",
