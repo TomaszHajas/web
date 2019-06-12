@@ -1707,6 +1707,10 @@
 			"page": 1,
 			"level": 3,
 			"school": "N",
+			"time": [{
+				"number": 1,
+				"unit": "action"
+			}],
 			"range": {
 				"type": "point",
 				"distance": {
@@ -8103,12 +8107,23 @@
 			"source": "ToS 3pp",
 			"page": 1,
 			"level": 3,
+			"time": [{
+				"number": 1,
+				"unit": "hour"
+			}],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
 			"classes": {
 				"fromClassList": [{
 					"name": "Wizard",
 					"source": "PHB"
 				}]
 			},
+			
 			"entries": [
 				"Sepia Snake Sigil. When triggered, a sepia snake springs into being and attacks the nearest living creature (other than you) within 10 feet of it, using your spell attack modifier. On a hit, it engulfs the target in a shimmering amber field of force. The target is restrained and incapacitated. These conditions remain for 12 hours, until you release the creature, or a dispel magic spell is cast on it. While in the amber field, the creature does not age or need to eat, drink, breathe, or sleep."
 			]
