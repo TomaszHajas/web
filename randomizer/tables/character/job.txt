@@ -104,6 +104,8 @@ Writer
 Redactor
 Avatar
 Oracle
+Doomsayer
+Soothsayer
 Seer
 Musician
 Performer
