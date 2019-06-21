@@ -328,6 +328,8 @@ Unlucky
 Clumsy
 Agile
 Weak
+Burly
+Feeble
 Swollen
 Wealthy
 Poor
