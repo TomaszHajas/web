@@ -334,7 +334,7 @@ Awake
 Bang
 Bash
 Bat
-Be (am,are)
+Be
 Beautify
 Become
 Befall
