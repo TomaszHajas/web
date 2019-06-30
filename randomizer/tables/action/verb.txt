@@ -182,6 +182,7 @@ Raise
 Recite
 Ransom
 Revert
+Rinse
 Praise
 Save
 See
