@@ -261,9 +261,11 @@ Boatman
 Captain
 Canaller
 Executioner
+Torturer
 Investigator
 Detective
 Spy
+Hacker
 Blackmailer
 Plaguebearer
 Lookout
