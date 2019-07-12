@@ -121,7 +121,6 @@ Assassin
 Bounty Hunter
 Groom
 Guard
-Armorer
 Squire
 Chandler
 Plowman
@@ -130,7 +129,7 @@ Pilgrim
 Squatter
 Jester
 Juggler
-Fire-eater
+Fire-Eater
 Human Torch
 Valet
 Ditcher
@@ -143,12 +142,9 @@ Poet
 Courtesan
 Potter
 Alchemist
-Soldier
-Porter
 Pirate
 Thief
 Burglar
-Apothecary
 Astrologer
 Bowyer
 Bailiff
@@ -162,7 +158,6 @@ Commander
 King
 Clerk
 Clothier
-Gardener
 Fletcher
 Herald
 Herbalist
@@ -170,7 +165,6 @@ Poisoner
 Tinker
 Knight
 Marshal
-Messenger
 Minstrel
 Moneylender
 Rental Clerk
@@ -219,13 +213,11 @@ Queen
 General
 Advisor
 Catchpole
-Chancellor
 Diplomat
 Hayward
 Jailor
 Lord
 Lady
-Judge
 Almoner
 Pardoner
 Slave
@@ -259,7 +251,6 @@ Philosopher
 Librarian
 Boatman
 Captain
-Canaller
 Executioner
 Torturer
 Investigator
@@ -269,7 +260,6 @@ Hacker
 Blackmailer
 Plaguebearer
 Lookout
-Mayor
 Monster Hunter
 Suicider
 Spiritualist
@@ -308,7 +298,6 @@ Consultant
 Activist
 Protester
 Animal Sexer
-Animal Trainer
 Racer
 Runner
 Bodyguard
@@ -354,3 +343,256 @@ Gelotologist
 Drug Dealer
 Training Dummy
 Dendrochronologist
+Begger
+Buffoon
+Clown
+Crofter
+Dwarf
+Franklin
+Gardner
+Hermit
+Jew
+Palmer
+Spinster
+Tenter
+Furrier
+Pastrycook
+Scabbard Maker
+Hatmaker
+Chicken Butcher
+Purse Maker
+Meat Butcher
+Buckle Maker
+Rugmaker
+Harness Maker
+Bleacher
+Cutler
+Glover
+Accoutrement Maker
+Alabasterer
+Arkwright
+Balancemaker
+Basketmaker
+Beekeeper
+Beerbrewer
+Bellfounder
+Bellmaker
+Besom Maker
+Billier
+Blockcutter
+Bodger
+Bonecarver
+Bookprinter
+Bottelier
+Brazier
+Bricker
+Bricklayer
+Broderer
+Bronzefounder
+Broom-Dasher
+Brushbinder
+Buttonmaker
+Cabinetmaker
+Campaner
+Canvasser
+Carder
+Cardmaker
+Cartwright
+Chainmaker
+Charcoalburner
+Clockmaker
+Coiner
+Combmaker
+Compasssmith
+Coppersmith
+Cordwainer
+Corsetier
+Currier
+Delver
+Diamantaire
+Disher
+Draper
+Drycooper
+Drywaller
+Embroiderer
+Engraver
+Fabricshearer
+Feltmaker
+Fewtrer
+Founder
+Fuller
+Furniture Maker
+Gemcutter
+Gilder
+Girdler
+Glassblower
+Goldbeater
+Goldsmith
+Grinder
+Gunsmith
+Gunstocker
+Hatter
+Horner
+Ivorist
+Joiner
+Knacker
+Knapper
+Knifesmith
+Lacemaker
+Lampwright
+Lancier
+Lanternmaker
+Lapidary
+Latoner
+Leadworker
+Lensgrinder
+Limner
+Linen-Armorer
+Linener
+Linenspinner
+Lorimer
+Lutemaker
+Luthier
+Mailer
+Mailmaker
+Malemaker
+Mapmaker
+Marler
+Marleywoman
+Master Builder
+Merchant Taylor
+Milliner
+Miniaturist
+Minter
+Mirrorer
+Nailmaker
+Nedeller
+Netmaker
+Oilmaker
+Parchmenter
+Pasteler
+Pattenmaker
+Perukier
+Pewterer
+Pinmaker
+Plasterer
+Plattner
+Plumber
+Pointer
+Poleturner
+Pot Mender
+Printer
+Purser
+Quarryman
+Quilter
+Rectifier
+Reedmaker
+Roper
+Rugweaver
+Sailmaker
+Saltboiler
+Salter
+Sawyer
+Scythesmith
+Seamstress
+Shingler
+Shipwright
+Siever
+Silkmaker
+Smith
+Spectaclesmaker
+Spooner
+Spurrer
+Stonecarver
+Stonecutter
+Swordsmith
+Tallowchandler
+Tapestrymaker
+Tapicer
+Tasseler
+Thonger
+Threadmaker
+Tile-Burner
+Tiler
+Tile Maker
+Tinsmith
+Treen Maker
+Turner
+Typefounder
+Upholder
+Vaginarius
+Vintner
+Waxchandler
+Webber
+Wheeler
+Wiredrawer
+Woodcarver
+Woodcutter
+Woodturner
+Maidservant
+Restaurateur
+Water Carrier
+Laundress
+Copyist
+Accomptant
+Accoucheur
+Accoucheus
+Actuary
+Attendent
+Bagger
+Barrister
+Bath Attendent
+Bodyservant
+Carman
+Carter
+Cartier
+Carver
+Cellarer
+Chamberlain
+Chimney Sweep
+Chirurgeon
+Clouter
+Cowherd
+Dairymaid
+Dapifer
+Dentist
+Drayman
+Dung Carter
+Famulus
+Harlot
+Horseleech
+Hurdle Maker
+Link Boy
+Link Man
+Midwife
+Napier
+Nurse
+Panter
+Paperer
+Pavior
+Pavyler
+Potboy
+Privycleaner
+Procurator
+Prostitute
+Quartermaster
+Ragpicker
+Riveter
+Seneschal
+Solicitor
+Sperviter
+Stainer
+Stillroom Maid
+Tapster
+Trencherman
+Userer
+Wattler
+Basinbeater
+Belter
+Fool For Money
+Gluttonous Fool
+Nailer
+Rivener
+Tentsman
+Mosaic Layer
+Thimbler
