@@ -2445,7 +2445,7 @@
 "range": {
 "type": "radius",
 "distance": {
-"type": "mile",
+"type": "miles",
 "amount": 10
 }
 },
@@ -15512,7 +15512,7 @@
 "range": {
 "type": "radius",
 "distance": {
-"type": "mile",
+"type": "miles",
 "amount": 5
 }
 },
@@ -18499,7 +18499,7 @@
 "range": {
 "type": "radius",
 "distance": {
-"type": "mile",
+"type": "miles",
 "amount": 10
 }
 },
@@ -27382,7 +27382,7 @@
 "range": {
 "type": "radius",
 "distance": {
-"type": "mile",
+"type": "miles",
 "amount": 2
 }
 },
@@ -28798,7 +28798,7 @@
 "range": {
 "type": "radius",
 "distance": {
-"type": "mile",
+"type": "miles",
 "amount": 10
 }
 },
@@ -32649,4 +32649,1586 @@
 ]
 }
 ]
+}"ToS 3pp",
+"entries": [
+"A flame springs forth from your palm. The flame can be either red or white, and you may switch between them as a bonus action. You may hide the flame by closing your hand; this does not end the spell.",
+"oo Red Flame. Hot but not particularly bright, you can use this flame to ignite",
+"flammable materials, cook food, or to scorch beings you touch, doing 1d10 fire damage. You must make a melee spell attack roll to hit.",
+"oo White Flame. Bright but cool, the white flame cannot set anything on fire and does no damage, but it sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
+]
+},
+{
+"name": "HANDFANG",
+"page": 1,
+"level": 0,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
 }
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"A sharp-toothed maw appears on the palm of your hand and is completely under control. If you succeed at a melee spell attack, you inflict 1d6 piercing damage and 1d6 acid damage from its corrosive saliva.",
+"The acid damage increases by 1d6 when you reach 5th level (2d6), 11th-level (3d6), and 17th level (4d6)"
+]
+},
+{
+"name": "HARD WATER",
+"page": 1,
+"level": 3,
+"school": "T",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a flask of water and a stone"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You touch the surface of a body of water and transform part of it into a damp, translucent, rock-hard substance. The area of the hardened water consists of up to ten 5-foot cubes, which you can arrange as you wish. Each cube must have at least once face adjacent to the face of another cube and must have one face at the surface of the water.",
+"If a Medium-sized or smaller creature is in the area you are transforming, it may make a Dexterity saving throw to escape. If it fails, it is held in stasis and does not need to eat, drink, or breathe until the spell ends, at which point it is released unharmed.",
+"The hardened water is capable of supporting up to 1,000 pounds in weight. If it takes weight in excess of that, it will break into chunks and on the following round, melt back into water.",
+"At Higher Levels. When you cast this spell with a 4th-level or higher spell slot, you may create five additional 5-foot cubes of hardened water per slot level above 3rd."
+]
+},
+{
+"name": "HARDENING",
+"page": 1,
+"level": 6,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "permanent"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You increase the hardness and durability of an inanimate object you touch. The object’s armor class increases by +2 and its hit points double. You cannot use this on constructs, although you can use it on materials that you then animate as a construct."
+]
+},
+{
+"name": "HARP OF WAR",
+"page": 1,
+"level": 9,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a strand of silver wire"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 10
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"A seven-stringed harp appears in front of you, glowing with silver light and hovering immovably. Each round as a bonus action, you may pluck one of the strings. It produces a soothing and sonorous chord, creates a magical effect, and then vanishes. When you create the harp, you know the effects of each of the strings. After the seventh string is plucked, the harp dissolves and the spell ends.",
+"oo String of Flame. A column of fire falls from the heavens on one creature you can see within 60 feet. That creature must make a Dexterity saving throw. It takes 10d8 fire damage on a failed saving throw, or half as much on a successful one.",
+"oo String of Lightning. A bolt of lightning bursts out of the harp and strikes one creature you can see within 60 feet. That creature must make a Dexterity saving throw. It takes 10d8 lightning damage on a failed saving throw, or half as much on a successful one.",
+"oo String of Scattering. All magical items within 30 feet of you are whisked away on strong, arcane winds to random locations within one mile. If the object is held or carried by a creature, that creature may make a Strength saving throw to hang on to the item.",
+"oo String of Shattering. All nonmagical inanimate objects with 30 feet of you take 10d8 force damage. An item reduced to 0 hit points shatters into dust.",
+"oo String of Summoning. You summon four pegasi, who will fight on your behalf or provide transport for you or other non-evil creatures, for 1 hour. At that time, they will fly away.",
+"oo String of Teleporting. You choose up to 11 creatures other than yourself within 30 feet of you and teleport them to random locations within one mile. Unwilling creatures may make a Wisdom saving throw to resist.",
+"oo String of Stone. A wall of stone erupts from the ground. It is 6 inches wide and consists of ten 10-foot by 10-foot panels, each of which must be touching at least one other panel. Each panel has an AC of 15 and 50 hit points, and is resistant to all forms of attack."
+]
+},
+{
+"name": "HAUNTING SOUND",
+"page": 1,
+"level": 0,
+"school": "I",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "special"
+},
+"components": {
+"v": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You create a “spooky” sound: a creaking door; mysterious footsteps or knocking noises; evil-sounding whispers, growls, or laughter; moans, groans, or agonized screams; the rattling of chains; and so on. The sound must originate within 10 feet of your location and can be heard up to 30 feet away. A creature hearing the sound that is not aware of its origin must make a Wisdom saving throw or be frightened until the end of its next turn and will drop whatever it is holding. A creature that succeeds on its saving throw cannot be affected by this spell again for the next 24 hours."
+]
+},
+{
+"name": "HEALTHFUL REST",
+"page": 1,
+"level": 1,
+"school": "A",
+"time": [{
+"number": 10,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 8
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You choose one or two willing creatures, one of whom may be yourself.",
+"For the duration, when spending Hit Dice at the end of a short rest, the creature may roll one additional die for free.",
+"At Higher Levels. When you cast this spell with a 2nd-level or higher spell slot, you may cast this spell on one additional creature per slot level above 1st."
+]
+},
+{
+"name": "HEART AND SOUL",
+"page": 1,
+"level": 8,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "permanent"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You target a creature within range that can see your eyes and force it to make a Wisdom saving throw. On a failed save, the target is charmed by you. The charmed target can take no actions or make any decisions of any sort without your express permission or orders—it will not defend itself, eat or drink, or do anything else.",
+"It will follow all orders completely and to the letter, although not creatively or even efficiently. It will even follow orders that are suicidal or that defy its alignment.",
+"In effect, this spell binds and suppresses the victim’s soul so strongly that it is effectively nothing more than an automaton—not only will it obey you completely, but no part of it is capable of rebellion. You may order the victim to act normally, in which case it will fulfill its basic needs and wants and act with a semblance of its former personality without you needing to tell it to, but will instantly stop what it is doing and heed you should you beckon. A person who knew the target before this spell was cast will be able to realize that there is something very different about the target.",
+"Once each week, the victim may make a Wisdom saving throw. If it succeeds on three consecutive saving throws, the spell ends and it is freed.",
+"Unlike the dominate person spell, this does not create a telepathic bond between you and the target. Neither remove curse nor dispel evil and good will remove this enchantment; it requires a wish."
+]
+},
+{
+"name": "HEART CALL",
+"page": 1,
+"level": 9,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a mummified humanoid heart"
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You hold out your hand and choose a Small to Large-sized humanoid within range you can see. That creature must then make a Constitution saving throw. On a failure, that creature’s heart is literally ripped out of its chest and flies to your hand, instantly killing that creature. On a success, the creature takes 15d10 force damage instead. If this is enough damage to kill the target, its heart leaps out of its chest."
+]
+},
+{
+"name": "HEART OF STONE",
+"page": 1,
+"level": 8,
+"school": "N",
+"time": [{
+"number": 1,
+"unit": "day"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a life-sized heart carved out of a precious stone worth at least 1,000 gp"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "year",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You remove your heart from your own body and replace it with a heart made of",
+"stone. While this spell is effect, you have resistance to all forms of damage and are immune to being paralyzed, petrified, poisoned, and knocked unconscious. You don’t bleed, have advantage on death saving throws, and you age half as slowly as normally. However, your heart has AC 10 and 1 hit point and if it is destroyed, you die instantly. In addition, you do not regain hit points at the end of a long rest; you must spend hit dice as if you had just finished a short rest, and you only regain half the number of hit points.",
+"When the spell’s duration ends, your real heart instantly reappears in your chest and the stone heart appears where you had kept your real one."
+]
+},
+{
+"name": "HEARTBREAKER",
+"page": 1,
+"level": 7,
+"school": "N",
+"time": [{
+"number": 1,
+"unit": "round"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You make a gesture as if you were breaking something, and one living creature within range is forced to make a Constitution saving throw. If the creature succeeds, it takes 6d10 force points and its hit point maximum is reduced by that amount.",
+"If it fails, the creature suffers from a sudden major heart attack and is immediately reduced to 0 hit points and must begin making death saving throws. Should it survive, its hit point total is reduced by 6d10.",
+"This hit point reduction lasts until a spell such as greater restoration or heal is cast on the target."
+]
+},
+{
+"name": "HEARTFIRE",
+"page": 1,
+"level": 2,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"All targets within 30 feet of you must make a Wisdom saving throw or be outlined in pulsing red flames. An affected creature sheds bright light to a distance of 5 feet and dim light for an additional 5 feet. While this spell is in effect, a creature cannot hide in darkness and does not benefit from spells such as blur or invisibility. This spell is countered by darkness.",
+"While this spell is in effect, should an affected creature need to make a Constitution or Wisdom saving throw and fail, the light will flare up into unbearable heat, inflicting 2d10 fire damage to that creature.",
+"At Higher Levels. When you cast this spell with a 3rd-level or higher spell slot, the flames inflict an additional 1d10 fire damage per slot level above 2nd."
+]
+},
+{
+"name": "HEARTSEEKER",
+"page": 1,
+"level": 8,
+"school": "T",
+"time": [{
+"number": 10,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 6
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You must cast this spell on a wooden piercing weapon you are wielding, such as an arrow or spear. If at some point in the next six hours you successfully hit with this weapon, it begins growing roots and branches.",
+"The roots begin to seek out vital organs as a source of nutrients and the branches begin weigh the target down. The target is restrained (escape DC equal to your spell save DC), and is poisoned for 1 minute.",
+"Each round, the target must make a Constitution saving throw. It takes 4d8 necrotic damage on a failed saving throw, or half as much damage on a successful one."
+]
+},
+{
+"name": "HEETHEM’S HYDROMORPH",
+"level": 1,
+"school": "T",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 1,
+"unit": "round"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 12
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"Pick a point within range that is on still or gently-flowing water. You may shape the water to create fountains and water sculptures in a 30-foot-radius circle around that point. This spell cannot be used for offensive purposes.",
+"If you cast this spell on that point every day for a month, it becomes permanent. You can’t cast this spell as a ritual when doing this."
+]
+},
+{
+"name": "HELLFIRE RAY",
+"page": 1,
+"level": 8,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"Your eyes glow with ruddy, hellish light, and you fire a bolt of dark flames at one creature you can see within range. You must make a ranged spell attack to hit. If you succeed, you inflict 5d10 fire damage and 5d10 necrotic damage. This ignores resistance to fire or necrotic damage, and treats immunity to either damage type as if it were resistance.",
+"If you inflict enough damage to kill the target, a burst of brimstone explodes from the wound and the creature’s soul is damned to one of the lower planes (DM’s choice)."
+]
+},
+{
+"name": "HELLMOUTH LASH",
+"page": 1,
+"level": 3,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 15
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"Your tongue lengthens and transforms into a whip of dark energy, which lashes out at a creature you see within range. Make a melee spell attack against the target. If the attack hits, the target takes 6d10 damage—you must choose between acid, fire, or lightning damage when you strike. If the creature is Large or smaller, you pull it up to 10 feet closer to you.",
+"While this spell is active, you cannot speak."
+]
+},
+{
+"name": "HELPING HAND",
+"page": 1,
+"level": 3,
+"school": "V",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "radius",
+"distance": {
+"type": "mile",
+"amount": 5
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a black silk glove"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 8
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You summon a hovering, insubstantial, foot-tall hand, which you command to locate a creature of a type your choice—you may specify a particular race, sex, and/or general appearance. The hand flies off at a speed of 90 feet, to a maximum of 5 miles",
+"away, and it can pass through a crack as narrow as 1 inch without squeezing.",
+"If it finds a creature that matches your description, it will beckon for that creature to follow. If the creature follows, the hand will lead it to you. It will stay about 10 feet ahead of the creature and will pause to let it catch up, but it has no true understanding of safety.",
+"If the subject decides not to follow it, the hand will return to you and hover, palm-up, to indicate failure, and then vanish. If it doesn’t find anyone before the spell ends, it will also vanish."
+]
+},
+{
+"name": "HESITATE",
+"page": 1,
+"level": 1,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "reaction"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 120
+}
+},
+"components": {
+"v": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"Cast when about to enter combat. You cause one or two creatures you see within range to hesitate, giving it disadvantage on its initiative roll. It may make a Wisdom saving throw to resist.",
+"At Higher Levels. When you cast this spell using a 2nd-level or higher spell slot, you may affect two additional creatures per spell slot above 1st."
+]
+},
+{
+"name": "HIDDEN WARD",
+"page": 1,
+"level": 1,
+"school": "I",
+"time": [{
+"number": 10,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "lead shavings and 100 gp worth of diamond dust"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You hide any protective spells or magical traps that have been previously cast on an object, such as glyphs of warding or signs of sealing (q.v.). If another creature attempts to detect magic on the item, the DM will secretly roll the creature’s spellcasting ability against your spell save DC. If it fails, that creature will believe that there are no additional spells on the item. This spell does not prevent an item’s regular enchantment from being seen: if you cast a venomdust (q.v.) on a sword +1, and another spellcaster casts detect magic but fails you beat your spell save DC, that spellcaster will learn that it is magical weapon but not that it is trapped."
+]
+},
+{
+"name": "HIBERNATION",
+"page": 1,
+"level": 4,
+"school": "E",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "fur from a creature that hibernates"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "month",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You touch a creature of up to Large size and cause it to fall unconscious and go into hibernation. If the creature is unwilling, it may make a Constitution saving throw to resist.",
+"While hibernating, the creature’s need for food, water, and oxygen is reduced by a factor of 100. The creature can be awakened for brief time (no more than 1 hour) but will go back to sleep at the end of that time. An unwilling creature may attempt another Constitution saving throw at this time to remain awake. If you cast this spell on yourself, you may program yourself to wake up at specific times.",
+"When the spell expires, the creature will wake up well-rested and very hungry and thirsty.",
+"At Higher Levels. When you cast this spell using a spell slot of 5th-level or higher, the creature sleeps for an additional month for each slot level above 4th."
+]
+},
+{
+"name": "HISTORY",
+"page": 1,
+"level": 3,
+"school": "D",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 10,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a page from a non-fiction book"
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You touch a Huge or smaller object while casting this spell and gain a psychic impression of one event or series of closely related events in that object’s history and that have a strong emotional component. This will not tell you if the object is magical but if it is, you will likely gain information that strongly suggests that it has been. The spell will also not reveal names unless the object belonged to a single person for a very long time, one of the objects had a very emotional reaction involving the object, or the object belonged to a very powerful or important person.",
+"If you cast this spell on a very large object such as a building, you will only receive information about the area you touched. For example, if you cast this on the main entrance of a castle, you will learn about processions that exited through it or armies that invaded through it, but will not learn about things that occurred elsewhere, such as the assassin that sneaked over the parapets on the other side and killed the king. In effect, you permanently gain advantage on one of Arcana, History, Religion, or Nature skill rolls when dealing with that one specific object."
+]
+},
+{
+"name": "HOLD PORTAL",
+"page": 1,
+"level": 0,
+"school": "A",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"You magically hold a door, gate, or hatch shut, as if it had been closed tightly and locked or barred, or to open as if it had been wedged open. Opening or closing the door requires a Strength ability check (DC equal to your spell saving throw). This spell is instantly countered by knock."
+]
+},
+{
+"name": "HOLD SPIRIT",
+"page": 1,
+"level": 4,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 90
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a small, straight piece of iron"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"Choose an undead creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on creatures that are not undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.",
+"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional undead creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
+]
+},
+{
+"name": "HOLY WEAPON",
+"page": 1,
+"level": 3,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You turn your holy symbol into a magical bludgeoning weapon of your choice; you are proficient in its use. You have a +1 bonus to hit with this weapon and it does 1d12 + your spellcasting ability modifier in bludgeoning damage, plus 2d12 radiant (if your god is good), force (if your god is neutral), or necrotic (if your god is evil) damage.",
+"If anyone other than you or another worshipper of your god attempts to use the weapon, the spell ends and the weapon reverts back into a holy symbol."
+]
+},
+{
+"name": "HOLY PRESENCE",
+"page": 1,
+"level": 8,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "sphere",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"The symbol of your faith appears above you, writ large in smokeless flame and clearly visible to all creatures nearby. It sheds dim light in a 30-foot radius and moves with you. However, you can only cast this spell if you are in good standing with your god. If you have been less than exemplary in your faith, the spell fails, and if you have recently angered your god in any way, the spell fails and you take 6d8 psychic damage.",
+"While this spell is in effect, you gain several benefits.",
+"oo You gain a +2 bonus on all attack rolls, ability checks, and saving throws, and also to your armor class.",
+"oo You gain a 50 temporary hit points.",
+"oo All allies within range receive 20 temporary hit points.",
+"oo All enemy creatures of a specific type (choose from aberrations, celestials, fey, fiends, and undead) that are within 60 feet of you must make a Constitution saving throw. A creature takes 8d6 force damage on a failed saving throw, or half as much damage on a successful one.",
+"oo All enemy creatures that are of an alignment that opposes your god’s and that are within 60 feet of you must make a Constitution saving throw. A creature takes 8d6 force damage on a failed saving throw, or half as much damage on a successful one. This only applies to one alignment access. For instance, if your god is Lawful Good, you may choose to target enemy creatures that are either Chaotic or Evil.",
+"oo All creatures of a specific type (choose from beasts, dragons, giants, humanoids, monstrosities, oozes, or plants) that are within 60 feet of you make a Wisdom saving throw or be charmed by you. A charmed creature is not under your control but views you as an ally to be heeded and protected."
+]
+},
+{
+"name": "HOLY STAR",
+"page": 1,
+"level": 7,
+"school": "A",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"A glowing mote of divine energy appears and hovers above your shoulder, shedding dim light in a 5-foot radius. Each",
+"round, as a reaction, you may mentally command it perform one of the following actions:",
+"oo Fire Bolt. It fires a beam of energy at one target you see within 90 feet; you must make a ranged spell attack to hit. It inflicts 9d10 fire damage on a successful strike.",
+"oo Protection. Until the beginning of your next turn, the mote surrounds you with a protective shield, increasing your Armor Class by +6.",
+"oo Spell Turning. You have advantage on saving throws against any spell that affects only you, as per a ring of spell turning."
+]
+},
+{
+"name": "HORN OF PLENTY",
+"page": 1,
+"level": 6,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a goat’s horn"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 10
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"You turn a hollowed-out goat’s horn turn it into a magical cornucopia. Each minute, it produces enough raw fruit, vegetables, and grain to feed six humanoids or two steeds for a day, or enough water, wine, or ale to slake the thirst of six humanoids or two steeds for a day. At the start of each minute, you may choose whether you wish to produce food or drink. The food and drink is tasty although not quite gourmet."
+]
+},
+{
+"name": "HORNUNG’S RANDOM DISPATCHER",
+"level": 8,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You point to one creature you can see within range. That creature must make an Intelligence saving throw. On a failure, the creature is hurtled into a completely random plane of existence. You have no control over which plane the target ends up going to and it is entirely possible that the target’s destination will instantly kill it.",
+"The GM should roll on the following table to randomly determine the destination.",
+"d100 Plane",
+"01-04: The Feywild",
+"05-08: The Shadowfell",
+"09-12: The Ethereal Plane",
+"13-16: The Astral Plane",
+"17-20: The Elemental Plane of Air",
+"21-24: The Elemental Plane of Earth",
+"24-28: The Elemental Plane of Fire",
+"29-32: The Elemental Plane of Water",
+"33-36: The Blessed Fields of Elysium",
+"37-40: The Clockwork Nirvana of Mechanus",
+"41-44: The Ever-Changing Chaos of Limbo",
+"45-48: The Gray Waste of Hades",
+"49-52: The Heroic Domains of Ysgard",
+"53-56: The Infinite Battlefield of Acheron",
+"57-60: The Infinite Layers of the Abyss",
+"61-64: The Nine Hells of Baator",
+"65-68: The Olympic Glades of Arborea",
+"69-72: The Peaceable Kingdoms of Arcadia",
+"73-76: The Seven Heavens of Mount Celestia",
+"77-80: The Tarterian Depths of Carceri",
+"81-84: The Twin Paradises of Bytopia",
+"85-88: The Wilderness of The Beastlands",
+"89-92: The Windswept Depths of Pandemonium",
+"93-96: The Outlands or the City of Sigil",
+"97-98: The Far Realm",
+"99-100: An alternate Prime world"
+]
+},
+{
+"name": "HOVERING ROAD",
+"page": 1,
+"level": 6,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "minute"
+}],
+"range": {
+"type": "line",
+"distance": {
+"type": "feet",
+"amount": 20
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a chunk of black marble and a loop of gold wire"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 8
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"You create a magical road that hovers anywhere from three to thirty feet above the ground; you may raise or lower it as a bonus action. It is 10 feet wide and extends 20 feet in front of and behind you. It will continue to exist as long as you concentrate on it and continue to move forward; if you stop walking for more than 15 minutes at a time, the road sinks gently to ground level and vanishes.",
+"The road is approximately one foot thick and is made of featureless black energy. It is an object with AC 20 and has hit points equal to your hit point maximum, and it is resistant to bludgeoning, piercing, and slashing damage from nonmagical weapons. If it’s destroyed, it turns to black mist for a moment before vanishing completely, dropping all creatures on it to the ground below. Non-combat travel on the road is at 1.5 times normal speed."
+]
+},
+{
+"name": "HUNGRY DARKNESS",
+"page": 1,
+"level": 7,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 90
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a bat’s tooth"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"Magical darkness spreads from a point you choose within range to fill a 60-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it",
+"The area of darkness is filled with toothy, ravenous jaws that bite at anything that enters the area. It attacks using your spell attack modifier and may attack each creature inside it once at the end of each round; you may roll one attack for it, regardless of the number of creatures inside.",
+"A creature in the area takes 5d6 slashing damage each round, and its hit point total is reduced by half that amount (rounded down). If the creature’s hit point total is reduced to 0, the creature dies.",
+"This reduction to a creature’s hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration. If any of this spell’s area overlaps with an area of light created by a spell of 7th level or lower, the spell that created the light is dispelled"
+]
+},
+{
+"name": "HUNTER’S LORE",
+"level": 1,
+"school": "D",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"While in your favored terrain, you gain a +2 bonus to all Intelligence and Wisdom ability checks."
+]
+},
+{
+"name": "HUNTER’S MERCY",
+"level": 2,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"This spell reveals your target’s weakest point. On your first attack in your next turn, if you hit your target with an arrow from a longbow or shortbow, you automatically do double damage. If you don’t hit, the spell is wasted."
+]
+},
+{
+"name": "HURL ROCK",
+"page": 1,
+"level": 2,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a tiny pebble"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You telekinetically hurl a loose rock that is within 10 feet of you. Make a ranged spell attack. On a hit, it inflicts bludgeoning damage depending on the rock’s size:",
+"Diameter Damage",
+"Tiny, 2d4",
+"Small, 2d6",
+"Medium, 4d6",
+"Large, 4d10",
+"Objects and structures take double damage from rocks of Medium and Large size.",
+"If the rock strikes something hard, it will shatter into shrapnel. All creatures within 10 feet of the impact area must make a Dexterity saving throw. On a failed saving throw, a creature takes half as much piercing damage as it would have taken had it been hit directly (for instance, a creature taking damage from the shrapnel of a Medium boulder would take 2d6 piercing damage)."
+]
+},
+{
+"name": "HURL THUNDERBOLT",
+"page": 1,
+"level": 4,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 100
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"A crackling bolt of lightning appears in your hand and you may throw it at one target within range. Make a ranged spell attack. On a hit, the target takes 6d8 lightning damage and must make a Constitution saving throw. The creature is deafened and stunned for 1 minute on a failed saving throw, or just deafened on a successful one. It may make a new saving throw at the end of each of its turns, removing the stunned condition on a successful save."
+]
+},
+{
+"name": "HYMN OF PEACE",
+"page": 1,
+"level": 6,
+"school": "A",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "radius",
+"distance": {
+"type": "feet",
+"amount": 40
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"As you speak the words of this hymn, you create an aura of pacifism around you. A creature in that area who wishes to perform an aggressive or damaging action towards any other creature or object in that area must make a Wisdom saving throw. If the save fails, it cannot perform that action."
+]
+},
+{
+"name": "HYPNOSIS",
+"page": 1,
+"level": 5,
+"school": "E",
+"meta": {
+"ritual": true
+},
+"time": [{
+"number": 1,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 10
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a small, shiny object on a string"
+},
+"duration": [{
+"type": "special"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You attempt to beguile a creature with an Intelligence of 5 or higher that you can see and that in return can see your eyes; it must also be able to understand your language and must be either willing or restrained. The creature must make a Wisdom saving throw; if it fails, it is charmed by you. This spell has several functions; you must choose which one you will use when you cast the spell.",
+"oo Deprogramming. If the target is suffering from the charmed condition, you may release the target from that effect. You can also use this to deprogram a creature suffering from non-magical brainwashing.",
+"oo Memory Recovery. If the target’s memories had been altered or erased, either through mundane means (including both normal forgetfulness and brainwashing) or by the modify memory or similar spell, you restore the original memory.",
+"oo Phantasmal Harm. You can cause the target to believe that it is being harmed. Each round, for a number of rounds equal to twice your spellcasting ability modifier, you may inflict 1d10, 2d10, or 3d10 psychic damage (you may choose how severe the “damage” is). If the target falls to 0 hit points or lower, it may make a Wisdom saving throw. If it succeeds, it instead drops to 1 hit point and falls unconscious.",
+"oo Rejuvenation. You can remove 1 level of exhaustion from the target. You may only use this version of the spell on a creature once each day",
+"oo Suggestion. You implant a suggestion, as per the spell, into the creature’s subconscious, with the following changes: the suggestion lasts for 1 week and you can ask the target to perform an action that is self-destructive or that violates its alignment. If you do so, however, the target may make a second saving throw when the suggestion is triggered; if it succeeds, it will snap out of it. Once the creature has completed your suggestion, it will have no conscious memory of its actions. The memory can be recovered using the memory recovery version of this spell.",
+"If you cast this version of hypnosis on your target every day for a week, the suggestion will last for 1 month. If you cast it every day for a month, the suggestion will last for a year.",
+"oo Truth-Telling. You may ask the target a number of questions equal to twice your spell attack modifier. The target will answer them truthfully, although not necessarily fully or coherently."
+]
+},
+{
+"name": "HYPOTHERMIA",
+"page": 1,
+"level": 3,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"One target creature within range must make a Constitution saving throw. It takes 4d10 cold damage, or half as much damage on a successful one. For every 20 full points of damage the creature takes from this spell, it will also take one level of exhaustion.",
+"At Higher Levels. When you cast this spell with a 4th-level or higher slot level, you inflict an additional 1d10 cold damage for each slot level above 3rd."
+]
+},
+{
+"name": "ICE BLADE",
+"page": 1,
+"level": 4,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a shard of ice, glass, or crystal"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"A three-foot-long, sword shaped formation of jagged, swirling ice shards, suffused in a silvery-blue glow, appears in your hand. You are considered to have proficiency in this weapon, and when you attack, you do so at advantage—the blade’s unconnected ice shards can pass through chinks in armor. On a successful hit, you inflict 1d12 slashing damage and 2d12 cold damage.",
+"At Higher Levels. When you cast this spell using a spell slot of 5th-level or higher, you do an additional 1d12 cold damage for each slot level above 4th."
+]
+},
+{
+"name": "ICE SHAPE",
+"page": 1,
+"level": 3,
+"school": "T",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "soft clay or snow, which must be worked into roughly the desired shape of the icy object"
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You touch a piece of ice or snow of Medium size of smaller or a section of ice no more than 5 feet in any dimension and form it into any shape that suits your purpose. For example, you could turn an icicle into a sword or a pile of snow into an igloo. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.",
+"At Higher Levels. When you cast this spell with a 6th-level or higher spell slot, you may use a tool proficiency, such as jeweler’s tools or smith’s tools, to attempt to create fine details. Thus, you can create an item as detailed and complex with this spell as you could with regular tools, even if you don’t have access to those tools."
+]
+},
+{
+"name": "ICE WEB",
+"page": 1,
+"level": 4,
+"school": "C",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a bit of icicle"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.",
+"If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. webs layered over a flat surface have a depth of 5 feet.",
+"As soon as the webs are created, they freeze and turn into strong, rigid strands of ice and frozen air. A creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failure, it is restrained (escape DC equal to your spell save DC). At the end of each of its turns, the creature must make a Constitution saving throw. A creature takes 5d6 cold damage and is stunned until the end of its next turn on a failed saving throw, and suffers no ill effect on a successful save.",
+"Any fire of torch-size or larger can melt a 5-foot cube in 1 round. Cold-based creatures, such as ice mephits and gelugons, can pass through the web unheaded."
+]
+},
+{
+"name": "ICEBALL",
+"page": 1,
+"level": 3,
+"school": "V",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 150
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a tiny ball of bat guano and powdered glass"
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"A bright blue-white streak flashes from your pointing finger to a point you choose within range and then explodes into small shards of ice. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 3d6 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one. In either case, the targets are also stunned until the end of their next turn.",
+"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the cold damage increases by 1d6 for each slot level above 3rd."
+]
+},
+{
+"name": "IDEA",
+"page": 1,
+"level": 1,
+"school": "D",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a gold coin, which is consumed in the casting"
+},
+"duration": [{
+"type": "instant"
+}],
+"source": "ToS 3pp",
+"entries": [
+"You flip the coin in the area while thinking of your problem and the coin vanishes. You then gain advantage on a single Arcana, History, Insight, Investigation, Medicine, Nature, Performance Religion, or Survival ability check needed to solve the problem.",
+"If the problem is one that doesn’t require a skill roll to solve (but instead requires role-playing), the DM will give you a strong hint as to the solution."
+]
+},
+{
+"name": "ILL OMEN",
+"page": 1,
+"level": 0,
+"school": "E",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You curse a target with bad luck. It must succeed on a Wisdom saving throw or be at disadvantage on all rolls until the end of its next turn. You may only curse a particular target with this spell once until you have finished a short or long rest."
+]
+},
+{
+"name": "ILLUSORY FEAST",
+"page": 1,
+"level": 5,
+"school": "I",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 400
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a piece of food"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"You conjure a phantasmal image of delicious-looking food and drink. All creatures within 30 feet of it must make a Wisdom saving throw. On a failure, a target will stop what it is doing and attempt to eat the food; the food appears to be exactly the type the target likes and exists only in its mind. A target may attempt a new saving throw at the beginning of each of its turns, ending the effect on a success. If a target is attacked, the spell automatically ends for that creature, but not for anyone else affected by the spell. Creatures that do not eat are immune to this spell."
+]
+},
+{
+"name": "ILLUSORY MAZE",
+"page": 1,
+"level": 2,
+"school": "I",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 120
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"This phantasm causes a target to believe that a translucent, shifting maze has appeared around it. Unless the target makes a Wisdom saving throw, it cannot move more than 10 feet in any one direction and can only move at straight angles."
+]
+},
+{
+"name": "ILLUSORY PIT",
+"page": 1,
+"level": 4,
+"school": "I",
+"time": [{
+"number": 1,
+"unit": "round"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 120
+}
+},
+"components": {
+"v": true,
+"s": true
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 1
+},
+"concentration": true
+}],
+"source": "ToS 3pp",
+"entries": [
+"You create the illusion of a deep chasm. You may decide what appears to be at the bottom of the chasm or you may choose for it to see bottomless. It consists of up to ten 10-foot squares, which you can arrange as you wish. Each square must be on the ground and have at least one face adjacent to the face of another square.",
+"Any creature in the area when you cast the spell must make an Intelligence saving throw or believe that it is falling into the chasm. A target falls prone and flails about in a desperate attempt to stop falling. It may make a new saving throw at the beginning of each of its turns, ending the effects on a success. A creature that approaches the illusory pit must also make an Intelligence saving throw or become convinced that the pit exists. Unless is there some way for them to cross it (such as by jumping across or building a bridge), a creature will not attempt to cross the chasm. Flying creatures that fail their saving throw are not hindered by this spell."
+]
+},
+{
+"name": "ILYYKUR’S MANTLE",
+"level": 4,
+"school": "A",
+"time": [{
+"number": 1,
+"unit": "action"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "self"
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "an uncut gemstone worth at least 25 gp"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": 1
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"A luminous, sparkling aura completely covers you and conforms the contours of your body. You shed dim light in a 10-foot radius. While this aura exists, you have advantage on saving throws to resist being charmed or frightened, are resistant to lightning, and have a +1 bonus to your armor class.",
+"If you have a familiar, that familiar is also covered by the mantle, even if it is not in physical contact with you."
+]
+},
+{
+"name": "IMBUE WITH PURPOSE",
+"page": 1,
+"level": 6,
+"school": "T",
+"time": [{
+"number": 10,
+"unit": "minute"
+}],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+}
+},
+"components": {
+"v": true,
+"m": "a diamond worth 1,000 gp, which is destroyed when you cast the spell"
+},
+"duration": [{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": 8
+}
+}],
+"source": "ToS 3pp",
+"entries": [
+"One weapon you are holding gains the ability to inflict extra damage against one particular type of creature, such as humanoids or fey. You may use the weapon yourself or give it to someone else.",
+"If a creature of the specified type is hit by the weapon, it takes an extra 3d6 force damage.",
+"If you roll a natural 20, the target must make a Constitution saving throw. If it succeeds, it takes an additional 3d6 force damage. If it fail
