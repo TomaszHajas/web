@@ -1135,6 +1135,7 @@ Alseid (ToB)
 Alseid Grovekeeper (ToB)
 Amonkhet Hydra
 Amonkhet Sphinx
+Ancient Deep Crow
 Androsphinx
 Angler Worm (ToB)
 Ankheg
@@ -1160,6 +1161,7 @@ Criosphinx
 Darkmantle
 Death Dog
 Decapus
+Deep Crow
 Displacer Beast
 Dogmole Juggernaut (ToB)
 Doppelrat (ToB)
