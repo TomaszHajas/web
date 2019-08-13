@@ -6,6 +6,7 @@ Balhannoth
 Beholder
 Berbalang
 Blue Slaad
+Chaos Quadrapod
 Chelicerae (ToB)
 Choker
 Choker
@@ -306,6 +307,7 @@ Cadaver Collector
 Clay Gladiator
 Clay Golem
 Clockwork Beetle (ToB)
+Clockwork Dragon
 Clockwork Hound (ToB)
 Clockwork Huntsman (ToB)
 Clockwork Kraken
@@ -336,6 +338,7 @@ Idolic Deity (ToB)
 Iron Cobra
 Iron Golem
 Iron Spider
+Keg Robot
 Library Automaton (ToB)
 Living Unseen Servant
 Living Wick (ToB)
@@ -1031,6 +1034,7 @@ Razerblast
 Redbrand Ruffian
 Sacred Stone Monk
 Skyweaver
+Splugoth the Returned
 Stonemelder
 Thayan Apprentice
 Thayan Warrior
