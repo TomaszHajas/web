@@ -133,6 +133,7 @@ Troglodyte
 Vampire (Ixalan)
 Vampire (Zendikar)
 Vedalken
+Verdan
 Viashino
 Warforged
 Warforged (Envoy)
