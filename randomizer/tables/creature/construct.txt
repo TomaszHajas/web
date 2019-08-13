@@ -18,6 +18,7 @@ Cadaver Collector
 Clay Gladiator
 Clay Golem
 Clockwork Beetle (ToB)
+Clockwork Dragon
 Clockwork Hound (ToB)
 Clockwork Huntsman (ToB)
 Clockwork Kraken
@@ -48,6 +49,7 @@ Idolic Deity (ToB)
 Iron Cobra
 Iron Golem
 Iron Spider
+Keg Robot
 Library Automaton (ToB)
 Living Unseen Servant
 Living Wick (ToB)
