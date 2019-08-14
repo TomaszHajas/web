@@ -51,6 +51,7 @@ Armorer
 Stablemaster
 Master
 Priest
+Plaintiff
 Judge
 Noble
 Crier
@@ -222,6 +223,7 @@ Almoner
 Pardoner
 Slave
 Servant
+Intern
 Homeless
 Beggar
 Scavenger
