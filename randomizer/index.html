@@ -157,7 +157,7 @@
 	}
 	
 	function removeHtmlMarkers(template){
-		return template.replace(/<color(.*?)>/gm, "").replace(/<\/color>/gm, "");
+		return template.replace(/<font color(.*?)>/gm, "").replace(/<\/font>/gm, "");
 	}
 	
 	function random(template){
@@ -179,11 +179,11 @@
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
-				replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+array[Math.floor(getRandomNumber()*array.length)]+"</color>");
+				replacedFirstMatch = template.replace(firstMatch, "<font color="+stringToRGB(firstMatch)+">"+array[Math.floor(getRandomNumber()*array.length)]+"</font>");
 				return random(replacedFirstMatch);
 			}else if(/\d/.test(firstMatchNoBrackets)){
 				console.log("Die roll detected");
-				replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+parseRoll(firstMatchNoBrackets)+"</color>");
+				replacedFirstMatch = template.replace(firstMatch, "<font color="+stringToRGB(firstMatch)+">"+parseRoll(firstMatchNoBrackets)+"</font>");
 				return random(replacedFirstMatch);
 			}else{
 				console.log("Table roll detected");
@@ -199,11 +199,11 @@
 					req.open("GET", firstMatchPath, false); // 'false': synchronous.
     					req.send(null);
 					text = req.responseText;
-					replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</color>");
+					replacedFirstMatch = template.replace(firstMatch, "<font color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</font>");
 					console.log("1 "+replacedFirstMatch);
 					return random(replacedFirstMatch);
 				}else{
-					replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</color>");
+					replacedFirstMatch = template.replace(firstMatch, "<font color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</font>");
 					console.log("2 "+replacedFirstMatch);
 					return random(replacedFirstMatch);
 				}
