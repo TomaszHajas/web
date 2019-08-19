@@ -127,7 +127,7 @@ Stench source coming from nearby [place/adjective] [[place/structure]|[place/nat
 Beautiful view of [place/adjective] [[place/area]|[place/building]].
 Projectile struck in [place/adjective] [[place/structure]|[place/natural]].
 Hidden passage to [place/adjective] [[place/area]|[place/building]|[place/structure]|[place/natural]].
-Magical portal hidden inside [place/adjective] [place/building]|[place/structure]|[place/natural]. It leads to [|pocket dimension containing] [place/adjective] [place/building]|[place/structure]|[place/natural] in [place/adjective] [place/area].
+Magical portal hidden inside [place/adjective] [[place/building]|[place/structure]|[place/natural]]. It leads to [|pocket dimension containing] [place/adjective] [[place/building]|[place/structure]|[place/natural]] in [place/adjective] [place/area].
 [object/adjective] [object/mundane] guarded by [character/personality] [creature].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards|someone walking under ladder|shoes on a table].
 Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards|dream catcher].
