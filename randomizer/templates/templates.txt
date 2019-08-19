@@ -171,7 +171,7 @@ Noise resembling [dripping droplets|something moving in a water bank|something s
 Dripping [object/color] liquid.
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
-Mysterious fire combustion.
+Mysterious fire combustion. Its source was [chemical|electrical|mechanical|nuclear].
 Uncanny vibration.
 Mysterious [fog|dust|smoke|mist|gas|darkness|insect] cloud which will [action/verb] creature which [breathes it|enters it].
 Vision obscurement - [fog|dust|smoke|mist|gas|darkness|swarm of insects|lush vegetation|crowd of people|environmental obstacles].
@@ -203,7 +203,7 @@ Humidity [increase|decrease].
 Atmospheric pressure [increase|decrease].
 Temperature [increase|decrease].
 Gravity pull [increase|decrease].
-Gravity direction shift.
+Gravity direction shift. It's now visibly pulling [up|[north|south|east|west]ward].
 Weather phenomenon [typical|untypical] to local environment.
 Rare natural phenomenon - [moonbow|rainbow|mirage|halo|aurora|red moon|solar eclipse|ball lightning|tornado|fire tornado|acid rain|egg-sized hailstorm|extreme rain|tsunami|extreme heat wave|extreme blizzard|earthquake|tectonic shift|lava eruption].
 Rain of [object/material]. It will [action/verb] any creature caught by it.
