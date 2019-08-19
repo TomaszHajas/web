@@ -112,6 +112,19 @@
 		}
 	}
 	
+	function hashCode(str) { // java String#hashCode
+
+		} 
+
+	function stringToRGB(string){
+		var hash = 0;
+    		for (var i = 0; i < string.length; i++) {
+      			hash = string.charCodeAt(i) + ((hash << 5) - hash);
+    		}
+	    	var c = (hash & 0x00FFFFFF).toString(16).toUpperCase();
+    		return "00000".substring(0, 6 - c.length) + c;
+	}
+	
 	function getRandomLine(text){
     		var lines = text.split('\n');
     		return lines[Math.floor(getRandomNumber()*lines.length)].replace(/\r?\n|\r/g, '');
@@ -143,7 +156,7 @@
 	}
 	
 	function removeHtmlMarkers(template){
-		return template.replace("<b>", "").replace("</b>", "");
+		return template.replace(/<color(.*?)>/gm, "").replace(/<\/color>/gm, "");
 	}
 	
 	function random(template){
@@ -165,11 +178,11 @@
 			}else if(firstMatchNoBrackets.includes("|")){
 				console.log("Altenative detected");
 				var array = firstMatchNoBrackets.split('|');
-				replacedFirstMatch = template.replace(firstMatch, "<b>"+array[Math.floor(getRandomNumber()*array.length)]+"</b>");
+				replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+array[Math.floor(getRandomNumber()*array.length)]+"</color>");
 				return random(replacedFirstMatch);
 			}else if(/\d/.test(firstMatchNoBrackets)){
 				console.log("Die roll detected");
-				replacedFirstMatch = template.replace(firstMatch, "<b>"+parseRoll(firstMatchNoBrackets)+"</b>");
+				replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+parseRoll(firstMatchNoBrackets)+"</color>");
 				return random(replacedFirstMatch);
 			}else{
 				console.log("Table roll detected");
@@ -185,11 +198,11 @@
 					req.open("GET", firstMatchPath, false); // 'false': synchronous.
     					req.send(null);
 					text = req.responseText;
-					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+					replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</color>");
 					console.log("1 "+replacedFirstMatch);
 					return random(replacedFirstMatch);
 				}else{
-					replacedFirstMatch = template.replace(firstMatch, "<b>"+getRandomLine(text)+"</b>");
+					replacedFirstMatch = template.replace(firstMatch, "<color="+stringToRGB(firstMatch)+">"+getRandomLine(text)+"</color>");
 					console.log("2 "+replacedFirstMatch);
 					return random(replacedFirstMatch);
 				}
