@@ -112,10 +112,6 @@
 			return 0;
 		}
 	}
-	
-	function hashCode(str) { // java String#hashCode
-
-		} 
 
 	function stringToRGB(string){
 		var hash = 0;
@@ -123,9 +119,15 @@
       			hash = string.charCodeAt(i) + ((hash << 5) - hash);
     		}
 	    	var c = (hash & 0x00FFFFFF).toString(16).toUpperCase();
-    		var color = "00000".substring(0, 6 - c.length) + c;
-		color = (color & 0xfefefe) >> 1
-		return "\"#"+color+"\"";
+    		var hashString = "00000".substring(0, 6 - c.length) + c;
+		// darken hash color
+		var color = "#", c, i;
+		for (i = 0; i < 3; i++) {
+			c = parseInt(hashString.substr(i*2,2), 16);
+			c = Math.round(Math.min(Math.max(0, c + (c * -0.5)), 255)).toString(16);
+			rgb += ("00"+c).substr(c.length);
+		}
+		return "\""+color+"\"";
 	}
 	
 	function getRandomLine(text){
