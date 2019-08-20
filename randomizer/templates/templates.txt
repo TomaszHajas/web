@@ -150,7 +150,7 @@ Love letter from [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to
 [Scroll|Letter|Book|Diary|Tome] written by [character/japanese_prefix][character/japanese_suffix] declaiming author's [positive|neutral|negative] views on [abstract/abstract].
 [Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [creature]s.
 [Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [object/mundane]s.
-[Scroll|Letter|Book|Diary|Tome] written by [character/anglo_saxon_prefix][character/anglo_saxon_suffix] describing author's adventures during visit in [place/adjective] [place/structure].
+[Scroll|Letter|Book|Diary|Tome] written by [character/anglo_saxon_prefix][character/anglo_saxon_suffix] describing author's adventures during visit in [place/adjective] [place/building].
 [Scroll|Letter|Book|Diary|Tome] written by [character/slavic_prefix][character/slavic_suffix] describing author's adventures during exploration of [place/adjective] [place/area].
 [Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [object/mundane].
 Notice regarding a [character/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
