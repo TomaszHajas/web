@@ -14,4 +14,9 @@ module.exports = function (app) {
     app.get('/about', function (req, res) {
         res.render('about', { title: 'About Me.  ' })
     });
+    
+    // randomizer page
+    app.get('/randomizer*', function(req, res){
+        res.render({seed: req.query.seed}, res);
+    });
 }
