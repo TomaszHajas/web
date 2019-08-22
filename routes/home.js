@@ -17,6 +17,8 @@ module.exports = function (app) {
     
     // randomizer page
     app.get('/randomizer*', function(req, res){
+        console.log(res.query);
+        console.log(req.query.seed);
         res.render({seed: req.query.seed}, res);
     });
 }
