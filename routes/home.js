@@ -21,4 +21,9 @@ module.exports = function (app) {
         console.log(req.query.seed);
         res.render({seed: req.query.seed}, res);
     });
+    
+    // wordpress page
+    app.get('/wordpress', function(req, res){
+        res.render(http://tomaszhajas.azurewebsites.net/wordpress);
+    });
 }
