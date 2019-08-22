@@ -11,9 +11,11 @@ module.exports = function(app) {
         throw new Error('This is a 500 Error');
     });  
     
+    /*
     // wildcard route for 404 errors
     app.get('/*', function(req, res) {
         console.log(req.path)
         throw new errorHandler.NotFound;
     });
+    */
 }
