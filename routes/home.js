@@ -15,9 +15,8 @@ module.exports = function (app) {
         res.render('about', { title: 'About Me.  ' })
     });
     
-    
-    // wordpress page
-    app.get('/wordpress', function(req, res){
-        res.render('wordpress', { title: 'Wordpress  ' })
+    // randomizer page
+    app.get('/randomizer*', function(req, res){
+        res.sendfile(path.join(__dirname, '../randomizer/', 'index.html')
     });
 }
