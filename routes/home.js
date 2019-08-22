@@ -16,7 +16,7 @@ module.exports = function (app) {
     });
     
     // randomizer page
-    app.get('/hello', function(req, res){
-        res.sendfile('hello.html')
+    app.get('/randomizer', function(req, res){
+        res.sendfile(path.resolve('../randomizer/index.html'))
     });
 }
