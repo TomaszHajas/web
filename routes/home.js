@@ -15,8 +15,9 @@ module.exports = function (app) {
         res.render('about', { title: 'About Me.  ' })
     });
     
+    app.use(express.static(path.join(__dirname, '/../randomizer')))
     // randomizer page
     app.get('/randomizer*', function(req, res){
-        res.sendfile(path.join(__dirname, '/randomizer/', 'index.html')
+        res.sendfile('index.html')
     });
 }
