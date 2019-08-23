@@ -17,6 +17,6 @@ module.exports = function (app) {
     
     // randomizer page
     app.get('/randomizer*', function(req, res){
-        res.sendfile(path.join(__dirname, '../')\+'\randomizer\index.html'+req.query)
+        res.sendfile(path.join(__dirname, '../')\+'\randomizer\index.html?seed='+req.query.seed)
     });
 }
