@@ -17,6 +17,6 @@ module.exports = function (app) {
     
     // randomizer page
     app.get('/randomizer/index.html', function(req, res){
-        res.sendFile('index.html?seed=12')
+        res.sendFile('index.html')
     });
 }
