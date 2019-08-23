@@ -1,5 +1,6 @@
 module.exports = function (app) {
 
+    const path = require('path');
     // home page
     app.get('/', function (req, res) {
         res.render('index', { title: 'Home Page.  ' })
@@ -17,7 +18,7 @@ module.exports = function (app) {
     
     // randomizer page
     app.get('/randomizer*', function(req, res){
-        res.end(path.resolve("test");
+        res.end(path.resolve(__dirname+'/randomizer/index.html'));
         //res.sendfile(path.resolve(__dirname+'/randomizer/index.html'))
     });
 }
