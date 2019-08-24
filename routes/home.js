@@ -22,7 +22,7 @@ module.exports = function (app) {
     });
     
     // wordpress
-    app.get('wordpress/post', function(req, res){
+    app.get('/wordpress/post', function(req, res){
         var headers, options;
 
         // Set the headers
