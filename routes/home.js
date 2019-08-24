@@ -16,7 +16,12 @@ module.exports = function (app) {
     });
     
     // randomizer page
-    app.get('/randomizer/index.html', function(req, res){
+    app.get('/randomizer', function(req, res){
         res.sendFile('/randomizer/index.html')
+    });
+    
+    // wordpress
+    app.get('/wordpress', function(req, res){
+        res.sendFile('/wordpress/index.php')
     });
 }
