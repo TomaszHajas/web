@@ -3,7 +3,7 @@ const epf = require("express-php-fpm").default
 
 const options = {
   // root of your php files
-  documentRoot: __dirname + "/php_files",
+  documentRoot: __dirname + "/wordpress",
 
   // extra env variables
   env: {},
