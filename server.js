@@ -189,7 +189,7 @@ var options = {
 }
 
 var app = express();
-app.use("/", epf(options))
+//app.use("/", epf(options))
 app.configure(function () {
     app.set('port', process.env.PORT || 3000);
     app.set('views', __dirname + '/views');
