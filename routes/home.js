@@ -21,7 +21,7 @@ module.exports = function (app) {
     });
     
     // wordpress
-    app.get('/wordpress/', function(req, res){
+    app.get('/wordpress', function(req, res){
         res.sendFile('/wordpress/index.php');
     });
 }
