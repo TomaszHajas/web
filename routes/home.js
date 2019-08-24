@@ -21,7 +21,9 @@ module.exports = function (app) {
     });
     
     // wordpress
-    app.get('/wordpress', function(req, res){
-        res.sendFile('/wordpress/index.php');
-    });
+    app.use('/blog', proxy('http://tomaszhajas.azurewebsites.net/wordpress/', {
+        forwardPath: function(req, res) {
+            return require('url').parse(req.url).path;
+     }
+    }));
 }
