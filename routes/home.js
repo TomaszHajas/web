@@ -21,7 +21,9 @@ module.exports = function (app) {
     });
     
     // wordpress
-    app.get('/wordpress*', function(req, res){
+    app.get('/wordpress/wp-content/uploads/2019/01/sea_ship-300x75.png', function(req, res){
+        res.sendFile('/wordpress/wp-content/uploads/2019/01/sea_ship-300x75.png');
+        /*
         if(req.url.endsWith('/')){
             console.log(req.url+'index.php');
             res.sendFile(req.url+'index.php');
@@ -29,5 +31,6 @@ module.exports = function (app) {
             console.log(req.url);
             res.sendFile(req.url);
         }
+        */
     });
 }
