@@ -12,6 +12,7 @@ var express = require('express')
   , everyauth = require('everyauth')
   , Recaptcha = require('recaptcha').Recaptcha;
 
+var epf = require("express-php-fpm").default
 
 /**
 * CONFIGURATION
@@ -175,10 +176,7 @@ function addUser(source, sourceUser) {
     return user;
 }
 
-const express = require("express")
-const epf = require("express-php-fpm").default
-
-const options = {
+var options = {
   // root of your php files
   documentRoot: __dirname + "/wordpress",
 
