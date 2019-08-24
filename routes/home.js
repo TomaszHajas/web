@@ -22,6 +22,10 @@ module.exports = function (app) {
     
     // wordpress
     app.get('/wordpress*', function(req, res){
-        res.send(req.url);
+        if(req.url.endsWith('/')){
+            res.send(req.url+'index.php');
+        }else{
+            res.send(req.url);
+        }
     });
 }
