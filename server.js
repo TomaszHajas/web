@@ -12,7 +12,7 @@ var express = require('express')
   , everyauth = require('everyauth')
   , Recaptcha = require('recaptcha').Recaptcha;
 
-var epf = require("express-php-fpm").default
+//var epf = require("express-php-fpm").default
 
 /**
 * CONFIGURATION
@@ -176,6 +176,7 @@ function addUser(source, sourceUser) {
     return user;
 }
 
+/*
 var options = {
   // root of your php files
   documentRoot: __dirname + "/wordpress",
@@ -187,6 +188,7 @@ var options = {
   // https://nodejs.org/api/net.html#net_socket_connect_options_connectlistener
   socketOptions: { port: 9000 },
 }
+*/
 
 var app = express();
 //app.use("/", epf(options))
