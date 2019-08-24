@@ -175,9 +175,23 @@ function addUser(source, sourceUser) {
     return user;
 }
 
+const express = require("express")
+const epf = require("express-php-fpm").default
 
+const options = {
+  // root of your php files
+  documentRoot: __dirname + "/wordpress",
+
+  // extra env variables
+  env: {},
+
+  // connection to your php-fpm server
+  // https://nodejs.org/api/net.html#net_socket_connect_options_connectlistener
+  socketOptions: { port: 9000 },
+}
 
 var app = express();
+app.use("/", epf(options))
 app.configure(function () {
     app.set('port', process.env.PORT || 3000);
     app.set('views', __dirname + '/views');
