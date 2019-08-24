@@ -22,6 +22,6 @@ module.exports = function (app) {
     
     // wordpress
     app.get('/wordpress*', function(req, res){
-        res.write(req.url);
+        res.send(req.url);
     });
 }
