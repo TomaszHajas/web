@@ -1,4 +1,9 @@
 {
+    "url": "http://hajas.azurewebsites.net",
+    "server": {
+	"host": "127.0.0.1",
+	"port": 2368
+    },
     "database": {
         "client": "sqlite3",
         "connection": {
