@@ -20,4 +20,9 @@ module.exports = function (app) {
     app.get('/randomizer', function(req, res){
         res.sendFile('/randomizer/index.html')
     });
+    
+    // blog
+    app.get('/blog', function(req, res){
+        res.sendFile('/blog/index.js')
+    });
 }
