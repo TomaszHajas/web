@@ -1,5 +1,4 @@
 routes:
-  /randomizer: randomizer
 
 collections:
   /:
