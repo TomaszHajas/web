@@ -1,0 +1,13 @@
+<div class="cover tag-cover">
+	<h3 class="tag-name">
+		Tag: {{tag.name}}
+	</h3>
+	<div class="post-count">
+		Total {{plural pagination.total empty='0 Post' singular='% Post' plural='% Posts'}}
+	</div>
+	{{#if tag.description}}
+	<div class="tag-description">
+        {{tag.description}}
+	</div>
+	{{/if}}
+</div>
