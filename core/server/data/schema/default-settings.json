@@ -83,10 +83,10 @@
             "defaultValue" : ""
         },
         "facebook": {
-            "defaultValue" : "ghost"
+            "defaultValue" : ""
         },
         "twitter": {
-            "defaultValue" : "tryghost"
+            "defaultValue" : ""
         },
         "labs": {
             "defaultValue": "{}"
@@ -95,7 +95,7 @@
             "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"Tag\", \"url\":\"/tag/getting-started/\"}, {\"label\":\"Author\", \"url\":\"/author/ghost/\"},{\"label\":\"Help\", \"url\":\"https://ghost.org/docs/\"}]"
         },
         "slack": {
-            "defaultValue": "[{\"url\":\"\", \"username\":\"Ghost\"}]"
+            "defaultValue": ""
         },
         "unsplash": {
             "defaultValue": "{\"isActive\": true}"
@@ -167,7 +167,7 @@
     },
     "theme": {
         "active_theme": {
-            "defaultValue": "casper"
+            "defaultValue": "futura"
         }
     },
     "private": {
