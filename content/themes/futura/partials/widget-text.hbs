@@ -4,12 +4,12 @@
 	<div class="content">
 		<p id="dateTime"></p>
 	</div>
+	<script>
+		var today = new Date();
+		var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+		var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+		var dateTime = date+' '+time;
+		document.getElementById("dateTime").innerHTML = dateTime;
+	</script>
 </div>
-<script>
-	var today = new Date();
-	var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-	var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-	var dateTime = date+' '+time;
-	document.getElementById("dateTime").innerHTML = dateTime;
-</script>
 <!-- end widget -->
