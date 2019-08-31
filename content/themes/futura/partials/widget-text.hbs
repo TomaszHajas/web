@@ -2,7 +2,14 @@
 <div class="widget">
 	<h4 class="title">Text Widget</h4>
 	<div class="content">
-		Here you can add any text or html snippet. All widgets are reorderable. Also if you want to remove any widget from sidebar or footer then that is very simple.
+		<p id="dateTime"></p>
 	</div>
 </div>
+<script>
+	var today = new Date();
+	var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+	var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+	var dateTime = date+' '+time;
+	document.getElementById("dateTime").innerHTML = dateTime;
+</script>
 <!-- end widget -->
