@@ -138,7 +138,8 @@ pre {
 .main-header {
   text-align: center;
   padding: 42px 0;
-  background: #ffffff url(https://vignette.wikia.nocookie.net/smashverse/images/f/ff/Volcona.jpg) 100% 100% no-repeat;
+  background: #ffffff url(https://vignette.wikia.nocookie.net/smashverse/images/f/ff/Volcona.jpg);
+  background-position: center;
 }
 .main-header .branding {
   font-size: 3.5em;
