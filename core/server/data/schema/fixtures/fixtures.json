@@ -462,15 +462,15 @@
                 },
                 {
                     "id": "5951f5fca366002ebd5dbef7",
-                    "name": "Ghost",
-                    "email": "ghost-author@example.com",
+                    "name": "THajas",
+                    "email": "",
                     "status": "active",
                     "roles": ["Author"],
-                    "twitter": "tryghost",
-                    "facebook": "ghost",
-                    "location": "The Internet",
-                    "website": "https://ghost.org",
-                    "bio": "You can delete this user to remove all the welcome posts",
+                    "twitter": "",
+                    "facebook": "",
+                    "location": "Ashenland",
+                    "website": "https://hajas.azurewebsites.net/",
+                    "bio": "Hello there!",
                     "profile_image": "https://static.ghost.org/v2.0.0/images/ghost.png"
                 }
             ]
