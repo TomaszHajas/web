@@ -202,6 +202,7 @@
 		}
 	}
 	
+	console.log("templatexxx: ");
 	if(paramTemplate != ""){
 		console.log("template0: "+paramTemplate);
 		var decodedTemplate = decodeURIComponent(paramTemplate);
