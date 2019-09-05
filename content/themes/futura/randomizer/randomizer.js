@@ -221,6 +221,7 @@
     		templateReq.send(null);
 		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
+		document.getElementsByName("template")[0].value = randomTemplate;
 		document.getElementById("random").innerHTML = random(randomTemplate);
 		/*
 		random(randomTemplate).then(function(result){
