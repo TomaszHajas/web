@@ -15,16 +15,13 @@
        		return(false);
 	}
 	
-	/*
+	
 	var paramTemplate = getQueryVariable("template");
 	var paramSeed = getQueryVariable("seed");
 	if((paramTemplate === "" || paramTemplate == false) && (paramSeed == false || paramSeed === "")){
 		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+Math.random()*9000000);
 		javascript:window.location.href=address;
 	}
-	*/
-
-
 	
 	function getRandomNumber(){
 		paramSeed = (paramSeed * 9301 + 49297) % 233280;
