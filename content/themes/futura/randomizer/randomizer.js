@@ -206,13 +206,14 @@
 	}
 	
 	if(paramTemplate != ""){
+		console.log("template0: "+paramTemplate);
 		var decodedTemplate = decodeURIComponent(paramTemplate);
 		/*
 		random(decodedTemplate).then(function(result){
 			document.getElementById("random").innerHTML = result;
 		});
 		*/
-		console.log(decodedTemplate);
+		console.log("template1: "+decodedTemplate);
 		document.getElementById("random").innerHTML = random(decodedTemplate);
 		document.getElementsByName("template")[0].value = decodedTemplate;
 	}else{
@@ -222,6 +223,7 @@
 		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
 		document.getElementsByName("template")[0].value = randomTemplate;
+		console.log("template3: "+randomTemplate);
 		document.getElementById("random").innerHTML = random(randomTemplate);
 		/*
 		random(randomTemplate).then(function(result){
