@@ -31,6 +31,17 @@
 		var address = '/randomizer/index.html'+"?seed="+parseInt(1000000+getRandomNumber()*9000000);
 		javascript:window.location.href=address;
 	}
+
+	function randomizeFromTemplate(){
+		var template = encodeURIComponent(document.getElementsByName("template")[0].value);
+		var address = '/randomizer/index.html'+"?template="+template+"&seed="+parseInt(1000000+getRandomNumber()*9000000);
+		javascript:window.location.href=address;
+	}
+
+	function randomizeCharacter(){
+		var address = '/randomizer/index.html'+"?template=&seed="+parseInt(1000000+getRandomNumber()*9000000);
+		javascript:window.location.href=address;
+	}
 	
 	function rollXYTimes(howMany, maxDieRoll){
 		var sum = 0;
