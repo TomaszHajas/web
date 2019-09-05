@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<head>
+	<style type="text/css">
+		@font-face {
+		  font-family: 'DiabloHeavy';
+		  src: url('DiabloHeavy.ttf')  format('truetype');
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		body {
+    		  font-family: 'DiabloHeavy';
+		  text-align: center;
+		  margin-left: auto;
+                  margin-right: auto;
+                  width: 40em;
+		}
+		input {
+		  font-family: 'DiabloHeavy';
+		}
+		button {
+		  font-family: 'DiabloHeavy';
+		}
+	</style>
+	<title>The Randomizer</title>
+</head>
+<body background="paper_background.jpg">
+	<p>Randomizer Panel</p>
+	<p id="random"></p>
+	<br>
+	<br>
+	<button onClick="randomize()" autofocus>Roll again!</button>
+	<br>
+	<br>
+	<form action="testTemplate.php" method="post">
+		Generate from template:
+		<br>
+		<input type="textarea" name="template" style="width:80%;" autocomplete="off" rows="3" cols="50" required><br>
+		<br>
+		<input type="submit">
+	</form>
+	<br>
+	<button onClick="javascript:window.location.href='/randomizer/templates/templates.txt'">View Templates</button>
+	
+<script type="text/javascript" src="randomizer.js"></script>
+
+</body>
