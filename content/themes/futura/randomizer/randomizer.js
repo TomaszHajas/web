@@ -34,7 +34,7 @@
 	}
 
 	function randomizeFromTemplate(){
-		var template = encodeURIComponent(document.getElementsByName("template")[0].value);
+		var template = encodeURIComponent(document.getElementById("template").value);
 		var address = '/randomizer/index.html'+"?template="+template+"&seed="+parseInt(1000000+getRandomNumber()*9000000);
 		javascript:window.location.href=address;
 	}
@@ -213,14 +213,14 @@
 		*/
 		console.log("template1: "+decodedTemplate);
 		document.getElementById("random").innerHTML = random(decodedTemplate);
-		document.getElementsByName("template")[0].value = decodedTemplate;
+		document.getElementById("template").value = decodedTemplate;
 	}else{
 		var templateReq = new XMLHttpRequest();
     		templateReq.open("GET", "templates/templates.txt", false); // 'false': synchronous.
     		templateReq.send(null);
 		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
-		document.getElementsByName("template")[0].value = randomTemplate;
+		document.getElementById("template").value = randomTemplate;
 		console.log("template3: "+randomTemplate);
 		document.getElementById("random").innerHTML = random(randomTemplate);
 		/*
