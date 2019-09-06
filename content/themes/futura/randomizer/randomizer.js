@@ -202,7 +202,6 @@
 		}
 	}
 	
-	console.log("templatexxx: ");
 	if(paramTemplate != ""){
 		console.log("template0: "+paramTemplate);
 		var decodedTemplate = decodeURIComponent(paramTemplate);
@@ -211,7 +210,6 @@
 			document.getElementById("random").innerHTML = result;
 		});
 		*/
-		console.log("template1: "+decodedTemplate);
 		document.getElementById("random").innerHTML = random(decodedTemplate);
 		document.getElementById("template").value = decodedTemplate;
 	}else{
@@ -221,7 +219,6 @@
 		var templates = templateReq.responseText;
 		randomTemplate = getRandomLine(templates);
 		document.getElementById("template").value = randomTemplate;
-		console.log("template3: "+randomTemplate);
 		document.getElementById("random").innerHTML = random(randomTemplate);
 		/*
 		random(randomTemplate).then(function(result){
