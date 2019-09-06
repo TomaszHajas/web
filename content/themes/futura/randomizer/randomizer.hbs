@@ -31,16 +31,14 @@
 	<p id="random"></p>
 	<br>
 	<br>
-	<button onClick="randomize()" autofocus>Roll again!</button>
+	<button onClick="randomize()" autofocus>Roll Again!</button>
 	<br>
 	<br>
-	<form action="testTemplate.php" method="post">
-		Generate from template:
-		<br>
-		<input type="textarea" name="template" style="width:80%;" autocomplete="off" rows="3" cols="50" required><br>
-		<br>
-		<input type="submit">
-	</form>
+	<input type="textarea" id="template" style="width:80%;" autocomplete="off" rows="3" cols="50" required>
+	<br>
+	<br>
+	<button onClick="randomizeFromTemplate()" autofocus>Reroll Template!</button>
+	<br>
 	<br>
 	<button onClick="javascript:window.location.href='/randomizer/templates/templates.txt'">View Templates</button>
 </body>
