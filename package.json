@@ -37,7 +37,8 @@
   },
   "engines": {
     "node": "^10.13.0",
-    "cli": "^1.9.0"
+    "cli": "^1.9.0",
+    "ghost-api": "v2"
   },
   "dependencies": {
     "@nexes/nql": "0.3.0",
