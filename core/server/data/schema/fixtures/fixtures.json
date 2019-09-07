@@ -18,6 +18,46 @@
                     "parent_id":        null,
                     "meta_title":       null,
                     "meta_description": null
+                },
+                {
+                    "name":             "Location",
+                    "slug":             "location",
+                    "description":      null,
+                    "parent_id":        null,
+                    "meta_title":       null,
+                    "meta_description": null
+                },
+                {
+                    "name":             "Item",
+                    "slug":             "item",
+                    "description":      null,
+                    "parent_id":        null,
+                    "meta_title":       null,
+                    "meta_description": null
+                },
+                {
+                    "name":             "Organization",
+                    "slug":             "organization",
+                    "description":      null,
+                    "parent_id":        null,
+                    "meta_title":       null,
+                    "meta_description": null
+                },
+                {
+                    "name":             "Deity",
+                    "slug":             "deity",
+                    "description":      null,
+                    "parent_id":        null,
+                    "meta_title":       null,
+                    "meta_description": null
+                },
+                {
+                    "name":             "Race",
+                    "slug":             "race",
+                    "description":      null,
+                    "parent_id":        null,
+                    "meta_title":       null,
+                    "meta_description": null
                 }
             ]
         },
@@ -792,7 +832,9 @@
                 "player-interview-alejandro": ["Player Interview"],
                 "player-interview-ratt": ["Player Interview"],
                 "player-interview-merpac": ["Player Interview"],
-                "player-interview-strangespeeder": ["Player Interview"]
+                "player-interview-strangespeeder": ["Player Interview"],
+                "kemono-islands": ["Location"],
+                "ketu": ["Location"]
             }
         },
         {
