@@ -43,7 +43,7 @@
 				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/mundane]|[object/magic]|[object/trinket]]");
 			break;
 			case "place":
-				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective]|][place/building]|[[place/area] with [place/adjective]|][place/natural]|[[place/area] with [place/adjective]|][place/structure]|[place/room][ inside [place/adjective] [place/building]|]]");
+				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective]|][place/building]|[[place/area] with [place/adjective] |][place/natural]|[[place/area] with [place/adjective ]|][place/structure]|[place/room][ inside [place/adjective] [place/building]|]]");
 			break;
 		}
 		var address = '/randomizer/index.html'+"?template="+template+"&seed="+parseInt(1000000+getRandomNumber()*9000000);
