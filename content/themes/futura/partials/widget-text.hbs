@@ -2,13 +2,13 @@
 <div class="widget">
 	<h4 class="title">Text Widget</h4>
 	<div class="content">
-		<p id="dateTime"></p>
+		<h1 id="dateTime"></h1>
 	</div>
 	<script>
 		var today = new Date();
-		var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
-		var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-		var dateTime = date+' '+time;
+		var date = today.getDate()+' '+today.toLocaleString('default', { month: 'long' })+' '+today.getFullYear();
+		var time = today.getHours() + ":" + today.getMinutes();
+		var dateTime = time + date;
 		document.getElementById("dateTime").innerHTML = dateTime;
 	</script>
 </div>
