@@ -92,7 +92,7 @@
             "defaultValue": "{}"
         },
         "navigation": {
-            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"Tag\", \"url\":\"/tag/getting-started/\"}, {\"label\":\"Author\", \"url\":\"/author/ghost/\"},{\"label\":\"Help\", \"url\":\"https://ghost.org/docs/\"}]"
+            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"Locations\", \"url\":\"/tag/location/\"}, {\"label\":\"Author\", \"url\":\"/author/thajas/\"}]"
         },
         "slack": {
             "defaultValue": ""
