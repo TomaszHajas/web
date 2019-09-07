@@ -18,7 +18,7 @@
     },
     "blog": {
         "title": {
-            "defaultValue": "Ghost",
+            "defaultValue": "World of Ashenland",
             "validations": {
                 "isLength": {
                     "max": 150
@@ -26,7 +26,7 @@
             }
         },
         "description": {
-            "defaultValue": "The professional publishing platform",
+            "defaultValue": "Yet another campaign blog",
             "validations": {
                 "isLength": {
                     "max": 200
@@ -37,7 +37,7 @@
             "defaultValue": "https://svgshare.com/i/Ekm.svg"
         },
         "cover_image": {
-            "defaultValue": "https://vignette.wikia.nocookie.net/smashverse/images/f/ff/Volcona.jpg"
+            "defaultValue": "https://www.pixelstalk.net/wp-content/uploads/2016/11/Fantasy-Art-Backgrounds.png"
         },
         "icon": {
             "defaultValue": ""
