@@ -817,13 +817,6 @@
                 "match": "name"
             },
             "entries": {
-                "themes": ["Getting Started"],
-                "apps-integrations": ["Getting Started"],
-                "organising-content": ["Getting Started"],
-                "admin-settings": ["Getting Started"],
-                "publishing-options": ["Getting Started"],
-                "the-editor": ["Getting Started"],
-                "welcome": ["Getting Started"],
                 "player-interview-darren": ["Player Interview"],
                 "player-interview-laura": ["Player Interview"],
                 "player-interview-petya": ["Player Interview"],
