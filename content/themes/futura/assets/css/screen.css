@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto Slab', serif;
+  font-family: '1529-Champ-Fleury', sans-serif;
   font-weight: 400;
   color: #303030;
 }
@@ -116,7 +116,7 @@ textarea:focus {
 }
 blockquote {
   border-left: 4px solid #00ada7;
-  font-family: 'Roboto Slab', serif;
+  font-family: '1529-Champ-Fleury', sans-serif;
   font-style: italic;
 }
 pre {
@@ -147,7 +147,7 @@ pre {
 }
 .main-header .branding {
   font-size: 3.5em;
-  font-family: 'Roboto Slab', serif;
+  font-family: '1529-Champ-Fleury', sans-serif;
   color: #303030;
 }
 .main-header .branding:hover {
@@ -185,7 +185,7 @@ pre {
   line-height: 4em;
   display: block;
   padding: 0 21px;
-  font-family: 'Roboto Slab', serif;
+  font-family: '1529-Champ-Fleury', sans-serif;
 }
 .main-navigation .menu li:hover > a {
   color: #00ada7;
@@ -522,7 +522,7 @@ pre {
 }
 .widget .recent-post .recent-single-post .post-title {
   color: #505050;
-  font-family: 'Roboto Slab', serif;
+  font-family: '1529-Champ-Fleury', sans-serif;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
