@@ -2,14 +2,15 @@
 <div class="widget">
 	<h4 class="title">GMT+2 Time</h4>
 	<div class="content">
-		<h4 id="dateTime"></h4>
+		<h4 id="date"></h4>
+		<h4 id="time"></h4>
 	</div>
 	<script>
 		var today = new Date();
 		var date = today.getDate()+' '+today.toLocaleString('default', { month: 'long' })+' '+today.getFullYear();
 		var time = today.getHours() + ":" + today.getMinutes();
-		var dateTime = time + " " + date;
-		document.getElementById("dateTime").innerHTML = dateTime;
+		document.getElementById("date").innerHTML = date;
+		document.getElementById("time").innerHTML = time;
 	</script>
 </div>
 <!-- end widget -->
