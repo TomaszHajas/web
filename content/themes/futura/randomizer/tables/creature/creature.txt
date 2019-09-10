@@ -1549,3 +1549,9 @@ Vampire Warlock (ToB)
 Vampire Warrior
 Zorak Lightdrinker
 Atropal
+Skeletal Juggernaut
+Skeletal Alchemist
+Drowned Master
+Drowned Blade
+Drowned Assassin
+Drowned Ascetic
