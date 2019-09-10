@@ -365,6 +365,7 @@ Shabti (ToB)
 Shield Guardian
 Shockerstomper
 Skaab
+Skull Flier
 Smaragdine Golem (ToB)
 Spider Thief (ToB)
 Spiked Tomb Guardian
@@ -543,6 +544,7 @@ Sathaq Worm (ToB)
 Slow Storm (ToB)
 Smoke Mephit
 Spark (ToB)
+Statue of Talos
 Steam Mephit
 Thuellai (ToB)
 Water Elemental
@@ -1452,6 +1454,7 @@ Ghast
 Ghost
 Ghost Knight (ToB)
 Ghoul
+Giant Shark Skeleton
 Giant Skeleton
 Giganotosaurus Zombie (AL)
 Girallon Zombie
