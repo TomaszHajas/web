@@ -53,6 +53,7 @@ Sathaq Worm (ToB)
 Slow Storm (ToB)
 Smoke Mephit
 Spark (ToB)
+Statue of Talos
 Steam Mephit
 Thuellai (ToB)
 Water Elemental
