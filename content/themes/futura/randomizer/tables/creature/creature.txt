@@ -66,6 +66,7 @@ Mamura (ToB)
 Death Slaad
 Gray Slaad
 Green Slaad
+Skum
 Allosaurus
 Almiraj
 Ammit
@@ -257,6 +258,11 @@ Ychen Bannog (ToB)
 Young Spinosaurus (ToB)
 Zanskaran Viper (ToB)
 Zealoraptor (AL)
+Sahuagin Hatchling Swarm
+Giant White Moray Eel
+Giant Sea Eel
+Giant Coral Snake
+Fish
 Andrenjinyi (ToB)
 Angel of Amonkhet
 Archon Of Redemption
@@ -387,6 +393,9 @@ Witchlight (ToB)
 Xanka (ToB)
 Clockwork Abomination (ToB)
 Marut
+Vampiric Jade Statue
+Minotaur Living Crystal Statue
+Living Iron Statue
 Adult Amonkhet Dragon
 Adult Black Dragon
 Adult Blue Dragon
@@ -1134,6 +1143,30 @@ Xvart Warlock of Raxivort
 Yuan-Ti Broodling (AL)
 Yuan-ti Broodguard
 Yuan-ti Pureblood
+Sahuagin Wave Shaper
+Sahuagin High Priestess
+Sahuagin Deep Diver
+Sahuagin Coral Smasher
+Sahuagin Champion
+Sahuagin Blademaster
+Merfolk Scout
+Merfolk Salvager
+Locathah Hunter
+Locathah
+Lizardfolk Subchief
+Lizardfolk Scaleshield
+Lizardfolk Render
+Lizardfolk Commoner
+Sanbalet
+Rip Tide Priest
+Koalinth Sergeant
+Koalinth
+Bullywug Royal
+Bullywug Croaker
+Pirate First Mate
+Pirate Deck Wizard
+Pirate Captain
+Pirate Bosun
 Abominable Yeti
 Adult Kruthik
 Aldani (Lobsterfolk)
@@ -1300,6 +1333,12 @@ Elder Dinosaur (Zetalpa, Primal Dawn)
 Kraken
 Tarrasque
 Zaratan (ToB)
+Juvenile Kraken
+Shell Shark
+Monstrous Peryton
+Maw of Sekolah
+Harpy Matriarch
+Amphisbaena
 Adult Oblex
 Black Pudding
 Corrupting Ooze (ToB)
@@ -1555,3 +1594,4 @@ Drowned Master
 Drowned Blade
 Drowned Assassin
 Drowned Ascetic
+Skeletal Swarm
