@@ -92,7 +92,7 @@
             "defaultValue": "{}"
         },
         "navigation": {
-            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"Locations\", \"url\":\"/tag/location/\"}, {\"label\":\"Author\", \"url\":\"/author/thajas/\"}]"
+            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"Randomizer\", \"url\":\"/randomizer/\"},{\"label\":\"Locations\", \"url\":\"/tag/location/\"}, {\"label\":\"Author\", \"url\":\"/author/thajas/\"}]"
         },
         "slack": {
             "defaultValue": ""
