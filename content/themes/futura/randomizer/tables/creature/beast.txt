@@ -101,6 +101,7 @@ Gremlin
 Hadrosaurus
 Haungharassk
 Hawk
+Hellwasp Grub
 Hippopotamus
 Huge Giant Crab
 Hulking Crab
@@ -134,6 +135,7 @@ Owl
 Ox
 Pachycephalosaurus (AL)
 Panther
+Peacock
 Plesiosaurus
 Poisonous Snake
 Polar Bear
