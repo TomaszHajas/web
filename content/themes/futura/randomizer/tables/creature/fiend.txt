@@ -1,3 +1,4 @@
+Abyssal Chicken
 Cambion
 Cambium (ToB)
 Devourer
@@ -9,6 +10,7 @@ Howler
 Kalke (ToB)
 Koschei (ToB)
 Larva
+Hellwasp
 Night Hag
 Nightmare
 Rakshasa
