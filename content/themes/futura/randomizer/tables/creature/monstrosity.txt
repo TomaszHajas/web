@@ -165,3 +165,7 @@ Kraken
 Tarrasque
 Zaratan (ToB)
 Cobbleswarm (ToB)
+Bone Whelk
+Necrotic Centipede
+Tressym
+Young Kraken
