@@ -170,6 +170,7 @@ Gremlin
 Hadrosaurus
 Haungharassk
 Hawk
+Hellwasp Grub
 Hippopotamus
 Huge Giant Crab
 Hulking Crab
@@ -203,6 +204,7 @@ Owl
 Ox
 Pachycephalosaurus (AL)
 Panther
+Peacock
 Plesiosaurus
 Poisonous Snake
 Polar Bear
@@ -278,6 +280,7 @@ Felidar
 Fidele Angel (ToB)
 Firebird (ToB)
 Firemane Angel
+Hollyphant
 Hundun (ToB)
 Ki-rin
 Pegasus
@@ -330,7 +333,9 @@ Empty Cloak (ToB)
 Eye Golem (ToB)
 Fellforged (ToB)
 Feyward Tree (ToB)
+Fiendish Flesh Golem
 Flesh Golem
+Flying Dagger
 Flying Staff
 Flying Sword
 Gnarljak (ToB)
@@ -724,6 +729,7 @@ Tanarukk
 Graz'zt
 Graz'zt
 Yochlol
+Abyssal Chicken
 Amnizu
 Arbeyach, Prince of Swarms (ToB)
 Automata Devil (ToB)
@@ -740,6 +746,7 @@ Erinyes
 Geryon
 Gilded Devil (ToB)
 Green Abishai
+Hellwasp
 Horned Devil
 Hutijin
 Ice Devil
@@ -920,8 +927,10 @@ Warlock of the Fiend
 Warlock of the Great Old One
 Warlord
 Bearfolk (ToB)
+Black Gauntlet of Bane
 Bullywug
 Burrowling (ToB)
+Death's Head of Bhaal
 Derro
 Derro
 Derro Savant
@@ -974,6 +983,7 @@ Soul Monger
 Erina Defender (ToB)
 Erina Scrounger (ToB)
 Einherjar (ToB)
+Fist of Bane
 Pine Wilden Ranger (AL)
 Pine Wilden Warrior (AL)
 Willow Wilden Sentinel (AL)
@@ -1005,12 +1015,18 @@ Bugbear Chief
 Dust Goblin (ToB)
 Goblin
 Goblin Boss
-Goblin Gang MemberKKW
+Goblin Gang Member
 Hobgoblin
 Hobgoblin Captain
 Hobgoblin Devastator
 Hobgoblin Iron Shadow
 Hobgoblin Warlord
+Iron Consul
+Master of Souls
+Necromite of Myrkul
+Night Blade
+Reaper of Bhaal
+Skull Lasher of Myrkul
 Nilbog
 Grimlock
 Grung
@@ -1239,6 +1255,10 @@ Kamadan
 Kot Bayun (ToB)
 Krake Spawn (ToB)
 Kraken
+Young Kraken
+Tressym
+Necrotic Centipede
+Bone Whelk
 Kruthik Hive Lord
 Lamia
 Leshy (ToB)
@@ -1435,6 +1455,7 @@ Ia'Affrat the Insatiable (ToB)
 Cobbleswarm (ToB)
 Bone Swarm (ToB)
 Swarm Of Nemicolopterus Zombies (AL)
+Skeletal Rats
 Accursed Defiler (ToB)
 Acererak Demilich
 Adult Blue Dracolich
@@ -1481,6 +1502,8 @@ Dimetrodon Zombie (AL)
 Dissimortuum (ToB)
 Dread Warrior
 Drowned Maiden (ToB)
+Dryad Spirit
+Undead Tree
 Edimmu (ToB)
 Eidolon
 Emperor of the Ghouls (ToB)
