@@ -62,6 +62,7 @@ Still room
 Spice room
 Great room
 Treasury
+Trove
 Furnace room
 Lumber room
 Hearth room
