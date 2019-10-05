@@ -58,6 +58,9 @@ Port
 Watermill
 Shop
 Marketplace
+Stockpile
+Treasury
+Trove
 Granary
 Hospital
 Asylum
