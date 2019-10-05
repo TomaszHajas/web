@@ -121,6 +121,8 @@ Stegosaurus Zombie (AL)
 Strahd Zombie
 Sword Wraith Commander
 Sword Wraith Warrior
+Undead Tree
+Dryad Spirit
 Therizinosaurus Zombie (AL)
 Thunderbeast Skeleton
 Titanosaurus Zombie (AL)
@@ -153,4 +155,5 @@ Zorak Lightdrinker
 Atropal
 Bone Swarm (ToB)
 Swarm Of Nemicolopterus Zombies (AL)
+Skeletal Rats
 Wolf Spirit Swarm (ToB)
