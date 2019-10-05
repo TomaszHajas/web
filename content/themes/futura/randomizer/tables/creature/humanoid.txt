@@ -185,6 +185,15 @@ Hobgoblin Captain
 Hobgoblin Devastator
 Hobgoblin Iron Shadow
 Hobgoblin Warlord
+Black Gauntlet of Bane
+Death's Head of Bhaal
+Fist of Bane
+Iron Consul
+Master of Souls
+Necromite of Myrkul
+Night Blade
+Reaper of Bhaal
+Skull Lasher of Myrkul
 Nilbog
 Grimlock
 Grung
