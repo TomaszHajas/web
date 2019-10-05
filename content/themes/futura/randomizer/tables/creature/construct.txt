@@ -36,6 +36,8 @@ Eye Golem (ToB)
 Fellforged (ToB)
 Feyward Tree (ToB)
 Flesh Golem
+Fiendish Flesh Golem
+Flying Dagger
 Flying Staff
 Flying Sword
 Gnarljak (ToB)
