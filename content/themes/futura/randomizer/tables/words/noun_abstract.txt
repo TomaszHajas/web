@@ -141,6 +141,7 @@ Difference
 Diligence
 Diplomacy
 Disadvantage
+Disapproval
 Disarray
 Discretion
 Discrimination
