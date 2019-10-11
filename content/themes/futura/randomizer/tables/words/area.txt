@@ -1,0 +1,218 @@
+Town
+District
+City
+Village
+Borough
+Bailwick
+County
+Duchy
+Province
+Land
+Site
+Ruins
+Plain
+Field
+Grassland
+Meadow
+Forest
+Woods
+Grove
+Orchard
+Woodland
+Swamp
+Mire
+Marsh
+Peatbog
+Bog
+Wetland
+Rainforest
+Jungle
+Thicket
+Taiga
+Tundra
+Barrens
+Plateau
+Badlands
+Wasteland
+Shrubland
+Moor
+Desert
+Sands
+Oasis
+Savanna
+Ocean
+Sea
+Gulf
+Bay
+Cove
+Lagoon
+Island
+Islet
+Archipelago
+Lake
+Pond
+Channel
+Cape
+Peninsula
+Cliff
+Fjord
+Coast
+Reef
+Beach
+Shore
+River
+Waterfall
+Meander
+Stream
+Brook
+Ford
+Spring
+Mountain
+Peak
+Summit
+Tor
+Rock
+Pass
+Ridge
+Hill
+Hillock
+Slope
+Flat
+Valley
+Canyon
+Ravine
+Trench
+Tunnel
+Cave
+Grotto
+Pit
+Rift
+Sinkhole
+Glacier
+Iceberg
+Crater
+Volcano
+Caldera
+Geyser
+Anchialine pool
+Atoll
+Avulsion
+Ayre
+Barrier island
+Baymouth bar
+Bight
+Bodden
+Brackish marsh
+Coastal plain
+Coastal waterfall
+Continental margin
+Continental shelf
+Coral reef
+Dune cliff-top
+Estuary
+Firth
+Fjard
+Förde
+Freshwater marsh
+Fundus
+Gat
+Geo
+Gut
+Headland
+Inlet
+Intertidal wetland
+Isthmus
+Machair
+Marine terrace
+Mega delta
+Mouth bar
+Mudflat
+Natural arch
+Regressive delta
+Ria
+River delta
+Salt marsh
+Shoal
+Skerry
+Sound
+Spit
+Stack
+Strait
+Strand plain
+Submarine canyon
+Tidal island
+Tidal marsh
+Tide pool
+Tied island
+Tombolo
+Windwatt
+Table
+Mountain range
+Ice sheet
+Steppe
+Alluvial fan
+Floodplain
+Levee
+Rapids
+River mouth
+River valley
+Arête
+Cirque
+Esker
+Ice field
+Tunnel valley
+High island
+Mid-ocean ridge
+Oceanic trench
+Seamount
+Crater lake
+Lava dome
+Lava field
+Lava plateau
+Submarine volcano
+Volcanic crater
+Volcanic plug
+Wall rock
+Dry lake
+Dune
+Sandhill
+Artificial island
+Artificial reef
+Bridge
+Building
+Canal
+Dam
+Ditch
+Land reclamation
+Polder
+Quarry
+Reservoir
+Road
+Coniferous forest
+Moist broadleaf forest
+Dry broadleaf forest
+Savannah
+Broadleaf forest
+Mixed forest
+Deciduous forest
+Montane grassland
+Montane shrubland
+Endolithic zone
+Prairie
+Aspen parkland
+Littoral
+Intertidal
+Kelp forest
+Neritic zone
+Pelagic zone
+Benthic zone
+Hydrothermal vent
+Cold seep
+Demersal zone
+Flooded grassland
+Flooded savannah
+Riparian
+Mangrove
+Woodlands
+Scrub
+Xeric shrubland
