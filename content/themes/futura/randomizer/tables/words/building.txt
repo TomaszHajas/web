@@ -32,7 +32,6 @@ Colloseum
 Basilica
 Circus
 Forum
-Alcove
 Temple
 Shrine
 Chapel
