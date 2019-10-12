@@ -1,3 +1,69 @@
+Archive
+College
+School
+University
+Nursery school
+Civic
+Arena
+Library
+Mudhif
+Museums
+Community hall
+Church
+Basilica
+Cathedral
+Duomo
+Chapel
+Oratory
+Martyrium
+Mosque
+Mihrab
+Surau
+Imambargah
+Monastery
+Mithraeum
+Shrine
+Synagogue
+Temple
+Pagoda
+Gurdwara
+City hall
+Consulate
+Courthouse
+Embassy
+Fire station
+Meeting house
+Moot hall
+Parliament house
+Police station
+Post office
+Assembly
+Arsenal
+Barracks
+Bunker
+Blockhouse
+Citadel
+Missile launch facility
+Airport terminal
+Bus station
+Metro station
+Taxi station
+Railway station
+Signal box
+Lighthouse
+Shipyard
+Space port
+Hovercraft
+Ferry terminal
+Cruise terminal
+Boathouse
+Parking garage
+Hangar
+Bathhouse
+Film studio
+Gym
+Folly
+Aul
 Fort
 Fortress
 Palace
@@ -7,7 +73,6 @@ Tower
 Turret
 Watchtower
 Gatehouse
-Barracks
 Armory
 Villa
 Shack
@@ -23,20 +88,11 @@ Outpost
 Pavillon
 Amphitheatre
 Bath
-Arena
 Fightclub
 Theatre
-University
-Library
 Colloseum
-Basilica
 Circus
 Forum
-Temple
-Shrine
-Chapel
-Church
-Cathedral
 Sanctuary
 Cementary
 Barrow
@@ -51,7 +107,6 @@ Court
 Mine
 Quarry
 Shaft
-Lighthouse
 Harbor
 Port
 Watermill
@@ -82,8 +137,6 @@ Bakery
 Brewery
 Frame
 Abbey
-Hangar
-Airport terminal
 Amphitheater
 Apartment
 Aqueduct
@@ -91,10 +144,8 @@ Arch
 Assembly hall
 Barn
 Boarding house
-Boathouse
 Bridge
 Bungalow
-Bunker
 Bunkhouse
 Cabana
 Capitol
@@ -103,14 +154,11 @@ Catacomb
 Chalet
 Chateau
 Cinema
-City hall
 Clubhouse
-College
 Compound
 Concert hall
 Condominium
 Conservatory
-Courthouse
 Depot
 Detached house
 Dock
@@ -120,16 +168,12 @@ Double wide house
 Duplex
 Dwelling
 Earth-sheltered house
-Embassy
 Exposition hall
 Factory
 Farm
 Farmhouse
 Ferry slip
-Ferry terminal
-Fire station
 Firehouse
-Folly
 Forge
 Foundry
 Gallery
@@ -138,7 +182,6 @@ Gas station
 Gazebo
 Geodesic dome
 Greenhouse
-Gym
 Gymnasium
 Hall
 Haunted house
@@ -166,9 +209,7 @@ Mausoleum
 Meeting hall
 Minaret
 Mobile home
-Monastery
 Monument
-Mosque
 Motel
 Museum
 Nursing home
@@ -177,20 +218,15 @@ Office building
 Opera house
 Outbuilding
 Outhouse
-Pagoda
-Parking garage
 Parliament
 Pavilion
 Plant
 Playhouse
-Police station
 Pool house
-Post office
 Power plant
 Prefab building
 Pump house
 Quonset hut
-Railway station
 Ranch
 Rectory
 Refinery
@@ -199,7 +235,6 @@ Restaurant
 Roller rink
 Roundhouse
 Rowhouse
-School
 Shed
 Shelter
 Shopping center
@@ -222,7 +257,6 @@ Structure
 Studio
 Supermarket
 Symphony
-Synagogue
 Tenement
 Terminal
 Theater
