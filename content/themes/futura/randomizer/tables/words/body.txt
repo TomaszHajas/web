@@ -477,3 +477,6 @@ Frowning
 Smiling
 Neutral-faced
 Poker-faced
+Unbound
+Capable
+Mobile
