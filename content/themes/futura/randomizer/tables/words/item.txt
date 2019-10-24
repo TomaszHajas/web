@@ -303,3 +303,11 @@ Optical disc
 Floppy disk
 Memory card
 USB flash drive
+Camera
+Smartphone
+Lens
+Glasses
+Thermovision goggles
+Spike strip
+Car wheel
+Key
