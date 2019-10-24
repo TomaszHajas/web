@@ -259,3 +259,47 @@ Keg
 Pouch
 Sachet
 Thermal bag
+Drum
+Harp
+Castanets
+Triangle
+Horn
+Air horn
+Bagpipe
+Clarinet
+Trumpet
+Flute
+Harmonica
+Oboe
+Ocarina
+Pan flute
+Saxophone
+Trombone
+Trombone
+Harp
+Lute
+Banjo
+Ukulele
+Guitar
+Mandolin
+Violin
+Viol
+Music box
+Synthesizer
+Sampler
+Musical keyboard
+Computer keyboard
+Computer mouse
+Laptop
+Cord
+Cable
+Tablet
+Microphone
+Megaphone
+Computer monitor
+Printer
+Computer speaker
+Optical disc
+Floppy disk
+Memory card
+USB flash drive
