@@ -13,6 +13,7 @@ Set square
 Try square
 Stencil
 Tape measure
+Hourglass
 
 Hob
 Welder
@@ -173,7 +174,6 @@ Candle
 Solar charger
 Life jacket
 Fire extinguisher
-Bucket
 Lantern
 GPS device
 Desalination kit
@@ -197,3 +197,65 @@ Bolt
 Screw
 Goggles
 Cell phone
+Peeler
+Bottle opener
+Bowl
+Pot
+Sieve
+Cleaver
+Colander
+Cookie cutter
+Corkscrew
+Cutting board
+Funnel
+Herb chopper
+Ladle
+Measuring cup
+Cup
+Spoon
+Meat grinder
+Meat mallet
+Mortar and pestle
+Nutcracker
+Oven glove
+Pepper mill
+Pizza cutter
+Potato masher
+Rolling pin
+Salt shaker
+Scoop
+Spatula
+Tin opener
+Tongs
+Twine
+Fork
+Napkin
+Chopsticks
+Skewer
+Toothpick
+Drinking straw
+Glass
+Tankard
+Chalice
+Mug
+Jar
+Jug
+Vase
+Bong
+Pitcher
+Bottle
+Can
+Vial
+Ampoule
+Bag
+Barrel
+Box
+Cage
+Case
+Carton
+Crate
+Envelope
+Keg
+Pouch
+Sachet
+Thermal bag
