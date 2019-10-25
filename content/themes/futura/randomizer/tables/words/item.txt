@@ -313,8 +313,15 @@ Memory card
 USB flash drive
 Camera
 Smartphone
+Calculator
+Abacus
+Covert listening device
 Lens
 Glasses
+Telescope
+Magnifying glass
+Microscope
+Binoculars
 Thermovision goggles
 Spike strip
 Car wheel
