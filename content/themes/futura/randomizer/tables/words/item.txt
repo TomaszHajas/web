@@ -362,3 +362,79 @@ Multiplane
 Hot air baloon
 Airship
 Spacecraft
+Assault rifle
+Pistol
+Revolver
+Submachine gun
+Carbine
+Shotgun
+Bolt-action rifle
+Sniper rifle
+Machine gun
+Ammo clip
+Ammo round
+Grenade launcher
+Grenade
+Grenade clip
+Flamethrower
+Gas can
+Gas canister
+Sword
+Dagger
+Kama
+War hammer
+Halberd
+Spear
+War scythe
+Club
+Mace
+Baton
+Stick
+Staff
+Javelin
+Tonfa
+Brass knuckles
+Stun gun
+Bow
+Arrow
+Crossbow
+Crossbow bolt
+Blowgun
+Chakram
+Shuriken
+Sling
+Taser
+Whip
+Flail
+Pepper spray
+Shield
+Buckler
+Kevlar
+Plate armor
+Leather armor
+Chain mail
+Scale mail
+Breastplate
+Baseball ball
+Baseball bat
+Basketball ball
+Soccer ball
+Boxing gloves
+Hockey stick
+Cricket bat
+Golf ball
+Golf club
+Hockey helmet
+Hockey puck
+Rugby ball
+Tennis ball
+Building blocks
+Doll
+Teddy bear
+Toy car
+Toy boat
+Toy aeroplane
+Puzzle
+Rubik's Cube
+Chess box
+Playing cards
