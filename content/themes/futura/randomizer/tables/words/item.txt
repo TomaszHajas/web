@@ -313,6 +313,10 @@ Memory card
 USB flash drive
 Camera
 Smartphone
+Replicator
+Teleporter
+Drone
+Microchip
 Calculator
 Abacus
 Covert listening device
@@ -413,6 +417,7 @@ Sling
 Taser
 Whip
 Flail
+Lightsaber
 Pepper spray
 Shield
 Buckler
@@ -422,6 +427,7 @@ Leather armor
 Chain mail
 Scale mail
 Breastplate
+Power armor
 Baseball ball
 Baseball bat
 Basketball ball
