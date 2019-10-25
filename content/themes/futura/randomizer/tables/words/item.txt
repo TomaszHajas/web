@@ -451,3 +451,29 @@ Puzzle
 Rubik's Cube
 Chess box
 Playing cards
+Bleach
+Detergent
+Washboard
+Clothes hanger
+Clothes iron
+Soap
+Toothpaste
+Toothbrush
+Antibiotic
+Antiseptic
+Cough medicine
+Vitamins
+Laxative
+Antidepressant
+Depressant
+Antifungal
+Antiviral
+Anticancer agent
+Stimulant
+Hallucinogen
+Neurotoxin
+Sedative
+Muscle relaxant
+Vaccine
+Anesthetics
+Painkiller
