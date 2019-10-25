@@ -14,7 +14,15 @@ Try square
 Stencil
 Tape measure
 Hourglass
-
+Lock
+Chain
+Belt
+String
+Ball bearing
+Block and tackle
+Gear
+Plunger
+Wedge
 Hob
 Welder
 Blade
@@ -311,3 +319,46 @@ Thermovision goggles
 Spike strip
 Car wheel
 Key
+Motorcycle
+Car
+Off-road car
+Bus
+Sports car
+Motor glider
+Motorboat
+Snowmobile
+Truck
+Van
+Tractor
+Bulldozer
+Excavator
+Tank
+Train
+Wagon
+Carriage
+Bicycle
+Wheelchair
+Skates
+Ice skates
+Skateboard
+Scooter
+Hoverboard
+Cart
+Skis
+Ski poles
+Sled
+Snowboard
+Snowshoes
+Canoe
+Paddle
+Surfboard
+Boat
+Hang glider
+Hovercraft
+Helicopter
+Ornithopter
+Biplane
+Multiplane
+Hot air baloon
+Airship
+Spacecraft
