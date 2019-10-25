@@ -477,3 +477,10 @@ Muscle relaxant
 Vaccine
 Anesthetics
 Painkiller
+Cannabis
+Cocaine
+Ecstasy
+Heroin
+Inhalant
+Ketamine
+Methamphetamine
