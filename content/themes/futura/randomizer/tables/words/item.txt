@@ -76,6 +76,7 @@ Pitchfork
 Pruning shears
 Rake
 Axe
+Adze
 Hoe
 Garden hose
 Chainsaw
@@ -430,7 +431,7 @@ Lightsaber
 Pepper spray
 Shield
 Buckler
-Kevlar
+Kevlar vest
 Plate armor
 Leather armor
 Chain mail
@@ -662,6 +663,7 @@ Hood
 Kerchief
 Turban
 Veil
+Vest
 Band
 Choker
 Clerical collar
@@ -727,6 +729,8 @@ Sash
 Wallet
 Glue
 Oil
+Coal
+Ash
 Branch
 Twig
 Ice
@@ -746,10 +750,74 @@ Granite
 Slate
 Marble
 Diorite
-Wood
+Amphibole
+Bridgmanite
+Orthoclase
+Mica
+Olivine
+Plagioclase
+Pyroxene
+Quartz
+Spinel
+Gemstone
+Diamond
+Ruby
+Sapphire
+Alexandrite
+Pearl
+Dematoid
+Tsavorite
+Opal
+Tanzanite
+Aquamarine
+Topaz
+Rubellite
+Tourmaline
+Indicolite
+Beryl
+Topaz
+Peridot
+Garnet
+Rhodolite
+Almandine
+Pyrope
+Amethyst
+Citrine
+Turquoise
+Lazurite
+Jadeite
+Nephrite
+Malachite
+Amber
+Chrysophrase
+Charoite
+Agate
+Amazonite
+Rhodonite
+Hematite
+Jasper
+Petrified wood
+Onyx
+Obsidian
+Jet
+Selenite
+Fluorite
+Aventurine
+Ophicalcite
 Timber
-Oakwood
-Pinewood
+Wood
+Yew wood
+Pine wood
+Spruce wood
+Oak wood
+Maple wood
+Walnut wood
+Poplar wood
+Alder wood
+Ash wood
+Mahongany wood
+Bark
+Bamboo
 Brick
 Terracotta
 Paper
@@ -758,15 +826,114 @@ Fabric
 Polystyrene foam
 Bulletproof glass
 Metal
-Steel
-Iron
-Carbon
-Copper
-Tin
+Lithium
+Beryllium
+Sodium
+Magnesium
 Aluminum
-Chrome
-Gold
-Silver
+Potassium
+Calcium
+Scandium
 Titanium
+Vanadium
+Chromium
+Manganese
+Iron
+Cobalt
+Nickel
+Copper
+Zinc
+Gallium
+Rubidium
+Strontium
+Yttrium
+Zirconium
+Niobium
+Molybdenum
+Technetium
+Ruthenium
+Rhodium
+Palladium
+Silver
+Cadmium
+Indium
+Tin
+Cesium
+Barium
+Lanthanum
+Cerium
+Praseodymium
+Neodymium
+Promethium
+Samarium
+Europium
+Gadolinium
+Terbium
+Dysprosium
+Holmium
+Erbium
+Thulium
+Ytterbium
+Lutetium
+Hafnium
+Tantalum
+Tungsten
+Rhenium
+Osmium
+Iridium
+Platinum
+Gold
+Mercury
+Thallium
+Lead
+Bismuth
+Polonium
+Francium
+Radium
+Actinium
+Thorium
+Protactinium
+Uranium
+Neptunium
+Plutonium
+Americium
+Curium
+Berkelium
+Californium
+Einsteinium
+Fermium
+Mendelevium
+Nobelium
+Lawrencium
+Rutherfordium
+Dubnium
+Seaborgium
+Bohrium
+Hassium
+Meitnerium
+Darmstadtium
+Roentgenium
+Copernicium
+Nihonium
+Flerovium
+Moscovium
+Livermorium
 Ceramic
 Plastic
+Cotton
+Fur
+Linen
+Silk
+Wool
+Artificial leather
+Elastomer
+Nylon
+Polyester
+Spandex
+Hide
+Leather
+Skin
+Asbestos
+Kevlar
+Felt
+Yarn
