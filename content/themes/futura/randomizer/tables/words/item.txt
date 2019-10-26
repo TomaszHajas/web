@@ -171,6 +171,7 @@ Laser pointer
 Pen
 Pencil
 Watch
+Pocket watch
 Clock
 Map
 Chart
@@ -625,3 +626,74 @@ Crab meat
 Shrimp meat
 Seafood
 Minced meat
+Beret
+Cap
+Hat
+Helmet
+Hood
+Kerchief
+TUrban
+Veil
+Band
+Choker
+Clerical collar
+Cravat
+Necktie
+Scarf
+Blouse
+Shirt
+Sweater
+Waistcoat
+Cargo pants
+Chaps
+Jeans
+Shorts
+Sweatpants
+Yoga pants
+Dress
+Costume
+Jumpsuit
+Uniform
+Hazamat suit
+Space suit
+Wedding dress
+Skirt
+Bra
+Undershirt
+Diaper
+Leggins
+Panties
+Underpants
+Duster
+Cloak
+Raincoat
+Jacket
+Apron
+Cape
+Mantle
+Lab coat
+Parka
+Poncho
+Robe
+Nightgown
+Nightshirt
+Pajamas
+Bikini
+Boots
+Shoes
+Flip-flops
+Sandals
+Slippers
+Sneakers
+Socks
+Stockings
+Tights
+Belt
+Purse
+Gaiters
+Gloves
+Headband
+Handbag
+Muff
+Sash
+Wallet
