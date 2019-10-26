@@ -471,6 +471,7 @@ Antiviral dose
 Anticancer agent dose
 Stimulant dose
 Hallucinogen dose
+Steroid dose
 Neurotoxin dose
 Sedative dose
 Muscle relaxant dose
@@ -531,6 +532,7 @@ Banana
 Cocoa bean
 Fig
 Durian
+Avocado
 Passionfruit
 Persimmon
 Pomegranate
@@ -588,3 +590,38 @@ Tabasco
 Vanilla
 Wasabi
 Salt
+Milk
+Powdered milk
+Whey
+Yogurt
+Cream
+Whipped cream
+Butter
+Cheese
+Ice cream
+Chocolate
+Candy
+Lollipop
+Chicken egg
+Duck egg
+Turkey egg
+Ham
+Sausage
+Pork
+Salami
+Steak
+Beef
+Chicken meat
+Duck meat
+Turkey meat
+Horse meat
+Goat meat
+Mutton
+Bone
+Fishbone
+Tendon
+Gristle
+Crab meat
+Shrimp meat
+Seafood
+Minced meat
