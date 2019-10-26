@@ -459,28 +459,132 @@ Clothes iron
 Soap
 Toothpaste
 Toothbrush
-Antibiotic
-Antiseptic
-Cough medicine
-Vitamins
-Laxative
-Antidepressant
-Depressant
-Antifungal
-Antiviral
-Anticancer agent
-Stimulant
-Hallucinogen
-Neurotoxin
-Sedative
-Muscle relaxant
-Vaccine
-Anesthetics
-Painkiller
-Cannabis
-Cocaine
-Ecstasy
-Heroin
-Inhalant
-Ketamine
-Methamphetamine
+Antibiotic dose
+Antiseptic dose
+Cough medicine dose
+Vitamins dose
+Laxative dose
+Antidepressant dose
+Depressant dose
+Antifungal dose
+Antiviral dose
+Anticancer agent dose
+Stimulant dose
+Hallucinogen dose
+Neurotoxin dose
+Sedative dose
+Muscle relaxant dose
+Vaccine dose
+Anesthetics dose
+Antiemetic dose
+Antidote dose
+Antacid dose
+Anticoagulant dose
+Coagulant dose
+Painkiller dose
+Cannabis dose
+Cocaine dose
+Ecstasy dose
+Heroin dose
+Inhalant dose
+Ketamine dose
+Methamphetamine dose
+Glucosis dose
+Saline dose
+Baby food
+Instant food
+Dog food
+Cat food
+Fodder
+Field ration
+Apple
+Pear
+Quince
+Rosehip
+Mango
+Plum
+Aprocot
+Cherry
+Coconut
+Date
+Peach
+Nutmeg
+Orange
+Lime
+Lemon
+Grapefruit
+Mandarin
+Pomelo
+Tangerine
+Grape
+Elderberry
+Raspberry
+Coffee bean
+Blueberry
+Blackberry
+Mulberry
+Kiwi
+Strawberry
+Melon
+Watermelon
+Banana
+Cocoa bean
+Fig
+Durian
+Passionfruit
+Persimmon
+Pomegranate
+Pineapple
+Vanilla fruit
+Saguaro fruit
+Dragon fruit
+Juniper berry
+Cabbage
+Brussels
+Cauliflower
+Broccoli
+Turnip
+Radish
+Carrot
+Parsnip
+Beetroot
+Sugar beet
+Lettuce
+Bean
+Pea
+Potato
+Red pepper
+Chilli pepper
+Eggplant
+Tomato
+Cucumber
+Pumpkin
+Gourd
+Onion
+Garlic
+Leek
+Spinach
+Yam
+Batat
+Pepper
+Basil
+Clove
+Coriander
+Curry
+Ginger
+Jasmine
+Lavender
+Licorice
+Mint
+Mustard
+Paprika
+Poppy seed
+Rosemary
+Saffron
+Sage
+Anise
+Thyme
+Tabasco
+Vanilla
+Wasabi
+Salt
