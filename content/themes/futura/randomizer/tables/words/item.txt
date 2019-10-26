@@ -499,6 +499,23 @@ Dog food
 Cat food
 Fodder
 Field ration
+Bread
+Yeast
+Flour
+Bread roll
+Noodles
+Pasta
+Pastry
+Pizza
+Cake
+Biscuit
+Cookie
+Wheat
+Rice
+Corn
+Rye
+Legume
+Almond
 Apple
 Pear
 Quince
@@ -591,6 +608,7 @@ Tabasco
 Vanilla
 Wasabi
 Salt
+Sugar
 Milk
 Powdered milk
 Whey
