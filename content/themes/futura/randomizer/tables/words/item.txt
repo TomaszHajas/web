@@ -284,7 +284,6 @@ Ocarina
 Pan flute
 Saxophone
 Trombone
-Trombone
 Harp
 Lute
 Banjo
@@ -387,10 +386,19 @@ Ammo clip
 Ammo round
 Grenade launcher
 Grenade
+EMP Grenade
 Grenade clip
 Flamethrower
+Rocket launcher
+Mine
+C4 Bomb
+Nuclear bomb
 Gas can
 Gas canister
+Bear trap
+Mouse trap
+Manacles
+Handcuffs
 Sword
 Dagger
 Kama
@@ -637,6 +645,8 @@ Horse meat
 Goat meat
 Mutton
 Bone
+Fat
+Tallow
 Fishbone
 Tendon
 Gristle
@@ -650,7 +660,7 @@ Hat
 Helmet
 Hood
 Kerchief
-TUrban
+Turban
 Veil
 Band
 Choker
@@ -715,3 +725,48 @@ Handbag
 Muff
 Sash
 Wallet
+Glue
+Oil
+Branch
+Twig
+Ice
+Snow
+Mud
+Clay
+Cob
+Sand
+Gravel
+Straw
+Adobe
+Cement
+Concrete
+Stone
+Rock
+Granite
+Slate
+Marble
+Diorite
+Wood
+Timber
+Oakwood
+Pinewood
+Brick
+Terracotta
+Paper
+Fiberglass
+Fabric
+Polystyrene foam
+Bulletproof glass
+Metal
+Steel
+Iron
+Carbon
+Copper
+Tin
+Aluminum
+Chrome
+Gold
+Silver
+Titanium
+Ceramic
+Plastic
