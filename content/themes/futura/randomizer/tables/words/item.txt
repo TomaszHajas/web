@@ -462,18 +462,21 @@ Tablet
 Microphone
 Megaphone
 Computer monitor
+3D printer
 Printer
 Computer speaker
 Optical disc
 Floppy disk
 Memory card
-USB flash drive
+Pendrive
 Camera
 Smartphone
 Replicator
 Teleporter
 Drone
 Microchip
+Cloaking device
+Brain implant
 Calculator
 Covert listening device
 Thermovision goggles
@@ -485,6 +488,14 @@ Musical keyboard
 Electric guitar
 Computer keyboard
 Computer mouse
+Force field generator
+Long range listening device
+Nanobots canister
+Utility fog canister
+AI core
+Holographic projector
+Medical tricorder
+Electronic nose
 ---VEHICLE---
 Motorcycle
 Car
@@ -531,6 +542,13 @@ Airship
 Spacecraft
 ---WEAPONS---
 Assault rifle
+Plasma rifle
+Plasma pistol
+Microwave gun
+Laser rifle
+Laser pistol
+Gauss rifle
+Railgun
 Pistol
 Revolver
 Submachine gun
