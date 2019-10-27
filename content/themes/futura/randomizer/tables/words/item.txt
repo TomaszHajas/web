@@ -1,10 +1,10 @@
+---LOW-TECH TOOL---
 Weighing scale
 Ruler
 Compass
 Calipers
 Jig
 Spirit level
-Laser level
 Measuring rod
 Yardstick
 Micrometer
@@ -22,6 +22,7 @@ Ball bearing
 Block and tackle
 Gear
 Plunger
+Toilet brush
 Wedge
 Hob
 Welder
@@ -33,7 +34,6 @@ Drawknife
 Glass cutter
 Grater
 Hacksaw
-Lawn mower
 Pencil sharpener
 Nail clipper
 Penknife
@@ -45,7 +45,6 @@ Scissors
 Steel wool
 Switchblade
 Utility knife
-Waterjet
 Wire brush
 Wrench
 Pliers
@@ -68,7 +67,6 @@ Grease gun
 Sledgehammer
 Staple gun
 Awl
-Tactical light
 Tire iron
 Tweezers
 Knife
@@ -79,7 +77,6 @@ Axe
 Adze
 Hoe
 Garden hose
-Chainsaw
 Sprinkler
 Leaf blower
 Loppers
@@ -98,32 +95,12 @@ Brush
 Bucket
 Feather duster
 Ladder
+Stepladder
 Mop
-Needlegun scaler
 Peg wood
 Pipe cleaner
-Pressure washer
-Sandblaster
 Sponge
-Vacuum cleaner
-Air hammer
-Disc grinder
-Sander
-Blowtorch
-Circular saw
-Cutting torch
-Electric drill
 Glue gun
-Heat gun
-Jackhammer
-Jigsaw
-Multi-tool
-Nail gun
-Rivet gun
-Rotary hammer
-Soldering gun
-Dental drill
-Laser scalpel
 Hemostat
 Trocar
 Speculum
@@ -181,7 +158,8 @@ Parachute
 Hatchet
 Camp stove
 Candle
-Solar charger
+Solar panel
+Charger
 Life jacket
 Fire extinguisher
 Lantern
@@ -199,14 +177,11 @@ Piton
 Toilet paper
 Paper
 Magnifying glass
-Battery
-Battery recharger
 Nail
 Nut
 Bolt
 Screw
 Goggles
-Cell phone
 Peeler
 Bottle opener
 Bowl
@@ -228,6 +203,8 @@ Meat mallet
 Mortar and pestle
 Nutcracker
 Oven glove
+Rag
+Towel
 Pepper mill
 Pizza cutter
 Potato masher
@@ -244,6 +221,20 @@ Chopsticks
 Skewer
 Toothpick
 Drinking straw
+Bleach
+Detergent
+Washboard
+Clothes hanger
+Clothes iron
+Soap
+Toothpaste
+Toothbrush
+Branch
+Twig
+Rock
+Pebble
+Glue
+Oil
 Glass
 Tankard
 Chalice
@@ -259,7 +250,11 @@ Vial
 Ampoule
 Bag
 Barrel
+Thermos
+Cooler
+Wallet
 Box
+Ammo box
 Cage
 Case
 Carton
@@ -294,11 +289,151 @@ Mandolin
 Violin
 Viol
 Music box
-Synthesizer
-Sampler
-Musical keyboard
-Computer keyboard
-Computer mouse
+Abacus
+Lens
+Glasses
+Telescope
+Magnifying glass
+Microscope
+Binoculars
+Spike strip
+Car wheel
+Key
+Training dummy
+Bear trap
+Mouse trap
+Manacles
+Handcuffs
+Baseball ball
+Baseball bat
+Basketball ball
+Soccer ball
+Hockey stick
+Cricket bat
+Golf ball
+Golf club
+Hockey helmet
+Hockey puck
+Rugby ball
+Tennis ball
+Building blocks
+Doll
+Teddy bear
+Toy car
+Toy boat
+Toy aeroplane
+Puzzle
+Rubik's Cube
+Chess box
+Playing cards
+Beret
+Cap
+Hat
+Helmet
+Hood
+Kerchief
+Turban
+Veil
+Vest
+Band
+Choker
+Clerical collar
+Cravat
+Necktie
+Scarf
+Blouse
+Shirt
+Sweater
+Waistcoat
+Cargo pants
+Chaps
+Jeans
+Shorts
+Sweatpants
+Yoga pants
+Dress
+Costume
+Jumpsuit
+Uniform
+Hazamat suit
+Space suit
+Wedding dress
+Skirt
+Bra
+Undershirt
+Diaper
+Leggins
+Panties
+Underpants
+Duster
+Cloak
+Raincoat
+Jacket
+Apron
+Cape
+Mantle
+Lab coat
+Parka
+Poncho
+Robe
+Nightgown
+Nightshirt
+Pajamas
+Bikini
+Boots
+Shoes
+Flip-flops
+Sandals
+Slippers
+Sneakers
+Socks
+Stockings
+Tights
+Belt
+Purse
+Gaiters
+Gloves
+Headband
+Handbag
+Muff
+Sash
+---HIGH-TECH TOOL---
+Laser level
+Lawn mower
+Waterjet
+Tactical light
+Chainsaw
+Needlegun scaler
+Pressure washer
+Sandblaster
+Vacuum cleaner
+Air hammer
+Disc grinder
+Orbital sander
+Power wrench
+Blowtorch
+Circular saw
+Cutting torch
+Electric drill
+Heat gun
+Jackhammer
+Jigsaw
+Multi-tool
+Nail gun
+Rivet gun
+Rotary hammer
+Soldering gun
+Dental drill
+Laser scalpel
+Battery
+Battery recharger
+Electric heater
+Electric fan
+Electric motor
+Thermogenerator
+Jetpack
+Cell phone
+Remote control
 Laptop
 Cord
 Cable
@@ -319,18 +454,17 @@ Teleporter
 Drone
 Microchip
 Calculator
-Abacus
 Covert listening device
-Lens
-Glasses
-Telescope
-Magnifying glass
-Microscope
-Binoculars
 Thermovision goggles
-Spike strip
-Car wheel
-Key
+Gas can
+Gas canister
+Synthesizer
+Sampler
+Musical keyboard
+Electric guitar
+Computer keyboard
+Computer mouse
+---VEHICLE---
 Motorcycle
 Car
 Off-road car
@@ -374,6 +508,7 @@ Multiplane
 Hot air baloon
 Airship
 Spacecraft
+---WEAPONS---
 Assault rifle
 Pistol
 Revolver
@@ -394,12 +529,6 @@ Rocket launcher
 Mine
 C4 Bomb
 Nuclear bomb
-Gas can
-Gas canister
-Bear trap
-Mouse trap
-Manacles
-Handcuffs
 Sword
 Dagger
 Kama
@@ -429,6 +558,8 @@ Whip
 Flail
 Lightsaber
 Pepper spray
+Boxing gloves
+---ARMOR---
 Shield
 Buckler
 Kevlar vest
@@ -438,37 +569,7 @@ Chain mail
 Scale mail
 Breastplate
 Power armor
-Baseball ball
-Baseball bat
-Basketball ball
-Soccer ball
-Boxing gloves
-Hockey stick
-Cricket bat
-Golf ball
-Golf club
-Hockey helmet
-Hockey puck
-Rugby ball
-Tennis ball
-Building blocks
-Doll
-Teddy bear
-Toy car
-Toy boat
-Toy aeroplane
-Puzzle
-Rubik's Cube
-Chess box
-Playing cards
-Bleach
-Detergent
-Washboard
-Clothes hanger
-Clothes iron
-Soap
-Toothpaste
-Toothbrush
+---CHEMICALS---
 Antibiotic dose
 Antiseptic dose
 Cough medicine dose
@@ -502,6 +603,7 @@ Ketamine dose
 Methamphetamine dose
 Glucosis dose
 Saline dose
+---FOOD---
 Baby food
 Instant food
 Dog food
@@ -655,84 +757,9 @@ Crab meat
 Shrimp meat
 Seafood
 Minced meat
-Beret
-Cap
-Hat
-Helmet
-Hood
-Kerchief
-Turban
-Veil
-Vest
-Band
-Choker
-Clerical collar
-Cravat
-Necktie
-Scarf
-Blouse
-Shirt
-Sweater
-Waistcoat
-Cargo pants
-Chaps
-Jeans
-Shorts
-Sweatpants
-Yoga pants
-Dress
-Costume
-Jumpsuit
-Uniform
-Hazamat suit
-Space suit
-Wedding dress
-Skirt
-Bra
-Undershirt
-Diaper
-Leggins
-Panties
-Underpants
-Duster
-Cloak
-Raincoat
-Jacket
-Apron
-Cape
-Mantle
-Lab coat
-Parka
-Poncho
-Robe
-Nightgown
-Nightshirt
-Pajamas
-Bikini
-Boots
-Shoes
-Flip-flops
-Sandals
-Slippers
-Sneakers
-Socks
-Stockings
-Tights
-Belt
-Purse
-Gaiters
-Gloves
-Headband
-Handbag
-Muff
-Sash
-Wallet
-Glue
-Oil
+---MATERIAL---
 Coal
 Ash
-Branch
-Twig
 Ice
 Snow
 Mud
