@@ -4,10 +4,12 @@ Clueless
 Shocked
 Shaken
 Stunned
-Sleeping
+Asleep
 Confused
 Unconscious
 Dizzy
 Frightened
 Scared
 Wavering
+Enraged
+Provoked
