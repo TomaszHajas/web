@@ -213,6 +213,8 @@ Washboard
 Clothes hanger
 Clothes iron
 Soap
+Shampoo
+Paper towel
 Toothpaste
 Toothbrush
 Branch
@@ -241,6 +243,7 @@ Can
 Vial
 Ampoule
 Bag
+Sack
 Barrel
 Thermos
 Cooler
@@ -262,6 +265,11 @@ Castanets
 Triangle
 Horn
 Air horn
+Detonator
+Detonating cord
+Firecracker
+Tripwire
+Barbed wire
 Bagpipe
 Clarinet
 Trumpet
@@ -577,6 +585,7 @@ Scale mail
 Breastplate
 Power armor
 ---CHEMICALS---
+Disinfectant dose
 Antibiotic dose
 Antiseptic dose
 Cough medicine dose
