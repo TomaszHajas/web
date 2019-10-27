@@ -150,6 +150,7 @@ Candle
 Torch
 Life jacket
 Fire extinguisher
+Oxygen tank
 Lantern
 Desalination kit
 Bedroll
