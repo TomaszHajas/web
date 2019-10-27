@@ -356,6 +356,8 @@ Costume
 Jumpsuit
 Uniform
 Hazamat suit
+Diving suit
+Chainsaw safety suit
 Space suit
 Wedding dress
 Skirt
@@ -577,13 +579,15 @@ Boxing gloves
 ---ARMOR---
 Shield
 Buckler
-Kevlar vest
 Plate armor
 Leather armor
 Chain mail
 Scale mail
 Breastplate
 Power armor
+Kevlar vest
+Bomb suit
+Hard hat
 ---CHEMICALS---
 Disinfectant dose
 Antibiotic dose
