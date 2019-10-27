@@ -458,6 +458,9 @@ Cattle prod
 Cell phone
 Remote control
 Motion detector
+Proximity sensor
+Heat detector
+Smoke detector
 Laptop
 Cord
 Cable
