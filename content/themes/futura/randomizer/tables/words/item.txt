@@ -2,7 +2,6 @@
 Weighing scale
 Thermometer
 Breathalyzer
-
 Barometer
 Ruler
 Compass
@@ -156,6 +155,7 @@ Candle
 Torch
 Life jacket
 Fire extinguisher
+Gas mask
 Siren
 Oxygen tank
 Lantern
