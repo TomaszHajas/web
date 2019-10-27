@@ -451,6 +451,7 @@ Electric fan
 Electric motor
 Thermogenerator
 Jetpack
+Cattle prod
 Cell phone
 Remote control
 Laptop
@@ -542,12 +543,16 @@ Ammo round
 Grenade launcher
 Grenade
 EMP Grenade
+Flashbang grenade
+Smoke grenade
 Grenade clip
 Flamethrower
 Rocket launcher
 Mine
 C4 Bomb
 Nuclear bomb
+Graphite bomb
+Stink bomb
 Sword
 Dagger
 Kama
