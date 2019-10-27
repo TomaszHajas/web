@@ -111,10 +111,6 @@ Syringe
 Bandage
 Surgical suture
 Forceps
-Ultrasound scanner
-MRI scanner
-X-ray scanner
-Defibrillator
 Dressing
 First aid kit
 Plaster
@@ -137,15 +133,8 @@ Sunglasses
 Canteen
 Aluminum foil
 Snare wire
-Radio transmitter
-Radio receiver
-Radio transceiver
 Whistle
 Mirror
-Light bulb
-Flashlight
-Flare
-Laser pointer
 Pen
 Pencil
 Watch
@@ -158,19 +147,16 @@ Parachute
 Hatchet
 Camp stove
 Candle
-Solar panel
-Charger
+Torch
 Life jacket
 Fire extinguisher
 Lantern
-GPS device
 Desalination kit
 Bedroll
 Tent
 Umbrella
 Blanket
 Backpack
-Soap
 Pulley
 Rope
 Piton
@@ -234,7 +220,13 @@ Twig
 Rock
 Pebble
 Glue
+Silicone
+Varnish
+Resin
+Wax
 Oil
+Flower boquet
+Flower
 Glass
 Tankard
 Chalice
@@ -398,6 +390,21 @@ Handbag
 Muff
 Sash
 ---HIGH-TECH TOOL---
+Radio transmitter
+Radio receiver
+Radio transceiver
+Solar panel
+Charger
+Ultrasound scanner
+MRI scanner
+X-ray scanner
+Defibrillator
+Light bulb
+Flashlight
+Flare
+Laser pointer
+GPS device
+Fairy lights
 Laser level
 Lawn mower
 Waterjet
@@ -759,6 +766,8 @@ Seafood
 Minced meat
 ---MATERIAL---
 Coal
+Asphalt
+Tar
 Ash
 Ice
 Snow
