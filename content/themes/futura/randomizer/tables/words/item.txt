@@ -17,6 +17,7 @@ Hourglass
 Lock
 Chain
 Belt
+Whetstone
 String
 Ball bearing
 Block and tackle
@@ -599,6 +600,7 @@ Hard hat
 Disinfectant dose
 Antibiotic dose
 Antiseptic dose
+Antitoxin dose
 Cough medicine dose
 Vitamins dose
 Laxative dose
