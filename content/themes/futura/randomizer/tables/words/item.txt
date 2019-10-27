@@ -457,6 +457,7 @@ Jetpack
 Cattle prod
 Cell phone
 Remote control
+Motion detector
 Laptop
 Cord
 Cable
