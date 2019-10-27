@@ -20,3 +20,4 @@ Crippled
 Dazzled
 Blinded
 Deafened
+Slowed
