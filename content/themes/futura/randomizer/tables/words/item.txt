@@ -1,6 +1,8 @@
 ---LOW-TECH TOOL---
 Weighing scale
 Thermometer
+Breathalyzer
+
 Barometer
 Ruler
 Compass
@@ -31,6 +33,7 @@ Hob
 Welder
 Blade
 Billhook
+Halligan bar
 Bold cutter
 Froe
 Drawknife
@@ -153,6 +156,7 @@ Candle
 Torch
 Life jacket
 Fire extinguisher
+Siren
 Oxygen tank
 Lantern
 Desalination kit
@@ -363,6 +367,7 @@ Uniform
 Hazamat suit
 Diving suit
 Chainsaw safety suit
+Fire proximity suit
 Space suit
 Wedding dress
 Skirt
