@@ -1,5 +1,7 @@
 ---LOW-TECH TOOL---
 Weighing scale
+Thermometer
+Barometer
 Ruler
 Compass
 Calipers
