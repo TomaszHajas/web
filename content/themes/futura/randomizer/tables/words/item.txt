@@ -867,12 +867,26 @@ Acid dose
 Water
 Apple juice
 Orange juice
-Beer
 Cola
 Moonshine
 Scotch
-Vodka
-Whiskey
+Absinthe
+Spirit
+Ale
+Beer
+Bitters
+Brandy
+Cider
+Coffee
+Grog
+Honey
+Vermouth
+Mead
+Milk
+Rum
+Tea
+Water
+Sake
 Wine
 ---FOOD---
 Baby food
