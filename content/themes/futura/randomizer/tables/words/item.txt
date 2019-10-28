@@ -260,6 +260,10 @@ Folder
 Notepad
 Pencil
 Book
+Newspaper
+Magazine
+Letter
+Envelope
 Branch
 Twig
 Rock
@@ -384,7 +388,10 @@ Playing cards
 Beret
 Cap
 Hat
-Helmet
+Motorcycle helmet
+Hard hat
+Ski helmet
+Welding helmet
 Hood
 Kerchief
 Turban
@@ -732,6 +739,8 @@ Sawed-off DB shotgun
 Semi-automatic shotgun
 Light machine gun
 Heavy machine gun
+Minigun
+Chain gun
 Light grenade launcher
 Grenade launcher
 Automatic grenade launcher
@@ -748,20 +757,26 @@ EMP grenade
 Incendiary grenade
 Impact grenade
 Sticky grenade
+Plasma grenade
 Anti-personnel mine
 Anti-tank mine
 Bomb
 Plasma rifle
 Plasma pistol
 Microwave gun
+Gravity gun
+Anti-matter gun
+Electrogun
 Laser rifle
 Laser pistol
 Gauss rifle
 Railgun
 Rocket launcher
+Rocket missile
 Mine
 C4 Bomb
 Nuclear bomb
+Anti-matter bomb
 Graphite bomb
 Stink bomb
 Arrow
@@ -773,17 +788,20 @@ Lead bullet
 Gunpowder dose
 Canister
 Paper cartridge
+Ammo belt
 Bullet
 AP bullet
 Slug
 Incendiary slug
 ---ARMOR---
+Buckler
 Shield
 Spiked shield
 Heater
 Kite shield
 Tower shield
-Buckler
+Pavise
+Riot shield
 Studded leather armor
 Padded armor
 Leather armor
@@ -802,7 +820,6 @@ Laminar armor
 Power armor
 Kevlar vest
 Bomb suit
-Hard hat
 ---CHEMICALS---
 Disinfectant dose
 Antibiotic dose
