@@ -709,7 +709,10 @@ Long rifle (.45)
 Rifled musket (.52)
 Double rifled musket (.52)
 Blunderbuss (8G)
+Bomb
+---HIGH-TECH WEAPON---
 Flamethrower
+Freezethrower
 Gasthrower
 Stun gun
 Taser
@@ -758,9 +761,10 @@ Incendiary grenade
 Impact grenade
 Sticky grenade
 Plasma grenade
+Cryo grenade
 Anti-personnel mine
 Anti-tank mine
-Bomb
+Dynamite
 Plasma rifle
 Plasma pistol
 Microwave gun
@@ -771,6 +775,7 @@ Laser rifle
 Laser pistol
 Gauss rifle
 Railgun
+Needle gun
 Rocket launcher
 Rocket missile
 Mine
@@ -857,6 +862,7 @@ Methamphetamine dose
 Glucosis dose
 Saline dose
 Stimpak
+Acid dose
 ---DRINK---
 Water
 Apple juice
