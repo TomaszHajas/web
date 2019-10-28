@@ -106,6 +106,10 @@ Peg wood
 Pipe cleaner
 Sponge
 Glue gun
+Horse bit
+Bridle
+Saddle
+Horseshoe
 Hemostat
 Trocar
 Speculum
@@ -265,6 +269,7 @@ Ammo box
 Cage
 Case
 Carton
+Saddlebag
 Crate
 Envelope
 Keg
