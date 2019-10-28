@@ -1,7 +1,6 @@
 ---LOW-TECH TOOL---
 Weighing scale
 Thermometer
-Breathalyzer
 Barometer
 Ruler
 Compass
@@ -435,6 +434,7 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Breathalyzer
 Radio transmitter
 Radio receiver
 Radio transceiver
