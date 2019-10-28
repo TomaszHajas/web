@@ -5,6 +5,7 @@ Breathalyzer
 Barometer
 Ruler
 Compass
+Sextant
 Calipers
 Jig
 Spirit level
@@ -145,8 +146,13 @@ Aluminum foil
 Snare wire
 Whistle
 Mirror
+Papyrus scroll
+Paper sheet
+Origami swan
 Pen
 Pencil
+Ink
+Quill
 Watch
 Pocket watch
 Clock
@@ -187,6 +193,9 @@ Goggles
 Peeler
 Bottle opener
 Bowl
+Bottle
+Bottlecap
+Bobby pin
 Pot
 Sieve
 Cleaver
@@ -233,6 +242,12 @@ Shampoo
 Paper towel
 Toothpaste
 Toothbrush
+Paper sheet
+Bottlecap
+Folder
+Notepad
+Pencil
+Book
 Branch
 Twig
 Rock
@@ -418,6 +433,7 @@ Headband
 Handbag
 Muff
 Sash
+Bobby pin
 ---HIGH-TECH TOOL---
 Radio transmitter
 Radio receiver
@@ -428,6 +444,7 @@ Ultrasound scanner
 MRI scanner
 X-ray scanner
 Defibrillator
+Super sledge
 Light bulb
 Flashlight
 Flare
@@ -561,52 +578,7 @@ Multiplane
 Hot air baloon
 Airship
 Spacecraft
----WEAPONS---
-Light grenade launcher
-Grenade launcher
-Automatic grenade launcher
-Light mortar
-Heavy mortar
-Rocket launcher
-Fragmentation grenade
-Blast grenade
-Smoke grenade
-Tear gas grenade
-Toxic gas grenade
-Stun grenade
-EMP grenade
-Incendiary grenade
-Impact grenade
-Sticky grenade
-Anti-personnel mine
-Anti-tank mine
-Bomb
-Plasma rifle
-Plasma pistol
-Microwave gun
-Laser rifle
-Laser pistol
-Gauss rifle
-Railgun
-Rocket launcher
-Mine
-C4 Bomb
-Nuclear bomb
-Graphite bomb
-Stink bomb
-Arrow
-Serrated arrow
-Bolt
-Heavy bolt
-Blunderbuss gauge
-Lead bullet
-Gunpowder dose
-Canister
-Paper cartridge
-Bullet
-AP bullet
-Slug
-Incendiary slug
+---LOW-TECH WEAPON---
 Sickle
 Knife
 Dagger
@@ -668,7 +640,6 @@ Whip
 Hidden blade
 Bayonet
 Tonfa
-Stun gun
 Bow
 Arrow
 Crossbow
@@ -677,11 +648,8 @@ Blowgun
 Chakram
 Shuriken
 Sling
-Taser
 Whip
 Flail
-Lightsaber
-Pepper spray
 Boxing gloves
 Shortbow
 Longbow
@@ -707,6 +675,13 @@ Double rifled musket (.52)
 Blunderbuss (8G)
 Flamethrower
 Gasthrower
+Stun gun
+Taser
+Lightsaber
+Power fist
+Electrostaff
+Vibroknife
+Pepper spray
 Pocket pistol
 Break-action pistol
 Blowback pistol
@@ -728,6 +703,51 @@ Sawed-off DB shotgun
 Semi-automatic shotgun
 Light machine gun
 Heavy machine gun
+Light grenade launcher
+Grenade launcher
+Automatic grenade launcher
+Light mortar
+Heavy mortar
+Rocket launcher
+Fragmentation grenade
+Blast grenade
+Smoke grenade
+Tear gas grenade
+Toxic gas grenade
+Stun grenade
+EMP grenade
+Incendiary grenade
+Impact grenade
+Sticky grenade
+Anti-personnel mine
+Anti-tank mine
+Bomb
+Plasma rifle
+Plasma pistol
+Microwave gun
+Laser rifle
+Laser pistol
+Gauss rifle
+Railgun
+Rocket launcher
+Mine
+C4 Bomb
+Nuclear bomb
+Graphite bomb
+Stink bomb
+Arrow
+Serrated arrow
+Bolt
+Heavy bolt
+Blunderbuss gauge
+Lead bullet
+Gunpowder dose
+Canister
+Paper cartridge
+Bullet
+AP bullet
+Slug
+Incendiary slug
 ---ARMOR---
 Shield
 Buckler
@@ -1031,6 +1051,7 @@ Bamboo
 Brick
 Terracotta
 Paper
+Cardboard
 Fiberglass
 Fabric
 Polystyrene foam
