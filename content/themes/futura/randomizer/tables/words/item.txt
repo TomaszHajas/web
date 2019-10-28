@@ -111,6 +111,7 @@ Trocar
 Speculum
 Endoscope
 Head mirror
+Stethoscope
 Injection needle
 Syringe
 Bandage
