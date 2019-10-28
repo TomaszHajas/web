@@ -116,6 +116,7 @@ Speculum
 Endoscope
 Head mirror
 Stethoscope
+Bone saw
 Injection needle
 Syringe
 Bandage
@@ -137,6 +138,7 @@ Tarp
 Trash bag
 Tinderbox
 Matchbox
+Match
 Lighter
 Gauze
 Sunglasses
@@ -192,8 +194,20 @@ Goggles
 Peeler
 Bottle opener
 Bowl
+Dog bowl
+Ashtray
+Cigarette
+Cigarette pack
+Condom
+Perfume
+Makeup kit
+Rubber doll
+Flower pot
+Flower
+Plate
 Bottle
 Bottlecap
+Lockpick
 Bobby pin
 Pot
 Sieve
@@ -241,7 +255,6 @@ Shampoo
 Paper towel
 Toothpaste
 Toothbrush
-Paper sheet
 Bottlecap
 Folder
 Notepad
@@ -259,7 +272,13 @@ Wax
 Oil
 Flower boquet
 Flower
-Glass
+Gold tooth
+Metal sheet
+Metal bar
+Metal frame
+Painting
+Trophy
+Drinking glass
 Tankard
 Chalice
 Mug
@@ -301,6 +320,10 @@ Detonating cord
 Firecracker
 Tripwire
 Barbed wire
+Necklace
+Ring
+Banknote
+Coin
 Bagpipe
 Clarinet
 Trumpet
@@ -434,7 +457,11 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Credit card
+Geiger counter
+Circuit board
 Breathalyzer
+Ophthalmoscope
 Radio transmitter
 Radio receiver
 Radio transceiver
@@ -479,6 +506,8 @@ Rotary hammer
 Soldering gun
 Dental drill
 Laser scalpel
+Fusion cell
+Car battery
 Battery
 Battery recharger
 Electric heater
@@ -750,20 +779,26 @@ Slug
 Incendiary slug
 ---ARMOR---
 Shield
+Spiked shield
+Heater
+Kite shield
+Tower shield
 Buckler
-Studded Leather Armor
-Padded Armor
-Leather Armor
-Spiked Armor
-Scale Mail
-Hide Armor
-Half Plate Armor
-Chain Shirt
+Studded leather armor
+Padded armor
+Leather armor
+Spiked armor
+Scale mail
+Hide armor
+Half plate armor
+Chain shirt
 Breastplate
-Splint Armor
-Ring Mail
-Plate Armor
-Chain Mail
+Splint armor
+Ring mail
+Plate armor
+Chain mail
+Riveted armor
+Laminar armor
 Power armor
 Kevlar vest
 Bomb suit
@@ -804,6 +839,18 @@ Ketamine dose
 Methamphetamine dose
 Glucosis dose
 Saline dose
+Stimpak
+---DRINK---
+Water
+Apple juice
+Orange juice
+Beer
+Cola
+Moonshine
+Scotch
+Vodka
+Whiskey
+Wine
 ---FOOD---
 Baby food
 Instant food
