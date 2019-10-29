@@ -10,7 +10,14 @@ Exhausted
 Tired
 Scalded
 Prone
+Staggered
+Pushed
+Pulled
 Bruised
+Bleeding
+Soaked
+Wet
+Sweat
 Immobilized
 Incapacitated
 Restrained
