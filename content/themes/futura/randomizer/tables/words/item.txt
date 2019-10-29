@@ -284,6 +284,8 @@ Hair
 Bone
 Skull
 Shell
+Tooth
+Claw
 Glue
 Silicone
 Varnish
