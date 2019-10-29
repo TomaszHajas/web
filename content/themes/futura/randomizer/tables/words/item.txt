@@ -58,6 +58,7 @@ File
 Hammer
 Chisel
 Screwdriver
+Air pump
 Vise
 Clamp
 Crowbar
@@ -335,25 +336,6 @@ Necklace
 Ring
 Banknote
 Coin
-Bagpipe
-Clarinet
-Trumpet
-Flute
-Harmonica
-Oboe
-Ocarina
-Pan flute
-Saxophone
-Trombone
-Harp
-Lute
-Banjo
-Ukulele
-Guitar
-Mandolin
-Violin
-Viol
-Music box
 Abacus
 Lens
 Glasses
@@ -364,6 +346,8 @@ Binoculars
 Spike strip
 Car wheel
 Key
+Paddle
+Oar
 Training dummy
 Bear trap
 Mouse trap
@@ -389,10 +373,30 @@ Toy car
 Toy boat
 Toy aeroplane
 Puzzle
+Yo-yo
 Rubik's Cube
 Chess box
 6-sided die
 Playing cards
+Bagpipe
+Clarinet
+Trumpet
+Flute
+Harmonica
+Oboe
+Ocarina
+Pan flute
+Saxophone
+Trombone
+Harp
+Lute
+Banjo
+Ukulele
+Guitar
+Mandolin
+Violin
+Viol
+Music box
 Beret
 Cap
 Hat
@@ -610,18 +614,31 @@ Sled
 Snowboard
 Snowshoes
 Canoe
-Paddle
 Surfboard
 Boat
+Yacht
+Galley
+Caravel
+Longship
+Galleon
+Sloop
+Man-of-war
+Frigate
 Hang glider
 Hovercraft
 Helicopter
 Ornithopter
+Plane
 Biplane
 Multiplane
 Hot air baloon
 Airship
 Spacecraft
+Shuttlecraft
+Satellite
+Space station
+Spaceplane
+Flying saucer
 ---LOW-TECH WEAPON---
 Sickle
 Knife
