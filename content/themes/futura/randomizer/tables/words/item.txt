@@ -175,6 +175,8 @@ Gas mask
 Siren
 Oxygen tank
 Lantern
+Lamp
+Glowstick
 Desalination kit
 Bedroll
 Tent
@@ -206,6 +208,7 @@ Condom
 Perfume
 Makeup kit
 Rubber doll
+Dildo
 Flower pot
 Flower
 Plate
@@ -269,11 +272,18 @@ Newspaper
 Magazine
 Letter
 Envelope
+Staff
+Wand
+Orb
 Branch
 Twig
 Grass tuft
 Rock
 Pebble
+Hair
+Bone
+Skull
+Shell
 Glue
 Silicone
 Varnish
@@ -742,6 +752,7 @@ Gasthrower
 Stun gun
 Taser
 Lightsaber
+Energy whip
 Power fist
 Electrostaff
 Vibroknife
