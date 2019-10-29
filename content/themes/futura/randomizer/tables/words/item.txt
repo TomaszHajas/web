@@ -250,6 +250,7 @@ Toothpick
 Drinking straw
 Bleach
 Detergent
+Insect repellent
 Washboard
 Clothes hanger
 Clothes iron
@@ -269,6 +270,7 @@ Letter
 Envelope
 Branch
 Twig
+Grass tuft
 Rock
 Pebble
 Glue
@@ -286,6 +288,7 @@ Metal frame
 Painting
 Trophy
 Drinking glass
+Aquarium
 Tankard
 Chalice
 Mug
@@ -388,6 +391,7 @@ Toy aeroplane
 Puzzle
 Rubik's Cube
 Chess box
+6-sided die
 Playing cards
 Beret
 Cap
