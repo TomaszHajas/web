@@ -11,5 +11,7 @@ Dizzy
 Frightened
 Scared
 Wavering
+Panicked
 Enraged
 Provoked
+Convinced
