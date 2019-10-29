@@ -879,6 +879,8 @@ Anticancer agent dose
 Stimulant dose
 Hallucinogen dose
 Steroid dose
+Insulin dose
+Adrenaline dose
 Neurotoxin dose
 Sedative dose
 Muscle relaxant dose
@@ -901,6 +903,7 @@ Glucosis dose
 Saline dose
 Stimpak
 Acid dose
+Mutagen dose
 ---DRINK---
 Water
 Apple juice
