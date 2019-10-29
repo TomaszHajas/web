@@ -198,6 +198,7 @@ Bungee cord
 Bowl
 Dog bowl
 Ashtray
+Tray
 Cigarette
 Cigarette pack
 Condom
@@ -297,6 +298,7 @@ Bottle
 Can
 Vial
 Ampoule
+Waterskin
 Bag
 Sack
 Barrel
