@@ -204,6 +204,7 @@ Ashtray
 Tray
 Cigarette
 Cigarette pack
+Tobacco
 Condom
 Perfume
 Makeup kit
@@ -217,6 +218,7 @@ Bottlecap
 Lockpick
 Bobby pin
 Pot
+Kettle
 Sieve
 Cleaver
 Colander
@@ -272,6 +274,8 @@ Newspaper
 Magazine
 Letter
 Envelope
+Rubber stamp
+Postage stamp
 Staff
 Wand
 Orb
@@ -488,6 +492,8 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Electric kettle
+Coffeemaker
 Credit card
 Geiger counter
 Circuit board
@@ -505,6 +511,7 @@ Defibrillator
 Super sledge
 Light bulb
 Flashlight
+Ultraviolet flashlight
 Flare
 Laser sight
 Laser pointer
@@ -869,6 +876,7 @@ Antibiotic dose
 Antiseptic dose
 Antitoxin dose
 Cough medicine dose
+Psychothropic dose
 Vitamins dose
 Laxative dose
 Antidepressant dose
