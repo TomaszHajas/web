@@ -231,6 +231,7 @@ Ladle
 Measuring cup
 Cup
 Spoon
+Can opener
 Meat grinder
 Meat mallet
 Mortar and pestle
@@ -493,6 +494,9 @@ Sash
 Bobby pin
 ---HIGH-TECH TOOL---
 Electric kettle
+Hair dryer
+Blender
+Humidifier
 Coffeemaker
 Credit card
 Geiger counter
@@ -566,6 +570,7 @@ Cable
 Tablet
 Microphone
 Megaphone
+Telephone
 Computer monitor
 3D printer
 Printer
@@ -593,6 +598,7 @@ Musical keyboard
 Electric guitar
 Computer keyboard
 Computer mouse
+Headphones
 Force field generator
 Long range listening device
 Nanobots canister
