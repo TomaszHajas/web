@@ -495,6 +495,7 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Rangefinder
 Electric kettle
 Hair dryer
 Blender
@@ -612,6 +613,7 @@ Electronic nose
 ---VEHICLE---
 Motorcycle
 Car
+Steam car
 Off-road car
 Bus
 Sports car
@@ -625,10 +627,12 @@ Bulldozer
 Excavator
 Tank
 Train
+Locomotive
 Wagon
 Carriage
 Bicycle
 Wheelchair
+Rover
 Skates
 Ice skates
 Skateboard
@@ -642,7 +646,10 @@ Snowboard
 Snowshoes
 Canoe
 Surfboard
+Submarine
+Submersible
 Boat
+Catamaran
 Yacht
 Galley
 Caravel
