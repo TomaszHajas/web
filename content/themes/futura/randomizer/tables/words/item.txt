@@ -66,6 +66,8 @@ Shears
 Saw
 Drill
 Paintbrush
+Aerosol paint
+Paint can
 Plunger
 Pincers
 Glass breaker
