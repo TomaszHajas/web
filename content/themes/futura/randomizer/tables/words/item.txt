@@ -116,7 +116,6 @@ Horseshoe
 Hemostat
 Trocar
 Speculum
-Endoscope
 Head mirror
 Stethoscope
 Bone saw
@@ -186,6 +185,7 @@ Tent
 Umbrella
 Blanket
 Backpack
+Stretcher
 Pulley
 Rope
 Piton
@@ -196,6 +196,7 @@ Nail
 Nut
 Bolt
 Screw
+Stake
 Goggles
 Peeler
 Bottle opener
@@ -207,6 +208,7 @@ Ashtray
 Tray
 Cigarette
 Cigarette pack
+Bong
 Tobacco
 Condom
 Perfume
@@ -216,12 +218,9 @@ Dildo
 Flower pot
 Flower
 Plate
-Bottle
 Bottlecap
 Lockpick
 Bobby pin
-Pot
-Kettle
 Saucepan
 Frying pan
 Bread knife
@@ -231,6 +230,8 @@ Sieve
 Cleaver
 Colander
 Cookie cutter
+Butter knife
+Pole
 Corkscrew
 Cutting board
 Funnel
@@ -313,43 +314,11 @@ Metal bar
 Metal frame
 Painting
 Trophy
-Drinking glass
-Aquarium
-Tankard
-Chalice
-Mug
-Jar
-Jug
-Vase
-Bong
-Pitcher
-Bottle
-Can
-Vial
-Ampoule
-Waterskin
-Bag
-Sack
-Barrel
-Thermos
-Cooler
-Wallet
-Box
-Ammo box
-Cage
-Case
-Carton
-Saddlebag
-Crate
-Envelope
-Keg
-Pouch
-Sachet
-Thermal bag
 Drum
 Harp
 Castanets
 Triangle
+Bell
 Horn
 Air horn
 Detonator
@@ -357,7 +326,9 @@ Detonating cord
 Firecracker
 Tripwire
 Barbed wire
+Wire
 Necklace
+Signet
 Ring
 Banknote
 Coin
@@ -422,6 +393,45 @@ Mandolin
 Violin
 Viol
 Music box
+---CONTAINER---
+Pot
+Bottle
+Flask
+Kettle
+Drinking glass
+Aquarium
+Tankard
+Chalice
+Mug
+Jar
+Jug
+Vase
+Pitcher
+Bottle
+Can
+Vial
+Ampoule
+Waterskin
+Bag
+Chest
+Coffer
+Sack
+Barrel
+Thermos
+Cooler
+Wallet
+Box
+Ammo box
+Cage
+Case
+Carton
+Saddlebag
+Crate
+Envelope
+Keg
+Pouch
+Sachet
+Thermal bag
 ---CLOTHING---
 Beret
 Cap
@@ -502,6 +512,7 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Endoscope
 Epilator
 Rangefinder
 Electric kettle
@@ -1204,6 +1215,7 @@ Mahongany wood
 Bark
 Bamboo
 Brick
+Plank
 Terracotta
 Paper
 Cardboard
