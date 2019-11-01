@@ -222,6 +222,11 @@ Lockpick
 Bobby pin
 Pot
 Kettle
+Saucepan
+Frying pan
+Bread knife
+Sickle
+Smithing hammer
 Sieve
 Cleaver
 Colander
@@ -417,6 +422,7 @@ Mandolin
 Violin
 Viol
 Music box
+---CLOTHING---
 Beret
 Cap
 Hat
@@ -677,7 +683,6 @@ Space station
 Spaceplane
 Flying saucer
 ---LOW-TECH WEAPON---
-Sickle
 Knife
 Dagger
 Main gauche
@@ -704,7 +709,6 @@ Bardiche
 Battleaxe
 Giant axe
 Chain sickle
-Smithing hammer
 Warhammer
 Floppy hammer
 Maul
