@@ -150,6 +150,7 @@ Aluminum foil
 Snare wire
 Whistle
 Mirror
+Comb
 Papyrus scroll
 Paper sheet
 Origami swan
@@ -495,6 +496,7 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Epilator
 Rangefinder
 Electric kettle
 Hair dryer
@@ -517,6 +519,7 @@ X-ray scanner
 Defibrillator
 Super sledge
 Light bulb
+Diode
 Flashlight
 Ultraviolet flashlight
 Flare
