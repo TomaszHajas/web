@@ -19,6 +19,7 @@ Tape measure
 Hourglass
 Lock
 Chain
+Hook
 Belt
 Whetstone
 String
@@ -30,6 +31,7 @@ Toilet brush
 Wedge
 Hob
 Welder
+Welding rod
 Blade
 Billhook
 Halligan bar
@@ -52,6 +54,8 @@ Switchblade
 Utility knife
 Wire brush
 Wrench
+Lug wrench
+Pipe wrench
 Pliers
 Cutter
 File
@@ -59,6 +63,8 @@ Hammer
 Chisel
 Screwdriver
 Air pump
+Tire pump
+Car jack
 Vise
 Clamp
 Crowbar
@@ -108,13 +114,17 @@ Mop
 Peg wood
 Pipe cleaner
 Sponge
+Padlock
+Combination padlock
 Glue gun
 Horse bit
 Bridle
 Saddle
 Horseshoe
+Leash
 Hemostat
 Trocar
+Suture needle
 Speculum
 Head mirror
 Stethoscope
@@ -122,16 +132,20 @@ Bone saw
 Injection needle
 Syringe
 Bandage
-Surgical suture
+Splint
 Forceps
 Dressing
 First aid kit
 Plaster
+Cotton ball
+Poultice
+Adhesive bandage
 Bag valve mask
 Fishing net
 Fish hook
 Fishing line
 Fishing rod
+Knitting needles
 Needle
 Thread
 Duct tape
@@ -153,6 +167,8 @@ Comb
 Papyrus scroll
 Paper sheet
 Origami swan
+Eraser
+Crayon
 Pen
 Pencil
 Ink
@@ -181,6 +197,8 @@ Lamp
 Glowstick
 Desalination kit
 Bedroll
+Mattress
+Sleeping bag
 Tent
 Umbrella
 Blanket
@@ -213,6 +231,8 @@ Tobacco
 Condom
 Perfume
 Makeup kit
+Lipstick
+Rubber band
 Rubber doll
 Dildo
 Flower pot
@@ -226,6 +246,7 @@ Frying pan
 Bread knife
 Sickle
 Smithing hammer
+Bellows
 Sieve
 Cleaver
 Colander
@@ -264,9 +285,9 @@ Chopsticks
 Skewer
 Toothpick
 Drinking straw
-Bleach
-Detergent
-Insect repellent
+Bleach bottle
+Detergent bottle
+Insect repellent spray
 Washboard
 Clothes hanger
 Clothes iron
@@ -276,10 +297,15 @@ Paper towel
 Toothpaste
 Toothbrush
 Bottlecap
+Cork
+Button
 Folder
 Notepad
 Pencil
 Book
+Notebook
+Diary
+Journal
 Newspaper
 Magazine
 Letter
@@ -291,6 +317,7 @@ Wand
 Orb
 Branch
 Twig
+Seed
 Grass tuft
 Rock
 Pebble
@@ -301,11 +328,13 @@ Shell
 Tooth
 Claw
 Glue
-Silicone
-Varnish
-Resin
-Wax
-Oil
+Wood glue
+Oakum
+Silicone cartridge
+Varnish can
+Resin can
+Wax can
+Oil can
 Flower boquet
 Flower
 Gold tooth
@@ -372,6 +401,7 @@ Puzzle
 Yo-yo
 Rubik's Cube
 Chess box
+Chess piece
 6-sided die
 Playing cards
 Bagpipe
@@ -396,6 +426,7 @@ Music box
 ---CONTAINER---
 Pot
 Bottle
+Plastic bottle
 Flask
 Kettle
 Drinking glass
@@ -512,6 +543,8 @@ Muff
 Sash
 Bobby pin
 ---HIGH-TECH TOOL---
+Electric wire
+Amplifier
 Endoscope
 Epilator
 Rangefinder
@@ -590,6 +623,7 @@ Smoke detector
 Laptop
 Cord
 Cable
+Alarm clock
 Tablet
 Microphone
 Megaphone
@@ -613,6 +647,7 @@ Brain implant
 Calculator
 Covert listening device
 Thermovision goggles
+Propane tank
 Gas can
 Gas canister
 Synthesizer
@@ -622,6 +657,7 @@ Electric guitar
 Computer keyboard
 Computer mouse
 Headphones
+Earbuds
 Force field generator
 Long range listening device
 Nanobots canister
@@ -695,6 +731,8 @@ Spaceplane
 Flying saucer
 ---LOW-TECH WEAPON---
 Knife
+Hunting knife
+Combat knife
 Dagger
 Main gauche
 Shortsword
@@ -1056,6 +1094,7 @@ Chilli pepper
 Eggplant
 Tomato
 Cucumber
+Pickle
 Pumpkin
 Gourd
 Onion
@@ -1095,8 +1134,10 @@ Cream
 Whipped cream
 Butter
 Cheese
+White cheese
 Ice cream
 Chocolate
+Egg
 Candy
 Lollipop
 Chicken egg
@@ -1104,16 +1145,23 @@ Duck egg
 Turkey egg
 Ham
 Sausage
-Pork
+Pork chop
 Salami
 Steak
-Beef
+Beef jerky
+Bacon
 Chicken meat
 Duck meat
 Turkey meat
+Rabbit meat
 Horse meat
 Goat meat
-Mutton
+Mutton chop
+Human meat
+Bass fillet
+Salmon fillet
+Pike fillet
+Trout fillet
 Bone
 Fat
 Tallow
