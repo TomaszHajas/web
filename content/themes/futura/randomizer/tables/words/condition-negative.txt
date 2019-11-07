@@ -6,6 +6,9 @@ Shaken
 Stunned
 Asleep
 Confused
+Unprepared
+Demotivated
+Discouraged
 Puzzled
 Unconscious
 Dizzy
