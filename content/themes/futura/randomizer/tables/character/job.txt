@@ -18,6 +18,7 @@ Peddler
 Blacksmith
 Carpenter
 Merchant
+Trader
 Shopkeeper
 Saddler
 Mason
@@ -42,6 +43,10 @@ Shaver
 Sheriff
 Chainsmith
 Healer
+Medic
+Optician
+Paramedic
+Osteopath
 Doctor
 Bartender
 Waiter
@@ -143,6 +148,8 @@ Poet
 Courtesan
 Potter
 Alchemist
+Chemist
+Pharmacist
 Pirate
 Thief
 Burglar
@@ -155,6 +162,8 @@ Butler
 Chancellor
 Manager
 Boss
+Chief
+Ordinator
 Commander
 King
 Clerk
@@ -462,7 +471,6 @@ Mapmaker
 Marler
 Marleywoman
 Master Builder
-Merchant Taylor
 Milliner
 Miniaturist
 Minter
@@ -576,6 +584,7 @@ Pavyler
 Potboy
 Privycleaner
 Procurator
+Pimp
 Prostitute
 Quartermaster
 Ragpicker
