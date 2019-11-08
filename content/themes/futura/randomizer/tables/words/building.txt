@@ -94,7 +94,9 @@ Colloseum
 Circus
 Forum
 Sanctuary
+Mortuary
 Cementary
+Crematory
 Barrow
 Tomb
 Crypt
