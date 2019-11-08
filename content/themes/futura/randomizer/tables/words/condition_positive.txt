@@ -12,6 +12,7 @@ Envigorated
 Activated
 Mobile
 Rested
+Relieved
 Readied
 Undaunted
 Refreshed
