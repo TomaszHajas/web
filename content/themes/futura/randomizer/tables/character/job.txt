@@ -48,6 +48,7 @@ Optician
 Paramedic
 Osteopath
 Doctor
+Plague Doctor
 Bartender
 Waiter
 Street Cleaner
@@ -56,6 +57,10 @@ Armorer
 Stablemaster
 Master
 Priest
+Nun
+Vestal
+Occultist
+Cultist
 Plaintiff
 Judge
 Noble
@@ -123,6 +128,10 @@ Prankster
 Hooker
 Tax Collector
 Thug
+Bandit
+Robber
+Highwayman
+Grave Robber
 Assassin
 Bounty Hunter
 Groom
@@ -207,6 +216,7 @@ Brawler
 Fighter
 Warrior
 Gladiator
+Man-at-arms
 Mage
 Archmage
 Runepriest
@@ -607,3 +617,6 @@ Rivener
 Tentsman
 Mosaic Layer
 Thimbler
+Flagellant
+Antiquarian
+Crusader
