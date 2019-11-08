@@ -15,6 +15,9 @@ Disgusted
 Ashamed
 Frightened
 Scared
+Horrified
+Anxious
+Stressed
 Wavering
 Panicked
 Enraged
