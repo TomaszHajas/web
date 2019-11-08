@@ -26,6 +26,7 @@ String
 Ball bearing
 Block and tackle
 Gear
+Spring
 Plunger
 Toilet brush
 Wedge
