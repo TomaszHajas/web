@@ -83,6 +83,7 @@ Farm
 Plantation
 Garden
 Furnace
+Oven
 Fireplace
 Kiln
 Smelter
@@ -97,6 +98,9 @@ Bunk bed
 Hammock
 Mattress
 Jukebox
+Washstand
+Mangle
+Washing machine
 Table
 Desk
 Drawing board
