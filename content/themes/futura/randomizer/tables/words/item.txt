@@ -316,6 +316,7 @@ Postage stamp
 Staff
 Wand
 Orb
+Fan
 Branch
 Twig
 Seed
@@ -735,6 +736,7 @@ Knife
 Hunting knife
 Combat knife
 Dagger
+War fan
 Main gauche
 Shortsword
 Gladius
