@@ -102,6 +102,20 @@ Scientist
 Researcher
 Archeologist
 Soldier
+Deserter
+Rebel
+Partisan
+Revolutionist
+Militia
+Policeman
+Swordsman
+Axeman
+Maceman
+Pikeman
+Horseman
+Archer
+Crossbowman
+Gunslinger
 Legionnaire
 Interpreter
 Innkeeper
@@ -213,6 +227,8 @@ Sorcerer
 Warlock
 Wizard
 Brawler
+Wrestler
+Martial Artist
 Fighter
 Warrior
 Gladiator
