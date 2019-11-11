@@ -104,7 +104,6 @@ Sickle
 Spade
 Trowel
 Watering can
-Wheelbarrow
 Broom
 Brush
 Bucket
@@ -668,7 +667,48 @@ AI core
 Holographic projector
 Medical tricorder
 Electronic nose
----VEHICLE---
+---LOW-TECH VEHICLE---
+Battering ram
+Siege tower
+Trebuchet
+Mangonel
+Ballista
+Catapult
+Mantlet
+Wheelbarrow
+Trolley
+Wagon
+Chariot
+Carriage
+Bicycle
+Tricycle
+Wheelchair
+Skates
+Ice skates
+Skateboard
+Minecart
+Cart
+Skis
+Ski poles
+Sled
+Snowboard
+Snowshoes
+Canoe
+Surfboard
+Submersible
+Boat
+Catamaran
+Yacht
+Galley
+Caravel
+Longship
+Galleon
+Sloop
+Man-of-war
+Frigate
+Hang glider
+Paraglider
+---HIGH-TECH VEHICLE---
 Motorcycle
 Car
 Steam car
@@ -686,38 +726,10 @@ Excavator
 Tank
 Train
 Locomotive
-Wagon
-Chariot
-Carriage
-Bicycle
-Wheelchair
 Rover
-Skates
-Ice skates
-Skateboard
 Scooter
 Hoverboard
-Cart
-Skis
-Ski poles
-Sled
-Snowboard
-Snowshoes
-Canoe
-Surfboard
 Submarine
-Submersible
-Boat
-Catamaran
-Yacht
-Galley
-Caravel
-Longship
-Galleon
-Sloop
-Man-of-war
-Frigate
-Hang glider
 Hovercraft
 Helicopter
 Ornithopter
@@ -732,6 +744,9 @@ Satellite
 Space station
 Spaceplane
 Flying saucer
+Walking vehicle
+Mecha
+Powered exoskeleton
 ---LOW-TECH WEAPON---
 Knife
 Hunting knife
