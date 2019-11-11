@@ -687,6 +687,7 @@ Tank
 Train
 Locomotive
 Wagon
+Chariot
 Carriage
 Bicycle
 Wheelchair
