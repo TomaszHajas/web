@@ -160,6 +160,7 @@ Gauze
 Sunglasses
 Canteen
 Aluminum foil
+Plastic foil
 Snare wire
 Whistle
 Mirror
@@ -392,6 +393,8 @@ Hockey helmet
 Hockey puck
 Rugby ball
 Tennis ball
+Soother
+Rattle
 Building blocks
 Doll
 Teddy bear
