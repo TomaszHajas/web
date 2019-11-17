@@ -2,6 +2,7 @@ Farmer
 Coalman
 Butcher
 Weaver
+Clothesmaker
 Barber
 Locksmith
 Cobbler
@@ -19,6 +20,7 @@ Blacksmith
 Carpenter
 Merchant
 Trader
+Retailer
 Shopkeeper
 Saddler
 Mason
@@ -72,6 +74,7 @@ Falconer
 Scribe
 Cook
 Tailor
+Draper
 Official
 Cartographer
 Apothecary
@@ -126,6 +129,7 @@ Electrician
 Jeweler
 Shepherd
 Writer
+Ghostwriter
 Redactor
 Avatar
 Oracle
@@ -133,7 +137,14 @@ Doomsayer
 Soothsayer
 Seer
 Musician
+Guitarist
+Pianist
+Keyboardist
+Impresario
+Drummer
+Singer
 Performer
+Troubadour
 Dancer
 Actor
 Comedian
@@ -201,8 +212,16 @@ Marshal
 Minstrel
 Moneylender
 Rental Clerk
+Businessman
+Secretary
 Page
 Painter
+Photographer
+Disc Jockey
+Journalist
+Graphic Designer
+Fashionist
+Technician
 Physician
 Scullion
 Shoemaker
@@ -352,6 +371,7 @@ Hero
 Charlatan
 Gelder
 Courier
+Supervisor
 Overseer
 Acupuncturist
 Aromatherapist
