@@ -59,6 +59,10 @@ Armorer
 Stablemaster
 Master
 Priest
+Bishop
+Archbishop
+Patriarch
+Deacon
 Nun
 Friar
 Novitiate
