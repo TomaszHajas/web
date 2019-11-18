@@ -112,6 +112,8 @@ Scientist
 Researcher
 Archeologist
 Soldier
+Paratrooper
+Commando
 Deserter
 Rebel
 Partisan
@@ -133,6 +135,9 @@ Gravedigger
 Lumberjack
 Mechanic
 Electrician
+Programmer
+Software Developer
+Blogger
 Jeweler
 Shepherd
 Writer
@@ -214,6 +219,17 @@ Chief
 Ordinator
 Commander
 King
+Paramount King
+Emperor
+Ruler
+Earl
+Pharaoh
+Pasha
+Jarl
+Elder
+Count
+Sultan
+Baron
 Clerk
 Clothier
 Fletcher
@@ -246,6 +262,7 @@ Forger
 Outlaw
 Footman
 Marksman
+Sniper
 Mercenary
 Drummer
 Siege Engineer
@@ -291,6 +308,7 @@ Almoner
 Pardoner
 Slave
 Servant
+Eunuch
 Intern
 Homeless
 Beggar
