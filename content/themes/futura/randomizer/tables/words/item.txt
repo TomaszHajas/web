@@ -282,6 +282,7 @@ Tongs
 Twine
 Fork
 Napkin
+Handkerchief
 Chopsticks
 Skewer
 Toothpick
@@ -304,12 +305,37 @@ Folder
 Notepad
 Pencil
 Book
+Pamphlet
+Handbook
 Notebook
 Diary
 Journal
 Newspaper
 Magazine
 Letter
+Love letter
+Begging letter
+In memoriam card
+Postcard
+Holy card
+Greeting card
+Business card
+Report
+Poster
+Decree
+Edict
+Verdict
+Manuscript
+Manual
+Mind Map
+Document
+Documentation
+Form
+Ticket
+Coupon
+Invoice
+Contract
+Datasheet
 Envelope
 Rubber stamp
 Postage stamp
