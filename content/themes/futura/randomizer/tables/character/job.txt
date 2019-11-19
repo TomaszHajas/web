@@ -141,6 +141,9 @@ Blogger
 Jeweler
 Shepherd
 Writer
+Author
+Clerk
+Transcriber
 Ghostwriter
 Redactor
 Avatar
