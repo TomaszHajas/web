@@ -317,6 +317,7 @@ Diary
 Journal
 Newspaper
 Magazine
+Safe conduct
 Letter
 Love letter
 Begging letter
@@ -325,6 +326,9 @@ Postcard
 Holy card
 Greeting card
 Business card
+Manifest
+Certificate
+Diploma
 Report
 Poster
 Decree
