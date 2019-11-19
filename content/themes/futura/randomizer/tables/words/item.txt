@@ -148,6 +148,7 @@ Fishing rod
 Knitting needles
 Needle
 Thread
+Lithmus paper
 Duct tape
 Space blanket
 Tarp
@@ -991,6 +992,7 @@ Power armor
 Kevlar vest
 Bomb suit
 ---CHEMICALS---
+Phenolphthalein dose
 Disinfectant dose
 Antibiotic dose
 Antiseptic dose
