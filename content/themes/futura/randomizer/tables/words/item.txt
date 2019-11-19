@@ -318,6 +318,7 @@ Journal
 Newspaper
 Magazine
 Safe conduct
+Testament
 Letter
 Love letter
 Begging letter
@@ -344,6 +345,10 @@ Ticket
 Coupon
 Voucher
 Invoice
+Thesis
+Script
+License
+Identification document
 Contract
 Datasheet
 Envelope
