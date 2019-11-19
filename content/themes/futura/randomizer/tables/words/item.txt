@@ -992,6 +992,7 @@ Power armor
 Kevlar vest
 Bomb suit
 ---CHEMICALS---
+Carcinogen dose
 Phenolphthalein dose
 Disinfectant dose
 Antibiotic dose
