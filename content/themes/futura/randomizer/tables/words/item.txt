@@ -553,6 +553,7 @@ Endoscope
 Epilator
 Rangefinder
 Electric kettle
+Toaster
 Hair dryer
 Blender
 Humidifier
