@@ -167,6 +167,8 @@ Whistle
 Mirror
 Comb
 Papyrus scroll
+Clay tablet
+Codex
 Paper sheet
 Origami swan
 Eraser
@@ -306,9 +308,11 @@ Folder
 Notepad
 Pencil
 Book
+Tome
 Pamphlet
 Handbook
 Notebook
+Note
 Diary
 Journal
 Newspaper
@@ -334,6 +338,7 @@ Documentation
 Form
 Ticket
 Coupon
+Voucher
 Invoice
 Contract
 Datasheet
@@ -390,6 +395,7 @@ Signet
 Ring
 Banknote
 Coin
+Token
 Abacus
 Lens
 Glasses
