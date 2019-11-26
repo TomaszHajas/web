@@ -131,6 +131,7 @@ Stethoscope
 Bone saw
 Injection needle
 Syringe
+Inhaler
 Bandage
 Splint
 Forceps
