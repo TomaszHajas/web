@@ -170,6 +170,10 @@ Sober
 Kleptomaniac
 Agoraphobic
 Claustrophobic
+Trypophobic
+Arachnophobic
+Homophobic
+Heterophobic
 Egosyntonic
 Egodystonic
 Musical
