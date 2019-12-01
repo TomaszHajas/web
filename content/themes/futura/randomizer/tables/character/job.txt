@@ -54,6 +54,7 @@ Plague Doctor
 Bartender
 Waiter
 Street Cleaner
+Cleaner
 Sailor
 Armorer
 Stablemaster
@@ -75,6 +76,7 @@ Judge
 Noble
 Crier
 Adviser
+Courtier
 Dog Trainer
 Bladesmith
 Falconer
@@ -316,6 +318,8 @@ Almoner
 Pardoner
 Slave
 Servant
+Dogsbody
+Grubber
 Eunuch
 Intern
 Homeless
