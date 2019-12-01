@@ -88,6 +88,11 @@ Apothecary
 Banker
 Adventurer
 Traveler
+Outlander
+Foreigner
+Sightseer
+Wanderer
+Hiker
 Nomad
 Tourist
 Explorer
