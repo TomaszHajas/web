@@ -315,6 +315,7 @@ Eunuch
 Intern
 Homeless
 Beggar
+Pauper
 Scavenger
 Fool
 Teacher
