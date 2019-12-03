@@ -120,6 +120,7 @@ Architect
 Builder
 Constructor
 Inventor
+Entrepreneur
 Scientist
 Nerd
 Researcher
