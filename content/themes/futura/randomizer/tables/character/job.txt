@@ -221,6 +221,8 @@ Chemist
 Pharmacist
 Pirate
 Thief
+Scammer
+Impostor
 Burglar
 Astrologer
 Bowyer
@@ -456,6 +458,7 @@ Homeopath
 Critic
 Flatterer
 Coach
+Mentor
 Tatooist
 Gelotologist
 Drug Dealer
