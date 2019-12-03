@@ -136,7 +136,9 @@ Pikeman
 Horseman
 Archer
 Crossbowman
+Musketeer
 Gunslinger
+Grenadier
 Legionnaire
 Interpreter
 Innkeeper
@@ -193,6 +195,8 @@ Robber
 Highwayman
 Grave Robber
 Assassin
+Ninja
+Samurai
 Bounty Hunter
 Groom
 Guard
