@@ -88,6 +88,7 @@ Official
 Cartographer
 Apothecary
 Banker
+Treasurer
 Adventurer
 Traveler
 Outlander
@@ -156,6 +157,9 @@ Ghostwriter
 Redactor
 Avatar
 Oracle
+Medium
+Prophet
+Pissprophet
 Doomsayer
 Soothsayer
 Seer
@@ -388,7 +392,6 @@ Ceiler
 Diver
 Babysitter
 Surgeon
-Pissprophet
 Teamster
 Wagoner
 Waller
@@ -423,6 +426,7 @@ Mafioso
 Mobster
 Gangster
 Criminal
+Framer
 Charlatan
 Gelder
 Courier
