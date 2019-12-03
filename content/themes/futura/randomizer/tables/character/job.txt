@@ -417,6 +417,7 @@ Retiree
 Pensioner
 Lawyer
 Justiciar
+Inquisitor
 Hero
 Superhero
 Vigilante
@@ -428,6 +429,7 @@ Gangster
 Criminal
 Framer
 Charlatan
+Heretic
 Gelder
 Courier
 Supervisor
