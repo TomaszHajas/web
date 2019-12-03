@@ -116,6 +116,7 @@ Builder
 Constructor
 Inventor
 Scientist
+Nerd
 Researcher
 Archeologist
 Soldier
@@ -181,6 +182,7 @@ Memist
 Prankster
 Hooker
 Tax Collector
+Bully
 Thug
 Bandit
 Robber
