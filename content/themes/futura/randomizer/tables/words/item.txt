@@ -132,6 +132,11 @@ Bone saw
 Injection needle
 Syringe
 Inhaler
+Douche bag
+Suppository
+Pill
+Capsule
+Pastille
 Bandage
 Splint
 Forceps
@@ -298,6 +303,7 @@ Washboard
 Clothes hanger
 Clothes iron
 Soap
+Oinment
 Shampoo
 Paper towel
 Toothpaste
@@ -1009,6 +1015,7 @@ Power armor
 Kevlar vest
 Bomb suit
 ---CHEMICALS---
+Cough syrup dose
 Carcinogen dose
 Phenolphthalein dose
 Disinfectant dose
@@ -1209,6 +1216,7 @@ Chocolate
 Egg
 Candy
 Lollipop
+Chewing gum
 Chicken egg
 Duck egg
 Turkey egg
