@@ -130,6 +130,7 @@ Commando
 Deserter
 Rebel
 Partisan
+Saboteur
 Revolutionist
 Militia
 Policeman
@@ -244,6 +245,7 @@ Manager
 Boss
 Chief
 Ordinator
+Leader
 Commander
 President
 Politician
