@@ -159,6 +159,7 @@ Ghostwriter
 Redactor
 Avatar
 Oracle
+Astrologist
 Medium
 Prophet
 Pissprophet
@@ -351,6 +352,7 @@ Biologist
 Zoologist
 Sociologist
 Humanist
+Astronomer
 Bookkeeper
 Translator
 Linguist
