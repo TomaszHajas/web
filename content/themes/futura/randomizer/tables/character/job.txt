@@ -10,6 +10,8 @@ Miller
 Cheesemaker
 Baker
 Craftsman
+Manufacturer
+Supplier
 Auctioneer
 Porter
 Ropemaker
@@ -20,6 +22,7 @@ Blacksmith
 Carpenter
 Merchant
 Trader
+Vendor
 Retailer
 Shopkeeper
 Saddler
@@ -90,6 +93,7 @@ Apothecary
 Banker
 Treasurer
 Adventurer
+Expeditioner
 Traveler
 Outlander
 Foreigner
