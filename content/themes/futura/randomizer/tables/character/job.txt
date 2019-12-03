@@ -413,6 +413,14 @@ Pensioner
 Lawyer
 Justiciar
 Hero
+Superhero
+Vigilante
+Villain
+Supervillain
+Mafioso
+Mobster
+Gangster
+Criminal
 Charlatan
 Gelder
 Courier
