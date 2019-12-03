@@ -236,6 +236,8 @@ Boss
 Chief
 Ordinator
 Commander
+President
+Politician
 King
 Paramount King
 Emperor
