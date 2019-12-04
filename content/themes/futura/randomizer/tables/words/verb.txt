@@ -92,6 +92,7 @@ Champion
 Change
 Channel
 Charge
+Coronate
 Chart
 Chase
 Check
@@ -1424,6 +1425,7 @@ Like
 Live
 Look
 Love
+Memorize
 Magnify
 Marry
 Mash
