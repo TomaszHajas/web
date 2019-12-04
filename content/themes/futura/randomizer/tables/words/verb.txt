@@ -2,6 +2,7 @@ Abandon
 Abduct
 Abolish
 Abscond
+Abort
 Abuse
 Accelerate
 Accomplish
@@ -712,7 +713,6 @@ Set Up
 Sever
 Sew
 Shake
-Shanghai
 Shape
 Share
 Sharpen
@@ -1079,6 +1079,7 @@ Stab
 Stake
 Stalk
 Slip
+Shank
 Sting
 Stride
 Suture
