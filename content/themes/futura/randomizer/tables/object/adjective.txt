@@ -139,6 +139,7 @@ Burnt
 Burning
 Magical
 Antimagical
+Phantasmal
 Arcane
 Runic
 Astral
