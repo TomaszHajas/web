@@ -11,9 +11,9 @@
 		var time = today.getHours() + ":" + today.getMinutes();
 		document.getElementById("date").innerHTML = date;
 		document.getElementById("time").innerHTML = time;
-        if(date.getMonth() >= 9 && date.getDate() >= 27){
-            document.getElementById("title").innerHTML = "GMT+1 Time";
-        }
+        	if(today.getMonth() >= 9 && today.getDate() >= 27){
+            		document.getElementById("title").innerHTML = "GMT+1 Time";
+        	}
 	</script>
 </div>
 <!-- end widget -->
