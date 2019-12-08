@@ -11,7 +11,7 @@
 		var time = today.getHours() + ":" + today.getMinutes();
 		document.getElementById("date").innerHTML = date;
 		document.getElementById("time").innerHTML = time;
-        	if(today.getMonth() >= 9 && today.getDate() >= 27){
+        	if(today.getMonth() >= 10 || today.getMonth() >= 9 && today.getDate() >= 27){
             		document.getElementById("title").innerHTML = "GMT+1 Time";
         	}
 	</script>
