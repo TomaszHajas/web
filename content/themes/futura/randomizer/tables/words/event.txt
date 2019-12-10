@@ -42,6 +42,9 @@ Demonstration
 Protest
 Festval
 Festivity
+Harvest Festival
+Music Festival
+Independence Day
 Happening
 Ball
 Performance
@@ -160,6 +163,11 @@ Sunbreak
 Sunrise
 Sunset
 Midday
+New Week
+New Month
+New Year
+New Century
+New Millenium
 Twillight
 Equinox
 Winter Solstice
