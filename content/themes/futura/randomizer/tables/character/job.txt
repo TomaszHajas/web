@@ -297,6 +297,7 @@ Shoemaker
 Pickpocket
 Fence
 Poacher
+Whaler
 Forger
 Outlaw
 Footman
@@ -387,6 +388,11 @@ Motorman
 Oiler
 Wiper
 Purser
+Surveyor
+Harbormaster
+Dockmaster
+Docker
+Rigger
 Captain
 Boatswain
 Mate
@@ -401,6 +407,7 @@ Blackmailer
 Plaguebearer
 Lookout
 Monster Hunter
+Whaler
 Suicider
 Spiritualist
 Sewer Worker
