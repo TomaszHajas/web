@@ -8,6 +8,8 @@ Locksmith
 Cobbler
 Miller
 Cheesemaker
+Honeymaker
+Soaper
 Baker
 Craftsman
 Manufacturer
@@ -92,6 +94,10 @@ Cartographer
 Apothecary
 Banker
 Treasurer
+Driver
+Pilot
+Signalman
+Caravaneer
 Adventurer
 Expeditioner
 Traveler
@@ -264,6 +270,7 @@ Sultan
 Baron
 Clerk
 Clothier
+Sailmaker
 Fletcher
 Herald
 Herbalist
@@ -374,7 +381,16 @@ Scholar
 Philosopher
 Librarian
 Boatman
+Seaman
+Cadet
+Motorman
+Oiler
+Wiper
+Purser
 Captain
+Boatswain
+Mate
+Second Mate
 Executioner
 Torturer
 Investigator
