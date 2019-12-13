@@ -1243,19 +1243,27 @@ Bass fillet
 Salmon fillet
 Pike fillet
 Trout fillet
+Blood
 Bone
+Skull
 Fat
 Tallow
 Fishbone
 Tendon
+Placenta
+Heart
+Brain
+Liver
+Intestines
+Tripe
+Lung
+Skin
 Gristle
 Crab meat
 Shrimp meat
 Seafood
 Minced meat
 ---MATERIAL---
-Blood
-Bone
 Hair
 Silk
 Wool
@@ -1272,11 +1280,9 @@ Ivory
 Lanolin
 Manure
 Musk
-Placenta
 Pearl
 Scale
 Sponge
-Tallow
 Shell
 Urine
 Venom
