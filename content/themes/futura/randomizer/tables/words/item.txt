@@ -325,6 +325,8 @@ Journal
 Newspaper
 Magazine
 Safe conduct
+Restraining order
+Extradition letter
 Testament
 Letter
 Love letter
@@ -339,6 +341,7 @@ Certificate
 Diploma
 Report
 Poster
+Wanted poster
 Decree
 Edict
 Verdict
@@ -349,6 +352,7 @@ Document
 Documentation
 Form
 Ticket
+Leaflet
 Coupon
 Voucher
 Invoice
@@ -1250,6 +1254,32 @@ Shrimp meat
 Seafood
 Minced meat
 ---MATERIAL---
+Blood
+Bone
+Hair
+Silk
+Wool
+Mohair
+Ambergris
+Coral
+Wax
+Sperm
+Feather
+Fur
+Hide
+Leather
+Ivory
+Lanolin
+Manure
+Musk
+Placenta
+Pearl
+Scale
+Sponge
+Tallow
+Shell
+Urine
+Venom
 Coal
 Asphalt
 Tar
