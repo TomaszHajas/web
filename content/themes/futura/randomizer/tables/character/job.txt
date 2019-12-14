@@ -376,6 +376,7 @@ Bookkeeper
 Translator
 Linguist
 Animal Trainer
+Animal Keeper
 Houndmaster
 Molecatcher
 Vet
