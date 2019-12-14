@@ -420,6 +420,7 @@ Coin
 Token
 Abacus
 Lens
+Contact lens
 Glasses
 Telescope
 Magnifying glass
