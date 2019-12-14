@@ -34,6 +34,7 @@ Geyser
 Stream
 Mud pile
 Dirt lump
+Dirt mound
 Dune
 Rift
 Insect colony
