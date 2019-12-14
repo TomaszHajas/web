@@ -211,6 +211,7 @@ Assassin
 Ninja
 Samurai
 Bounty Hunter
+Bondsman
 Groom
 Guard
 Squire
@@ -346,6 +347,7 @@ Lord
 Lady
 Almoner
 Pardoner
+Refugee
 Slave
 Servant
 Dogsbody
