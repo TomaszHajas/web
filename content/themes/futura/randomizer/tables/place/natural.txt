@@ -1,5 +1,6 @@
 Tree
 Branch pile
+Leaf pile
 Bush
 Spiky bush
 Cactus
@@ -16,12 +17,18 @@ Mushroom cluster
 Stone
 Stone pile
 Rock
+Rock pillar
+Rock arc
 Stone rubble
 Mineral cluster
 Ore deposit
 Pond
 Puddle
 Insect colony
+Hive
+Spider web
+Cocoon
+Nest
 Lava
 Fire
 Pit
@@ -36,4 +43,5 @@ Haze
 Mist
 Smoke
 Bone pile
-Dead creature
+Corpse
+Skeleton
