@@ -1026,6 +1026,8 @@ Disinfectant dose
 Antibiotic dose
 Antiseptic dose
 Antitoxin dose
+Antiserum dose
+Truth serum dose
 Cough medicine dose
 Psychothropic dose
 Vitamins dose
