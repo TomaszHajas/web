@@ -150,6 +150,8 @@ Archer
 Crossbowman
 Musketeer
 Gunslinger
+Serviceman
+Gunner
 Grenadier
 Legionnaire
 Interpreter
