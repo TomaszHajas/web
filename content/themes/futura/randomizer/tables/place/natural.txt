@@ -20,6 +20,7 @@ Mushroom circle
 Mushroom cluster
 Stone
 Stone pile
+Boulder
 Rock
 Rock pillar
 Rock arch
