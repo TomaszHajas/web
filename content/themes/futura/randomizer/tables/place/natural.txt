@@ -1,7 +1,11 @@
 Tree
+Dead tree
+Vine
+Fern patch
 Branch pile
 Leaf pile
 Bush
+Dead bush
 Spiky bush
 Cactus
 Flower patch
@@ -18,18 +22,26 @@ Stone
 Stone pile
 Rock
 Rock pillar
-Rock arc
+Rock arch
+Rock spike
 Stone rubble
 Mineral cluster
 Ore deposit
+Meteorite
 Pond
 Puddle
+Geyser
+Stream
+Mud pile
+Dirt lump
+Dune
+Rift
 Insect colony
 Hive
-Spider web
+Web
 Cocoon
 Nest
-Lava
+Lava pool
 Fire
 Pit
 Crevice
@@ -43,5 +55,10 @@ Haze
 Mist
 Smoke
 Bone pile
-Corpse
-Skeleton
+Humanoid corpse
+Animal corpse
+Humanoid skeleton
+Animal skeleton
+Blood spattering
+Humanoid footprints
+Animal footprints
