@@ -178,7 +178,9 @@ Codex
 Paper sheet
 Origami swan
 Eraser
+Dry-eraser
 Crayon
+Marker
 Pen
 Pencil
 Ink
