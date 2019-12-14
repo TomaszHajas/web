@@ -191,3 +191,7 @@ Macabre
 Magnificent
 Gruesome
 Ornate
+Warped
+Well-crafted
+Distorted
+Well-made
