@@ -41,6 +41,10 @@ Pit
 Pitfall
 Pool
 Trap
+Pitfall trap
+Object-fall trap
+Weapon trap
+Cage trap
 Maypole
 Totem
 Signpost
@@ -147,6 +151,12 @@ Torch stand
 Chandelier
 Brazier
 Bonfire
+Stone pile
+Scrap pile
+Wood pile
+Hay bale
+Dumpster
+Garbage bin
 Siege Tower
 Trebuchet
 Catapult
