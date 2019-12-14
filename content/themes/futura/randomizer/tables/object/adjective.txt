@@ -168,6 +168,8 @@ Disinfected
 Electric
 Bloodstained
 Metallic
+Stone
+Bone
 Wooden
 Flat
 Jagged
