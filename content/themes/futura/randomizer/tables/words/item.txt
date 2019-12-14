@@ -175,6 +175,7 @@ Comb
 Papyrus scroll
 Clay tablet
 Codex
+Stick-it note
 Paper sheet
 Origami swan
 Eraser
@@ -236,6 +237,7 @@ Bowl
 Dog bowl
 Ashtray
 Tray
+Smoking pipe
 Cigarette
 Cigarette pack
 Bong
