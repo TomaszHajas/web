@@ -144,7 +144,7 @@ Bar Juchne (Jewish) - Gigantic bird
 Barnacle Geese (Medieval folklore) - Geese which hatch from barnacles
 Barong (Balinese) - Tutelary spirit
 Basajaun (Basque) - Ancestral, megalith-building race
-BasCelik (Serbian) - Powerful, evil winged man whose soul is not held by his body and can be subdued only by causing him to suffer dehydration
+Bas Celik (Serbian) - Powerful, evil winged man whose soul is not held by his body and can be subdued only by causing him to suffer dehydration
 Bashe (Chinese) - Elephant-swallowing serpent
 Basilisco Chilote (Chilota) - Chicken-serpent hybrid
 Basilisk (Italian) - Multi-limbed, venomous lizard
@@ -152,8 +152,6 @@ Batibat (Philippine) - Female night-demon
 Batsu (Chinese) - Drought spirit
 Baubas (Lithuanian) - Malevolent spirit
 Baykok (Ojibwa) - Flying skeleton
-Beast of Bray Road (American Folklore) - Werewolf
-Bean Nighe (Irish) - Death spirit; a type of Banshee/Bean Sídhe)
 Behemoth (Jewish) - Massive beast, possibly like a dinosaur or crocodile
 Bendigeidfran (Welsh) - Giant king
 Bennu (Egyptian) - Heron-like, regenerative bird, equivalent to (or inspiration for) the Phoenix
@@ -192,7 +190,7 @@ Bozaloshtsh (Slavic) - Death spirit
 Brag (English) - Malevolent water horse
 Brownie (English and Scottish) - Benevolent household spirit
 Broxa (Jewish) - Nocturnal bird that drains goats of their milk
-Bokkenrijders (Dutch) - Ghosts/devils riding flying goats; co-opted by bandits to instil fear during raids
+Bokkenrijder (Dutch) - Ghosts/devils riding flying goats; co-opted by bandits to instil fear during raids
 Bugbear (English) - Bearlike goblin
 Buggane (Manx) - Ogre-like humanoid
 Bugul Noz (Celtic) - Extremely ugly, but kind, forest spirit
@@ -210,7 +208,6 @@ Caipora (Tupi) - Fox-human hybrid and nature spirit
 Caladrius (Medieval Bestiary) - White bird that can foretell if a sick person will recover or die
 Calingi (Medieval Bestiary) - Humanoid with an eight-year lifespan
 Callitrix (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
-Calydonian Boar (Greek) - Giant, chthonic boar
 Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
 Camahueto (Chilota) - One-horned calf
 Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
@@ -271,8 +268,6 @@ Cirein cròin (Scottish) - Sea serpent
 Coblynau (Welsh) - Little people and mine spirits
 Cockatrice (Medieval Bestiaries) - Chicken-lizard hybrid
 Colo Colo (Mapuche) - Rat-bird hybrid that can shapeshift into a serpent
-Corycian nymphs (Greek) - Nymph of the Corycian Cave
-Cretan Bull (Greek) - Monstrous bull
 Crinaeae (Greek) - Fountain nymph
 Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
@@ -296,7 +291,7 @@ Daitya (Hindu) - Giant
 Danava (Hindu) - Water demon
 Daphnaie (Greek) - Laurel tree nymph
 Datsue-ba (Japanese) - Old woman who steals clothes from the souls of the dead
-Dead Sea Apes (Islamic) - Human tribe turned into apes for ignoring Moses' message
+Dead Sea Ape (Islamic) - Human tribe turned into apes for ignoring Moses' message
 Ded Moroz (Russia) - A winter spirit who gives gifts to children on New Year's Eve
 Deer Woman (Native American) - Human-deer hybrid
 Deity (Global) - Preternatural or supernatural possibly immortal being
@@ -371,10 +366,8 @@ Ent (worldwide/fantasy) -Living tree that is said to live for years
 Epimeliad (Greek) - Apple tree nymph
 Erchitu (Sardinia) - Ox-human, wereox
 Er Gui (Chinese) - Hungry ghost
-Erinyes (Greek) - Winged spirits of vengeance or justice, also known as Furies
+Erinys (Greek) - Winged spirits of vengeance or justice, also known as Furies
 Erlking (German) - Death spirit
-Erymanthian Boar (Greek) - Giant boar
-Ethiopian Pegasus (Medieval Bestiaries) - Horned, winged horse
 Etiäinen (Finnish mythology) - Spirit being of a living person
 Ettin (English) - Three-headed giant
 Eurynomos (Greek) - Blue-black, carrion-eater in the underworld
@@ -385,7 +378,7 @@ Fafnir (Germanic mythology) - Dwarf who was cursed and turned into a dragon. He 
 Fairy (Many cultures worldwide) - Nature spirits
 Familiar (English) - Animal servant
 Far darrig (Irish) - Little people that constantly play pranks
-The Fates (Greek) - Three time-controlling sisters
+The Fate (Greek) - Three time-controlling sisters
 Faun (Roman) - Human-goat hybrid nature spirit
 Fear gorta (Irish) - Hunger ghost
 Feathered Serpent - Mesoamerican dragon
@@ -435,7 +428,7 @@ Giant (Worldwide) - Immensely large and strong humanoids
 Giant animal (Worldwide) - Unusually large beasts
 Gichi-anami'e-bizhiw (Ojibwa) - Bison-snake-bird-cougar hybrid water spirit
 Gidim (Sumerian) - Ghost
-Gigantes (Greek) - Race of giants that fought the Olympian gods, sometimes depicted with snake-legs
+Gigante (Greek) - Race of giants that fought the Olympian gods, sometimes depicted with snake-legs
 Gigelorum (Scottish) - Smallest animal
 Girtablilu (Akkadian) - Human-scorpion hybrid
 Gjenganger (Scandinavian) - Corporeal ghost
@@ -472,7 +465,6 @@ Gytrash (Lincolnshire and Yorkshire) - Black dog
 Gyūki (Japanese) - Bull-headed monster
 Habrok (Norse) - listed as the "best" hawk
 Hadhayosh (Persian) - gigantic land animal
-Hades (Greek) - Ruler of the Underworld
 Haetae (Korean) - dog-lion hybrid
 Hag (Many cultures worldwide) - wise old woman who is usually a malevolent spirit or a disguised goddess
 Haietlik (Nuu-chah-nulth) - water serpent
@@ -499,7 +491,6 @@ Heikegani (Japanese) - crabs with human-faced shells, the spirits of warriors ki
 Heinzelmännchen (German) - household spirit
 Helead (Greek) - fen nymph
 Hellhound (Many cultures worldwide) - underworld dog
-Heracles (Greek) - gatekeeper of Olympus
 Hercinia (Medieval Bestiaries) - glowing bird
 Herensuge (Basque) - dragon
 Hesperides (Greek) - nymph daughters of Atlas
@@ -592,7 +583,6 @@ Jengu (Sawa) - Water spirit
 Jentil (Basque) - Megalith-building giant
 Jenu (Mi'kmaq) - Anthropophagous giant
 Jerff (Swedish) - Gluttonous dog-cat-fox hybrid
-Jersey Devil (American) - Demonic dragon or flying demon who was given birth to by an American living in New Jersey
 Jian (Chinese) - One-eyed, one-winged bird who requires a mate for survival
 Jiangshi (Chinese) - Life-draining, reanimated corpse
 Jiaolong (Chinese) - Dragon
@@ -613,7 +603,7 @@ Kabouter (Dutch) - Little people that live underground, in mushrooms, or as hous
 Kachina (Hopi and Puebloan) - Nature spirit
 Kahaku (Japanese) - Little people and water spirits
 Kajsa (Scandinavian) - Wind spirit
-Kalakeyas (Hindu) - Descendants of Kala
+Kalakeya (Hindu) - Descendants of Kala
 Kallikantzaroi (Greek) - Grotesque, malevolent spirit
 Kamaitachi (Japanese) - Wind spirit
 Kamatayan (Philippine) - Philippine counterpart of Death
@@ -741,8 +731,6 @@ Leuce (Greek) - White poplar tree nymph
 Leucrota (Medieval Bestiary) - Crocotta-lion hybrid
 Leviathan (Jewish) - Sea monster seen in Job 41
 Leyak (Balinese) - Anthropophagous flying head with entrails
-Libyan Aegipanes (Medieval Bestiaries) - Human-horse hybrid
-Libyan Satyr (Medieval Bestiaries) - Human-goat hybrid
 Lidérc (Hungary) - Magical chicken that transforms into a humanoid
 Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
 Likho (Slavic) - One-eyed hag or goblin
@@ -795,7 +783,7 @@ Marabbecca (Italian folklore) - Malevolent water spirit
 Mares of Diomedes (Greek mythology) - Man-eating horses
 Marid (Arabian mythology) - Jinn associated fortune tellers
 Marmennill (Norse mythology) - mermen with prophetic abilities
-Maro deivės (Lithuanian mythology) - Disease spirits
+Maro deivė (Lithuanian mythology) - Disease spirits
 Maski-mon-gwe-zo-os (Abenaki mythology) - Shapeshifting toad spirit
 Matagot (French mythology) - Spirit that takes animal form; usually that of a black cat
 Matsya (Hindu mythology) - First Avatar of Vishnu in the form of a half-fish and half-man
@@ -831,11 +819,11 @@ Mono Grande (South America) - Giant monkey
 Monopod (Medieval bestiaries) - Dwarf with one giant foot
 Mooinjer veggey (Manx folklore) - Nature spirit
 Mora (Slavic mythology) - Disembodied spirit
-Morgens (Breton and Welsh mythology) - Water spirits
+Morgen (Breton and Welsh mythology) - Water spirits
 Morinji-no-okama (Japanese mythology) - Animated tea kettle
 Mormolykeia (Greek) - Underworld spirit
 Moroi (Romanian) - Vampiric ghost
-Moss people (Continental Germanic mythology) - Little people and tree spirits
+Moss man (Continental Germanic mythology) - Little people and tree spirits
 Mujina (Japanese mythology) - Shapeshifting badger spirit
 Muldjewangk (Australian Aboriginal mythology) - Water monster
 Multo (Philippine mythology) - Spirit of a deceased person seeking justice or has unfinished business
@@ -848,7 +836,7 @@ Myling (Scandinavian folklore) - Ghosts of unbaptized children
 Myrmecoleon (Medieval bestiaries) - Ant-lion hybrid
 Nachzehrer (German) - Anthropophagous undead
 Nāga (Buddhist and Hindu) - Nature and water spirits, serpentine or human-serpent hybrids
-Naga fireballs (Thai) - Spectral fire
+Naga fireball (Thai) - Spectral fire
 Nagual (Mesoamerica) - Human-animal shapeshifter
 Naiad (Greek) - Freshwater nymph
 Näkki (Finnish) - Water spirit
@@ -870,13 +858,12 @@ Neck (Germanic mythology) - Female water spirit
 Negret (Catalan) - Little people that turn into coins
 Nekomata (Japanese) - Split-tailed magical cat
 Nekomusume (Japanese) - Cat in the form of a girl
-Nemean Lion (Greek) - Lion with impenetrable skin
 Nephilim (Abrahamic mythology) - Gigantic sons of Grigori and human women
 Nereid (Greek) - Nymph daughters of Nereus
 Ngen (Mapuche) - Nature spirit
 Nguruvilu (Mapuche) - Fox-like water snake
 Nian (Chinese) - Predatory animal
-Nightmarchers (Hawaiian) - Warrior ghosts
+Nightmarcher (Hawaiian) - Warrior ghosts
 Nikusui (Japanese) - Monster which appears as a young woman and sucks all of the flesh off of its victim's body
 Nimerigar (Shoshone) - Aggressive little people
 Ningyo (Japanese) - Monkey-fish hybrid
@@ -942,10 +929,10 @@ Orthrus (Greek) - Two-headed dog
 Otso (Finnish) - Bear spirit
 Ouroboros (Worldwide) - Mystic serpent/dragon that eats its own tail
 Ovinnik (Slavic) - Malevolent threshing house spirit
-Paasselkä devils (Finnish) - Spectral fire
+Paasselkä devil (Finnish) - Spectral fire
 Pamola (Abenaki) - Weather spirit
 Pandi (Medieval Bestiary) - White-haired humanoid with giant ears and eight fingers and toes
-Panis (Hindu) - Demons with herds of stolen cows
+Pani (Hindu) - Demons with herds of stolen cows
 Panlong (Chinese) - Water dragon
 Panotti (Medieval Bestiaries) - Humanoid with gigantic ears
 Panther (Medieval Bestiaries) - Feline with sweet breath
@@ -1029,7 +1016,6 @@ Raróg (Slavic) - Whirlwind spirit
 Raven Mocker (Cherokee) - Life-draining spirit
 Raven Spirit (Native American, Norse, and Siberian) - Trickster spirit
 Ratatoskr (Norse) - Squirrel spirit
-Raystown Ray (American Folklore) - Possible plesiosaur or serpent
 Redcap (English) - Evil, ugly humanoid
 Re’em (Jewish) - Gigantic land animal
 Reichsadler (Heraldic) - Eagle, sometimes depicted with two heads
@@ -1053,7 +1039,6 @@ Samodiva (Slavic) - Nature spirit
 Sandman (Northern Europe) - Nursery spirit that induces sleep in children
 Sango (South Western Nigeria) - Yoruba king of arts, music, dance and entertainment
 Santelmo (Philippine) - Spirits in the form of fireballs that roam around the forest
-Santa Claus (North Pole) - An elderly man who gives present to children
 Sânziană (Romanian) - Nature spirit
 Sarimanok (Philippine) - Bird of good fortune
 Sarngika (Hindu) - Bird spirit
@@ -1080,7 +1065,7 @@ Serpent (Worldwide) - Snake spirit
 Serpopard (Ancient Egypt) - Serpent-leopard hybrid
 Shachihoko (Japanese) - Tiger-carp hybrid
 Shade (Worldwide) - Spiritual imprint
-Shadow People (American) - Malevolent ghost
+Shadow Man (American) - Malevolent ghost
 Shahbaz (Persian) - Giant eagle or hawk
 Shaitan (Islam) - Islamic version of the Devil (Lucifer) from the Bible
 Shang-Yang (Chinese) - Rain bird
@@ -1149,7 +1134,6 @@ Strix (Roman) - Vampiric bird
 Struthopodes (Medieval Bestiaries) - Humanoid whose males have enormous feet, and females have tiny feet
 Strzyga (Slavic) - Vampiric undead
 Stuhać (Slavic) - Malevolent mountain spirit
-Stymphalian Bird (Greek) - Metallic bird
 Suangi (New Guinea) - Cannibalistic sorcerer
 Succubus (Medieval folklore) - Female night-demon
 Sudice (Slavic) - Fortune spirit
@@ -1170,7 +1154,6 @@ Tachash (Jewish) - Large land animal
 Taimatsumaru (Japanese) - Tengu surrounded in demonic fire
 Takam (Persian) - Nature spirit
 Taka-onna (Japanese) - Female spirit which can stretch itself to peer into the second story of a building
-Talos (Greek) - Giant made of bronze
 Tangie (Scottish) - Shapeshifting water spirit
 Taniwha (Māori) - Water spirit
 Tantankororin (Japanese) - Unharvested persimmon which becomes a monster
@@ -1192,7 +1175,6 @@ Tennin (Japanese) - Angelic humanoid
 Te-no-me (Japanese) - Ghost of a blind man, with his eyes on his hands
 Tepegoz (Azerbaijani) - Azerbaijani mythical creature similar to the cyclops Polyphemus
 Terrible Monster (Jewish) - Lion-eagle-scorpion hybrid made from the blood of murder victims
-Teumessian Fox (Greek) - Gigantic fox
 Thayer's Gull- A mythical seagull that lures twitchers to their death.
 Theriocephalus (Medieval folklore) - Animal-headed humanoid
 Three-legged bird (Asia and Africa) - Solar bird
@@ -1222,7 +1204,7 @@ Trauco (Chilota) - Fertility spirit
 Trenti (Cantabrian) - Diminutive demon
 Trickster - Character in a story which exhibits a great degree of intellect or secret knowledge, and uses it to play tricks or otherwise disobey normal rules and conventional behaviour
 Tripurasura (Hindu) - Demonic inhabitants of Tripura
-Tritons (Greek) - Male human-fish hybrid
+Triton (Greek) - Male human-fish hybrid
 Troll (Norse) - Nature spirit
 Trow (Orkney and Shetland) - Little people and nature spirits
 Tsi-noo (Abenaki) - Vampiric demon
@@ -1388,3 +1370,40 @@ Zombie (Vodou/Worldwide) - Re-animated corpse
 Zorigami (Japanese) - Animated clock
 Zuijin (Japanese) - Tutelary spirit
 Zunbera-bō (Japanese) - Faceless ghost
+Balrog (Fantasy)
+Dark dwarf (Fantasy)
+High elf (Fantasy)
+Wood elf (Fantasy)
+Dark elf (Fantasy)
+Halfling (Fantasy)
+Orc (Fantasy)
+Uruk (Fantasy)
+Olog (Fantasy)
+Stone-troll (Fantasy)
+Were-worm (Fantasy)
+Djinn (Fantasy)
+Colossus (Fantasy)
+Archangel (Fantasy)
+Seraph (Fantasy)
+Treant (Fantasy)
+Fiend (Fantasy)
+Devil (Fantasy)
+Archdevil (Fantasy)
+Wight (Fantasy)
+Ghost (Fantasy)
+Lich (Fantasy)
+Archlich (Fantasy)
+Air elemental (Fantasy)
+Fire elemental (Fantasy)
+Energy elemental (Fantasy)
+Earth elemental (Fantasy)
+Water elemental (Fantasy)
+Ice elemental (Fantasy)
+Storm elemental (Fantasy)
+Magma elemental (Fantasy)
+Troglodyte (Fantasy)
+Gnoll (Fantasy)
+Lizardman (Fantasy)
+Beholder (Fantasy)
+Dendroid (Fantasy)
+Efreet (Fantasy)
