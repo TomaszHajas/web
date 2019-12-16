@@ -218,7 +218,7 @@ Canaima
 Canotila
 Caoineag
 Čhápa
-Chareng(Manipuri)-Semi-hornbill, semi-human creature
+Chareng
 Căpcăun
 Carbuncle
 Catoblepas
@@ -741,7 +741,6 @@ Lindworm
 Ljósálfar
 Ljubi
 Llamhigyn Y Dwr
-Loch Ness Monster
 Lo-lol
 Lóng
 Longana
@@ -1022,7 +1021,6 @@ Reichsadler
 Rephaite
 Reptilian humanoid
 Revenant
-Robin Hood
 Roc
 Rokurokubi
 Rompo
@@ -1175,7 +1173,7 @@ Tennin
 Te-no-me
 Tepegoz
 Terrible Monster
-Thayer's Gull- A mythical seagull that lures twitchers to their death.
+Thayer's Gull
 Theriocephalus
 Three-legged bird
 Thunderbird
@@ -1278,7 +1276,7 @@ Water monkey
 Water sprite
 Wati-kutjara
 Wa-won-dee-a-megw
-Weisse Frauen
+Weisse Frau
 Wekufe
 Wendigo
 Wentshukumishiteu
