@@ -80,7 +80,6 @@ Caoineag (Scottish) - Death spirit (a particular type of Banshee/Bean Sídhe)
 Căpcăun (Romanian) - Large, monstrous humanoid
 Carbuncle (Latin America) - Small creature with a jewel on its head
 Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
-Cat Sidhe (Scottish) - Fairy cat
 Ceffyl Dŵr (Welsh) - Malevolent water horse
 Centaur (Greek) - Human-horse hybrid
 Centicore (Indian) - Horse-Antelope-Lion-Bear hybrid
@@ -177,15 +176,12 @@ Fish-man (Cantabrian) - Amphibious, scaled humanoid
 Fomorian (Irish) - Goat-headed giant
 Forest Bull (Medieval Bestiaries) - Giant horned red cattle
 Freybug - Norfolk black dog
-Fuath (Celtic) - Malevolent water spirit
 Gancanagh (Irish) - Male fairy that seduces human women
 Gargouille (French) - Water dragon
 Garmr (Norse) - Giant, ravenous hound
 Garuda (Hindu) - Human-eagle hybrid
 Ged (Heraldic) - The fish pike
 Gegenees (Greek) - Six-armed giant
-Genius loci (Roman) - Spirit that protects a specific place
-German (Slavic) - Male spirit associated with bringing rain and hail
 Geryon (Greek) - Three-headed six-armed giant with three torsos and (in some sources) six legs
 Ghillie Dhu (Scottish) - Tree guardian
 Ghost - Disembodied spirits of those that have died
@@ -205,20 +201,16 @@ Gorgon (Greek) - Fanged, snake-haired humanoids that turn anyone who sees them i
 Grassman (Ohio, USA) - Ape-like cryptid
 Gremlin (Folklore) - Creatures that sabotage airplanes
 Griffin (Heraldic) - Lion-eagle hybrid
-Grim (English and Scandinavian) - Tutelary spirits of churches
 Grim Reaper (Worldwide) - Death angel often thought to be God's/Satan's assistant
-Grindylow (English) - Malevolent water spirit
 Guardian angel (Christian, Jewish, and Islamic belief) - Subclassification of angels that guard and protect a specific person or living being
 Gulon (Germanic) - Gluttonous dog-cat-fox hybrid
 Gwyllgi (Welsh) - Black dog
-Gwyllion (Welsh) - Malevolent spirit
 Gyascutus (American folklore) - Four-legged herbivore
 Habrok (Norse) - listed as the "best" hawk
 Hag (Many cultures worldwide) - wise old woman who is usually a malevolent spirit or a disguised goddess
 Half-elf (Norse) - human-elf hybrid
 Harpy (Greek) - birdlike human-headed death spirit
 Haugbui (Norse) - undead being who cannot leave its burial mound
-Havsrå (Norse) - saltwater spirit
 Headless Horseman (European) - humanoid spirit who haunts or kills
 Headless Mule (Brazilian) - fire-spewing, headless, spectral mule
 Hecatonchires (Greek) - primordial giants with 100 hands and fifty heads
@@ -231,14 +223,11 @@ Hippocamp (Etruscan, Greek and Phoenician) - horse-fish hybrid
 Hippogriff (Medieval Bestiaries) - hybrid of a griffin and horse; a lion-eagle-horse hybrid
 Hippopodes (Medieval Bestiary) - horse-hoofed humanoid
 Hircocervus (Medieval Bestiary) - deer-goat hybrid
-Hob (English) - house spirit
-Hobbididance (English) - malevolent spirit
 Hobgoblin (Medieval) - friendly or amusing goblin
 Hodag (Native American) - frog-mammoth-lizard hybrid
 Hombre Gato (Latin America) - human-cat hybrid
 Homunculus (Alchemy) - small animated construct
 Hoop snake - snake which rolls by taking its tail in its mouth
-Horned Serpent (Native American) - serpentine rain spirit
 Hraesvelg (Norse) - giant, who in eagle form, creates the wind by beating his wings
 Hrímþursar (Norse) - frost giants who are the main inhabitants of either Jotunheim or Niflheim
 Hydra (Greek) - multi-headed water serpent/dragon
@@ -247,12 +236,10 @@ Hydrus (Medieval Bestiary) - snake from the Nile River that would kill crocodile
 Hypnalis (Medieval Bestiary) - snake that kills its victims in their sleep
 Ichneumon (Medieval Bestiaries) - Dragon-killing animal
 Ichthyocentaur (Greek) - Human-fish-horse hybrid
-Iele (Romanian) - Female nature spirits
 Ifrit (Arabian) - Fire genie
 Imp (Medieval) - Small demonic servant
 Incubus (Medieval folklore) - Male night-demon and seducer
 Indus Worm (Medieval Bestiaries) - Giant, white, carnivorous worm
-Ior (Romanian) - Giant creature, with good spirit
 Ipotane (Greek) - Two-legged horse-human hybrid, (as opposed to the four-legged centaur)
 Island Satyr (Medieval Bestiaries) - Savage human-goat hybrid from a remote island chain
 Jackalope (American) - Rabbit with antlers
@@ -263,43 +250,27 @@ Jasconius (Medieval folklore) - Island-sized fish
 Jaud (Slavic) - Vampirised premature baby
 Jinn (Arabian, Islamic) - Spiritual creatures; genii
 Jörmungandr (Norse) - Sea serpent
-Jötunn (Norse) - Gigantic nature spirits
-Kabouter (Dutch) - Little people that live underground, in mushrooms, or as house spirits
-Kallikantzaroi (Greek) - Grotesque, malevolent spirit
 Kappa (Japanese) - Little people and water spirit
 Karkinos (Greek) - Giant crab
-Karzełek (Polish) - Little people and mine spirits
 Kelpie (Irish and Scottish) - Malevolent water horse
-Ker (Greek) - Female death spirit
 Keythong (Heraldic) - Wingless griffin
 Colchis bull (Greek) - Bronze-hoofed bulls
 Kikimora (Slavic) - Female house spirit
-Killmoulis (English and Scottish) - Ugly, mischievous mill spirit
 Kirin (Japanese) - Japanese Unicorn
-Klabautermann (German) - Ship spirit
-Knocker (folklore) (Cornish and Welsh) - Little people and mine spirits
 Knucker (English) - Water dragon
 Kobalos (Greek) - Goblin like thieves and tricksters
 Kobold (German) - Little people and mine or house spirits
-Kofewalt (Germanic) - House spirit
 Kraken (Scandinavian) - Sea monster
-Krasnoludek (Slavic) - Little people nature spirits
 Krampus (Germany) - A Christmas Devil and opponent of Santa Claus
-Lady midday (Slavic) - Sunstroke spirit
 Ladon (Greek) - Dragon guarding the golden apples of the Hesperides
 Laelaps (Greek) - Enchanted dog that always caught his prey
 Laestrygonians (Greek) - Anthropophagic giants
-Lakanica (Slavic) - Field spirit
 Lake monster (Worldwide) - Gigantic animals reported to inhabit various lakes around the world
-La Llorona (Latin America) - Death spirit associated with drowning
 Lamassu (Akkadian and Sumerian) - Protective spirit with the form of a winged bull or human-headed lion
 Lambton Worm (English) - Giant worm
 Lamia (Greek) - Child-devouring monster
-Landvættir (Norse) - Nature spirits
-Lares (Roman) - House spirit
 Lava bear - Miniature bear thought to inhabit the lava beds of south central Oregon
 Lavellan (Scottish) - Gigantic water rat
-Leanan sidhe (Celtic) - Fairy lover
 Leanashe (Irish) - Possessing spirit or vampire
 Leontophone (Medieval Bestiary) - Tiny animal poisonous to lions
 Leprechaun (Irish) - Cobbler spirit
@@ -309,10 +280,7 @@ Leviathan (Jewish) - Sea monster seen in Job 41
 Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
 Likho (Slavic) - One-eyed hag or goblin
 Lindworm (Germanic) - Dragon
-Ljósálfar (Norse) - Sunlight spirits; the Light Elves
 Llamhigyn Y Dwr (Welsh) - Frog-bat-lizard hybrid
-Loch Ness Monster (Scottish) - Serpentine sea monster
-Longana (Italian) - Female human-goat hybrid and water spirit
 Loogaroo (French America) - Shapeshifting, female vampire
 Lou Carcolh (French) - Snake-mollusk hybrid
 Loup-garou (French) - Werewolf
@@ -320,17 +288,14 @@ Lubber fiend (English) - House spirit
 Lusca - Sea Monster
 Lutin (French) - Amusing goblin
 Lycanthrope (Greek) - Werewolf
-Lynx (Medieval Bestiaries) - Feline guide spirit
 Machlyes (Medieval bestiaries) - Hermaphroditic humanoid
 Macrocephali (Medieval bestiaries) - Giant-headed humanoid
 Magog (English folklore) - Giant protector of London
-Mallt-y-Nos (Welsh mythology) - Spirit of the hunt
 Mandi (Medieval bestiaries) - Humanoid with a forty-year lifespan
 Mandrake (Medieval folklore) - Diminutive, animated construct
 Manes (Roman mythology) - Ancestral spirits
 Manticore (Persian mythology) - Lion-human-scorpion hybrid
 Mara (Scandinavian folklore) - Female night-demon
-Marabbecca (Italian folklore) - Malevolent water spirit
 Mares of Diomedes (Greek mythology) - Man-eating horses
 Marmennill (Norse mythology) - mermen with prophetic abilities
 Matagot (French mythology) - Spirit that takes animal form; usually that of a black cat
@@ -340,28 +305,23 @@ Mermaid/Merman (multiple cultures) - Human-fish hybrid
 Merlin (English mythology) - An elderly wizard
 Merrow (Irish mythology and Scottish) - Human-fish hybrid
 Minotaur (Greek mythology) - Human-bull hybrid
-Mohan (Latin American folklore) - Nature spirit
 Monocerus (Medieval bestiaries) - One-horned stag-horse-elephant-boar hybrid, sometimes treated as distinct from the unicorn
 Mono Grande (South America) - Giant monkey
 Monopod (Medieval bestiaries) - Dwarf with one giant foot
 Mora (Slavic mythology) - Disembodied spirit
 Morgen (Breton and Welsh mythology) - Water spirits
-Mormolykeia (Greek) - Underworld spirit
 Moroi (Romanian) - Vampiric ghost
 Moss man (Continental Germanic mythology) - Little people and tree spirits
 Mummy (Egyptian) - Undead creature who revives
 Muma Pădurii (Romanian folklore) - Forest-dwelling hag
 Muscaliet (Medieval bestiaries) - Hare-squirrel-boar hybrid that has an intense body heat
-Muse (Greek mythology) - Spirits that inspire artists
 Musimon (Heraldic) - Sheep-goat hybrid
 Myrmecoleon (Medieval bestiaries) - Ant-lion hybrid
 Nachzehrer (German) - Anthropophagous undead
 Nāga (Buddhist and Hindu) - Nature and water spirits, serpentine or human-serpent hybrids
 Nagual (Mesoamerica) - Human-animal shapeshifter
 Naiad (Greek) - Freshwater nymph
-Narecnitsi (Slavic) - Fate spirit
 Nav' (Slavic) - Ghost
-Neck (Germanic mythology) - Female water spirit
 Nephilim (Abrahamic mythology) - Gigantic sons of Grigori and human women
 Nereid (Greek) - Nymph daughters of Nereus
 Níðhöggr (Norse) - Dragon
@@ -369,10 +329,8 @@ Nix (Germanic) - Female water spirit
 Nocnitsa (Slavic) - Nightmare spirit
 Nuckelavee (Scottish) - Malevolent human-horse-fish hybrid
 Nuli (Medieval Bestiary) - Humanoid with backwards, eight-toed feet
-Numen (Roman) - Tutelary spirit
 Nymph (Greek) - Nature spirit
 Oceanid (Greek) - Nymph daughters of Oceanus
-Odei (Basque) - Storm spirit
 Odmience (Slavic) - Changeling
 Ogre (Medieval folklore) - Large, grotesque humanoid
 Okuri-inu (Japanese) - Dog or wolf that follows travelers at night, similar to the Black dog of English folklore
@@ -387,7 +345,6 @@ Orobas (European) - Horse-headed, honest oracle classed as a demon
 Orphan Bird (Medieval Bestiaries) - Peacock-eagle-swan-crane hybrid
 Orthrus (Greek) - Two-headed dog
 Ouroboros (Worldwide) - Mystic serpent/dragon that eats its own tail
-Ovinnik (Slavic) - Malevolent threshing house spirit
 Pandi (Medieval Bestiary) - White-haired humanoid with giant ears and eight fingers and toes
 Panotti (Medieval Bestiaries) - Humanoid with gigantic ears
 Panther (Medieval Bestiaries) - Feline with sweet breath
@@ -408,20 +365,16 @@ Poltergeist (German) - Ghost that moves objects
 Pricolici (Romanian - Roman) - Undead wolf
 Psotnik (Slavic) - Mischievous spirit
 Psychopomp (Greek) - Creatures, spirits, angels, or deities in many religions who escort newly deceased souls from Earth to the afterlife
-Púca (Welsh) - Shapeshifting animal spirit
 Puck (English) - House spirit
-Putz (German) - House spirit
 Puckwudgie (Native American mythology) - Troll-like gray-skinned being
 Pygmy (Greek) - Little people
 Pyrausta (Greek) - Insect-dragon hybrid
 Python (Greek) - Serpentine dragon
 Quinotaur (Frankish) - Five-horned bull
-Rå (Norse) - Spirit that protects a specific place
 Rain Bird (Native American) - Rain spirit
 Rakshasa (Buddhist and Hindu) - Shapeshifting demon
 Raróg (Slavic) - Whirlwind spirit
 Raven Spirit (Native American, Norse, and Siberian) - Trickster spirit
-Ratatoskr (Norse) - Squirrel spirit
 Redcap (English) - Evil, ugly humanoid
 Reichsadler (Heraldic) - Eagle, sometimes depicted with two heads
 Reptilian humanoid (Global) - Human-lizard hybrid
@@ -433,7 +386,6 @@ Ryū - Japanese dragon
 Salamander (Alchemy) - Fire elemental
 Samodiva (Slavic) - Nature spirit
 Sandman (Northern Europe) - Nursery spirit that induces sleep in children
-Sânziană (Romanian) - Nature spirit
 Satan (Heaven) - Ruler of Hell
 Satyr (Greek) - Human-goat hybrid and fertility spirit
 Satyrus (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
@@ -480,24 +432,19 @@ Strigoi (Romanian) - Vampire
 Strix (Roman) - Vampiric bird
 Struthopodes (Medieval Bestiaries) - Humanoid whose males have enormous feet, and females have tiny feet
 Strzyga (Slavic) - Vampiric undead
-Stuhać (Slavic) - Malevolent mountain spirit
 Succubus (Medieval folklore) - Female night-demon
-Sudice (Slavic) - Fortune spirit
 Svaðilfari (Norse) - Unnatural strong horse, father of Sleipnir
-Svartálfar (Norse) - Cavern spirits; the Black Elves
 The Swallower (Ancient Egyptian) - Crocodile-leopard-hippopotamus hybrid
 Swan maiden (Worldwide) - Swan-human shapeshifter
 Sylph (Alchemy) - Air elemental
 Sylvan (Medieval folklore) - Forest spirit
 Syrbotae (Medieval Bestiaries) - African giant
 Syrictæ (Medieval Bestiaries) - Reptilian humanoid
-Tangie (Scottish) - Shapeshifting water spirit
 Tarasque (French) - Dragon with leonine, turtle, bear, and human attributes
 Tengu (Japanese) - Anthropomorphic bird
 Theriocephalus (Medieval folklore) - Animal-headed humanoid
 Three-legged bird (Asia and Africa) - Solar bird
 Thunderbird (Native American) - Avian lightning bird spirit
-Tiddy Mun (English) - Bog spirit
 Tigris (Jewish) - Giant lion
 Titan (Greek) - Primeval god
 Topielec (Slavic) - Water spirit
@@ -506,31 +453,23 @@ Triton (Greek) - Male human-fish hybrid
 Troll (Norse) - Nature spirit
 Trow (Orkney and Shetland) - Little people and nature spirits
 Tugarin Zmeyevich (Slavic) - Evil shapeshifter
-Tylwyth Teg (Welsh) - Nature spirit
 Typhon (Greek) - Winged, snake-legged giant
 Undead (Worldwide) - Dead that behave as if alive
 Underwater panther (Native American) - Feline water spirit
 Unicorn (Medieval Bestiaries) - Horse-like creature with the legs of an antelope, the tail of a lion and a single magical healing horn.
 Urayuli (Native American) - Hairy giant
 Uriaș (Romanian) - Giant
-Vættir (Norse) - Nature spirit
 Valkyrie (Norse) - Female spirit that leads souls of dead warriors to Valhalla
-Vâlvă (Romanian) - Female nature spirit
 Vampire (Slavic) - Reanimated corpse that feeds on blood
-Vântoase (Romanian) - Female weather spirit
 Vârcolac (Romanian) - Vampire or werewolf
 Vedrfolnir (Norse) - Hawk sitting between the eyes of an eagle in the crown of the World Tree Yggdrasil
 Vielfras (German) - Gluttonous dog-cat-fox hybrid
-Vila (Slavic) - Weather spirit
 Víðópnir, (Norse) - Rooster that sits atop the tree
-Vodyanoy (Slavic) - Male water spirit
 Vrykolakas (Greek) - Undead wolf-human hybrid
-Waldgeist (German) - Forest spirit
 Warg (English and Scandinavian O.N. vargr) - Giant, demonic wolf
 Warlock (Worldwide) - Male witch
 Water monkey (Chinese) - Water spirit
 Water sprite (Alchemy) - Water elemental
-Weisse Frauen (German) - Female spirit
 Wendigo (Algonquian) - Anthropophagous spirit
 Werecat (Worldwide) - Feline-human shapeshifter
 Werehyena (Africa) - Hyena-human shapeshifter
@@ -538,24 +477,18 @@ Werewolf (Worldwide) - Wolf-human shapeshifter
 White Lady (Worldwide) - Ghost of a murdered or mistreated woman
 Wild man (European) - Hairy, bipedal, man-like creature
 Will-o'-the-Wisp (Worldwide) - Spectral fire
-Wirry-cow (Scottish) - Malevolent spirit
 Witch (Worldwide) - Person who practices magic
-Witte Wieven (Dutch) - Female, ancestral spirit
 Wolpertinger (German) - Forest animal comprised from various animal parts (similar to a Chimera)
 Wraith (Scottish) - Water spirit or ghostly apparition
-Wulver (Scottish) - Wolf-headed humanoid spirit
 Wyrm - English dragon
 Wyvern (Germanic Heraldic) - Flying reptile, usually with two legs and two wings
 Yacumama (South America) - Sea monster
 Yale (Medieval Bestiaries) - Antelope- or goat-like animal with swiveling horns
-Yallery-Brown (English) - Nature spirit
 Yaoguai (Chinese) - Animalistic demon or fallen gods
 Yeth hound (English) - Headless dog
 Yeti (Himalayan) - Mountain bigfoot
 Ypotryll (Heraldic) - Boar-camel-ox-serpent hybrid
-Zână (Romanian) - Nature spirit
 Zburator (Romanian) - Wolf-headed dragon
-Zduhać (Slavic mythology) - Disembodied, heroic spirit
 Zhar-Ptitsa (Slavic) - Glowing bird
 Zmeu (Romanian folklore) - Giant with a habit of kidnapping young girls
 Zmiy - Slavic dragon
