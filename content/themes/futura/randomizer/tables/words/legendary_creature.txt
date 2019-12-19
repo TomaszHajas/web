@@ -19,7 +19,6 @@ Antaeus (Greek) - Giant who was extremely strong as long as he remained in conta
 Argus Panoptes (Greek) - Hundred-eyed giant.
 Arimaspi (Greek) - One-eyed humanoid.
 Arion (Greek) - Swift green-maned talking horse.
-Askefrue (Germanic) - Female tree spirit.
 Aspidochelone (Medieval Bestiaries) - Island-sized whale or sea turtle.
 Asrai (English) - Water spirit.
 Astomi (Greek) - Humanoid sustained by pleasant smells instead of food.
@@ -131,7 +130,6 @@ Dragon turtle (Chinese) - Giant turtle with dragon-like head
 Draugr (Norse) - Undead
 Drop Bear (Australian) Large carnivorous koala that hunts by dropping on its prey from trees
 Drow (Scottish) - Cavern spirit
-Drude (German) - Possessing demon
 Dryad (Greek) - Tree nymph
 Duende (Spanish and Portuguese) - Little people and forest spirits
 Duergar (English) - Malevolent little people
@@ -150,11 +148,9 @@ Empusa (Greek) - Female demon that waylays travelers and seduces and kills men
 Enfield (Heraldic) - Fox-greyhound-lion-wolf-eagle hybrid
 Ent (worldwide/fantasy) -Living tree that is said to live for years
 Erinys (Greek) - Winged spirits of vengeance or justice, also known as Furies
-Erlking (German) - Death spirit
 Ettin (English) - Three-headed giant
 Eurynomos (Greek) - Blue-black, carrion-eater in the underworld
 Fachen (Irish and Scottish) - Monster with half a body
-Fafnir (Germanic mythology) - Dwarf who was cursed and turned into a dragon. He was later slain by Sigurd in the Saga of Nibelung.
 Fairy (Many cultures worldwide) - Nature spirits
 Familiar (English) - Animal servant
 Far darrig (Irish) - Little people that constantly play pranks
@@ -194,6 +190,7 @@ Golem (Jewish) - Animated construct
 Gorgades (Medieval Bestiary) - Hairy humanoid
 Gorgon (Greek) - Fanged, snake-haired humanoids that turn anyone who sees them into stone
 Grassman (Ohio, USA) - Ape-like cryptid
+Grendel
 Gremlin (Folklore) - Creatures that sabotage airplanes
 Griffin (Heraldic) - Lion-eagle hybrid
 Grim Reaper (Worldwide) - Death angel often thought to be God's/Satan's assistant
@@ -353,10 +350,8 @@ Peluda (French) - Dragon
 Peryton (Allegedly Medieval folklore) - Deer-bird hybrid
 Phoenix (Phoenician) - Regenerative bird reborn from its own ashes
 Piasa (Native American mythology) - Winged, antlered feline-like dragon
-Plakavac (Slavic) - Vampire created when a mother strangles her child
 Polevik (Polish) - Little people and field spirits
 Poltergeist (German) - Ghost that moves objects
-Pricolici (Romanian - Roman) - Undead wolf
 Psotnik (Slavic) - Mischievous spirit
 Psychopomp (Greek) - Creatures, spirits, angels, or deities in many religions who escort newly deceased souls from Earth to the afterlife
 Puck (English) - House spirit
@@ -367,18 +362,15 @@ Python (Greek) - Serpentine dragon
 Quinotaur (Frankish) - Five-horned bull
 Rain Bird (Native American) - Rain spirit
 Rakshasa (Buddhist and Hindu) - Shapeshifting demon
-Raróg (Slavic) - Whirlwind spirit
 Raven Spirit (Native American, Norse, and Siberian) - Trickster spirit
 Redcap (English) - Evil, ugly humanoid
 Reichsadler (Heraldic) - Eagle, sometimes depicted with two heads
 Reptilian humanoid (Global) - Human-lizard hybrid
 Revenant (Medieval folklore) - Reanimated dead
 Roc (Arabian and Persian) - Gigantic bird
-Rougarou (French America) - Human-wolf shapeshifter
 Rusalka (Slavic) - Female water spirit
 Ryū - Japanese dragon
 Salamander (Alchemy) - Fire elemental
-Samodiva (Slavic) - Nature spirit
 Sandman (Northern Europe) - Nursery spirit that induces sleep in children
 Satan (Heaven) - Ruler of Hell
 Satyr (Greek) - Human-goat hybrid and fertility spirit
@@ -400,13 +392,10 @@ Shade (Worldwide) - Spiritual imprint
 Shadow Man (American) - Malevolent ghost
 Shellycoat (English, Scottish and German, as schellenrocc) - Water spirit
 Shug Monkey (English) - Dog/monkey
-Shunka Warakin (also shunka warak'in) - Animal mentioned in American folklore said to resemble a wolf or hyena
-Sídhe - (Irish and Scottish) - Ancestral or nature spirit
 Sileni (Greek) - Bald, fat, thick-lipped, and flat-nosed followers of Dionysus
 Simargl (Slavic) - Winged dog
 Siren (Greek) - Human-bird hybrid
 Sirin (Slavic) - Demonic human-headed bird
-Sisiutl (American Indian) - Two-headed sea serpent
 Sjörå (Norse) - Freshwater spirit
 Sjövættir (Norse) - Sea spirit
 Skin-walker (American Indian) - Animal-human shapeshifter
@@ -417,7 +406,6 @@ Sleipnir (Norse) - Eight-legged horse
 Sluagh (Irish and Scottish) - Restless ghost
 Spectre (Worldwide) - Terrifying ghost
 Sphinx (Greek) - Winged woman-headed lion
-Spiriduş (Romanian) - Little people
 Spirit - Ghosts
 Spriggan (Cornish) - Guardians of graveyards and ruins
 Sprite (Medieval folklore) - little people, ghosts or elves
@@ -427,7 +415,6 @@ Strix (Roman) - Vampiric bird
 Struthopodes (Medieval Bestiaries) - Humanoid whose males have enormous feet, and females have tiny feet
 Strzyga (Slavic) - Vampiric undead
 Succubus (Medieval folklore) - Female night-demon
-Svaðilfari (Norse) - Unnatural strong horse, father of Sleipnir
 The Swallower (Ancient Egyptian) - Crocodile-leopard-hippopotamus hybrid
 Swan maiden (Worldwide) - Swan-human shapeshifter
 Sylph (Alchemy) - Air elemental
@@ -446,19 +433,12 @@ Trickster - Character in a story which exhibits a great degree of intellect or s
 Triton (Greek) - Male human-fish hybrid
 Troll (Norse) - Nature spirit
 Trow (Orkney and Shetland) - Little people and nature spirits
-Tugarin Zmeyevich (Slavic) - Evil shapeshifter
 Typhon (Greek) - Winged, snake-legged giant
 Undead (Worldwide) - Dead that behave as if alive
 Underwater panther (Native American) - Feline water spirit
 Unicorn (Medieval Bestiaries) - Horse-like creature with the legs of an antelope, the tail of a lion and a single magical healing horn.
-Urayuli (Native American) - Hairy giant
-Uriaș (Romanian) - Giant
 Valkyrie (Norse) - Female spirit that leads souls of dead warriors to Valhalla
 Vampire (Slavic) - Reanimated corpse that feeds on blood
-Vârcolac (Romanian) - Vampire or werewolf
-Vedrfolnir (Norse) - Hawk sitting between the eyes of an eagle in the crown of the World Tree Yggdrasil
-Vielfras (German) - Gluttonous dog-cat-fox hybrid
-Víðópnir, (Norse) - Rooster that sits atop the tree
 Vrykolakas (Greek) - Undead wolf-human hybrid
 Warg (English and Scandinavian O.N. vargr) - Giant, demonic wolf
 Warlock (Worldwide) - Male witch
@@ -476,16 +456,11 @@ Wolpertinger (German) - Forest animal comprised from various animal parts (simil
 Wraith (Scottish) - Water spirit or ghostly apparition
 Wyrm - English dragon
 Wyvern (Germanic Heraldic) - Flying reptile, usually with two legs and two wings
-Yacumama (South America) - Sea monster
 Yale (Medieval Bestiaries) - Antelope- or goat-like animal with swiveling horns
 Yaoguai (Chinese) - Animalistic demon or fallen gods
 Yeth hound (English) - Headless dog
 Yeti (Himalayan) - Mountain bigfoot
 Ypotryll (Heraldic) - Boar-camel-ox-serpent hybrid
-Zburator (Romanian) - Wolf-headed dragon
-Zhar-Ptitsa (Slavic) - Glowing bird
-Zmeu (Romanian folklore) - Giant with a habit of kidnapping young girls
-Zmiy - Slavic dragon
 Zombie (Vodou/Worldwide) - Re-animated corpse
 Balrog (Fantasy)
 Dark dwarf (Fantasy)
