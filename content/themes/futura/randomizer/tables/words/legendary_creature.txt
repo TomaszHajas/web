@@ -10,7 +10,6 @@ Alkonost (Slavic) - Angelic bird with human head and breasts.
 Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
 Alphyn (Heraldic) - Lion-like creature, sometimes with dragon or goat forelegs.
-Alp-luachra (Irish) - Parasitic fairy.
 Amphiptere (Heraldic) - Winged serpent.
 Amphisbaena (Greek) - Serpent with a head at each end.
 Androsphinx (Ancient Egyptian) - Human-headed sphinx.
@@ -105,7 +104,6 @@ Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
 Cuco (Latin America) - Bogeyman
 Cucuy (Latin America) - Malevolent spirit
-Cu Sith (Scottish) - Gigantic fairy dog
 Cŵn Annwn (Welsh) - Underworld hunting dog
 Cyclops (Greek) - One-eyed giant
 Cyhyraeth (Welsh) - Death spirit
@@ -131,7 +129,6 @@ Drakaina (Greek) - Dragons depicted with female characteristics
 Dragon (Many cultures worldwide) - Fire-breathing and (normally) winged reptiles
 Dragon turtle (Chinese) - Giant turtle with dragon-like head
 Draugr (Norse) - Undead
-Drekavac (Slavic) - Restless ghost of an unbaptised child
 Drop Bear (Australian) Large carnivorous koala that hunts by dropping on its prey from trees
 Drow (Scottish) - Cavern spirit
 Drude (German) - Possessing demon
@@ -163,7 +160,6 @@ Familiar (English) - Animal servant
 Far darrig (Irish) - Little people that constantly play pranks
 The Fate (Greek) - Three time-controlling sisters
 Faun (Roman) - Human-goat hybrid nature spirit
-Fear gorta (Irish) - Hunger ghost
 Feathered Serpent - Mesoamerican dragon
 Fenrir (Norse) - Gigantic, ravenous wolf
 Fetch (Irish) - Double or doppelgänger
@@ -176,7 +172,6 @@ Fish-man (Cantabrian) - Amphibious, scaled humanoid
 Fomorian (Irish) - Goat-headed giant
 Forest Bull (Medieval Bestiaries) - Giant horned red cattle
 Freybug - Norfolk black dog
-Gancanagh (Irish) - Male fairy that seduces human women
 Gargouille (French) - Water dragon
 Garmr (Norse) - Giant, ravenous hound
 Garuda (Hindu) - Human-eagle hybrid
@@ -321,7 +316,6 @@ Nachzehrer (German) - Anthropophagous undead
 Nāga (Buddhist and Hindu) - Nature and water spirits, serpentine or human-serpent hybrids
 Nagual (Mesoamerica) - Human-animal shapeshifter
 Naiad (Greek) - Freshwater nymph
-Nav' (Slavic) - Ghost
 Nephilim (Abrahamic mythology) - Gigantic sons of Grigori and human women
 Nereid (Greek) - Nymph daughters of Nereus
 Níðhöggr (Norse) - Dragon
