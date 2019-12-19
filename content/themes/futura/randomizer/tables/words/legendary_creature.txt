@@ -11,7 +11,6 @@ Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
 Alphyn (Heraldic) - Lion-like creature, sometimes with dragon or goat forelegs.
 Alp-luachra (Irish) - Parasitic fairy.
-Alseid (Greek) - Grove nymph.
 Amphiptere (Heraldic) - Winged serpent.
 Amphisbaena (Greek) - Serpent with a head at each end.
 Androsphinx (Ancient Egyptian) - Human-headed sphinx.
@@ -26,7 +25,6 @@ Aspidochelone (Medieval Bestiaries) - Island-sized whale or sea turtle.
 Asrai (English) - Water spirit.
 Astomi (Greek) - Humanoid sustained by pleasant smells instead of food.
 Atomy (English) - Surprisingly small creature.
-Auloniad (Greek) - Pasture nymph.
 Avalerion (Medieval Bestiary) - King of the birds.
 Axex (Ancient Egyptian) - Falcon-lion hybrid.
 Ba (Egyptian) - Soul of the deceased, depicted as a bird or a human-headed bird.
@@ -104,7 +102,6 @@ Cinnamon bird (Medieval Bestiaries) - Giant bird that makes its nest out of cinn
 Cirein cròin (Scottish) - Sea serpent
 Coblynau (Welsh) - Little people and mine spirits
 Cockatrice (Medieval Bestiaries) - Chicken-lizard hybrid
-Crinaeae (Greek) - Fountain nymph
 Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
 Cuco (Latin America) - Bogeyman
@@ -117,7 +114,6 @@ Cynocephalus (Medieval Bestiaries) - Dog-headed humanoid
 Dactyl (Greek) - Little people and smith and healing spirits
 Daemon (Greek) - Incorporeal spirit
 Dahu (France, Switzerland and the north of Italy) - Like a deer or ibex with legs on one side of its body are shorter than on the other side
-Daphnaie (Greek) - Laurel tree nymph
 Deer Woman (Native American) - Human-deer hybrid
 Deity (Global) - Preternatural or supernatural possibly immortal being
 Demigod (Global) - Half human, half god
@@ -152,13 +148,11 @@ Eagle Spirit (Many cultures worldwide) - Leadership or guidance totem
 Echeneis (Medieval Bestiaries) - Remora, said to attach to ships to slow them down
 Einherjar (Norse) - Spirits of brave warriors
 Eldjötnar (Norse) - Fire Giants who reside in Muspelheim, with Surtr as their leader
-Eleionomae (Greek) - Marsh nymph
 Elemental (Alchemy) - Personification of one of the Classical elements
 Elf (Germanic) - Nature and fertility spirit
 Empusa (Greek) - Female demon that waylays travelers and seduces and kills men
 Enfield (Heraldic) - Fox-greyhound-lion-wolf-eagle hybrid
 Ent (worldwide/fantasy) -Living tree that is said to live for years
-Epimeliad (Greek) - Apple tree nymph
 Erinys (Greek) - Winged spirits of vengeance or justice, also known as Furies
 Erlking (German) - Death spirit
 Ettin (English) - Three-headed giant
@@ -222,7 +216,6 @@ Gyascutus (American folklore) - Four-legged herbivore
 Habrok (Norse) - listed as the "best" hawk
 Hag (Many cultures worldwide) - wise old woman who is usually a malevolent spirit or a disguised goddess
 Half-elf (Norse) - human-elf hybrid
-Hamadryad (Greek) - oak tree nymph
 Harpy (Greek) - birdlike human-headed death spirit
 Haugbui (Norse) - undead being who cannot leave its burial mound
 Havsrå (Norse) - saltwater spirit
@@ -230,10 +223,8 @@ Headless Horseman (European) - humanoid spirit who haunts or kills
 Headless Mule (Brazilian) - fire-spewing, headless, spectral mule
 Hecatonchires (Greek) - primordial giants with 100 hands and fifty heads
 Heinzelmännchen (German) - household spirit
-Helead (Greek) - fen nymph
 Hellhound (Many cultures worldwide) - underworld dog
 Hercinia (Medieval Bestiaries) - glowing bird
-Hesperides (Greek) - nymph daughters of Atlas
 Hidebehind (United States) - nocturnal forest creature
 Hieracosphinx (Ancient Egypt) - falcon-headed sphinx
 Hippocamp (Etruscan, Greek and Phoenician) - horse-fish hybrid
@@ -304,23 +295,19 @@ La Llorona (Latin America) - Death spirit associated with drowning
 Lamassu (Akkadian and Sumerian) - Protective spirit with the form of a winged bull or human-headed lion
 Lambton Worm (English) - Giant worm
 Lamia (Greek) - Child-devouring monster
-Lampades (Greek) - Underworld nymph
 Landvættir (Norse) - Nature spirits
 Lares (Roman) - House spirit
 Lava bear - Miniature bear thought to inhabit the lava beds of south central Oregon
 Lavellan (Scottish) - Gigantic water rat
 Leanan sidhe (Celtic) - Fairy lover
 Leanashe (Irish) - Possessing spirit or vampire
-Leimakids (Greek) - Meadow nymph
 Leontophone (Medieval Bestiary) - Tiny animal poisonous to lions
 Leprechaun (Irish) - Cobbler spirit
 Leszi (Slavic) - Tree spirit
-Leuce (Greek) - White poplar tree nymph
 Leucrota (Medieval Bestiary) - Crocotta-lion hybrid
 Leviathan (Jewish) - Sea monster seen in Job 41
 Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
 Likho (Slavic) - One-eyed hag or goblin
-Limnades (Greek) - Lake nymph
 Lindworm (Germanic) - Dragon
 Ljósálfar (Norse) - Sunlight spirits; the Light Elves
 Llamhigyn Y Dwr (Welsh) - Frog-bat-lizard hybrid
@@ -348,7 +335,6 @@ Mares of Diomedes (Greek mythology) - Man-eating horses
 Marmennill (Norse mythology) - mermen with prophetic abilities
 Matagot (French mythology) - Spirit that takes animal form; usually that of a black cat
 Medusa (Greek mythology) - Serpent-female hybrid (Gorgon) with numerous snake heads
-Meliae (Greek mythology) - Ash tree nymph
 Melusine (Medieval folklore) - Female water spirit, with the form of a winged mermaid or serpent
 Mermaid/Merman (multiple cultures) - Human-fish hybrid
 Merlin (English mythology) - An elderly wizard
@@ -373,7 +359,6 @@ Nachzehrer (German) - Anthropophagous undead
 Nāga (Buddhist and Hindu) - Nature and water spirits, serpentine or human-serpent hybrids
 Nagual (Mesoamerica) - Human-animal shapeshifter
 Naiad (Greek) - Freshwater nymph
-Napaeae (Greek) - Grotto nymph
 Narecnitsi (Slavic) - Fate spirit
 Nav' (Slavic) - Ghost
 Neck (Germanic mythology) - Female water spirit
@@ -397,7 +382,6 @@ Onoskelis (Greek) - Shapeshifting demon
 Onza (Aztec and Latin American folklore) - Wild cat, possibly a subspecies of cougar
 Ophiotaurus (Greek) - Bull-serpent hybrid
 Opinicus (Heraldic) - Lion-eagle hybrid, similar to a griffin, but with leonine forelimbs
-Oread (Greek) - Mountain nymph
 Ork (Tyrolean) - Little people and house spirits
 Orobas (European) - Horse-headed, honest oracle classed as a demon
 Orphan Bird (Medieval Bestiaries) - Peacock-eagle-swan-crane hybrid
@@ -412,7 +396,6 @@ Pard (Medieval Bestiaries) - Fast, spotted feline believed to mate with lions to
 Patagon (Medieval folklore) - Giant race reputed to live in the area of Patagonia
 Patasola (Latin America) - Anthropophagous, one-legged humanoid
 Pech (Scottish) - Strong little people
-Pegaeae (Greek) - Spring nymph
 Pegasus (Greek) - Winged horse
 Pegacorn - Pegasus-unicorn hybrid
 Peluda (French) - Dragon
@@ -424,7 +407,6 @@ Polevik (Polish) - Little people and field spirits
 Poltergeist (German) - Ghost that moves objects
 Pricolici (Romanian - Roman) - Undead wolf
 Psotnik (Slavic) - Mischievous spirit
-Psychai (Greek) - Butterfly-winged nymphs, daughters of Psyche
 Psychopomp (Greek) - Creatures, spirits, angels, or deities in many religions who escort newly deceased souls from Earth to the afterlife
 Púca (Welsh) - Shapeshifting animal spirit
 Puck (English) - House spirit
