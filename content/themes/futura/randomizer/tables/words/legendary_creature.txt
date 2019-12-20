@@ -3,7 +3,6 @@ Acephali (Greek) - Headless humanoids.
 Achlis (Roman) - Curious elk.
 Aerico (Greek) - Disease demon.
 Afanc (Welsh) - Lake monster (exact lake varies by story).
-Agathodaemon (Greek) - Spirit of vinefields and grainfields.
 Alicorn - Winged unicorn.
 Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
@@ -13,8 +12,6 @@ Amphisbaena (Greek) - Serpent with a head at each end.
 Androsphinx (Ancient Egyptian) - Human-headed sphinx.
 Angel (mainly Christian, Jewish, Islamic traditions) - Divine beings of Heaven who act as mediators between God and humans; the counterparts of Demons.
 Ankou (French) - Skeletal grave watcher with a lantern and scythe.
-Antaeus (Greek) - Giant who was extremely strong as long as he remained in contact with the ground.
-Argus Panoptes (Greek) - Hundred-eyed giant.
 Arimaspi (Greek) - One-eyed humanoid.
 Arion (Greek) - Swift green-maned talking horse.
 Aspidochelone (Medieval Bestiaries) - Island-sized whale or sea turtle.
@@ -33,7 +30,6 @@ Behemoth (Jewish) - Massive beast, possibly like a dinosaur or crocodile
 Bendigeidfran (Welsh) - Giant king
 Bennu (Egyptian) - Heron-like, regenerative bird, equivalent to (or inspiration for) the Phoenix
 Bergrisar (Norse) - Mountain giants who live alongside the Hrimthursar (lit. "Rime-Giants") in Jotunheim
-Bergsrå (Norse) - Mountain spirit
 Bies (Slavic) - Demon
 Bigfoot (American folklore) - Forest-dwelling hominid cryptid.
 Bishop-fish (Medieval Bestiaries) - Fish-like humanoid
@@ -55,7 +51,6 @@ Brag (English) - Malevolent water horse
 Brownie (English and Scottish) - Benevolent household spirit
 Bugbear (English) - Bearlike goblin
 Bunyip (Australian Aboriginal) - Horse-walrus hybrid lake monster
-Cabeiri (Greek) - Smith and wine spirit
 Cacus (Roman) - Fire-breathing giant
 Cadejo (Central America) - Cow-sized dog-goat hybrid
 Cailleach (Scottish) - Divine creator and weather deity hag
@@ -66,15 +61,13 @@ Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
 Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
 Campe (Greek) - Dragon-human-scorpion hybrid
 Caoineag (Scottish) - Death spirit (a particular type of Banshee/Bean Sídhe)
-Căpcăun (Romanian) - Large, monstrous humanoid
 Carbuncle (Latin America) - Small creature with a jewel on its head
 Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
 Ceffyl Dŵr (Welsh) - Malevolent water horse
 Centaur (Greek) - Human-horse hybrid
 Centicore (Indian) - Horse-Antelope-Lion-Bear hybrid
-Cerastes (Greek) - Extremely flexible, horned snake
+Horned serpent
 Cerberus (Greek) - Three-headed dog that guards the entrance to the underworld
-Cercopes (Greek) - Mischievous forest spirit
 Cericopithicus (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
 Ceryneian Hind (Greek) - Hind with golden antlers and bronze or brass hooves
 Changeling (European) - Humanoid child (fairy, elf, troll, etc.) substituted for a kidnapped human child
@@ -87,7 +80,6 @@ Chrysaor (Greek) - The giant son of the gorgon Medusa.
 Chrysomallus (Greek mythology) - Golden winged ram
 Chupacabra (Latin America) - Cryptid beast named for its habit of sucking the blood of livestock
 Cinnamon bird (Medieval Bestiaries) - Giant bird that makes its nest out of cinnamon
-Cirein cròin (Scottish) - Sea serpent
 Coblynau (Welsh) - Little people and mine spirits
 Cockatrice (Medieval Bestiaries) - Chicken-lizard hybrid
 Criosphinx (Ancient Egypt) - Ram-headed sphinx
@@ -98,7 +90,6 @@ Cŵn Annwn (Welsh) - Underworld hunting dog
 Cyclops (Greek) - One-eyed giant
 Cyhyraeth (Welsh) - Death spirit
 Cynocephalus (Medieval Bestiaries) - Dog-headed humanoid
-Dactyl (Greek) - Little people and smith and healing spirits
 Daemon (Greek) - Incorporeal spirit
 Dahu (France, Switzerland and the north of Italy) - Like a deer or ibex with legs on one side of its body are shorter than on the other side
 Deer Woman (Native American) - Human-deer hybrid
@@ -135,21 +126,19 @@ Elf (Germanic) - Nature and fertility spirit
 Empusa (Greek) - Female demon that waylays travelers and seduces and kills men
 Enfield (Heraldic) - Fox-greyhound-lion-wolf-eagle hybrid
 Ent (worldwide/fantasy) -Living tree that is said to live for years
-Erinys (Greek) - Winged spirits of vengeance or justice, also known as Furies
 Ettin (English) - Three-headed giant
 Eurynomos (Greek) - Blue-black, carrion-eater in the underworld
 Fachen (Irish and Scottish) - Monster with half a body
 Fairy (Many cultures worldwide) - Nature spirits
 Familiar (English) - Animal servant
 Far darrig (Irish) - Little people that constantly play pranks
-The Fate (Greek) - Three time-controlling sisters
 Faun (Roman) - Human-goat hybrid nature spirit
 Feathered Serpent - Mesoamerican dragon
 Fenrir (Norse) - Gigantic, ravenous wolf
 Fetch (Irish) - Double or doppelgänger
 Fext (Slavic) - Undead
 Finfolk (Orkney) - Fish-human hybrid that kidnaps humans for servants
-Fir Bolg (Irish) - Ancestral race
+Firbolg (Irish) - Ancestral race
 Fire Bird (Many cultures worldwide) - Regenerative solar bird
 Firedrake (Germanic) - Dragon
 Fish-man (Cantabrian) - Amphibious, scaled humanoid
@@ -162,11 +151,11 @@ Garuda (Hindu) - Human-eagle hybrid
 Ged (Heraldic) - The fish pike
 Gegenees (Greek) - Six-armed giant
 Geryon (Greek) - Three-headed six-armed giant with three torsos and (in some sources) six legs
-Ghillie Dhu (Scottish) - Tree guardian
 Ghost - Disembodied spirits of those that have died
 Ghoul (Arabian) - Cannibalistic shapeshifting desert genie often classified as undead.
 Giant (Worldwide) - Immensely large and strong humanoids
 Giant animal (Worldwide) - Unusually large beasts
+Human-animal hybrid
 Gigante (Greek) - Race of giants that fought the Olympian gods, sometimes depicted with snake-legs
 Gigelorum (Scottish) - Smallest animal
 Glaistig (Scottish) - Human-goat hybrid
@@ -194,7 +183,6 @@ Haugbui (Norse) - undead being who cannot leave its burial mound
 Headless Horseman (European) - humanoid spirit who haunts or kills
 Headless Mule (Brazilian) - fire-spewing, headless, spectral mule
 Hecatonchires (Greek) - primordial giants with 100 hands and fifty heads
-Heinzelmännchen (German) - household spirit
 Hellhound (Many cultures worldwide) - underworld dog
 Hercinia (Medieval Bestiaries) - glowing bird
 Hidebehind (United States) - nocturnal forest creature
@@ -229,12 +217,10 @@ Jaculus (Medieval Bestiaries) - Winged serpent or small dragon
 Jasconius (Medieval folklore) - Island-sized fish
 Jaud (Slavic) - Vampirised premature baby
 Jinn (Arabian, Islamic) - Spiritual creatures; genii
-Jörmungandr (Norse) - Sea serpent
 Kappa (Japanese) - Little people and water spirit
 Karkinos (Greek) - Giant crab
 Kelpie (Irish and Scottish) - Malevolent water horse
 Keythong (Heraldic) - Wingless griffin
-Colchis bull (Greek) - Bronze-hoofed bulls
 Kikimora (Slavic) - Female house spirit
 Kirin (Japanese) - Japanese Unicorn
 Knucker (English) - Water dragon
@@ -242,9 +228,6 @@ Kobalos (Greek) - Goblin like thieves and tricksters
 Kobold (German) - Little people and mine or house spirits
 Kraken (Scandinavian) - Sea monster
 Krampus (Germany) - A Christmas Devil and opponent of Santa Claus
-Ladon (Greek) - Dragon guarding the golden apples of the Hesperides
-Laelaps (Greek) - Enchanted dog that always caught his prey
-Laestrygonians (Greek) - Anthropophagic giants
 Lake monster (Worldwide) - Gigantic animals reported to inhabit various lakes around the world
 Lamassu (Akkadian and Sumerian) - Protective spirit with the form of a winged bull or human-headed lion
 Lambton Worm (English) - Giant worm
@@ -254,7 +237,7 @@ Lavellan (Scottish) - Gigantic water rat
 Leanashe (Irish) - Possessing spirit or vampire
 Leontophone (Medieval Bestiary) - Tiny animal poisonous to lions
 Leprechaun (Irish) - Cobbler spirit
-Leszi (Slavic) - Tree spirit
+Leshy (Slavic) - Tree spirit
 Leucrota (Medieval Bestiary) - Crocotta-lion hybrid
 Leviathan (Jewish) - Sea monster seen in Job 41
 Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
@@ -273,14 +256,10 @@ Macrocephali (Medieval bestiaries) - Giant-headed humanoid
 Magog (English folklore) - Giant protector of London
 Mandi (Medieval bestiaries) - Humanoid with a forty-year lifespan
 Mandrake (Medieval folklore) - Diminutive, animated construct
-Manes (Roman mythology) - Ancestral spirits
 Manticore (Persian mythology) - Lion-human-scorpion hybrid
 Mara (Scandinavian folklore) - Female night-demon
-Mares of Diomedes (Greek mythology) - Man-eating horses
 Marmennill (Norse mythology) - mermen with prophetic abilities
-Matagot (French mythology) - Spirit that takes animal form; usually that of a black cat
 Medusa (Greek mythology) - Serpent-female hybrid (Gorgon) with numerous snake heads
-Melusine (Medieval folklore) - Female water spirit, with the form of a winged mermaid or serpent
 Mermaid/Merman (multiple cultures) - Human-fish hybrid
 Merlin (English mythology) - An elderly wizard
 Merrow (Irish mythology and Scottish) - Human-fish hybrid
@@ -288,8 +267,6 @@ Minotaur (Greek mythology) - Human-bull hybrid
 Monocerus (Medieval bestiaries) - One-horned stag-horse-elephant-boar hybrid, sometimes treated as distinct from the unicorn
 Mono Grande (South America) - Giant monkey
 Monopod (Medieval bestiaries) - Dwarf with one giant foot
-Mora (Slavic mythology) - Disembodied spirit
-Morgen (Breton and Welsh mythology) - Water spirits
 Moroi (Romanian) - Vampiric ghost
 Moss man (Continental Germanic mythology) - Little people and tree spirits
 Mummy (Egyptian) - Undead creature who revives
@@ -303,9 +280,7 @@ Nagual (Mesoamerica) - Human-animal shapeshifter
 Naiad (Greek) - Freshwater nymph
 Nephilim (Abrahamic mythology) - Gigantic sons of Grigori and human women
 Nereid (Greek) - Nymph daughters of Nereus
-Níðhöggr (Norse) - Dragon
 Nix (Germanic) - Female water spirit
-Nocnitsa (Slavic) - Nightmare spirit
 Nuckelavee (Scottish) - Malevolent human-horse-fish hybrid
 Nuli (Medieval Bestiary) - Humanoid with backwards, eight-toed feet
 Nymph (Greek) - Nature spirit
@@ -338,9 +313,7 @@ Peluda (French) - Dragon
 Peryton (Allegedly Medieval folklore) - Deer-bird hybrid
 Phoenix (Phoenician) - Regenerative bird reborn from its own ashes
 Piasa (Native American mythology) - Winged, antlered feline-like dragon
-Polevik (Polish) - Little people and field spirits
 Poltergeist (German) - Ghost that moves objects
-Psotnik (Slavic) - Mischievous spirit
 Psychopomp (Greek) - Creatures, spirits, angels, or deities in many religions who escort newly deceased souls from Earth to the afterlife
 Puck (English) - House spirit
 Puckwudgie (Native American mythology) - Troll-like gray-skinned being
@@ -348,15 +321,12 @@ Pygmy (Greek) - Little people
 Pyrausta (Greek) - Insect-dragon hybrid
 Python (Greek) - Serpentine dragon
 Quinotaur (Frankish) - Five-horned bull
-Rain Bird (Native American) - Rain spirit
 Rakshasa (Buddhist and Hindu) - Shapeshifting demon
-Raven Spirit (Native American, Norse, and Siberian) - Trickster spirit
 Redcap (English) - Evil, ugly humanoid
 Reichsadler (Heraldic) - Eagle, sometimes depicted with two heads
 Reptilian humanoid (Global) - Human-lizard hybrid
 Revenant (Medieval folklore) - Reanimated dead
 Roc (Arabian and Persian) - Gigantic bird
-Rusalka (Slavic) - Female water spirit
 Ryū - Japanese dragon
 Salamander (Alchemy) - Fire elemental
 Sandman (Northern Europe) - Nursery spirit that induces sleep in children
@@ -378,18 +348,13 @@ Serpent (Worldwide) - Snake spirit
 Serpopard (Ancient Egypt) - Serpent-leopard hybrid
 Shade (Worldwide) - Spiritual imprint
 Shadow Man (American) - Malevolent ghost
-Shellycoat (English, Scottish and German, as schellenrocc) - Water spirit
 Shug Monkey (English) - Dog/monkey
-Sileni (Greek) - Bald, fat, thick-lipped, and flat-nosed followers of Dionysus
 Simargl (Slavic) - Winged dog
 Siren (Greek) - Human-bird hybrid
 Sirin (Slavic) - Demonic human-headed bird
-Sjörå (Norse) - Freshwater spirit
-Sjövættir (Norse) - Sea spirit
 Skin-walker (American Indian) - Animal-human shapeshifter
 Skeleton (Medieval folklore) - Living skeletons
 Skrzak (Slavic) - Flying imp
-Sky Women (Polish) - Weather spirit
 Sleipnir (Norse) - Eight-legged horse
 Sluagh (Irish and Scottish) - Restless ghost
 Spectre (Worldwide) - Terrifying ghost
@@ -401,7 +366,6 @@ Squonk (American) - Ugly and lonely creature capable of evading capture by disso
 Strigoi (Romanian) - Vampire
 Strix (Roman) - Vampiric bird
 Struthopodes (Medieval Bestiaries) - Humanoid whose males have enormous feet, and females have tiny feet
-Strzyga (Slavic) - Vampiric undead
 Succubus (Medieval folklore) - Female night-demon
 The Swallower (Ancient Egyptian) - Crocodile-leopard-hippopotamus hybrid
 Swan maiden (Worldwide) - Swan-human shapeshifter
@@ -412,7 +376,6 @@ Syrictæ (Medieval Bestiaries) - Reptilian humanoid
 Tarasque (French) - Dragon with leonine, turtle, bear, and human attributes
 Tengu (Japanese) - Anthropomorphic bird
 Theriocephalus (Medieval folklore) - Animal-headed humanoid
-Three-legged bird (Asia and Africa) - Solar bird
 Thunderbird (Native American) - Avian lightning bird spirit
 Tigris (Jewish) - Giant lion
 Titan (Greek) - Primeval god
@@ -423,14 +386,12 @@ Troll (Norse) - Nature spirit
 Trow (Orkney and Shetland) - Little people and nature spirits
 Typhon (Greek) - Winged, snake-legged giant
 Undead (Worldwide) - Dead that behave as if alive
-Underwater panther (Native American) - Feline water spirit
 Unicorn (Medieval Bestiaries) - Horse-like creature with the legs of an antelope, the tail of a lion and a single magical healing horn.
 Valkyrie (Norse) - Female spirit that leads souls of dead warriors to Valhalla
 Vampire (Slavic) - Reanimated corpse that feeds on blood
 Vrykolakas (Greek) - Undead wolf-human hybrid
 Warg (English and Scandinavian O.N. vargr) - Giant, demonic wolf
 Warlock (Worldwide) - Male witch
-Water monkey (Chinese) - Water spirit
 Water sprite (Alchemy) - Water elemental
 Wendigo (Algonquian) - Anthropophagous spirit
 Werecat (Worldwide) - Feline-human shapeshifter
@@ -487,12 +448,10 @@ Lizardman (Fantasy)
 Beholder (Fantasy)
 Dendroid (Fantasy)
 Efreet (Fantasy)
+Strige
 Alghoul
-Alp
-Kikimore
 Koshchey
 Barghest
-Bloedzuiger
 Bruxa
 Mamune
 Midday bride
