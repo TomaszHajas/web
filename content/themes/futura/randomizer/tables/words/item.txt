@@ -415,8 +415,10 @@ Tripwire
 Barbed wire
 Wire
 Necklace
+Amulet
 Signet
 Ring
+Brooch
 Banknote
 Coin
 Token
