@@ -4,9 +4,7 @@ Achlis (Roman) - Curious elk.
 Aerico (Greek) - Disease demon.
 Afanc (Welsh) - Lake monster (exact lake varies by story).
 Agathodaemon (Greek) - Spirit of vinefields and grainfields.
-Ala (Slavic) - Bad weather demon.
 Alicorn - Winged unicorn.
-Alkonost (Slavic) - Angelic bird with human head and breasts.
 Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
 Alphyn (Heraldic) - Lion-like creature, sometimes with dragon or goat forelegs.
@@ -25,19 +23,15 @@ Astomi (Greek) - Humanoid sustained by pleasant smells instead of food.
 Atomy (English) - Surprisingly small creature.
 Avalerion (Medieval Bestiary) - King of the birds.
 Axex (Ancient Egyptian) - Falcon-lion hybrid.
-Ba (Egyptian) - Soul of the deceased, depicted as a bird or a human-headed bird.
 Baba Yaga (Slavic) - Forest spirit and hag
 Badalisc (Italian) - Goat-like creature from the southern central Alps
-Bagiennik (Slavic) - Malevolent water spirit
 Balaur (Romanian) - Multi-headed dragon
-Bannik (Slavic) - Bathhouse spirit
 Banshee (Irish) - Death spirit
 Barnacle Geese (Medieval folklore) - Geese which hatch from barnacles
 Basilisk (Italian) - Multi-limbed, venomous lizard
 Behemoth (Jewish) - Massive beast, possibly like a dinosaur or crocodile
 Bendigeidfran (Welsh) - Giant king
 Bennu (Egyptian) - Heron-like, regenerative bird, equivalent to (or inspiration for) the Phoenix
-Berehynia (Slavic) - Water spirit
 Bergrisar (Norse) - Mountain giants who live alongside the Hrimthursar (lit. "Rime-Giants") in Jotunheim
 Bergsrå (Norse) - Mountain spirit
 Bies (Slavic) - Demon
@@ -49,17 +43,14 @@ Black Shuck - Norfolk, Essex, and Suffolk black dog
 Blafard - Imaginary creature from the early United States of America.
 Blemmyae (Medieval Bestiary) - Headless humanoid with face in torso
 Bloody Bones (Irish) - Water bogeyman
-Błudnik (Slavic) - Mischievous gnome
 Bluecap (English) - Mine-dwelling fairy
 Bodach (Scottish) - Malevolent spirit
 Bogeyman (English) - Malevolent spirit
 Boggart (English) - Malevolent household spirit
-Boginki (Slavic) - Nature spirit
 Bogle (Scottish) - Malevolent spirit
 Bonnacon (Medieval Bestiaries) - Bull-horse hybrid with flaming dung
 Boo Hag (American Folklore) - Vampire-like creature that steals energy from sleeping victims
 Boobrie (Scottish) - Roaring water bird
-Bozaloshtsh (Slavic) - Death spirit
 Brag (English) - Malevolent water horse
 Brownie (English and Scottish) - Benevolent household spirit
 Bugbear (English) - Bearlike goblin
@@ -118,8 +109,6 @@ Di Penates (Roman) - House spirit
 Dipsa (Medieval Bestiaries) - Extremely venomous snake
 Dobhar-chu (Irish) - King otter
 Dökkálfar (Norse) - Male ancestral spirits; the Dark Elves
-Dola (Slavic) - Tutelary and fate spirit
-Domovoi (Slavic) - House spirit
 Doppelgänger (German) - Ghostly double
 Drac (Catalan) - Lion or bull-faced dragon
 Drac (French) - Winged sea serpent
@@ -135,7 +124,6 @@ Duende (Spanish and Portuguese) - Little people and forest spirits
 Duergar (English) - Malevolent little people
 Dullahan (Irish) - Headless death spirit
 Dvergr (Norse) - Subterranean little people smiths
-Dvorovoi (Slavic) - Courtyard spirit
 Dwarf (Germanic) - Little people nature spirits
 Each Uisge (Scottish) - Malevolent water horse
 Eagle Spirit (Many cultures worldwide) - Leadership or guidance totem
@@ -499,3 +487,16 @@ Lizardman (Fantasy)
 Beholder (Fantasy)
 Dendroid (Fantasy)
 Efreet (Fantasy)
+Alghoul
+Alp
+Kikimore
+Koshchey
+Barghest
+Bloedzuiger
+Bruxa
+Mamune
+Midday bride
+Nadir
+Nightwraith
+Noonwraith
+Drowner
