@@ -328,6 +328,7 @@ Fighter
 Warrior
 Gladiator
 Man-at-arms
+Arcanist
 Mage
 Archmage
 Runepriest
