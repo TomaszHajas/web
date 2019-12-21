@@ -240,6 +240,8 @@ Alchemist
 Chemist
 Pharmacist
 Pirate
+Swashbuckler
+Duelist
 Thief
 Scammer
 Impostor
