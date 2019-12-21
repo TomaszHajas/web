@@ -27,7 +27,6 @@ Banshee (Irish) - Death spirit
 Barnacle Geese (Medieval folklore) - Geese which hatch from barnacles
 Basilisk (Italian) - Multi-limbed, venomous lizard
 Behemoth (Jewish) - Massive beast, possibly like a dinosaur or crocodile
-Bendigeidfran (Welsh) - Giant king
 Bennu (Egyptian) - Heron-like, regenerative bird, equivalent to (or inspiration for) the Phoenix
 Bergrisar (Norse) - Mountain giants who live alongside the Hrimthursar (lit. "Rime-Giants") in Jotunheim
 Bies (Slavic) - Demon
@@ -60,10 +59,8 @@ Callitrix (Medieval Bestiary) - Apes who always bear twins, one the mother loves
 Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
 Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
 Campe (Greek) - Dragon-human-scorpion hybrid
-Caoineag (Scottish) - Death spirit (a particular type of Banshee/Bean Sídhe)
 Carbuncle (Latin America) - Small creature with a jewel on its head
 Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
-Ceffyl Dŵr (Welsh) - Malevolent water horse
 Centaur (Greek) - Human-horse hybrid
 Centicore (Indian) - Horse-Antelope-Lion-Bear hybrid
 Horned serpent
@@ -86,7 +83,6 @@ Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
 Cuco (Latin America) - Bogeyman
 Cucuy (Latin America) - Malevolent spirit
-Cŵn Annwn (Welsh) - Underworld hunting dog
 Cyclops (Greek) - One-eyed giant
 Cyhyraeth (Welsh) - Death spirit
 Cynocephalus (Medieval Bestiaries) - Dog-headed humanoid
@@ -96,10 +92,7 @@ Deer Woman (Native American) - Human-deer hybrid
 Deity (Global) - Preternatural or supernatural possibly immortal being
 Demigod (Global) - Half human, half god
 Dhampir (Balkans) - Human/vampire hybrid
-Di Penates (Roman) - House spirit
 Dipsa (Medieval Bestiaries) - Extremely venomous snake
-Dobhar-chu (Irish) - King otter
-Dökkálfar (Norse) - Male ancestral spirits; the Dark Elves
 Doppelgänger (German) - Ghostly double
 Drac (Catalan) - Lion or bull-faced dragon
 Drac (French) - Winged sea serpent
@@ -116,11 +109,8 @@ Duergar (English) - Malevolent little people
 Dullahan (Irish) - Headless death spirit
 Dvergr (Norse) - Subterranean little people smiths
 Dwarf (Germanic) - Little people nature spirits
-Each Uisge (Scottish) - Malevolent water horse
 Eagle Spirit (Many cultures worldwide) - Leadership or guidance totem
 Echeneis (Medieval Bestiaries) - Remora, said to attach to ships to slow them down
-Einherjar (Norse) - Spirits of brave warriors
-Eldjötnar (Norse) - Fire Giants who reside in Muspelheim, with Surtr as their leader
 Elemental (Alchemy) - Personification of one of the Classical elements
 Elf (Germanic) - Nature and fertility spirit
 Empusa (Greek) - Female demon that waylays travelers and seduces and kills men
