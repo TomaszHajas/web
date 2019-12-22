@@ -89,6 +89,7 @@ Depressed
 Elated
 Sad
 Happy
+Jolly
 Sensitive
 Insensitive
 Brutal
