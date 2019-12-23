@@ -31,29 +31,26 @@ Bergrisar (Norse) - Mountain giants who live alongside the Hrimthursar (lit. "Ri
 Bies (Slavic) - Demon
 Bigfoot (American folklore) - Forest-dwelling hominid cryptid.
 Bishop-fish (Medieval Bestiaries) - Fish-like humanoid
-Black Annis (English) - Blue-faced hag
 Black Dog (British) - Canine death spirit
-Black Shuck - Norfolk, Essex, and Suffolk black dog
 Blafard - Imaginary creature from the early United States of America.
 Blemmyae (Medieval Bestiary) - Headless humanoid with face in torso
 Bloody Bones (Irish) - Water bogeyman
 Bluecap (English) - Mine-dwelling fairy
 Bogeyman (English) - Malevolent spirit
 Bonnacon (Medieval Bestiaries) - Bull-horse hybrid with flaming dung
-Boo Hag (American Folklore) - Vampire-like creature that steals energy from sleeping victims
 Boobrie (Scottish) - Roaring water bird
 Brag (English) - Malevolent water horse
 Bugbear (English) - Bearlike goblin
 Bunyip (Australian Aboriginal) - Horse-walrus hybrid lake monster
 Cacus (Roman) - Fire-breathing giant
 Cadejo (Central America) - Cow-sized dog-goat hybrid
-Cailleach (Scottish) - Divine creator and weather deity hag
 Caladrius (Medieval Bestiary) - White bird that can foretell if a sick person will recover or die
 Calingi (Medieval Bestiary) - Humanoid with an eight-year lifespan
 Callitrix (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
 Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
 Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
 Drude
+Slime
 Campe (Greek) - Dragon-human-scorpion hybrid
 Carbuncle (Latin America) - Small creature with a jewel on its head
 Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
@@ -76,7 +73,6 @@ Cinnamon bird (Medieval Bestiaries) - Giant bird that makes its nest out of cinn
 Cockatrice (Medieval Bestiaries) - Chicken-lizard hybrid
 Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
-Cuco (Latin America) - Bogeyman
 Cyclops (Greek) - One-eyed giant
 Cynocephalus (Medieval Bestiaries) - Dog-headed humanoid
 Daemon (Greek) - Incorporeal spirit
@@ -119,6 +115,7 @@ Far darrig (Irish) - Little people that constantly play pranks
 Faun (Roman) - Human-goat hybrid nature spirit
 Feathered Serpent - Mesoamerican dragon
 Fenrir (Norse) - Gigantic, ravenous wolf
+Camzotz
 Fetch (Irish) - Double or doppelgänger
 Fext (Slavic) - Undead
 Finfolk (Orkney) - Fish-human hybrid that kidnaps humans for servants
@@ -130,6 +127,7 @@ Fomorian (Irish) - Goat-headed giant
 Forest Bull (Medieval Bestiaries) - Giant horned red cattle
 Freybug - Norfolk black dog
 Gargouille (French) - Water dragon
+Gargoyle
 Garmr (Norse) - Giant, ravenous hound
 Garuda (Hindu) - Human-eagle hybrid
 Ged (Heraldic) - The fish pike
@@ -152,6 +150,10 @@ Gorgades (Medieval Bestiary) - Hairy humanoid
 Gorgon (Greek) - Fanged, snake-haired humanoids that turn anyone who sees them into stone
 Grassman (Ohio, USA) - Ape-like cryptid
 Grendel
+Godzilla
+Slender man
+Sandworm
+Grootslang
 Gremlin (Folklore) - Creatures that sabotage airplanes
 Griffin (Heraldic) - Lion-eagle hybrid
 Grim Reaper (Worldwide) - Death angel often thought to be God's/Satan's assistant
@@ -177,11 +179,8 @@ Hippopodes (Medieval Bestiary) - horse-hoofed humanoid
 Hircocervus (Medieval Bestiary) - deer-goat hybrid
 Hobgoblin (Medieval) - friendly or amusing goblin
 Hodag (Native American) - frog-mammoth-lizard hybrid
-Hombre Gato (Latin America) - human-cat hybrid
 Homunculus (Alchemy) - small animated construct
 Hoop snake - snake which rolls by taking its tail in its mouth
-Hraesvelg (Norse) - giant, who in eagle form, creates the wind by beating his wings
-Hrímþursar (Norse) - frost giants who are the main inhabitants of either Jotunheim or Niflheim
 Hydra (Greek) - multi-headed water serpent/dragon
 Hydros (Medieval Bestiary) - snake whose poison causes the victim to swell up
 Hydrus (Medieval Bestiary) - snake from the Nile River that would kill crocodiles from the inside
@@ -227,11 +226,8 @@ Likho (Slavic) - One-eyed hag or goblin
 Lindworm (Germanic) - Dragon
 Llamhigyn Y Dwr (Welsh) - Frog-bat-lizard hybrid
 Loogaroo (French America) - Shapeshifting, female vampire
-Lou Carcolh (French) - Snake-mollusk hybrid
-Loup-garou (French) - Werewolf
 Lubber fiend (English) - House spirit
 Lusca - Sea Monster
-Lutin (French) - Amusing goblin
 Lycanthrope (Greek) - Werewolf
 Machlyes (Medieval bestiaries) - Hermaphroditic humanoid
 Macrocephali (Medieval bestiaries) - Giant-headed humanoid
@@ -242,7 +238,8 @@ Manticore (Persian mythology) - Lion-human-scorpion hybrid
 Mara (Scandinavian folklore) - Female night-demon
 Marmennill (Norse mythology) - mermen with prophetic abilities
 Medusa (Greek mythology) - Serpent-female hybrid (Gorgon) with numerous snake heads
-Mermaid/Merman (multiple cultures) - Human-fish hybrid
+Mermaid (multiple cultures) - Human-fish hybrid
+Merman
 Merlin (English mythology) - An elderly wizard
 Merrow (Irish mythology and Scottish) - Human-fish hybrid
 Minotaur (Greek mythology) - Human-bull hybrid
@@ -252,7 +249,6 @@ Monopod (Medieval bestiaries) - Dwarf with one giant foot
 Moroi (Romanian) - Vampiric ghost
 Moss man (Continental Germanic mythology) - Little people and tree spirits
 Mummy (Egyptian) - Undead creature who revives
-Muma Pădurii (Romanian folklore) - Forest-dwelling hag
 Muscaliet (Medieval bestiaries) - Hare-squirrel-boar hybrid that has an intense body heat
 Musimon (Heraldic) - Sheep-goat hybrid
 Myrmecoleon (Medieval bestiaries) - Ant-lion hybrid
@@ -273,7 +269,6 @@ Okuri-inu (Japanese) - Dog or wolf that follows travelers at night, similar to t
 Oni (Japanese) - Large, grotesque humanoid demon, usually having red skin and horns
 Onocentaur (Medieval Bestiaries) - Human-donkey hybrid
 Onoskelis (Greek) - Shapeshifting demon
-Onza (Aztec and Latin American folklore) - Wild cat, possibly a subspecies of cougar
 Ophiotaurus (Greek) - Bull-serpent hybrid
 Opinicus (Heraldic) - Lion-eagle hybrid, similar to a griffin, but with leonine forelimbs
 Ork (Tyrolean) - Little people and house spirits
@@ -380,6 +375,8 @@ Wendigo (Algonquian) - Anthropophagous spirit
 Werecat (Worldwide) - Feline-human shapeshifter
 Werehyena (Africa) - Hyena-human shapeshifter
 Werewolf (Worldwide) - Wolf-human shapeshifter
+Werebeast
+Animal hybrid
 White Lady (Worldwide) - Ghost of a murdered or mistreated woman
 Wild man (European) - Hairy, bipedal, man-like creature
 Will-o'-the-Wisp (Worldwide) - Spectral fire
@@ -395,6 +392,7 @@ Yeti (Himalayan) - Mountain bigfoot
 Ypotryll (Heraldic) - Boar-camel-ox-serpent hybrid
 Zombie (Vodou/Worldwide) - Re-animated corpse
 Balrog (Fantasy)
+Balor
 Dark dwarf (Fantasy)
 High elf (Fantasy)
 Wood elf (Fantasy)
@@ -419,13 +417,13 @@ Wight (Fantasy)
 Ghost (Fantasy)
 Lich (Fantasy)
 Archlich (Fantasy)
-Elemental (Fantasy)
 Troglodyte (Fantasy)
 Gnoll (Fantasy)
 Lizardman (Fantasy)
 Beholder (Fantasy)
 Dendroid (Fantasy)
 Efreet (Fantasy)
+Mimic (Fantasy)
 Strige
 Alghoul
 Koshchey
@@ -437,3 +435,4 @@ Nadir
 Nightwraith
 Noonwraith
 Drowner
+Nekker
