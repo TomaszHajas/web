@@ -1,6 +1,5 @@
 Abarimon (Medieval Bestiaries) - Savage humanoid with backward feet.
 Acephali (Greek) - Headless humanoids.
-Achlis (Roman) - Curious elk.
 Aerico (Greek) - Disease demon.
 Afanc (Welsh) - Lake monster (exact lake varies by story).
 Alicorn - Winged unicorn.
@@ -15,7 +14,6 @@ Ankou (French) - Skeletal grave watcher with a lantern and scythe.
 Arimaspi (Greek) - One-eyed humanoid.
 Arion (Greek) - Swift green-maned talking horse.
 Aspidochelone (Medieval Bestiaries) - Island-sized whale or sea turtle.
-Asrai (English) - Water spirit.
 Astomi (Greek) - Humanoid sustained by pleasant smells instead of food.
 Atomy (English) - Surprisingly small creature.
 Avalerion (Medieval Bestiary) - King of the birds.
@@ -39,15 +37,11 @@ Blafard - Imaginary creature from the early United States of America.
 Blemmyae (Medieval Bestiary) - Headless humanoid with face in torso
 Bloody Bones (Irish) - Water bogeyman
 Bluecap (English) - Mine-dwelling fairy
-Bodach (Scottish) - Malevolent spirit
 Bogeyman (English) - Malevolent spirit
-Boggart (English) - Malevolent household spirit
-Bogle (Scottish) - Malevolent spirit
 Bonnacon (Medieval Bestiaries) - Bull-horse hybrid with flaming dung
 Boo Hag (American Folklore) - Vampire-like creature that steals energy from sleeping victims
 Boobrie (Scottish) - Roaring water bird
 Brag (English) - Malevolent water horse
-Brownie (English and Scottish) - Benevolent household spirit
 Bugbear (English) - Bearlike goblin
 Bunyip (Australian Aboriginal) - Horse-walrus hybrid lake monster
 Cacus (Roman) - Fire-breathing giant
@@ -58,6 +52,7 @@ Calingi (Medieval Bestiary) - Humanoid with an eight-year lifespan
 Callitrix (Medieval Bestiary) - Apes who always bear twins, one the mother loves, the other it hates
 Calygreyhound (Heraldic) - Wildcat-deer/antelope-eagle-ox-lion hybrid
 Cambion (Medieval folklore) - Offspring of a human and an incubus or succubus
+Drude
 Campe (Greek) - Dragon-human-scorpion hybrid
 Carbuncle (Latin America) - Small creature with a jewel on its head
 Catoblepas (Medieval Bestiary) - Scaled buffalo-hog hybrid
@@ -77,14 +72,11 @@ Chrysaor (Greek) - The giant son of the gorgon Medusa.
 Chrysomallus (Greek mythology) - Golden winged ram
 Chupacabra (Latin America) - Cryptid beast named for its habit of sucking the blood of livestock
 Cinnamon bird (Medieval Bestiaries) - Giant bird that makes its nest out of cinnamon
-Coblynau (Welsh) - Little people and mine spirits
 Cockatrice (Medieval Bestiaries) - Chicken-lizard hybrid
 Criosphinx (Ancient Egypt) - Ram-headed sphinx
 Crocotta (Medieval Bestiaries) - Monstrous dog-wolf
 Cuco (Latin America) - Bogeyman
-Cucuy (Latin America) - Malevolent spirit
 Cyclops (Greek) - One-eyed giant
-Cyhyraeth (Welsh) - Death spirit
 Cynocephalus (Medieval Bestiaries) - Dog-headed humanoid
 Daemon (Greek) - Incorporeal spirit
 Dahu (France, Switzerland and the north of Italy) - Like a deer or ibex with legs on one side of its body are shorter than on the other side
@@ -99,12 +91,13 @@ Drac (French) - Winged sea serpent
 Drakon (Greek) - Greek dragons
 Drakaina (Greek) - Dragons depicted with female characteristics
 Dragon (Many cultures worldwide) - Fire-breathing and (normally) winged reptiles
+Drake
+Fairy dragon
 Dragon turtle (Chinese) - Giant turtle with dragon-like head
 Draugr (Norse) - Undead
 Drop Bear (Australian) Large carnivorous koala that hunts by dropping on its prey from trees
 Drow (Scottish) - Cavern spirit
 Dryad (Greek) - Tree nymph
-Duende (Spanish and Portuguese) - Little people and forest spirits
 Duergar (English) - Malevolent little people
 Dullahan (Irish) - Headless death spirit
 Dvergr (Norse) - Subterranean little people smiths
@@ -213,14 +206,12 @@ Kelpie (Irish and Scottish) - Malevolent water horse
 Keythong (Heraldic) - Wingless griffin
 Kikimora (Slavic) - Female house spirit
 Kirin (Japanese) - Japanese Unicorn
-Knucker (English) - Water dragon
 Kobalos (Greek) - Goblin like thieves and tricksters
 Kobold (German) - Little people and mine or house spirits
 Kraken (Scandinavian) - Sea monster
 Krampus (Germany) - A Christmas Devil and opponent of Santa Claus
 Lake monster (Worldwide) - Gigantic animals reported to inhabit various lakes around the world
 Lamassu (Akkadian and Sumerian) - Protective spirit with the form of a winged bull or human-headed lion
-Lambton Worm (English) - Giant worm
 Lamia (Greek) - Child-devouring monster
 Lava bear - Miniature bear thought to inhabit the lava beds of south central Oregon
 Lavellan (Scottish) - Gigantic water rat
@@ -419,6 +410,7 @@ Seraph (Fantasy)
 Treant (Fantasy)
 Fiend (Fantasy)
 Devil (Fantasy)
+Demogorgon
 Archdevil (Fantasy)
 Wight (Fantasy)
 Ghost (Fantasy)
