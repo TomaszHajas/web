@@ -6,6 +6,7 @@ Alicorn - Winged unicorn.
 Abath
 Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
+Nosferat
 Alphyn (Heraldic) - Lion-like creature, sometimes with dragon or goat forelegs.
 Amphiptere (Heraldic) - Winged serpent.
 Amphisbaena (Greek) - Serpent with a head at each end.
@@ -212,6 +213,7 @@ Krampus (Germany) - A Christmas Devil and opponent of Santa Claus
 Lake monster (Worldwide) - Gigantic animals reported to inhabit various lakes around the world
 Lamassu (Akkadian and Sumerian) - Protective spirit with the form of a winged bull or human-headed lion
 Lamia (Greek) - Child-devouring monster
+Lemure
 Lava bear - Miniature bear thought to inhabit the lava beds of south central Oregon
 Lavellan (Scottish) - Gigantic water rat
 Leanashe (Irish) - Possessing spirit or vampire
@@ -223,7 +225,6 @@ Leviathan (Jewish) - Sea monster seen in Job 41
 Lightning Bird (Southern Africa) - Magical bird found at sites of lightning strikes
 Likho (Slavic) - One-eyed hag or goblin
 Lindworm (Germanic) - Dragon
-Llamhigyn Y Dwr (Welsh) - Frog-bat-lizard hybrid
 Loogaroo (French America) - Shapeshifting, female vampire
 Lubber fiend (English) - House spirit
 Lusca - Sea Monster
