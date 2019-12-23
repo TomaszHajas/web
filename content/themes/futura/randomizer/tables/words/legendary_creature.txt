@@ -3,6 +3,7 @@ Acephali (Greek) - Headless humanoids.
 Aerico (Greek) - Disease demon.
 Afanc (Welsh) - Lake monster (exact lake varies by story).
 Alicorn - Winged unicorn.
+Abath
 Allocamelus (Heraldic) - Ass-camel hybrid.
 Alp (German) - Male night-demon.
 Alphyn (Heraldic) - Lion-like creature, sometimes with dragon or goat forelegs.
@@ -336,6 +337,7 @@ Sirin (Slavic) - Demonic human-headed bird
 Skin-walker (American Indian) - Animal-human shapeshifter
 Skeleton (Medieval folklore) - Living skeletons
 Skrzak (Slavic) - Flying imp
+Skrat
 Sleipnir (Norse) - Eight-legged horse
 Sluagh (Irish and Scottish) - Restless ghost
 Spectre (Worldwide) - Terrifying ghost
@@ -411,19 +413,13 @@ Treant (Fantasy)
 Fiend (Fantasy)
 Devil (Fantasy)
 Demogorgon
+Archon
 Archdevil (Fantasy)
 Wight (Fantasy)
 Ghost (Fantasy)
 Lich (Fantasy)
 Archlich (Fantasy)
-Air elemental (Fantasy)
-Fire elemental (Fantasy)
-Energy elemental (Fantasy)
-Earth elemental (Fantasy)
-Water elemental (Fantasy)
-Ice elemental (Fantasy)
-Storm elemental (Fantasy)
-Magma elemental (Fantasy)
+Elemental (Fantasy)
 Troglodyte (Fantasy)
 Gnoll (Fantasy)
 Lizardman (Fantasy)
