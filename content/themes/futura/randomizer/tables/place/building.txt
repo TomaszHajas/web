@@ -1,3 +1,69 @@
+Archive
+College
+School
+University
+Nursery school
+Civic
+Arena
+Library
+Mudhif
+Museums
+Community hall
+Church
+Basilica
+Cathedral
+Duomo
+Chapel
+Oratory
+Martyrium
+Mosque
+Mihrab
+Surau
+Imambargah
+Monastery
+Mithraeum
+Shrine
+Synagogue
+Temple
+Pagoda
+Gurdwara
+City hall
+Consulate
+Courthouse
+Embassy
+Fire station
+Meeting house
+Moot hall
+Parliament house
+Police station
+Post office
+Assembly
+Arsenal
+Barracks
+Bunker
+Blockhouse
+Citadel
+Missile launch facility
+Airport terminal
+Bus station
+Metro station
+Taxi station
+Railway station
+Signal box
+Lighthouse
+Shipyard
+Space port
+Hovercraft
+Ferry terminal
+Cruise terminal
+Boathouse
+Parking garage
+Hangar
+Bathhouse
+Film studio
+Gym
+Folly
+Aul
 Fort
 Fortress
 Palace
@@ -7,7 +73,6 @@ Tower
 Turret
 Watchtower
 Gatehouse
-Barracks
 Armory
 Villa
 Shack
@@ -23,23 +88,15 @@ Outpost
 Pavillon
 Amphitheatre
 Bath
-Arena
 Fightclub
 Theatre
-University
-Library
 Colloseum
-Basilica
 Circus
 Forum
-Alcove
-Temple
-Shrine
-Chapel
-Church
-Cathedral
 Sanctuary
+Mortuary
 Cementary
+Crematory
 Barrow
 Tomb
 Crypt
@@ -52,7 +109,6 @@ Court
 Mine
 Quarry
 Shaft
-Lighthouse
 Harbor
 Port
 Watermill
@@ -81,3 +137,137 @@ Apothecary
 Loom
 Bakery
 Brewery
+Frame
+Abbey
+Amphitheater
+Apartment
+Aqueduct
+Arch
+Assembly hall
+Barn
+Boarding house
+Bridge
+Bungalow
+Bunkhouse
+Cabana
+Capitol
+Carport
+Catacomb
+Chalet
+Chateau
+Cinema
+Clubhouse
+Compound
+Concert hall
+Condominium
+Conservatory
+Depot
+Detached house
+Dock
+Dome
+Dormitory
+Double wide house
+Duplex
+Dwelling
+Earth-sheltered house
+Exposition hall
+Factory
+Farm
+Farmhouse
+Ferry slip
+Firehouse
+Forge
+Foundry
+Gallery
+Garage
+Gas station
+Gazebo
+Geodesic dome
+Greenhouse
+Gymnasium
+Hall
+Haunted house
+Headquarters
+High-rise
+Home
+Hostel
+Hot house
+Hotel
+Houseboat
+Housing project
+Hunting lodgehut
+Igloo
+Kiosk
+Lean-to
+Lodge
+Log cabin
+Longhouse
+Mall
+Manor
+Manse
+Marina
+Market
+Mausoleum
+Meeting hall
+Minaret
+Mobile home
+Monument
+Motel
+Museum
+Nursing home
+Observatory
+Office building
+Opera house
+Outbuilding
+Outhouse
+Parliament
+Pavilion
+Plant
+Playhouse
+Pool house
+Power plant
+Prefab building
+Pump house
+Quonset hut
+Ranch
+Rectory
+Refinery
+Residence
+Restaurant
+Roller rink
+Roundhouse
+Rowhouse
+Shed
+Shelter
+Shopping center
+Shopping mall
+Silo
+Skating rink
+Skyscraper
+Skyway
+Smokestack
+Spire
+Split-level house
+Stadium
+State house
+Station
+Steeple
+Store
+Storehouse
+Strip mall
+Structure
+Studio
+Supermarket
+Symphony
+Tenement
+Terminal
+Theater
+Tipi
+Toll house
+Townhouse
+Treehouse
+Triplex
+Tudor house
+Vault
+Vicarage
+Yurt
