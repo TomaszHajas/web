@@ -15,6 +15,12 @@
        		return(false);
 	}
 	
+	//TODO, map of aliases
+	var aliasMap = new Map({
+		"character" : "character",
+		"item" : "item",
+		"place" : "place"
+	});
 	
 	var paramTemplate = getQueryVariable("template");
 	var paramSeed = getQueryVariable("seed");
