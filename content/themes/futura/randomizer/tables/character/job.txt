@@ -216,6 +216,7 @@ Bounty Hunter
 Bondsman
 Groom
 Guard
+Sentinel
 Squire
 Chandler
 Plowman
