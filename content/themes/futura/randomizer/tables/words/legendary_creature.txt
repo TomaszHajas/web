@@ -59,6 +59,7 @@ Caladrius
 Calingi
 Calygreyhound
 Cambion
+Construct
 Campe
 Camzotz
 Carbuncle
@@ -359,6 +360,7 @@ Shade
 Shadow Man
 Shug Monkey
 Simargl
+Simurgh
 Siren
 Sirin
 Skeleton
@@ -431,3 +433,10 @@ Yeth hound
 Yeti
 Ypotryll
 Zombie
+Chthonian
+Xothian
+Elder Thing
+Shoggoth
+Night-gaunt
+Adubmrali
+Byakhee
