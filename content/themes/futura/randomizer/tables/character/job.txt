@@ -139,6 +139,7 @@ Rebel
 Partisan
 Saboteur
 Revolutionist
+Conspirator
 Militia
 Policeman
 Swordsman
@@ -414,6 +415,7 @@ Torturer
 Investigator
 Detective
 Spy
+Agent
 Hacker
 Blackmailer
 Plaguebearer
