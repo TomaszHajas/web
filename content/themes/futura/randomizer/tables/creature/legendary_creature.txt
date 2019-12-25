@@ -1,165 +1,285 @@
+Abaia
 Abarimon
 Abath
 Acephali
+Achaierai
+Adaro
+Adlet
+Adubmrali
 Aerico
 Afanc
+Ahool
+Ahuizotl
+Air veela
+Akaname
+Akhlut
 Alghoul
 Alicorn
 Allocamelus
+Almiraj
 Alp
 Alphyn
+Alpluachra
+Alraune
+Amarok
 Ammit
 Amphiptere
 Amphisbaena
+Android
 Androsphinx
+Anemos
 Angel
 Animal hybrid
+Animus shade
 Ankou
+Annis hag
+Anunnaki
+Aoandon
+Apkallu
+Apocalypse horse
+Apocalypse locust
 Archangel
 Archdevil
 Archlich
 Archon
+Argus
 Arimaspi
 Arion
 Aspidochelone
+Assassin vine
 Astomi
+Astomoi
+Asura
 Aswang
+Athach
+Atomie
 Atomy
+Atuikakura
 Avalerion
 Axex
+Azata
 Baba Yaga
 Badalisc
+Bagiennik
+Bakekujira
+Baku
 Balaur
 Balor
 Balrog
+Bandersnatch
 Banshee
 Barghest
 Barnacle Geese
+Barometz
 Basilisk
+Baykok
 Behemoth
+Behemoth hippopotamus
+Behir
 Beholder
 Bennu
+Berbalang
+Bhole
+Bhuta
 Bies
 Bigfoot
+Bisha ga tsuku
 Bishop-fish
 Black Dog
+Black Horse
 Blafard
 Blemmyae
+Blood hag
+Bloody bones
 Bluecap
+Bodak
 Bogeyman
+Boggart
+Boggle
 Bonnacon
 Boobrie
 Brag
+Brownie
 Bruxa
 Bugbear
+Buggane
 Bunyip
+Byakhee
 Cacus
 Cadejo
 Caladrius
 Calingi
 Calygreyhound
 Cambion
-Construct
 Campe
 Camzotz
+Capramace
 Carbuncle
+Cat Sith
 Catoblepas
+Cauchemar
+Cecaelia
+Celedon
 Centaur
 Centicore
+Cephalophore
+Cerberi
 Cerberus
 Ceryneian Hind
+Cerynitis
+Cetus
+Chaneque
 Changeling
 Charybdis
+Cherufe
 Cheval Gauvin
 Cheval Mallet
 Chimaera
+Chimera
 Chromandi
 Chrysaor
 Chrysomallus
+Chthonian
 Chupacabra
+Cipactli
 Cockatrice
 Colossus
+Comozant wyrd
+Conqueror worm
+Construct
+Couatl
 Criosphinx
 Crocotta
+Cuero
 Cyclops
 Cynocephalus
 Daemon
+Daitengu
+Danthienne
 Dark dwarf
 Dark elf
+Death coach
 Death worm
+Deep One
 Deer Woman
 Deity
+Delgeth
 Demigod
 Demogorgon
+Demon
+Demon Lord
 Dendroid
+Denizen of Leng
+Derhii
+Derro
 Devil
+Devil monkey
 Dhampir
+Digmaul
+Div
 Djinn
+Doppelganger
 Doppelgänger
-Drac
+Dorvae
+Dossenus
 Drac
 Dragon
+Dragon horse
 Dragon turtle
 Drakaina
+Drakainia
 Drake
 Drakon
 Draugr
 Drop Bear
 Drow
+Drow noble
 Drowner
 Drude
 Dryad
 Duergar
 Dullahan
+Duppy
 Dvergr
 Dwarf
 Dybbuk
 Eagle Spirit
+Earth veela
 Echeneis
+Ectoplasmic creature
 Efreet
+Einherji
+Elder Thing
+Elder thing
 Elemental
 Elf
+Elohim
 Empusa
+Empyreal Lord
+Encantado
 Enfield
 Ent
+Erlking
+Etiainen
 Ettin
+Euryale
 Eurynomos
 Fachen
 Fairy
 Fairy dragon
 Familiar
 Far darrig
+Fastachee
 Faun
 Feathered Serpent
+Fen mauler
 Fenrir
 Fetch
 Fext
+Fey creature
 Fiend
 Finfolk
 Firbolg
 Fire Bird
+Fire veela
 Firedrake
 Fish-man
+Flying polyp
 Fomorian
+Foo creature
+Foo dog
+Foo lion
 Forest Bull
+Formless spawn
+Fossegrim
 Freybug
+Gaki
 Gargouille
 Gargoyle
 Garmr
 Garuda
+Gashadokuro
 Ged
 Gegenees
+Geist
+Genie
 Geryon
-Ghost
+Ghole
 Ghost
 Ghoul
+Ghul
 Giant
 Giant animal
+Giant eagle
 Gigante
 Gigelorum
+Girallon
+Girtablilu
 Glaistig
+Globster
 Gnoll
 Gnome
+Gnophkeh
 Goblin
 Godzilla
 Gog
@@ -167,13 +287,27 @@ Gold-digging ant
 Golem
 Gorgades
 Gorgon
+Gorynych
+Gowrow
+Graeae
 Grassman
+Gray
+Gray goo
+Great cyclops
+Great Old One
+Great white whale
+Green man
 Gremlin
 Grendel
 Griffin
+Griffon
 Grim Reaper
+Grim reaper
+Grindylow
 Grootslang
 Guardian angel
+Guecubu
+Gug
 Gulon
 Gwyllgi
 Gyascutus
@@ -181,120 +315,207 @@ Habrok
 Hag
 Half-elf
 Halfling
+Hamadryad
+Harionago
 Harpy
 Haugbui
 Headless Horseman
 Headless Mule
 Hecatonchires
+Heikegani
+Hell hound
 Hellhound
 Hidebehind
 Hieracosphinx
 High elf
 Hippocamp
+Hippocampus
 Hippogriff
 Hippopodes
 Hobgoblin
 Hodag
 Homunculus
 Hoop snake
+Horla
 Horned serpent
+Horseman
+House Spirit
+Huecuva
+Huldra
 Human-animal hybrid
+Humbaba
+Hundun
+Hunting horror
+Hupia
+Hyakume
 Hydra
+Hypnalis
 Ichneumon
 Ichthyocentaur
 Ifrit
+Ijiraq
+Iku-turso
 Imp
 Incubus
 Indus Worm
+Inevitable
 Inkanyamba
 Ipotane
+Irminsul
+Isitoq
 Island Satyr
+Isonade
+Jabberwock
 Jack-In-Irons
 Jack-o'-lantern
+Jack-o’-lantern
 Jackalope
 Jaculus
 Jasconius
 Jaud
+Jiang-shi vampire
+Jinmenju
 Jinn
+Jorogumo
+Jubjub bird
+Juggernaut
+Julunggali
+Juvenile seps
 Kamaitachi
+Kami
 Kappa
+Kapre
+Karkadann
+Karkinoi
 Karkinos
+Kawa akago
 Kelpie
 Keythong
+Khala
 Kikimora
+Kikituk
 Kirin
+Kitsune
 Kobalos
 Kobold
+Kongamato
+Korred
 Koshchey
 Kraken
 Krampus
 Krasue
+Kurobozu
+Kyton
 Lake monster
 Lamassu
 Lamia
+Lamia matriarch
+Lammasu
+Lampad
 Lava bear
 Lavellan
 Leanashe
+Leanen sidhe
 Lemure
+Leng ghoul
+Leng hound
+Leng spider
 Leprechaun
 Leshy
 Leucrota
+Leucrotta
 Leviathan
 Lich
 Lightning Bird
 Likho
 Lindworm
+Linnorm
+Linnorn
 Lizardman
+Llorona
 Loogaroo
+Lorelei
 Lubber fiend
+Lukwata
 Lusca
 Lycanthrope
 Machlyes
 Macrocephali
+Maenad
+Maftet
 Magog
 Mamune
 Manananggal
+Manasaputra
 Mandi
+Mandragora
 Mandrake
+Manitou
 Manticore
+Mapinguari
 Mara
 Marmennill
 Medusa
+Merfolk
 Merlin
 Mermaid
 Merman
 Merrow
+Mi-go
 Midday bride
 Mimic
 Minotaur
+Mngwa
+Mokele-mbembe
 Mono Grande
 Monocerus
 Monopod
+Moon-beast
+Morlock
 Moroi
 Moss man
+Mothman
+Muhuru
+Mummified creature
 Mummy
+Mummy lord
 Muscaliet
+Muse
 Musimon
 Myrmecoleon
 Nachzehrer
 Nadir
+Naga
 Nagual
-Namtaru
 Naiad
+Namtaru
 Nekker
+Nekomata
+Nemhain
+Nependis
 Nephilim
 Nereid
+Night-gaunt
+Nightgaunt
+Nightmare
 Nightwraith
+Ningen
+Ningyo
 Nix
+Nixie
 Noonwraith
+Norn
 Nosferat
 Nuckelavee
+Nue
 Nuli
+Nycar
 Nymph
 Nāga
 Oceanid
 Odmience
 Ogre
+Ogre mage (oni)
 Okuri-inu
 Olog
 Oni
@@ -302,7 +523,9 @@ Onocentaur
 Onoskelis
 Ophiotaurus
 Opinicus
+Orang-pendak
 Orc
+Oread
 Ork
 Orobas
 Orphan Bird
@@ -310,6 +533,7 @@ Orthrus
 Ouroboros
 Pandi
 Panotti
+Papinijuwari
 Parandrus
 Pard
 Patagon
@@ -318,83 +542,152 @@ Pech
 Pegacorn
 Pegasus
 Peluda
+Penanggalen
+Peri
 Peryton
+Peuchen
 Phoenix
 Piasa
+Pipefox
+Pixie
+Plankta
+Polong
 Poltergeist
+Pooka
+Popobala
+Psoglav
 Psychopomp
 Puck
 Puckwudgie
 Pygmy
 Pyrausta
 Python
+Qallupilluk
+Qlippoth
 Quinotaur
 Rakshasa
+Ramidreju
+Rat king
+Ratling
+Rawhead
 Redcap
 Reichsadler
 Reptilian humanoid
+Reptoid
 Revenant
 Roc
+Rokurokubi
+Rougarou
+Royal naga
+Rukh
+Rusalka
 Ryū
+Sabosan
+Sagari
 Salamander
+Samsaran
 Sandman
 Sandworm
 Sasquatch
 Satan
 Satyr
 Satyrus
+Saxra
+Sayona
 Sceadugenga
 Scitalis
 Scorpion Man
 Scylla
+Sea bonze
 Sea monk
 Sea monster
 Sea serpent
-Sea-Wyvern
 Sea-bee
+Sea-Wyvern
+Seaweed siren
+Seilenos
 Selkie
 Seps
 Seraph
 Serpent
+Serpentfolk
 Serpopard
+Sha
+Shabti
 Shade
 Shadow Man
+Shantak
+Shedu
+Shen
+Shinigami
+Shining child
+Shobhad
+Shoggoth
 Shug Monkey
 Simargl
 Simurgh
 Siren
 Sirin
+Siyokoy
 Skeleton
 Skin-walker
+Skinwalker
 Skrat
+Skrimsl
 Skrzak
 Sleipnir
 Slender man
 Slime
 Sluagh
+Snallygaster
+Spawn of Yog-Sothoth
 Spectre
 Sphinx
 Spirit
 Spriggan
+Spring-Heeled Jack
 Sprite
 Squonk
+Star-spawn of Cthulhu
 Stone-troll
 Strige
 Strigoi
 Strix
 Struthopodes
+Stymphalidies
+Su
 Succubus
+Svartalfar
 Swan maiden
 Sylph
 Sylvan
 Syrbotae
+Taniniver
+Taniwha
+Tanuki
+Taotieh
 Tarasque
+Tarrasque
+Tatzlwyrm
+Tempest behemoth
 Tengu
+Tenome
+Terra-cotta soldier
+Thalassic behemoth
+The Pale Horse
+The Red Horse
 The Swallower
+The White Horse
 Theriocephalus
+Thriae
 Thunderbird
 Tigris
+Tikbalang
 Titan
+Tiyanak
+Tizheruk
+Tooth fairy
+Tophet
 Topielec
 Treant
 Tree octopus
@@ -403,46 +696,79 @@ Triton
 Troglodyte
 Troll
 Trow
+Tsukumogami
+Tulpa
+Tunche
+Tupilaq
+Turul
+Tuyewera
 Typhon
+Tzitzimitl
+Udaeus
 Undead
+Undine
+Unfettered eidolon
 Unicorn
+Unrisen
+Uraeus
+Urhag
 Uruk
+Vahana
 Valkyrie
 Vampire
+Vanara
+Ved
+Vilderavn
+Vishap
+Vishkanya
+Vodyanoi
+Voonith
+Vouivre
 Vrykolakas
+Vukodlak
+Wakandagi
 Warg
 Warlock
+Water leaper
+Water orm
 Water sprite
+Water veela
+Wayang
 Wendigo
 Were-worm
 Werebeast
 Werecat
 Werehyena
 Werewolf
+Whisperer
 White Lady
+Wickerman
 Wight
+Wild hunt scout
 Wild man
 Will-o'-the-Wisp
+Will-o’-wisp
 Witch
+Wizard’s shackle
 Wolpertinger
 Wood elf
+Worg
 Wraith
 Wyrm
 Wyvern
+Xanthos
+Xiao
+Xothian
+Xtabay
+Yaddithian
 Yaoguai
 Yeth hound
 Yeti
+Yithian
 Ypotryll
+Yuki-onna
+Yurei
 Zombie
-Chthonian
-Xothian
-Elder Thing
-Shoggoth
-Night-gaunt
-Adubmrali
-Byakhee
-Yaddithian
-Shantak
-Formless spawn
-Gnophkeh
-Hunting horror
+Zomok
+Zoog
+Zuvembie
