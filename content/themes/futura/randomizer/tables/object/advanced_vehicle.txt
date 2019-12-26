@@ -1,0 +1,38 @@
+Motorcycle
+Car
+Steam car
+Off-road car
+Bus
+Sports car
+Motor glider
+Motorboat
+Snowmobile
+Truck
+Van
+Tractor
+Bulldozer
+Excavator
+Tank
+Train
+Locomotive
+Rover
+Scooter
+Hoverboard
+Submarine
+Hovercraft
+Helicopter
+Ornithopter
+Plane
+Biplane
+Multiplane
+Hot air baloon
+Airship
+Spacecraft
+Shuttlecraft
+Satellite
+Space station
+Spaceplane
+Flying saucer
+Walking vehicle
+Mecha
+Powered exoskeleton
