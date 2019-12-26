@@ -1,0 +1,39 @@
+Pot
+Bottle
+Plastic bottle
+Flask
+Kettle
+Drinking glass
+Aquarium
+Tankard
+Chalice
+Mug
+Jar
+Jug
+Vase
+Pitcher
+Bottle
+Can
+Vial
+Ampoule
+Waterskin
+Bag
+Chest
+Coffer
+Sack
+Barrel
+Thermos
+Cooler
+Wallet
+Box
+Ammo box
+Cage
+Case
+Carton
+Saddlebag
+Crate
+Envelope
+Keg
+Pouch
+Sachet
+Thermal bag
