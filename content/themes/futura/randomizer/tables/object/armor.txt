@@ -1,0 +1,26 @@
+Buckler
+Shield
+Spiked shield
+Heater
+Kite shield
+Tower shield
+Pavise
+Riot shield
+Studded leather armor
+Padded armor
+Leather armor
+Spiked armor
+Scale mail
+Hide armor
+Half plate armor
+Chain shirt
+Breastplate
+Splint armor
+Ring mail
+Plate armor
+Chain mail
+Riveted armor
+Laminar armor
+Power armor
+Kevlar vest
+Bomb suit
