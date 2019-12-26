@@ -16,11 +16,11 @@
 	}
 	
 	//TODO, map of aliases
-	var aliasMap = new Map({
-		"character" : "character",
-		"item" : "item",
-		"place" : "place"
-	});
+	var aliasMap = new Map([
+		 ['place', 'place'], 
+		 ['character', 'character'], 
+		 ['item', 'item']
+		])
 	
 	var paramTemplate = getQueryVariable("template");
 	var paramSeed = getQueryVariable("seed");
@@ -43,10 +43,10 @@
 		var template = encodeURIComponent(document.getElementById("template").value);
 		switch(type){
 			case "character":
-				template = encodeURIComponent("[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|]");
+				template = encodeURIComponent("[[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|]");
 			break;
 			case "item":
-				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/mundane]|[object/magic]|[object/trinket]]");
+				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/object]|[object/object] of [abstract/abstract]]");
 			break;
 			case "place":
 				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective]|][place/building]|[[place/area] with [place/adjective] |][place/natural]|[[place/area] with [place/adjective ]|][place/structure]|[place/room][ inside [place/adjective] [place/building]|]]");
