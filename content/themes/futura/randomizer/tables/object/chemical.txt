@@ -1,0 +1,46 @@
+Cough syrup dose
+Carcinogen dose
+Phenolphthalein dose
+Disinfectant dose
+Antibiotic dose
+Antiseptic dose
+Antitoxin dose
+Antiserum dose
+Truth serum dose
+Cough medicine dose
+Psychothropic dose
+Vitamins dose
+Laxative dose
+Antidepressant dose
+Depressant dose
+Antifungal dose
+Antiviral dose
+Anticancer agent dose
+Stimulant dose
+Hallucinogen dose
+Steroid dose
+Insulin dose
+Adrenaline dose
+Neurotoxin dose
+Sedative dose
+Muscle relaxant dose
+Vaccine dose
+Anesthetics dose
+Antiemetic dose
+Antidote dose
+Antacid dose
+Anticoagulant dose
+Coagulant dose
+Painkiller dose
+Cannabis dose
+Cocaine dose
+Ecstasy dose
+Heroin dose
+Inhalant dose
+Ketamine dose
+Methamphetamine dose
+Glucosis dose
+Saline dose
+Stimpak
+Acid dose
+Mutagen dose
