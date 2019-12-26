@@ -1,0 +1,88 @@
+Flamethrower
+Freezethrower
+Gasthrower
+Stun gun
+Taser
+Lightsaber
+Energy whip
+Power fist
+Electrostaff
+Vibroknife
+Pepper spray
+Pocket pistol
+Break-action pistol
+Blowback pistol
+Locked-breech pistol
+Revolver
+Machine pistol
+Submachine gun
+Break-action rifle
+Bolt-action rifle
+Lever-action rifle
+Semi-automatic rifle
+Automatic rifle
+Scout rifle
+Sniper rifle
+Break-action shotgun
+Pump-action shotgun
+Double-barrel shotgun
+Sawed-off DB shotgun
+Semi-automatic shotgun
+Light machine gun
+Heavy machine gun
+Minigun
+Chain gun
+Light grenade launcher
+Grenade launcher
+Automatic grenade launcher
+Light mortar
+Heavy mortar
+Rocket launcher
+Fragmentation grenade
+Blast grenade
+Smoke grenade
+Tear gas grenade
+Toxic gas grenade
+Stun grenade
+EMP grenade
+Incendiary grenade
+Impact grenade
+Sticky grenade
+Plasma grenade
+Cryo grenade
+Anti-personnel mine
+Anti-tank mine
+Dynamite
+Plasma rifle
+Plasma pistol
+Microwave gun
+Gravity gun
+Anti-matter gun
+Electrogun
+Laser rifle
+Laser pistol
+Gauss rifle
+Railgun
+Needle gun
+Rocket launcher
+Rocket missile
+Mine
+C4 Bomb
+Nuclear bomb
+Anti-matter bomb
+Graphite bomb
+Stink bomb
+Arrow
+Serrated arrow
+Bolt
+Heavy bolt
+Blunderbuss gauge
+Lead bullet
+Gunpowder dose
+Canister
+Paper cartridge
+Ammo belt
+Bullet
+AP bullet
+Slug
+Incendiary slug
