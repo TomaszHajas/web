@@ -1117,7 +1117,7 @@
                     "author_id": "5951f5fca366002ebd5dbef7",
                     "tag_id:": "5d7516b559216774548a41df",
                     "custom_excerpt": "",
-                    "feature_image": ""
+                    "feature_image": "http://sf.co.ua/13/01/wallpaper-2593414.jpg"
                 },
                 {
                     "title": "Melzaboul",
@@ -1134,6 +1134,22 @@
                     "tag_id:": "5d7516b559216774548a41df",
                     "custom_excerpt": "",
                     "feature_image": ""
+                },
+                {
+                    "title": "Beast of Hunger",
+                    "slug": "beast-of-hunger",
+                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Sometimes referred to as Ozzy, a primordial entity from Plane of Hunger, being the embodiment of annihilation. Is fond of devouring other beings and is seemingly acting all by itself.\"]]],[1,\"p\",[[0,[],0,\"The Beast manifests itself as twisted cloud of dark matter, sharing properties of both gas and liquid. Its appearance is always accompanied by eerie tone resembling modified human's call. It's amorphous, capable of taking any shape and fitting into any space (even into a crevice of closed door). It shows signs of sentience - witnesses tell the stories where the Beast sometimes changed its decision on whether to devour, or not to devour some particular character - after being simply spoken to. The victims which got themselves into the cloud's range are said to feel extreme pain - shortly before being disassembled into tiny particles, absorbed by the Beast.\"]]],[1,\"p\",[[0,[],0,\"Once upon a time, a necromancer named Kunbothe attempted to successfully tame the Beast to some degree and use it as guard to his tomb, although in later times the result came out to be accidental. Thus, the Beast has been nicknamed Ozzy - mostly because of its ooze-like appearance.\"]]]]}",
+                    "featured": false,
+                    "page": false,
+                    "status": "published",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "created_by": "5951f5fca366002ebd5dbef7",
+                    "published_by": "5951f5fca366002ebd5dbef7",
+                    "author_id": "5951f5fca366002ebd5dbef7",
+                    "tag_id:": "5d7516b559216774548a41df",
+                    "custom_excerpt": "",
+                    "feature_image": "https://thewinchesterfamilybusiness.com/images/SeasonEleven/22-WeHappyFew/spn1122_2470.jpg"
                 },
                 {
                     "title": "Dargollan",
