@@ -1,0 +1,96 @@
+Knife
+Hunting knife
+Combat knife
+Dagger
+War fan
+Main gauche
+Shortsword
+Gladius
+Rapier
+Foil
+Sabre
+Scimitar
+Longsword
+Falchion
+Estoc
+Greataxe
+Greatsword
+Giant sword
+Hook sword
+Fire poker
+Katana
+Bastard sword
+Lumber axe
+Hatchet
+Handaxe
+Bardiche
+Battleaxe
+Giant axe
+Chain sickle
+Warhammer
+Floppy hammer
+Maul
+Club
+Pickaxe
+Nunchaku
+Mace
+Morningstar
+Flail
+Greatflail
+Giant club
+Giant maul
+Giant mace
+Scythe
+Greatscythe
+Halberd
+Lance
+Pike
+Quarterstaff
+Throwing axe
+Javelin
+Guisarme
+Naginata
+Glaive
+Spear
+Lucern hammer
+Trident
+Spiked knuckles
+Brass knuckles
+Whip
+Hidden blade
+Bayonet
+Tonfa
+Bow
+Arrow
+Crossbow
+Crossbow bolt
+Blowgun
+Chakram
+Shuriken
+Sling
+Whip
+Flail
+Boxing gloves
+Shortbow
+Longbow
+Composite bow
+Hand crossbow
+Repeating crossbow
+Light crossbow
+Double crossbow
+Heavy crossbow
+Blowgun
+Weighted net
+Sling
+Boomerang
+Dart
+Shuriken
+Bolas
+Flintlock musket (.75)
+Flintlock pistol (.60)
+Double flintlock pistol (.60)
+Long rifle (.45)
+Rifled musket (.52)
+Double rifled musket (.52)
+Blunderbuss (8G)
+Bomb
