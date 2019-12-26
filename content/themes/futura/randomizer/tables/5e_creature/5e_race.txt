@@ -1,0 +1,143 @@
+Aarakocra
+Aasimar
+Aasimar (Fallen)
+Aasimar (Protector)
+Aasimar (Scourge)
+Aetherborn
+Aven
+Aven (Hawk-Headed)
+Aven (Ibis-Headed)
+Bugbear
+Bullywug
+Centaur
+Changeling
+Dragonborn
+Dwarf (Duergar)
+Dwarf (Hill)
+Dwarf (Kaladesh)
+Dwarf (Mark of Warding)
+Dwarf (Mountain)
+Elf (Aereni)
+Elf (Avariel)
+Elf (Drow)
+Elf (Eladrin)
+Elf (Grugach)
+Elf (High)
+Elf (Kaladesh) (Bishatar and Tirahar)
+Elf (Kaladesh) (Vadahar)
+Elf (Mark of Shadow)
+Elf (Sea)
+Elf (Shadar-kai)
+Elf (Valenar)
+Elf (Wood)
+Elf (Zendikar) (Joraga Nation)
+Elf (Zendikar) (Mul Daya Nation)
+Elf (Zendikar) (Tajuru Nation)
+Firbolg
+Genasi (Air)
+Genasi (Earth)
+Genasi (Fire)
+Genasi (Water)
+Gith (Githyanki)
+Gith (Githzerai)
+Gnoll
+Gnome (Deep)
+Gnome (Deep/Svirfneblin)
+Gnome (Forest)
+Gnome (Mark of Scribing)
+Gnome (Rock)
+Goblin
+Goblin (Ixalan)
+Goblin (Zendikar) (Grotag Tribe)
+Goblin (Zendikar) (Lavastep Tribe)
+Goblin (Zendikar) (Tuktuk Tribe)
+Goliath
+Grimlock
+Grung
+Half-Elf
+Half-Elf (Aquatic Elf Descent)
+Half-Elf (Drow Descent)
+Half-Elf (Mark of Detection)
+Half-Elf (Mark of Storm)
+Half-Elf (Moon ElfSun Elf Descent)
+Half-Elf (Wood Elf Descent)
+Half-Orc
+Half-Orc (Mark of Finding)
+Halfling (Ghoste)
+Halfling (Lightfoot)
+Halfling (Mark of Healing)
+Halfling (Mark of Hospitality)
+Halfling (Stout)
+Hobgoblin
+Human
+Human (Amonkhet)
+Human (Inniad) (Gavony)
+Human (Inniad) (Kessig)
+Human (Inniad) (Nephalia)
+Human (Inniad) (Stensia)
+Human (Ixalan)
+Human (Keldon)
+Human (Mark of Finding)
+Human (Mark of Handling)
+Human (Mark of Making)
+Human (Mark of Passage)
+Human (Mark of Sentinel)
+Human (Variant)
+Kalashtar
+Kenku
+Khenra
+Kobold
+Kor
+Kuo-Toa
+Lizardfolk
+Loxodon
+Merfolk
+Merfolk (Ixalan) (Blue)
+Merfolk (Ixalan) (Green)
+Merfolk (Zendikar) (Cosi Creed)
+Merfolk (Zendikar) (Emeria Creed)
+Merfolk (Zendikar) (Ula Creed)
+Minotaur
+Minotaur (Amonkhet)
+Minotaur (Krynn)
+Naga
+Orc
+Orc (Ixalan)
+Revenant
+Shifter (Beasthide)
+Shifter (Cliffwalk)
+Shifter (Longide)
+Shifter (Longtooth)
+Shifter (Razorclaw)
+Shifter (Swiftide)
+Shifter (Wildhunt)
+Simic Hybrid
+Siren
+Skeleton
+Tabaxi
+Tiefling
+Tiefling (Abyssal)
+Tiefling (Asmodeus)
+Tiefling (Baalzebul)
+Tiefling (Dispater)
+Tiefling (Fierna)
+Tiefling (Glasya)
+Tiefling (Levistus)
+Tiefling (Mammon)
+Tiefling (Mephistopheles)
+Tiefling (Variant)
+Tiefling (Zariel)
+Tortle
+Triton
+Troglodyte
+Vampire (Ixalan)
+Vampire (Zendikar)
+Vedalken
+Verdan
+Viashino
+Warforged
+Warforged (Envoy)
+Warforged (Juggernaut)
+Warforged (Skirmisher)
+Yuan-ti Pureblood
+Zombie
