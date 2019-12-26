@@ -1,0 +1,489 @@
+Weighing scale
+Thermometer
+Barometer
+Ruler
+Compass
+Sextant
+Calipers
+Jig
+Spirit level
+Measuring rod
+Yardstick
+Micrometer
+Protractor
+Set square
+Try square
+Stencil
+Tape measure
+Hourglass
+Lock
+Chain
+Hook
+Belt
+Whetstone
+String
+Ball bearing
+Block and tackle
+Gear
+Spring
+Plunger
+Toilet brush
+Wedge
+Hob
+Welder
+Welding rod
+Blade
+Billhook
+Halligan bar
+Bold cutter
+Froe
+Drawknife
+Glass cutter
+Grater
+Hacksaw
+Pencil sharpener
+Nail clipper
+Penknife
+Rasp
+Razor
+Sandpaper
+Scalpel
+Scissors
+Steel wool
+Switchblade
+Utility knife
+Wire brush
+Wrench
+Lug wrench
+Pipe wrench
+Pliers
+Cutter
+File
+Hammer
+Chisel
+Screwdriver
+Air pump
+Tire pump
+Car jack
+Vise
+Clamp
+Crowbar
+Shears
+Saw
+Drill
+Paintbrush
+Aerosol paint
+Paint can
+Plunger
+Pincers
+Glass breaker
+Grease gun
+Sledgehammer
+Staple gun
+Awl
+Tire iron
+Tweezers
+Knife
+Pitchfork
+Pruning shears
+Rake
+Axe
+Adze
+Hoe
+Garden hose
+Sprinkler
+Leaf blower
+Loppers
+Machete
+Mattock
+Pickaxe
+Scythe
+Shovel
+Sickle
+Spade
+Trowel
+Watering can
+Broom
+Brush
+Bucket
+Feather duster
+Ladder
+Stepladder
+Mop
+Peg wood
+Pipe cleaner
+Sponge
+Padlock
+Combination padlock
+Glue gun
+Horse bit
+Bridle
+Saddle
+Horseshoe
+Leash
+Hemostat
+Trocar
+Suture needle
+Speculum
+Head mirror
+Stethoscope
+Bone saw
+Injection needle
+Syringe
+Inhaler
+Douche bag
+Suppository
+Pill
+Capsule
+Pastille
+Bandage
+Splint
+Forceps
+Dressing
+First aid kit
+Plaster
+Cotton ball
+Poultice
+Adhesive bandage
+Bag valve mask
+Fishing net
+Fish hook
+Fishing line
+Fishing rod
+Knitting needles
+Needle
+Thread
+Lithmus paper
+Duct tape
+Space blanket
+Tarp
+Trash bag
+Tinderbox
+Matchbox
+Match
+Lighter
+Gauze
+Sunglasses
+Canteen
+Aluminum foil
+Plastic foil
+Snare wire
+Whistle
+Mirror
+Comb
+Papyrus scroll
+Clay tablet
+Codex
+Stick-it note
+Paper sheet
+Origami swan
+Eraser
+Dry-eraser
+Crayon
+Marker
+Pen
+Pencil
+Ink
+Quill
+Watch
+Pocket watch
+Clock
+Map
+Chart
+Glow stick
+Parachute
+Hatchet
+Camp stove
+Candle
+Torch
+Life jacket
+Fire extinguisher
+Bipod
+Optical scope
+Silencer
+Gas mask
+Siren
+Oxygen tank
+Lantern
+Lamp
+Glowstick
+Desalination kit
+Bedroll
+Mattress
+Sleeping bag
+Tent
+Umbrella
+Blanket
+Backpack
+Stretcher
+Pulley
+Rope
+Piton
+Toilet paper
+Paper
+Magnifying glass
+Nail
+Nut
+Bolt
+Screw
+Stake
+Goggles
+Peeler
+Bottle opener
+Suction cups
+Bungee cord
+Bowl
+Dog bowl
+Ashtray
+Tray
+Smoking pipe
+Cigarette
+Cigarette pack
+Bong
+Tobacco
+Condom
+Perfume
+Makeup kit
+Lipstick
+Rubber band
+Rubber doll
+Dildo
+Flower pot
+Flower
+Plate
+Bottlecap
+Lockpick
+Bobby pin
+Saucepan
+Frying pan
+Bread knife
+Sickle
+Smithing hammer
+Bellows
+Sieve
+Cleaver
+Colander
+Cookie cutter
+Butter knife
+Pole
+Corkscrew
+Cutting board
+Funnel
+Herb chopper
+Ladle
+Measuring cup
+Cup
+Spoon
+Can opener
+Meat grinder
+Meat mallet
+Mortar and pestle
+Nutcracker
+Oven glove
+Rag
+Towel
+Pepper mill
+Pizza cutter
+Potato masher
+Rolling pin
+Salt shaker
+Scoop
+Spatula
+Tin opener
+Tongs
+Twine
+Fork
+Napkin
+Handkerchief
+Chopsticks
+Skewer
+Toothpick
+Drinking straw
+Bleach bottle
+Detergent bottle
+Insect repellent spray
+Washboard
+Clothes hanger
+Clothes iron
+Soap
+Oinment
+Shampoo
+Paper towel
+Toothpaste
+Toothbrush
+Bottlecap
+Cork
+Button
+Folder
+Notepad
+Pencil
+Book
+Tome
+Pamphlet
+Handbook
+Notebook
+Note
+Diary
+Journal
+Newspaper
+Magazine
+Safe conduct
+Restraining order
+Extradition letter
+Testament
+Letter
+Love letter
+Begging letter
+In memoriam card
+Postcard
+Holy card
+Greeting card
+Business card
+Manifest
+Certificate
+Diploma
+Report
+Poster
+Wanted poster
+Decree
+Edict
+Verdict
+Manuscript
+Manual
+Mind Map
+Document
+Documentation
+Form
+Ticket
+Leaflet
+Coupon
+Voucher
+Invoice
+Thesis
+Script
+License
+Identification document
+Contract
+Datasheet
+Envelope
+Rubber stamp
+Postage stamp
+Staff
+Wand
+Orb
+Fan
+Branch
+Twig
+Seed
+Grass tuft
+Rock
+Pebble
+Hair
+Bone
+Skull
+Shell
+Tooth
+Claw
+Glue
+Wood glue
+Oakum
+Silicone cartridge
+Varnish can
+Resin can
+Wax can
+Oil can
+Flower boquet
+Flower
+Gold tooth
+Metal sheet
+Metal bar
+Metal frame
+Painting
+Trophy
+Drum
+Harp
+Castanets
+Triangle
+Bell
+Horn
+Air horn
+Detonator
+Detonating cord
+Firecracker
+Tripwire
+Barbed wire
+Wire
+Necklace
+Amulet
+Signet
+Ring
+Brooch
+Banknote
+Coin
+Token
+Abacus
+Lens
+Contact lens
+Glasses
+Telescope
+Magnifying glass
+Microscope
+Binoculars
+Spike strip
+Car wheel
+Key
+Paddle
+Oar
+Training dummy
+Bear trap
+Mouse trap
+Manacles
+Handcuffs
+Enforcer
+Baseball ball
+Baseball bat
+Basketball ball
+Soccer ball
+Hockey stick
+Cricket bat
+Golf ball
+Golf club
+Hockey helmet
+Hockey puck
+Rugby ball
+Tennis ball
+Soother
+Rattle
+Building blocks
+Doll
+Teddy bear
+Toy car
+Toy boat
+Toy aeroplane
+Puzzle
+Nerf gun
+Yo-yo
+Rubik's Cube
+Chess box
+Chess piece
+6-sided die
+Playing cards
+Bagpipe
+Clarinet
+Trumpet
+Flute
+Harmonica
+Oboe
+Ocarina
+Pan flute
+Saxophone
+Trombone
+Harp
+Lute
+Banjo
+Ukulele
+Guitar
+Mandolin
+Violin
+Viol
+Music box
