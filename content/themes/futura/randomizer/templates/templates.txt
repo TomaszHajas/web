@@ -1,21 +1,21 @@
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] claiming he/she's a reverse [character/job].
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who thinks he/she's [creature/creature].
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [merchant|trader|clerk] [trading magical items - [object/magic][|, [object/magic]][|, [object/magic]]|buying up all possible items for [1d5*10]% of their market price|buying [object/mundane][|, [object/mundane]][|, [object/mundane]] for [2d10*10]% of their market price|selling [object/mundane][|, [object/mundane]][|, [object/mundane]] for [2d10*10]% of their market price|renting [object/mundane][|, [object/mundane]][|, [object/mundane]] for [1d10*10]% of their market price per day and 10x cheaper per hour][| Accepts gold-only exchange| Accepts item-only exchange].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who thinks he/she's [[creature/animal]|[creature/legendary]].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [merchant|trader|clerk] [trading magical items - [object/object] of [abstract/abstract][|, [object/object] of [abstract/abstract]][|, [object/object] of [abstract/abstract]]|buying up all possible items for [1d5*10]% of their market price|buying [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|selling [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|renting [object/object][|, [object/object]][|, [object/object]] for [1d10*10]% of their market price per day and 10x cheaper per hour][| Accepts gold-only exchange| Accepts item-only exchange].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] looking for item related to his/her job.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] forcing his/her services on adventurers and demanding a payment.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] disturbing adventurers by performing his/her job.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] offering help in things related to his/her job.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [character/job] performing his/er job.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a riddle, rewarding with [object/adjective] [object/mundane] for a good answer. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] riding [creature/beast]. [|Offers a ride.|Seems to lose control over its steed.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a riddle, rewarding with [object/adjective] [object/object] for a good answer. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] riding [creature/animal]. [|Offers a ride.|Seems to lose control over its steed.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers a rumor about infectious [curse|affliction|sickness], which forces affected creatures to [action/verb][.| themselves.| other beings.] It is said that the only way of producing cure is to [action/verb] [object/material]. The character himself/herself is [secretly|not] infected and can [|not] prove it.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] on a quest to [action/verb] [|his/her] [[object/mundane]|[creature/creature]] because of [abstract/abstract].[| Seems to be quiet about it.| Seems to discourage adventurers from helping.| Seems to encourage adventurers to help.]
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a local [legend|rumor] about [creature/creature] which [managed|attempted|failed] to [action/verb] [[object/mundane]|[creature/creature]].
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] willing to join adventurers. He/she's secretely cursed and transforms into [creature/creature] each time he/she attempts to [action/verb] something. [|The curse is infectious.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] on a quest to [action/verb] [|his/her] [[object/object]|[[creature/animal]|[creature/legendary]]] because of [abstract/abstract].[| Seems to be quiet about it.| Seems to discourage adventurers from helping.| Seems to encourage adventurers to help.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who tells a local [legend|rumor] about [[creature/animal]|[creature/legendary]] which [managed|attempted|failed] to [action/verb] [[object/object]|[[creature/animal]|[creature/legendary]]].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] willing to join adventurers. He/she's secretely cursed and transforms into [[creature/animal]|[creature/legendary]] each time he/she attempts to [action/verb] something. [|The curse is infectious.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] trying to [action/verb] adventurers.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] who lost a way.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] [questioning [abstract/abstract]|pondering if [abstract/abstract] is better than [abstract/abstract]|wondering if [object/mundane] is more useful than [object/mundane]].
-Drunk [[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] [questioning [abstract/abstract]|pondering if [abstract/abstract] is better than [abstract/abstract]|wondering if [object/object] is more useful than [object/object]].
+Drunk [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] asking for money.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] trying to blackmail adventurers.
 Toll station stationed by [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|].
@@ -26,95 +26,95 @@ Toll station stationed by [[character/appearance]|] [[character/personality]|] [
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] [breaking local law|enforcing local law on adventurers].
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] willing to [join|recruit] adventurers.
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] asking for being escorted.
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] offering a free [object/adjective] [object/mundane].[| And running away.| And disappearing.]
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] offering a free [object/adjective] [object/object].[| And running away.| And disappearing.]
 [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 Artistic performance of [[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|].
-Two [creature/humanoid]s arguing over the way they should go.
-Two identical [creature/humanoid]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
-[creature/humanoid] [about|attempting|failing] to [action/verb] [creature/humanoid].
-[[character/appearance]|] [[character/personality]|] [Male|Female] [[creature/humanoid]|] [[character/job]|] being executed by [2d4] [creature/humanoid]s.
-Group of [2d4] x [[character/race]|[creature/humanoid]] on quest to [action/verb] [|their] [[object/mundane]|[creature/creature]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
-Group of [2d4] [creature/humanoid]s debating over [abstract/abstract] at [place/adjective] [place/structure].
-Group of [2d4] [creature/humanoid]s debating over a local problem.
-Group of [2d4] hostile [creature/creature]s approaching from [one side|two sides|all sides].
-[character/personality] [creature/creature] leading group of [2d4] [creature/creature]s.
-[creature/creature] in conflict with group of [2d4] [creature/creature]s.
-[2d4] [creature/creature]s confronting [2d4] [creature/creature]s.
-Lair of [2d4] [creature/creature](s).
-Local military squad consisting of [2d4] [creature/humanoid](s).
-Hostile military squad consisting of [2d4] [creature/humanoid](s).
-Passage guarded by group of [2d4] [creature/creature]s.
-[2d4] x [creature/humanoid] slaves and their [2d4] x [creature/humanoid] guards.
-Group of [2d4] [creature/creature]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [abstract/abstract].
-Ambush of [2d4] [creature/creature]s.
-[creature/creature] being chased by [2d4] [creature/creature]s.
-[creature/creature] investigating some other encounter.
-[creature/creature] corpse. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
-[creature/creature] somewhere in [place/area].
-[character/personality] [god|goddess|deity|demon] of [abstract/abstract] [trying to [action/verb] adventurers|wanting adventurers to [action/verb] [creature/creature]|asking adventurers to [action/verb] [object/mundane]|ordering adventurers to [action/verb] [[place/structure]|[place/natural]]].
-[creature/creature] trying to [action/verb] adventurers.
-Sleeping [creature/creature]. [|With eyes open.|In weird position.|Snoring loudly.]
+Two [character/race]s arguing over the way they should go.
+Two identical [character/race]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
+[character/race] [about|attempting|failing] to [action/verb] [character/race].
+[[character/appearance]|] [[character/personality]|] [Male|Female] [[character/race]|] [[character/job]|] being executed by [2d4] [character/race]s.
+Group of [2d4] x [[character/race]|[character/race]] on quest to [action/verb] [|their] [[object/object]|[[creature/animal]|[creature/legendary]]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
+Group of [2d4] [character/race]s debating over [abstract/abstract] at [place/adjective] [place/structure].
+Group of [2d4] [character/race]s debating over a local problem.
+Group of [2d4] hostile [[creature/animal]|[creature/legendary]]s approaching from [one side|two sides|all sides].
+[character/personality] [[creature/animal]|[creature/legendary]] leading group of [2d4] [[creature/animal]|[creature/legendary]]s.
+[[creature/animal]|[creature/legendary]] in conflict with group of [2d4] [[creature/animal]|[creature/legendary]]s.
+[2d4] [[creature/animal]|[creature/legendary]]s confronting [2d4] [[creature/animal]|[creature/legendary]]s.
+Lair of [2d4] [[creature/animal]|[creature/legendary]](s).
+Local military squad consisting of [2d4] [character/race](s).
+Hostile military squad consisting of [2d4] [character/race](s).
+Passage guarded by group of [2d4] [[creature/animal]|[creature/legendary]]s.
+[2d4] x [character/race] slaves and their [2d4] x [character/race] guards.
+Group of [2d4] [[creature/animal]|[creature/legendary]]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [abstract/abstract].
+Ambush of [2d4] [[creature/animal]|[creature/legendary]]s.
+[[creature/animal]|[creature/legendary]] being chased by [2d4] [[creature/animal]|[creature/legendary]]s.
+[[creature/animal]|[creature/legendary]] investigating some other encounter.
+[[creature/animal]|[creature/legendary]] corpse. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
+[[creature/animal]|[creature/legendary]] somewhere in [place/area].
+[character/personality] [god|goddess|deity|demon] of [abstract/abstract] [trying to [action/verb] adventurers|wanting adventurers to [action/verb] [[creature/animal]|[creature/legendary]]|asking adventurers to [action/verb] [object/object]|ordering adventurers to [action/verb] [[place/structure]|[place/natural]]].
+[[creature/animal]|[creature/legendary]] trying to [action/verb] adventurers.
+Sleeping [[creature/animal]|[creature/legendary]]. [|With eyes open.|In weird position.|Snoring loudly.]
 Shady [character/appearance] character [managing|attempting|failing] to hide his/her identity.
-Powerful hostile [creature/creature] [in its lair|].
-Weird-looking [character/appearance] [creature/creature].
-Weird-behaving [character/personality] [creature/creature].
-[character/appearance] [creature/creature] in environmental danger.
-[character/personality] [creature/creature] about to commit suicide.[| Not aware of it.]
-Trapped [character/personality] [creature/creature]. The trap was... [trap/adjective]
-Small [creature/creature] eating adventurer's supplies.
-[creature/beast] without owner. It seems to have a collar with a name tag - "[character/hindu_prefix][character/japanese_suffix]".
-[creature/creature] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence]. [|Seems to ignore his/her condition.]
-Half-[creature/creature] half-[creature/creature].
-Uncanny [creature/creature] made of [object/material].
-Weird hybrid with [creature/beast]'s head, [creature/beast]'s body and [creature/beast]'s limbs.
-[creature/creature] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
-[creature/creature] [drinking [object/drink]|eating [[object/material]|[object/food]]].
-[creature/creature] making use of its magical powers in order to [action/verb] [[creature/creature]|[object/mundane]|[[place/structure]|[place/natural]|[place/building]]].
-[character/personality] [creature/creature] interested in adventurer's item.[| Tries to [action/verb] it.]
-Talking [creature/beast] with [character/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [abstract/abstract].
-[1d3] [creature/creature](s) making out.[| Loud.]
-[place/adjective] [room|chamber] of [[4d4*5]-feet square|[4d4*5]-feet diameter circle|[4d4*5] by [4d4*5] feet rectangle|[4d4*5] by [4d4*5] feet Oval|[4d4*5]-feet edge triangle|[4d4*5]-feet cross|[4d4*5] by [4d4*5] feet house|[2d4*5]-feet edge pentagon|[2d4*5]-feet edge hexagon|[4d4*5] by [4d4*5] feet [L|O|P|T|S|Y|H|J|D|I|E|F|U] letter] shape. Entrance is on its [upper|lower|left|right] edge, [far from|close to] the center. Ceiling is [1d4*5] feet above ground.[| The room is occupied by [[2d4] x|one] [creature/creature] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall].] There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].[| There is a [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]].]
+Powerful hostile [[creature/animal]|[creature/legendary]] [in its lair|].
+Weird-looking [character/appearance] [[creature/animal]|[creature/legendary]].
+Weird-behaving [character/personality] [[creature/animal]|[creature/legendary]].
+[character/appearance] [[creature/animal]|[creature/legendary]] in environmental danger.
+[character/personality] [[creature/animal]|[creature/legendary]] about to commit suicide.[| Not aware of it.]
+Trapped [character/personality] [[creature/animal]|[creature/legendary]]. The trap was... [trap/adjective]
+Small [[creature/animal]|[creature/legendary]] eating adventurer's supplies.
+[creature/animal] without owner. It seems to have a collar with a name tag - "[character/hindu_prefix][character/japanese_suffix]".
+[[creature/animal]|[creature/legendary]] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence]. [|Seems to ignore his/her condition.]
+Half-[[creature/animal]|[creature/legendary]] half-[[creature/animal]|[creature/legendary]].
+Uncanny [[creature/animal]|[creature/legendary]] made of [object/material].
+Weird hybrid with [creature/animal]'s head, [creature/animal]'s body and [creature/animal]'s limbs.
+[[creature/animal]|[creature/legendary]] giving birth. [|In water.|With complications.|Of multiple children.|Of different creature type.|And dying afterwards.]
+[[creature/animal]|[creature/legendary]] [drinking [object/drink]|eating [[object/material]|[object/food]]].
+[[creature/animal]|[creature/legendary]] making use of its magical powers in order to [action/verb] [[[creature/animal]|[creature/legendary]]|[object/object]|[[place/structure]|[place/natural]|[place/building]]].
+[character/personality] [[creature/animal]|[creature/legendary]] interested in adventurer's item.[| Tries to [action/verb] it.]
+Talking [creature/animal] with [character/personality] personality. It tries to [discourage adventurers from|encourage adventurers to] [abstract/abstract].
+[1d3] [[creature/animal]|[creature/legendary]](s) making out.[| Loud.]
+[place/adjective] [room|chamber] of [[4d4*5]-feet square|[4d4*5]-feet diameter circle|[4d4*5] by [4d4*5] feet rectangle|[4d4*5] by [4d4*5] feet Oval|[4d4*5]-feet edge triangle|[4d4*5]-feet cross|[4d4*5] by [4d4*5] feet house|[2d4*5]-feet edge pentagon|[2d4*5]-feet edge hexagon|[4d4*5] by [4d4*5] feet [L|O|P|T|S|Y|H|J|D|I|E|F|U] letter] shape. Entrance is on its [upper|lower|left|right] edge, [far from|close to] the center. Ceiling is [1d4*5] feet above ground.[| The room is occupied by [[2d4] x|one] [[creature/animal]|[creature/legendary]] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall].] There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].[| There is a [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]].]
 [object/adjective] [[place/natural]|[place/structure]].
-[Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/mundane] inside.
+[Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/object] inside.
 Trapped [place/structure], which is... [trap/adjective]
 Unusual [place/structure] made of [object/material].
 Ruined [[place/building]|[place/structure]].
-[place/adjective] [place/area] said to be inhabited by [creature/creature]s.
-[Tracks|Droppings|Body part] belonging to [creature/creature].
+[place/adjective] [place/area] said to be inhabited by [[creature/animal]|[creature/legendary]]s.
+[Tracks|Droppings|Body part] belonging to [[creature/animal]|[creature/legendary]].
 [Traces|Sounds|Smell] of combat.
 [object/color] [thick|watery|dried] spattering.
 Bonfire[, lit| remains. [It was extinguished [1d8] hour(s) ago|It has lost all the heat]| with [object/food] roasting].
-Sound of [heavy-breathing|crying|laughing|giggling|snoring|gasping|groaning|sighing|sniffing|burping|yelling|whispering|coughing|sneezing|yawning|growling|roaring|hiccupy] [creature/humanoid].
+Sound of [heavy-breathing|crying|laughing|giggling|snoring|gasping|groaning|sighing|sniffing|burping|yelling|whispering|coughing|sneezing|yawning|growling|roaring|hiccupy] [character/race].
 Small [camp|hideout].
 [Entrance|Crevice|Stairs|Ladder|Rope] leading down.
 [Crossroads|Road fork|Road turning left|Road turning right].
 Closed [door|gate] made of [object/material] blocking the path.
-Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [creature/creature].
-Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [creature/creature].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/food] inside.
+Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [[creature/animal]|[creature/legendary]].
+Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [[creature/animal]|[creature/legendary]].
+[object/container] with [object/food] inside.
 Flask with [object/drink] inside.
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [[1d4] x [object/mundane]|[2d20] pounds of [object/material]|[object/adjective] [object/mundane] and [1d4] gold piece(s)|[object/adjective] [object/mundane] inside|[Basket|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [object/adjective] [object/mundane] inside|[object/adjective] [object/mundane] and [object/adjective] [object/mundane]].
-[Basket|Chest|Coffer|Barrel|Crate|Sack|Pouch|Container|Bin|Urn] with [[2d4-1] gold piece(s)|[2d6-1] electrum piece(s)|[2d8-1] silver piece(s)|[2d10-1] copper piece(s)].
-Pile containing [2d4] almost identical [object/mundane]s.
-[object/mundane] bearing mark of use by [character/job].
-[object/mundane] about to be [lost|destroyed].
-Half-[object/mundane] half-[object/mundane]. It fuses functionalities of both items.
-[object/mundane] partially made of [object/material].
-[object/adjective] [object/mundane] in the middle of the path.
-[object/adjective] [object/mundane] with [[abstract/symbol] symbol on it|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together].
-[object/adjective] [object/mundane] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [magical|arcane|mystical|enchanted|miraculous|sorcerous|enigmatic|mysterious|bewitched|pacted|hexed|cursed|infinite] [object/mundane] of [abstract/abstract] which will [[action/verb] anything touched with its tip|[action/verb] anything pointed by it, not farther than [1d10*5] feet|[action/verb] [creatures|[creature/creature]] touched with it|[action/verb] creature using it according to its purpose|[action/verb] anything it's used on according to its purpose|[action/verb] [creatures|[creature/creature]] in [1d10*5] feet radius|make each creature holding/wearing it [[character/appearance]|[character/personality]]|teleport each creature which touches it to [place/adjective] [place/structure] in [place/adjective] [place/area]|summon [creature/creature] when someone attempts to [action/verb] it|turn any [object/material] it touches into [object/material]|turns any creature it touches into [object/material] in [1d4*6] seconds [for 1 minute|for 1 hour|for 1 day|for 1 year|permanently]|try to [discourage adventurers from|encourage adventurers to] [abstract/abstract]. It is capable of [writing text|talking|communicating telepathically in [1d10*5] feet radius] and has [character/personality] personality].
-Geared [character/appearance] [creature/humanoid] [male/female] corpse containing [object/adjective] [object/mundane][| and [object/adjective] [object/mundane]]. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
-Hideout behind [place/natural] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [object/adjective] [object/mundane] and[ [object/adjective] [object/mundane]|].
+[object/container] with [[1d4] x [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [1d4] gold piece(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
+[object/container] with [[2d4-1] gold piece(s)|[2d6-1] electrum piece(s)|[2d8-1] silver piece(s)|[2d10-1] copper piece(s)].
+Pile containing [2d4] almost identical [object/object]s.
+[object/object] bearing mark of use by [character/job].
+[object/object] about to be [lost|destroyed].
+Half-[object/object] half-[object/object]. It fuses functionalities of both items.
+[object/object] partially made of [object/material].
+[object/adjective] [object/object] in the middle of the path.
+[object/adjective] [object/object] with [[abstract/symbol] symbol on it|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together].
+[object/adjective] [object/object] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [magical|arcane|mystical|enchanted|miraculous|sorcerous|enigmatic|mysterious|bewitched|pacted|hexed|cursed|infinite] [object/object] of [abstract/abstract] which will [[action/verb] anything touched with its tip|[action/verb] anything pointed by it, not farther than [1d10*5] feet|[action/verb] [creatures|[[creature/animal]|[creature/legendary]]] touched with it|[action/verb] creature using it according to its purpose|[action/verb] anything it's used on according to its purpose|[action/verb] [creatures|[[creature/animal]|[creature/legendary]]] in [1d10*5] feet radius|make each creature holding/wearing it [[character/appearance]|[character/personality]]|teleport each creature which touches it to [place/adjective] [place/structure] in [place/adjective] [place/area]|summon [[creature/animal]|[creature/legendary]] when someone attempts to [action/verb] it|turn any [object/material] it touches into [object/material]|turns any creature it touches into [object/material] in [1d4*6] seconds [for 1 minute|for 1 hour|for 1 day|for 1 year|permanently]|try to [discourage adventurers from|encourage adventurers to] [abstract/abstract]. It is capable of [writing text|talking|communicating telepathically in [1d10*5] feet radius] and has [character/personality] personality].
+Geared [character/appearance] [character/race] [male/female] corpse containing [object/adjective] [object/object][| and [object/adjective] [object/object]]. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
+Hideout behind [place/natural] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [object/adjective] [object/object] and[ [object/adjective] [object/object]|].
 Burned environmental object - [[place/structure]|[place/natural]].
 Unusually big environmental object - [[place/structure]|[place/natural]].
 Sudden end of the path.
 [abstract/abstract]-bringing trap, which is... [trap/adjective]
-Trap making use of [object/mundane], which is... [trap/adjective]
+Trap making use of [object/object], which is... [trap/adjective]
 Path-blocking environmental object - [[place/structure]|[place/natural]].
 Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
-Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/beast]|[object/liquid]|[object/material]|[object/mundane]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
-[[object/adjective]|[place/adjective]] puzzle which can be solved [by mimicking behavior of the [creature/beast]|by performing job of [character/job]|by using [object/mundane] according to its purpose|by [attempting|trying|managing|succeeding|failing] to [action/verb] [oneself|anyone|[creature/creature]]|by [attempting|trying|managing|succeeding|failing] to [action/verb] [[object/mundane]|[place/natural]|[place/structure]]|by displaying [abstract/abstract]].
+Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
+[[object/adjective]|[place/adjective]] puzzle which can be solved [by mimicking behavior of the [creature/animal]|by performing job of [character/job]|by using [object/object] according to its purpose|by [attempting|trying|managing|succeeding|failing] to [action/verb] [oneself|anyone|[[creature/animal]|[creature/legendary]]]|by [attempting|trying|managing|succeeding|failing] to [action/verb] [[object/object]|[place/natural]|[place/structure]]|by displaying [abstract/abstract]].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [character/job] who tried to [action/verb] 
 Signpost showing a [|wrong] way to nearby [place/adjective] [place/area].
 Signpost showing a [|wrong] way to nearby [place/adjective] [place/structure].
@@ -128,43 +128,43 @@ Beautiful view of [place/adjective] [[place/area]|[place/building]].
 Projectile struck in [place/adjective] [[place/structure]|[place/natural]].
 Hidden passage to [place/adjective] [[place/area]|[place/building]|[place/structure]|[place/natural]].
 Magical portal hidden inside [place/adjective] [[place/building]|[place/structure]|[place/natural]]. It leads to [|pocket dimension containing] [place/adjective] [[place/building]|[place/structure]|[place/natural]] in [place/adjective] [place/area].
-[object/adjective] [object/mundane] guarded by [character/personality] [creature/creature].
+[object/adjective] [object/object] guarded by [character/personality] [[creature/animal]|[creature/legendary]].
 Unlucky omen - [black cat|raven|number 13|broken mirror|horseshoe turned downwards|someone walking under ladder|shoes on a table].
 Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|number 7|horseshoe turned upwards|dream catcher].
 Environmental object with a name engraved on it - "[character/slavic_prefix][character/slavic_suffix]".
-[creature/creature] with [[abstract/symbol] symbol|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together] on its body part.
+[[creature/animal]|[creature/legendary]] with [[abstract/symbol] symbol|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together] on its body part.
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
 [object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
-Animated [object/adjective] [object/mundane].
+Animated [object/adjective] [object/object].
 Water bank - [pool|pond|lake|puddle|stream|river|river with waterfall].
 [Pool|Pond|Lake|Puddle|Stream|River|Waterfall] of [[object/liquid]|[object/drink]].
 [Barrel|Bucket|Urn|Container|Bowl|Goblet] with [object/color] liquid.
 [Bush|Tree] with [object/food] growing on it.
 Vegetation cluster - [vegetable patch|field of crops|fruit orchard|woodlet|aggregation of bushes|field of ferns|mossy spots|grassy field].
 Letter ordering [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to [action/verb] [character/germanic_prefix][character/germanic_suffix].
-[Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [action/verb] [object/mundane].
+[Note|Scroll|Letter|Book|Diary|Runestick] containing instruction on how to [action/verb] [object/object].
 Love letter from [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to [character/germanic_prefix][character/germanic_suffix].
-[Note|Scroll|Letter|Book|Tome|Diary|Runestick] containing instruction on how to [action/verb] [creature/creature].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn|Book shelf|Book stand] with biography [Note|Scroll|Letter|Book|Tome|Diary|Runestick][ | written by [[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]]] [telling|describing|explaining|mentioning] the [possessions|deeds|[abstract/abstract]] of [text's author|[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]][| the [character/personality]],[ [character/appearance]|] [male|female][ [creature/humanoid]|][ who was a [character/job]|]]. Described person was once [said to|famous for attempting to] [action/verb] [[object/mundane]|[creature/creature]|[place/adjective] [place/structure]|[place/adjective] [place/structure]].
-[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn|Book shelf|Book stand] with [Note|Scroll|Letter|Book|Tome|Diary|Runestick][ | written by [[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]]] containing manual of [Athletics|Acrobatics|Sleight of Hand|Stealth|Arcana|History|Investigation|Nature|Religion|Wisdom|Animal Handling|Insight|Medicine|Perception|Survival|Deception|Intimidation|Performance|Persuasion].
+[Note|Scroll|Letter|Book|Tome|Diary|Runestick] containing instruction on how to [action/verb] [[creature/animal]|[creature/legendary]].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn|Book shelf|Book stand] with biography [Note|Scroll|Letter|Book|Tome|Diary|Runestick][ | written by [[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]]] [telling|describing|explaining|mentioning] the [possessions|deeds|[abstract/abstract]] of [text's author|[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]][| the [character/personality]],[ [character/appearance]|] [male|female][ [character/race]|][ who was a [character/job]|]]. Described person was once [said to|famous for attempting to] [action/verb] [[object/object]|[[creature/animal]|[creature/legendary]]|[place/adjective] [place/structure]|[place/adjective] [place/structure]].
+[Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn|Book shelf|Book stand] with [Note|Scroll|Letter|Book|Tome|Diary|Runestick][ | written by [[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]]] containing manual of [character/job].
 [Scroll|Letter|Book|Diary|Tome] written by [character/japanese_prefix][character/japanese_suffix] declaiming author's [positive|neutral|negative] views on [abstract/abstract].
-[Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [creature/creature]s.
-[Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [object/mundane]s.
+[Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [[creature/animal]|[creature/legendary]]s.
+[Scroll|Letter|Book|Diary|Tome] written by [character/germanic_prefix][character/germanic_suffix] describing author's [positive|neutral|negative] experience with [object/object]s.
 [Scroll|Letter|Book|Diary|Tome] written by [character/anglo_saxon_prefix][character/anglo_saxon_suffix] describing author's adventures during visit in [place/adjective] [place/building].
 [Scroll|Letter|Book|Diary|Tome] written by [character/slavic_prefix][character/slavic_suffix] describing author's adventures during exploration of [place/adjective] [place/area].
-[Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [object/mundane].
+[Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [object/object].
 Notice regarding a [character/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
-Poster with wanted [character/appearance] [creature/humanoid] named [character/japanese_prefix][character/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
+Poster with wanted [character/appearance] [character/race] named [character/japanese_prefix][character/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
 Poster warning about dangers ahead involving [abstract/abstract].
-[creature/creature] willing to join adventurers.
-Young [creature/creature] looking for its parent. [|One of the adventurers is mistaken for such.]
+[[creature/animal]|[creature/legendary]] willing to join adventurers.
+Young [[creature/animal]|[creature/legendary]] looking for its parent. [|One of the adventurers is mistaken for such.]
 Lack of [random|most expensive] item from adventurer's equipment.
 Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence].
 Sudden feeling of incoming [abstract/abstract].
 Sudden need to eat [object/food].
 Sudden need to drink [object/drink].
 Sudden need to [take a dump|empty one's bladder].
-[creature/beast]'s sounds.
+[creature/animal]'s sounds.
 Passing shadow of a winged animal.
 Partially buried object made of [object/material].
 Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
