@@ -1,0 +1,78 @@
+Beret
+Cap
+Hat
+Motorcycle helmet
+Hard hat
+Ski helmet
+Welding helmet
+Hood
+Kerchief
+Turban
+Veil
+Vest
+Band
+Choker
+Clerical collar
+Cravat
+Necktie
+Scarf
+Blouse
+Shirt
+Sweater
+Waistcoat
+Cargo pants
+Chaps
+Jeans
+Shorts
+Sweatpants
+Yoga pants
+Dress
+Costume
+Jumpsuit
+Uniform
+Hazamat suit
+Diving suit
+Chainsaw safety suit
+Fire proximity suit
+Space suit
+Wedding dress
+Skirt
+Bra
+Undershirt
+Diaper
+Leggins
+Panties
+Underpants
+Duster
+Cloak
+Raincoat
+Jacket
+Apron
+Cape
+Mantle
+Lab coat
+Parka
+Poncho
+Robe
+Nightgown
+Nightshirt
+Pajamas
+Bikini
+Boots
+Shoes
+Flip-flops
+Sandals
+Slippers
+Sneakers
+Socks
+Stockings
+Tights
+Belt
+Purse
+Gaiters
+Gloves
+Headband
+Handbag
+Muff
+Sash
+Bobby pin
