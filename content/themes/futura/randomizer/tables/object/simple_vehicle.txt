@@ -1,0 +1,40 @@
+Battering ram
+Siege tower
+Trebuchet
+Mangonel
+Ballista
+Catapult
+Mantlet
+Wheelbarrow
+Trolley
+Wagon
+Chariot
+Carriage
+Bicycle
+Tricycle
+Wheelchair
+Skates
+Ice skates
+Skateboard
+Minecart
+Cart
+Skis
+Ski poles
+Sled
+Snowboard
+Snowshoes
+Canoe
+Surfboard
+Submersible
+Boat
+Catamaran
+Yacht
+Galley
+Caravel
+Longship
+Galleon
+Sloop
+Man-of-war
+Frigate
+Hang glider
+Paraglider
