@@ -39,6 +39,8 @@ Cloth
 Feather
 Shell
 Bone
+Meat
+Tendon
 Skull
 Claw
 Horn
