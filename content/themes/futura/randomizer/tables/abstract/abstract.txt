@@ -125,6 +125,7 @@ Decipherable
 Defiance
 Dejection
 Delicacy
+Finesse
 Delight
 Delusion
 Denial
@@ -596,7 +597,7 @@ Allure
 Anonymity
 Appearance
 Apprenticeship
-Attributes
+Attribute
 Behavior
 Breadth
 Brittleness
