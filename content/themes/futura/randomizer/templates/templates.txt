@@ -161,6 +161,7 @@ Young [[creature/animal]|[creature/legendary]] looking for its parent. [|One of 
 Lack of [random|most expensive] item from adventurer's equipment.
 Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence].
 Sudden feeling of incoming [abstract/abstract].
+Sudden feeling of being [followed|observed].
 Sudden need to eat [object/food].
 Sudden need to drink [object/drink].
 Sudden need to [take a dump|empty one's bladder|take a nap].
