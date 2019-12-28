@@ -36,10 +36,10 @@ Two identical [character/race]s. [|One of them is illusion.|They are silbings.|O
 Group of [2d4] x [[character/race]|[character/race]] on quest to [action/verb] [|their] [[object/object]|[[creature/animal]|[creature/legendary]]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
 Group of [2d4] [character/race]s debating over [abstract/abstract] at [place/adjective] [place/structure].
 Group of [2d4] [character/race]s debating over a local problem.
-Group of [2d4] hostile [[creature/animal]|[creature/legendary]]s approaching from [one side|two sides|all sides].
-[character/mind] [[creature/animal]|[creature/legendary]] leading group of [2d4] [[creature/animal]|[creature/legendary]]s.
-[[creature/animal]|[creature/legendary]] in conflict with group of [2d4] [[creature/animal]|[creature/legendary]]s.
-[2d4] [[creature/animal]|[creature/legendary]]s confronting [2d4] [[creature/animal]|[creature/legendary]]s.
+Group of [2d4] [character/race]s participating in the trial over [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] who broke the law because of his [abstract/abstract].[| He's about to be punished.]
+Group of [2d4] hostile [[character/race]|[creature/animal]|[creature/legendary]]s approaching from [one side|two sides|all sides].
+[character/mind] [[creature/animal]|[creature/legendary]] leading group of [2d4] [[character/race]|[creature/animal]|[creature/legendary]]s.
+[One|[2d4]] [[character/race]|[creature/animal]|[creature/legendary]]s in conflict with [one|group of [2d4]] [[character/race]|[creature/animal]|[creature/legendary]]s.
 Lair of [2d4] [[creature/animal]|[creature/legendary]](s).
 Local military squad consisting of [2d4] [character/race](s).
 Hostile military squad consisting of [2d4] [character/race](s).
@@ -163,9 +163,9 @@ Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in s
 Sudden feeling of incoming [abstract/abstract].
 Sudden need to eat [object/food].
 Sudden need to drink [object/drink].
-Sudden need to [take a dump|empty one's bladder].
+Sudden need to [take a dump|empty one's bladder|take a nap].
 [creature/animal]'s sounds.
-Passing shadow of a winged animal.
+Passing shadow[ | of a winged animal].
 Partially buried object made of [object/material].
 Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
 Dripping [object/color] liquid.
@@ -176,27 +176,17 @@ Uncanny vibration.
 Mysterious [fog|dust|smoke|mist|gas|darkness|insect] cloud which will [action/verb] creature which [breathes it|enters it].
 Vision obscurement - [fog|dust|smoke|mist|gas|darkness|swarm of insects|lush vegetation|crowd of people|environmental obstacles].
 Swarm of [object/color] insects.
-Sudden [minor landslide|avalanche|earthquake].
-[Quicksand|Sinkhole] on path.
 Difficult terrain made of [object/material].
 [Steep|Flat] terrain.
 Illusory encounter.
-Chilling wind.
-[High|Low]-pitched sound.
-Smell of [[object/food]|[object/drink]].
 [Cold|Heat] source.
-Fire source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
-Light source - [bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
-Environmental Hazard - High Altitude.
-Complex Trap - [Path of Blades|Poisoned Tempest|Sphere of Crushing Doom].
-Generic Trap - Improvised Damage.
-Hazard - [Brown Mold|Green Slime|Russet Mold|Webs|Yellow Mold].
-Magical Trap - Fire-Breathing Statue.
-Mechanical Trap - [Collapsing Roof|Falling Net|Pits|Poison Darts|Poison Needle|Rolling Sphere|Sphere of Annihilation].
-Simple Trap - [Bear Trap|Crossbow Trap|Falling Portcullis|Fiery Blast Trap|Net Trap|Pit Trap|Poison Needle Trap|Scything Blade Trap|Sleep of Ages Trap].
-Weather Hazard - [Extreme Cold|Extreme Heat|Heavy Precipitation|Strong Wind].
-Wilderness Hazard - [Desecrated Ground|Frigid Water|Quicksand|Razorvine|Slippery Ice|Thin Ice].
-Cataclysmic Disaster - [Earthquake|Famine/drought|Fire|Flood|Plague/disease|Rain of fire (meteoric impact)|Storm (hurricane, tornado, tsunami)|Volcanic eruption|Magic gone awry or a planar warp|Divine judgment].
+Fire source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
+Light source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
+[Mechanical|Magical] trap making use of [[[abstract/element]|[abstract/abstract]|[object/simple-weapon]|[object/advanced-weapon]]|[collapsing roof|falling net|mine|minefield|poison darts|rolling boulder|bear trap|falling portcullis|fiery blast trap|net trap|pit trap|poison needle trap|blade trap]].
+Natural hazard - [high altitude|extreme cold|extreme heat|heavy precipitation|chilling wind|strong wind|frigid water|quicksand|sinkhole|avalanche|dangerous flora|dangerous fauna|slippery ice|thin ice|deep snow].
+Cataclysmic disaster - [earthquake|famine|drought|fire|flood|plague outbreak|disease outbreak|rain of fire|meteor impact|storm|hurricane|tornado|tsunami|volcanic eruption|planar warp|divine judgment|nuclear explosion].
+Sudden [high|low]-pitched sound.
+Sudden smell of [[object/food]|[object/drink]].
 Sudden [appearance|disappearance] of air draft.
 Sudden [appearance|disappearance] of light source.
 Humidity [increase|decrease].
