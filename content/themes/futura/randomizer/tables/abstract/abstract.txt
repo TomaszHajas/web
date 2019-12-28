@@ -935,8 +935,6 @@ Nobility
 Praise
 Reticence
 Stage
-(in
-Life)
 Prejudice
 Revenge
 Stamina
