@@ -27,6 +27,7 @@ Canoe
 Surfboard
 Submersible
 Boat
+Ship
 Catamaran
 Yacht
 Galley
