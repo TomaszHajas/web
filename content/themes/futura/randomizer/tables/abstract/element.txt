@@ -20,6 +20,7 @@ Cold
 Blood
 Bone
 Acid
+Poison
 Dark
 Shadow
 Light
