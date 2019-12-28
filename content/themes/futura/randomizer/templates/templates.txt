@@ -112,12 +112,11 @@ Sudden end of the path.
 [abstract/abstract]-bringing trap, which is... [trap/adjective]
 Trap making use of [object/object], which is... [trap/adjective]
 Path-blocking environmental object - [[place/structure]|[place/natural]].
-Broken vehicle - [airship|ship|boat|steam tank|steam train|cart|wagon|sledge|catapult|ballista|siege tower|battering ram].
+Broken vehicle - [[object/simple-vehicle]|[object/advanced-vehicle]].[| No signs of owner.]
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
 [[object/adjective]|[place/adjective]] puzzle which can be solved [by mimicking behavior of the [creature/animal]|by performing job of [character/job]|by using [object/object] according to its purpose|by [attempting|trying|managing|succeeding|failing] to [action/verb] [oneself|anyone|[[creature/animal]|[creature/legendary]]]|by [attempting|trying|managing|succeeding|failing] to [action/verb] [[object/object]|[place/natural]|[place/structure]]|by displaying [abstract/abstract]].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [character/job] who tried to [action/verb] 
-Signpost showing a [|wrong] way to nearby [place/adjective] [place/area].
-Signpost showing a [|wrong] way to nearby [place/adjective] [place/structure].
+Signpost showing a [|wrong] way to nearby [place/adjective] [[place/area]|[place/structure]].
 Signpost with arrow symbol pointing [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 [place/adjective] [passage|entrance] leading to [place/adjective] [[place/area]|[place/structure]|[place/natural]|[place/building]].
 [place/adjective] [[place/structure]|[place/natural]|[place/building]] emanating with [magic|demonic power|sacred power].
