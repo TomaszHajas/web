@@ -167,7 +167,7 @@ Sudden need to [take a dump|empty one's bladder|take a nap].
 [creature/animal]'s sounds.
 Passing shadow[ | of a winged animal].
 Partially buried object made of [object/material].
-Noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
+Watery noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
 Dripping [object/color] liquid.
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
