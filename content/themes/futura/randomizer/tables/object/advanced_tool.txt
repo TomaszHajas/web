@@ -17,6 +17,7 @@ Ophthalmoscope
 Radio transmitter
 Radio receiver
 Radio transceiver
+Transponder
 Solar panel
 Charger
 Ultrasound scanner
