@@ -301,6 +301,8 @@ Technician
 Physician
 Scullion
 Shoemaker
+Lightkeeper
+Lamplighter
 Pickpocket
 Fence
 Poacher
