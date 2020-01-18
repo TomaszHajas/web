@@ -158,6 +158,7 @@ Icy
 Snowy
 Smouldered
 Natural
+Artificial
 Mechanical
 Poisoned
 Acidic
