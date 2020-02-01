@@ -284,6 +284,8 @@ Herbalist
 Poisoner
 Tinker
 Knight
+Crusader
+Templar
 Marshal
 Minstrel
 Moneylender
@@ -372,6 +374,8 @@ Pauper
 Scavenger
 Fool
 Teacher
+Lecturer
+Professor
 Mathematician
 Physicist
 Geographer
@@ -488,6 +492,7 @@ Charlatan
 Heretic
 Gelder
 Courier
+Messenger
 Supervisor
 Overseer
 Acupuncturist
@@ -495,9 +500,15 @@ Aromatherapist
 Therapist
 Psychologist
 Psychiatrist
+Psychic
 Oarsman
 Negotiator
 Gambler
+Game Master
+Narrator
+Lector
+Speaker
+Mouth
 Officer
 Arsonist
 Shipmaker
@@ -773,4 +784,3 @@ Mosaic Layer
 Thimbler
 Flagellant
 Antiquarian
-Crusader
