@@ -74,6 +74,7 @@ Friar
 Novitiate
 Vestal
 Abbot
+Exorcist
 Occultist
 Cultist
 Plaintiff
@@ -121,6 +122,9 @@ Rat Catcher
 Smuggler
 Broker
 Gardener
+Florist
+Botanist
+Ecologist
 Watchmaker
 Architect
 Builder
@@ -173,6 +177,7 @@ Transcriber
 Ghostwriter
 Redactor
 Avatar
+Chosen One
 Oracle
 Astrologist
 Medium
@@ -427,6 +432,7 @@ Blackmailer
 Plaguebearer
 Lookout
 Monster Hunter
+Demon Hunter
 Whaler
 Suicider
 Spiritualist
@@ -495,6 +501,7 @@ Courier
 Messenger
 Supervisor
 Overseer
+Selectioner
 Acupuncturist
 Aromatherapist
 Therapist
