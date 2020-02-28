@@ -133,7 +133,7 @@ Lucky omen - [albatross|rainbow|chimneysweep|rabbit's foot|four-leaf clover|numb
 Environmental object with a name engraved on it - "[character/slavic_prefix][character/slavic_suffix]".
 [[creature/animal]|[creature/legendary]] with [[abstract/symbol] symbol|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together] on its body part.
 [abstract/symbol]-shaped clouds on the horizon on [north|north-east|east|south-east|south|south-west|west|north-west].
-[object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant|bush|tree|herb|fern]. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
+[object/color], [object/adjective], [rooty|bulbous|leafy|thorned|flowering|fruit-bearing|rhizomic|seed-bearing] [plant/plant] plant. It will [action/verb] creature which [eats it raw|drinks a brew made of it|rubs it into skin|smokes it|injects it into bloodstream|absorbs it with large intestine].
 Animated [object/adjective] [object/object].
 Water bank - [pool|pond|lake|puddle|stream|river|river with waterfall].
 [Pool|Pond|Lake|Puddle|Stream|River|Waterfall] of [[object/liquid]|[object/drink]].
@@ -165,7 +165,7 @@ Sudden need to eat [object/food].
 Sudden need to drink [object/drink].
 Sudden need to [take a dump|empty one's bladder|take a nap].
 [creature/animal]'s sounds.
-Passing shadow[ | of a winged animal].
+Passing shadow[| of a winged animal].
 Partially buried object made of [object/material].
 Watery noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
 Dripping [object/color] liquid.
