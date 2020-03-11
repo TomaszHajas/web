@@ -40,6 +40,9 @@ Ditch
 Pit
 Pitfall
 Pool
+Receptacle
+Font
+Altar
 Trap
 Pitfall trap
 Object-fall trap
