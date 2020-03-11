@@ -188,6 +188,8 @@ Euphoric
 Homicidal
 Manic
 Suicidal
+Orthodox
+Unorthodox
 Conservative
 Liberal
 Superstitious
@@ -570,6 +572,7 @@ Complaintive
 Conceited
 Condemnatory
 Conformist
+Nonconformist
 Confused
 Contemptible
 Conventional
