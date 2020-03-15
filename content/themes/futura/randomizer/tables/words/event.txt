@@ -40,7 +40,7 @@ Hoax
 Boycott
 Demonstration
 Protest
-Festval
+Festival
 Festivity
 Harvest Festival
 Music Festival
@@ -107,6 +107,7 @@ Imprisonment
 Assassination
 Murder
 Military Tattoo
+Tournament
 Confrontation
 Combat
 Battle
