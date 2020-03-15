@@ -270,6 +270,7 @@ President
 Politician
 King
 Paramount King
+Viceroy
 Emperor
 Ruler
 Earl
