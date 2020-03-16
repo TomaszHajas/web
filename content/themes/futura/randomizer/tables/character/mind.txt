@@ -225,8 +225,9 @@ Vegetarian
 Carnivorous
 Cannibalistic
 Democratic
-Socialistic
 Communistic
+Capitalistic
+Socialistic
 Abolitionistic
 Fascistic
 Libertarianistic
@@ -341,6 +342,8 @@ Magnanimous
 Many-sided
 Masculine
 Feminine
+Masculistic
+Feministic
 Manly
 Mature
 Methodical
