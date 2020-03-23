@@ -45,6 +45,7 @@ Greatscythe
 Halberd
 Lance
 Pike
+Vouge
 Quarterstaff
 Throwing axe
 Javelin
