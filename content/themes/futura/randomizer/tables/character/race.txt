@@ -11,9 +11,10 @@ Gnoll
 Gnome
 Goblin
 Giant
-Half-giant
+Half-Giant
 Orc
 Half-Orc
+Ogre
 Halfling
 Hobgoblin
 Human
