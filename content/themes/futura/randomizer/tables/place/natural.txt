@@ -18,6 +18,7 @@ Tree stump
 Living stump
 Mushroom circle
 Mushroom cluster
+Giant mushroom
 Stone
 Stone pile
 Boulder
@@ -38,16 +39,20 @@ Dirt lump
 Dirt mound
 Dune
 Rift
-Insect colony
-Hive
-Web
-Cocoon
-Nest
 Lava pool
+Lava stream
 Fire
 Pit
 Crevice
 Cracked ground
+Stalagmite
+Stalactite
+Stalagnate
+Ice floe
+Ice spike
+Icicle cluster
+Waterfall
+Snow pile
 Mud
 Quicksand
 Sinkhole
@@ -57,6 +62,7 @@ Haze
 Mist
 Smoke
 Bone pile
+Dung pile
 Humanoid corpse
 Animal corpse
 Humanoid skeleton
@@ -64,3 +70,8 @@ Animal skeleton
 Blood spattering
 Humanoid footprints
 Animal footprints
+Insect colony
+Hive
+Cobweb
+Cocoon
+Nest
