@@ -4,6 +4,7 @@ Post
 Pillar
 Column
 Arch
+Arcade
 Arc
 Stairs
 Ladder
@@ -11,12 +12,22 @@ Stepladder
 Corridor
 Tunnel
 Room
+Ceiling
+Floor
+Roof
+Mosaic
+Window
+Painting
+Mirror
+Balcony
 Spire
 Bulwark
 Wall
 Pallisade
 Moat
 Fence
+Railing
+Pen
 Barrier
 Barricade
 Portal
@@ -68,12 +79,14 @@ Stockpile
 Rig
 Aqueduct
 Fountain
+Bird bath
 Cistern
 Latrine
 Canal
 Channel
 Dam
 Sewers
+Composter
 Dump
 Nest
 Lair
@@ -134,6 +147,7 @@ Armor stand
 Wardrobe
 Wine rack
 Aquarium
+Bathtub
 Weapon rack
 Grand piano
 Harpsichord
