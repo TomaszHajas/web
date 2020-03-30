@@ -1,6 +1,6 @@
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] claiming he/she's a reverse [character/job].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] who thinks he/she's [[creature/animal]|[creature/legendary]].
-[[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [merchant|trader|clerk] [trading magical items - [object/object] of [abstract/abstract][|, [object/object] of [abstract/abstract]][|, [object/object] of [abstract/abstract]]|buying up all possible items for [1d5*10]% of their market price|buying [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|selling [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|renting [object/object][|, [object/object]][|, [object/object]] for [1d10*10]% of their market price per day and 10x cheaper per hour][| Accepts gold-only exchange| Accepts item-only exchange].
+[[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [merchant|trader|clerk] [trading magical items - [object/object] of [abstract/abstract][|, [object/object] of [abstract/abstract]][|, [object/object] of [abstract/abstract]]|buying up all possible items for [1d5*10]% of their market price|buying [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|selling [object/object][|, [object/object]][|, [object/object]] for [2d10*10]% of their market price|renting [object/object][|, [object/object]][|, [object/object]] for [1d10*10]% of their market price per day and 10x cheaper per hour][| Accepts money-only exchange| Accepts item-only exchange].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [character/job] looking for item related to his/her job.
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [character/job] forcing his/her services on adventurers and demanding a payment.
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [character/job] disturbing adventurers by performing his/her job.
@@ -60,7 +60,7 @@ Weird-looking [character/body] [[creature/animal]|[creature/legendary]].
 Weird-behaving [character/mind] [[creature/animal]|[creature/legendary]].
 [character/body] [[creature/animal]|[creature/legendary]] in environmental danger.
 [character/mind] [[creature/animal]|[creature/legendary]] about to commit suicide.[| Not aware of it.]
-Trapped [character/mind] [[creature/animal]|[creature/legendary]]. The trap was... [trap/adjective]
+Trapped [character/mind] [[creature/animal]|[creature/legendary]]. The trap was [object/adjective].
 Small [[creature/animal]|[creature/legendary]] eating adventurer's supplies.
 [creature/animal] without owner. It seems to have a collar with a name tag - "[character/hindu_prefix][character/japanese_suffix]".
 [[creature/animal]|[creature/legendary]] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence]. [|Seems to ignore his/her condition.]
@@ -76,7 +76,7 @@ Talking [creature/animal] with [character/mind] personality. It tries to [discou
 [place/adjective] [room|chamber] of [[4d4*5]-feet square|[4d4*5]-feet diameter circle|[4d4*5] by [4d4*5] feet rectangle|[4d4*5] by [4d4*5] feet Oval|[4d4*5]-feet edge triangle|[4d4*5]-feet cross|[4d4*5] by [4d4*5] feet house|[2d4*5]-feet edge pentagon|[2d4*5]-feet edge hexagon|[4d4*5] by [4d4*5] feet [L|O|P|T|S|Y|H|J|D|I|E|F|U] letter] shape. Entrance is on its [upper|lower|left|right] edge, [far from|close to] the center. Ceiling is [1d4*5] feet above ground.[| The room is occupied by [[2d4] x|one] [[creature/animal]|[creature/legendary]] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall].] There's a [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall][| and [medium|medium|[small|large|[tiny|huge]]]-sized [object/adjective] [place/structure] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]].[| There is a [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]][| and [[passage|tunnel|corridor][| with[| two-winged] door| with gate| with grating] at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall|[stairway|staircase|ramp|ladder|rope] leading [up|down] [in the middle of the room|at the [closest|middle|farthest] point of [entrance|opposite|left|right] wall]]].]
 [object/adjective] [[place/natural]|[place/structure]].
 [Hollowed|] [[place/natural]|[place/structure]] with [object/adjective] [object/object] inside.
-Trapped [place/structure], which is... [trap/adjective]
+Trapped [place/structure], which is [object/adjective].
 Unusual [place/structure] made of [object/material].
 Ruined [[place/building]|[place/structure]].
 [place/adjective] [place/area] said to be inhabited by [[creature/animal]|[creature/legendary]]s.
@@ -93,8 +93,8 @@ Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belong
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 [object/container] with [object/food] inside.
 Flask with [object/drink] inside.
-[object/container] with [[1d4] x [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [1d4] gold piece(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
-[object/container] with [[2d4-1] gold piece(s)|[2d6-1] electrum piece(s)|[2d8-1] silver piece(s)|[2d10-1] copper piece(s)].
+[object/container] with [[1d4] x [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [2d6-1] coin(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
+[object/container] with [2d6-1] coin(s).
 Pile containing [2d4] almost identical [object/object]s.
 [object/object] bearing mark of use by [character/job].
 [object/object] about to be [lost|destroyed].
@@ -109,8 +109,8 @@ Hideout behind [place/natural] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bi
 Burned environmental object - [[place/structure]|[place/natural]].
 Unusually big environmental object - [[place/structure]|[place/natural]].
 Sudden end of the path.
-[abstract/abstract]-bringing trap, which is... [trap/adjective]
-Trap making use of [object/object], which is... [trap/adjective]
+[abstract/abstract]-bringing trap, which is [object/adjective].
+Trap making use of [object/adjective] [object/object].
 Path-blocking environmental object - [[place/structure]|[place/natural]].
 Broken vehicle - [[object/simple-vehicle]|[object/advanced-vehicle]].[| No signs of owner.]
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
@@ -152,8 +152,8 @@ Love letter from [character/anglo_saxon_prefix][character/anglo_saxon_suffix] to
 [Scroll|Letter|Book|Diary|Tome] written by [character/anglo_saxon_prefix][character/anglo_saxon_suffix] describing author's adventures during visit in [place/adjective] [place/building].
 [Scroll|Letter|Book|Diary|Tome] written by [character/slavic_prefix][character/slavic_suffix] describing author's adventures during exploration of [place/adjective] [place/area].
 [Note|Scroll|Letter|Book|Diary|Tome|Runestick] with crafting schematics of [object/object].
-Notice regarding a [character/job] job offer with wage of 5gp/day, which is... [trait/job_trait]
-Poster with wanted [character/body] [character/race] named [character/japanese_prefix][character/hindu_suffix]. [Dead.|Alive.|Dead or alive.] With reward of [1d20*5] gold pieces.
+Notice regarding a [character/job] job offer with [minimal|average|high] wage.
+Poster with wanted [character/body] [character/race] named [character/japanese_prefix][character/hindu_suffix]. [Dead.|Alive.|Dead or alive.] Reward seems to be [minimal|average|high].
 Poster warning about dangers ahead involving [abstract/abstract].
 [[creature/animal]|[creature/legendary]] willing to join adventurers.
 Young [[creature/animal]|[creature/legendary]] looking for its parent. [|One of the adventurers is mistaken for such.]
