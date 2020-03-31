@@ -362,6 +362,8 @@ Smelly
 Fragnant
 Young
 Old
+Allergic
+Vaccinated
 Newcomer
 Ancient
 Middle-aged
@@ -469,6 +471,7 @@ Conscious
 Unconscious
 Awaken
 Paralyzed
+Quadriplegic
 Grappled
 Grappling
 Crippled
@@ -660,10 +663,10 @@ Web-footed
 Limbless
 Short-limbed
 Long-limbed
-Uniped
-Biped
-Triped
-Quadruped
+Unipedal
+Bipedal
+Tripedal
+Quadrupedal
 Many-limbed
 Whip-limbed
 Mace-limbed
