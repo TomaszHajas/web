@@ -994,3 +994,8 @@ Promise
 Treason
 Darkness
 Light
+Healing
+Intuition
+Dimension
+Creation
+Absolute
