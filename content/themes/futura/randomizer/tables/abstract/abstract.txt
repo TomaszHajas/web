@@ -381,7 +381,7 @@ Artism
 Awareness
 Awe
 Being
-Birthday
+Birth
 Bravery
 Brutality
 Care
@@ -988,3 +988,9 @@ Purpose
 Lunacy
 Quality
 Segregation
+Beginning
+End
+Promise
+Treason
+Darkness
+Light
