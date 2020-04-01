@@ -33,8 +33,10 @@ Lizardkin
 Siren
 Minotaur
 Naga
+Mutant
 Undead
 Zombie
+Ghoul
 Skeleton
 Mummy
 Hag
