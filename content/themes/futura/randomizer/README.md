@@ -16,50 +16,60 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 
 ## Rollable tables:
 
+###### abstract
+[adverb/abstract]\
+[adverb/element]\
+[adverb/event]\
+[adverb/symbol]
+
 ###### adverb
 [adverb/adverb]
 
 ###### creature
-[creature/creature]\
-[creature/aberration]\
-[creature/beast]\
-[creature/celestial]\
-[creature/construct]\
-[creature/dragon]\
-[creature/elemental]\
-[creature/fey]\
-[creature/fiend]\
-[creature/giant]\
-[creature/humanoid]\
-[creature/monstrosity]\
-[creature/ooze]\
-[creature/plant]\
-[creature/undead]
+[creature/animal]\
+[creature/legendary]
 
-###### object
-[object/mundane]\
-[object/magic]\
-[object/wondrous]\
-[object/component]\
-[object/ammo]\
-[object/armor]\
-[object/focus]\
-[object/gear]\
-[object/instrument]\
-[object/livestock]\
-[object/melee]\
-[object/ranged]\
-[object/ring]\
-[object/scroll]\
-[object/trade_good]\
-[object/treasure]\
-[object/trinket]\
-[object/food]\
-[object/drink]\
-[object/potion]\
-[object/poison]\
-[object/adjective]\
-[object/color]
+###### 5e_creature
+[5e_creature/creature]\
+[5e_creature/aberration]\
+[5e_creature/beast]\
+[5e_creature/celestial]\
+[5e_creature/construct]\
+[5e_creature/dragon]\
+[5e_creature/elemental]\
+[5e_creature/fey]\
+[5e_creature/fiend]\
+[5e_creature/giant]\
+[5e_creature/humanoid]\
+[5e_creature/monstrosity]\
+[5e_creature/ooze]\
+[5e_creature/plant]\
+[5e_creature/undead]
+
+###### 5e_object
+[5e_object/mundane]\
+[5e_object/magic]\
+[5e_object/wondrous]\
+[5e_object/component]\
+[5e_object/ammo]\
+[5e_object/armor]\
+[5e_object/focus]\
+[5e_object/gear]\
+[5e_object/instrument]\
+[5e_object/livestock]\
+[5e_object/melee]\
+[5e_object/ranged]\
+[5e_object/ring]\
+[5e_object/scroll]\
+[5e_object/trade_good]\
+[5e_object/treasure]\
+[5e_object/trinket]\
+[5e_object/food]\
+[5e_object/drink]\
+[5e_object/potion]\
+[5e_object/poison]\
+[5e_object/adjective]\
+[5e_object/color]
 
 ###### character
 [character/anglo_saxon_prefix]\
@@ -73,16 +83,15 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [character/japanese_prefix]\
 [character/japanese_suffix]\
 [character/job]\
-[character/appearance]\
-[character/personality]
+[character/body]\
+[character/mind]\
+[character/race]
 
-###### state
-[state/boon]\
-[state/madness]\
-[state/disease]\
-[state/symbol]\
-[state/abstract]\
-[state/material]
+###### 5e_state
+[5e_state/boon]\
+[5e_state/madness]\
+[5e_state/disease]\
+[5e_state/condition]
 
 ###### place
 [place/area]\
