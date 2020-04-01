@@ -27,7 +27,7 @@ Troll
 Halfling
 Hobgoblin
 Human
-Black human
+Black Human
 Kobold
 Lizardkin
 Siren
@@ -52,3 +52,10 @@ Robot
 Cyborg
 Android
 Werewolf
+Grey Alien
+Insectoid
+Nordic Alien
+Astral Being
+Alien
+Little Green Man
+Reptilian
