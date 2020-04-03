@@ -1,0 +1,20 @@
+Cholera
+Dysentery
+Bubonic Plague
+Leprosy
+Seasickness
+Tuberculosis
+Rabies
+Progeria
+Dementia
+Asthma
+Arthritis
+Diabetes
+High blood pressure
+Common cold
+Flu
+Migraines
+Rabies
+Salmonella
+Coronary Heart Disease
+Leukemia
