@@ -126,7 +126,7 @@ Signpost with arrow symbol pointing [north|north-east|east|south-east|south|sout
 [place/adjective] [[place/structure]|[place/natural]|[place/building]] with [abstract/symbol] symbol on it.
 Stench source coming from nearby [place/adjective] [[place/structure]|[place/natural]].
 Beautiful view of [place/adjective] [[place/area]|[place/building]].
-Projectile struck in [place/adjective] [[place/structure]|[place/natural]].
+Projectile [with a message|] struck in [place/adjective] [[place/structure]|[place/natural]].
 Hidden passage to [place/adjective] [[place/area]|[place/building]|[place/structure]|[place/natural]].
 Magical portal hidden inside [place/adjective] [[place/building]|[place/structure]|[place/natural]]. It leads to [|pocket dimension containing] [place/adjective] [[place/building]|[place/structure]|[place/natural]] in [place/adjective] [place/area].
 [object/adjective] [object/object] guarded by [character/mind] [[creature/animal]|[creature/legendary]].
@@ -160,7 +160,8 @@ Poster warning about dangers ahead involving [abstract/abstract].
 [[creature/animal]|[creature/legendary]] willing to join adventurers.
 Young [[creature/animal]|[creature/legendary]] looking for its parent. [|One of the adventurers is mistaken for such.]
 Lack of [random|most expensive] item from adventurer's equipment.
-Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence].
+Medical symptom affecting [all of them|one of them] - [typical for [character/disease]|abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence].
+Sudden revelation among them. One of the adventurers was an undercover [male|female|[character/race]|[character/job]].
 Sudden feeling of incoming [abstract/abstract].
 Sudden feeling of being [followed|observed].
 Sudden need to [eat [object/food]|drink [object/drink]].
