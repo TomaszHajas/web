@@ -27,6 +27,7 @@ Toll station stationed by [[character/body]|] [[character/mind]|] [Male|Female] 
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] willing to [join|recruit] adventurers.
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] asking for being escorted.
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] offering a free [object/adjective] [object/object].[| And running away.| And disappearing.]
+[[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] offering a quest to [action/verb] [|his/her] [object - [place/structure]|item - [object/object]|animal - [creature/animal]|legendary creature - [creature/legendary]] - [due to|because of] [oncoming|recent|] [[abstract/event]|[abstract/abstract]]. The quest involves visiting [place/adjective] [[place/area]|[place/structure]|[place/building]].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] telling adventurers to go [north|north-east|east|south-east|south|south-west|west|north-west|forward|right|backward|left|up|down].
 Artistic performance of [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|].
 Two [character/race]s arguing over the way they should go.
@@ -49,7 +50,7 @@ Group of [2d4] [[creature/animal]|[creature/legendary]]s migrating [north|north-
 Ambush of [2d4] [[creature/animal]|[creature/legendary]]s.
 [[creature/animal]|[creature/legendary]] being chased by [2d4] [[creature/animal]|[creature/legendary]]s.
 [[creature/animal]|[creature/legendary]] investigating some other encounter.
-[[creature/animal]|[creature/legendary]] corpse. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
+[[creature/animal]|[creature/legendary]] corpse. It looks like it died out of [[character/disease]|starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
 [[creature/animal]|[creature/legendary]] somewhere in [place/area].
 [character/mind] [god|goddess|deity|demon] of [abstract/abstract] [trying to [action/verb] adventurers|wanting adventurers to [action/verb] [[creature/animal]|[creature/legendary]]|asking adventurers to [action/verb] [object/object]|ordering adventurers to [action/verb] [[place/structure]|[place/natural]]].
 [[creature/animal]|[creature/legendary]] trying to [action/verb] adventurers.
@@ -63,7 +64,7 @@ Weird-behaving [character/mind] [[creature/animal]|[creature/legendary]].
 Trapped [character/mind] [[creature/animal]|[creature/legendary]]. The trap was [object/adjective].
 Small [[creature/animal]|[creature/legendary]] eating adventurer's supplies.
 [creature/animal] without owner. It seems to have a collar with a name tag - "[character/hindu_prefix][character/japanese_suffix]".
-[[creature/animal]|[creature/legendary]] with medical symptom - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence]. [|Seems to ignore his/her condition.]
+[[creature/animal]|[creature/legendary]] with medical symptom - [typical for [character/disease]|abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence]. [|Seems to ignore his/her condition.]
 Half-[[creature/animal]|[creature/legendary]] half-[[creature/animal]|[creature/legendary]].
 Uncanny [[creature/animal]|[creature/legendary]] made of [object/material].
 Weird hybrid with [creature/animal]'s head, [creature/animal]'s body and [creature/animal]'s limbs.
@@ -105,7 +106,7 @@ Half-[object/object] half-[object/object]. It fuses functionalities of both item
 [object/adjective] [object/object] with [[abstract/symbol] symbol on it|weird symbol resembling [abstract/symbol] and [abstract/symbol] joined together].
 [object/adjective] [object/object] with a name engraved on it - "[character/anglo_saxon_prefix][character/anglo_saxon_suffix]".
 [Rack|Stand|Case|Display|Base|Support|Platform|Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] with [magical|arcane|mystical|enchanted|miraculous|sorcerous|enigmatic|mysterious|bewitched|pacted|hexed|cursed|infinite] [object/object] of [abstract/abstract] which will [[action/verb] anything touched with its tip|[action/verb] anything pointed by it, not farther than [1d10*5] feet|[action/verb] [creatures|[[creature/animal]|[creature/legendary]]] touched with it|[action/verb] creature using it according to its purpose|[action/verb] anything it's used on according to its purpose|[action/verb] [creatures|[[creature/animal]|[creature/legendary]]] in [1d10*5] feet radius|make each creature holding/wearing it [[character/body]|[character/mind]]|teleport each creature which touches it to [place/adjective] [place/structure] in [place/adjective] [place/area]|summon [[creature/animal]|[creature/legendary]] when someone attempts to [action/verb] it|turn any [object/material] it touches into [object/material]|turns any creature it touches into [object/material] in [1d4*6] seconds [for 1 minute|for 1 hour|for 1 day|for 1 year|permanently]|try to [discourage adventurers from|encourage adventurers to] [abstract/abstract]. It is capable of [writing text|talking|communicating telepathically in [1d10*5] feet radius] and has [character/mind] personality].
-Geared [character/body] [character/race] [male/female] corpse containing [object/adjective] [object/object][| and [object/adjective] [object/object]]. It looks like it died out of [starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
+Geared [character/body] [character/race] [male/female] corpse containing [object/adjective] [object/object][| and [object/adjective] [object/object]]. It looks like he/she died out of [[character/disease]|starvation|poisoning|blood loss|old age|stroke|respiratory problems|brain damage|internal organ malfunction|mechanical trauma|combat damage|fire|drowning|fall damage].
 Hideout behind [place/natural] with [Chest|Coffer|Barrel|Crate|Sack|Container|Bin|Urn] containing [object/adjective] [object/object] and[ [object/adjective] [object/object]|].
 Burned environmental object - [[place/structure]|[place/natural]].
 Unusually big environmental object - [[place/structure]|[place/natural]].
@@ -162,14 +163,13 @@ Lack of [random|most expensive] item from adventurer's equipment.
 Medical symptom affecting [all of them|one of them] - [abdominal pain|blood in stool|chest pain|constipation|cough|diarrhea|difficulty swallowing|dizziness|eye discomfort and redness|eye problems|foot pain|ankle pain|foot swelling|leg swelling|headaches|heart palpitations|hip pain|knee pain|low back pain|nasal congestion|nausea|vomiting|neck pain|numbness|tingling in hands|pelvic pain|shortness of breath|shoulder pain|sore throat|urinary problems|wheezing|dizziness|fatigue|hypothermia|sweats|swollen lymph nodes|arrythmia|chest pain|dry mouth|hearing loss|nasal discharge|sore throat|toothache|abdominal pain|bloating|blood in stool|constipation|diarrhea|difficulty in swallowing|vomiting|black nail|skin itching|rash|abnormal posturing|acalculia|agnosia|amnesia|dysgraphia|hallucinations|headache|muscle twitch|insomnia|neck stiffness|paralysis|genital bleeding|infertility|pelvic pain|blurred vision|double vision|cough|back pain|impotence].
 Sudden feeling of incoming [abstract/abstract].
 Sudden feeling of being [followed|observed].
-Sudden need to eat [object/food].
-Sudden need to drink [object/drink].
+Sudden need to [eat [object/food]|drink [object/drink]].
 Sudden need to [take a dump|empty one's bladder|take a nap].
 [creature/animal]'s sounds.
 Passing shadow[| of a winged animal].
 Partially buried object made of [object/material].
 Watery noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
-Dripping [object/color] liquid.
+Dripping [object/color] liquid.[ Smells like [[object/food]|[object/drink]].]
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
 [Incoming|Receding] footsteps.
 Mysterious fire combustion. Its source was [chemical|electrical|mechanical|nuclear].
