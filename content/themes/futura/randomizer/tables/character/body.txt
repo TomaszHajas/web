@@ -309,7 +309,6 @@ Overbite
 Ape-faced
 Blonde
 Depilated
-Hairy
 Hirsute
 Freckled
 Pimpled
@@ -601,6 +600,8 @@ Short-necked
 Hairless
 Bald
 Hairy
+Greasy-haired
+Dandruff-haired
 Maned
 Fringed
 Whiskered
