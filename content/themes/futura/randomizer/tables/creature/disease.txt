@@ -18,3 +18,5 @@ Rabies
 Salmonella
 Coronary Heart Disease
 Leukemia
+Dandruff
+Pneumonia
