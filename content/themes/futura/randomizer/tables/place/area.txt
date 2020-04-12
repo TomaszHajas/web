@@ -215,7 +215,6 @@ Flooded grassland
 Flooded savannah
 Riparian
 Mangrove
-Woodlands
 Scrub
 Xeric shrubland
 Fen
