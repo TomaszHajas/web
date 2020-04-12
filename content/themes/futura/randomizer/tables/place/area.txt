@@ -13,6 +13,7 @@ Ruins
 Plain
 Field
 Grassland
+Rangeland
 Meadow
 Forest
 Woods
