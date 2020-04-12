@@ -293,6 +293,7 @@ Flatten
 Flaunt
 Flay
 Flee
+Forage
 Flick
 Flinch
 Fling
@@ -331,6 +332,7 @@ Gouge
 Govern
 Graduate
 Grab
+Graze
 Grapple
 Grasp
 Greet
