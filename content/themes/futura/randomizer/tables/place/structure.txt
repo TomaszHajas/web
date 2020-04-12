@@ -11,6 +11,7 @@ Ladder
 Stepladder
 Corridor
 Tunnel
+Trench
 Room
 Ceiling
 Floor
