@@ -1,4 +1,5 @@
 Farmer
+Forager
 Coalman
 Butcher
 Weaver
