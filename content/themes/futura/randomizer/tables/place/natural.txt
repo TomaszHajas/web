@@ -12,6 +12,7 @@ Cactus
 Flower patch
 Grass patch
 Moss cluster
+Lichen cluster
 Herb patch
 Branch
 Tree log
