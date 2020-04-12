@@ -3,6 +3,7 @@ College
 School
 University
 Nursery school
+Kindergarten
 Civic
 Arena
 Library
@@ -36,6 +37,7 @@ Moot hall
 Parliament house
 Police station
 Post office
+Bank
 Assembly
 Arsenal
 Barracks
