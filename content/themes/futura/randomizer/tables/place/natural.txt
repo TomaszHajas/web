@@ -7,6 +7,7 @@ Leaf pile
 Bush
 Dead bush
 Spiky bush
+Tumbleweed
 Cactus
 Flower patch
 Grass patch
