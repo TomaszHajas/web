@@ -36,18 +36,18 @@ Two [character/race]s arguing over the way they should go.
 Two identical [character/race]s. [|One of them is illusion.|They are silbings.|One of them came from past.|One of them came from future.|One of them is disguised to look like the other.]
 [character/race] [about|attempting|failing] to [action/verb] [character/race].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] being executed by [2d4] [character/race]s.
-Group of [2d4] x [[character/race]|[character/race]] on quest to [action/verb] [|their] [[object/object]|[[creature/animal]|[creature/legendary]]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
+Group of [2d4] [[character/race]|[character/race]] on quest to [action/verb] [|their] [[object/object]|[[creature/animal]|[creature/legendary]]] because of [abstract/abstract].[| They seem to be quiet about it.| They seem to discourage adventurers from helping them.| They seem to encourage adventurers to help them.]
 Group of [2d4] [character/race]s debating over [abstract/abstract] at [place/adjective] [place/structure].
 Group of [2d4] [character/race]s debating over a local problem.
 Group of [2d4] [character/race]s participating in the trial over [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] who broke the law because of his [abstract/abstract].[| He's about to be punished.]
 Group of [2d4] hostile [[character/race]|[creature/animal]|[creature/legendary]]s approaching from [one side|two sides|all sides].
 [character/mind] [[creature/animal]|[creature/legendary]] leading group of [2d4] [[character/race]|[creature/animal]|[creature/legendary]]s.
-[One|[2d4]] [[character/race]|[creature/animal]|[creature/legendary]]s in conflict with [one|group of [2d4]] [[character/race]|[creature/animal]|[creature/legendary]]s.
+[One|[2d4]] [[character/race]|[creature/animal]|[creature/legendary]] in conflict with [one|group of [2d4]] [[character/race]|[creature/animal]|[creature/legendary]].
 Lair of [2d4] [[creature/animal]|[creature/legendary]](s).
 Local military squad consisting of [2d4] [character/race](s).
 Hostile military squad consisting of [2d4] [character/race](s).
 Passage guarded by group of [2d4] [[creature/animal]|[creature/legendary]]s.
-[2d4] x [character/race] slaves and their [2d4] x [character/race] guards.
+[2d4] [character/race] slaves and their [2d4] [character/race] guards.
 Group of [2d4] [[creature/animal]|[creature/legendary]]s migrating [north|north-east|east|south-east|south|south-west|west|north-west] due to [abstract/abstract].
 Ambush of [2d4] [[creature/animal]|[creature/legendary]]s.
 [[creature/animal]|[creature/legendary]] being chased by [2d4] [[creature/animal]|[creature/legendary]]s.
@@ -97,7 +97,7 @@ Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belong
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 [object/container] with [object/food] inside.
 Flask with [object/drink] inside.
-[object/container] with [[1d4] x [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [2d6-1] coin(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
+[object/container] with [[1d4] [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [2d6-1] coin(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
 [object/container] with [2d6-1] coin(s).
 Pile containing [2d4] almost identical [object/object]s.
 [object/object] bearing mark of use by [character/job].
