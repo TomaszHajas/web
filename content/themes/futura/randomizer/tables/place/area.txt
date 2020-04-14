@@ -1,3 +1,7 @@
+World
+Plane
+Dimension
+Planet
 Town
 District
 City
@@ -7,6 +11,7 @@ Bailwick
 County
 Duchy
 Province
+Country
 Metropolis
 Megalopolis
 Suburb
