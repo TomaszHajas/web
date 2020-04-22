@@ -362,6 +362,9 @@ Prince
 Princess
 Queen
 General
+Admiral
+Lieutenant
+Commodore
 Advisor
 Catchpole
 Diplomat
