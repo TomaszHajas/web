@@ -166,6 +166,7 @@ Amnesiac
 Lunatic
 Psychopathic
 Sociopathic
+Catatonic
 Sane
 Sober
 Kleptomaniac
@@ -247,6 +248,8 @@ Active
 Adaptable
 Admirable
 Alert
+Hypervigilant
+Traumatized
 Allocentric
 Amiable
 Anticipative
