@@ -418,6 +418,7 @@ Necklace
 Amulet
 Signet
 Ring
+Earring
 Brooch
 Banknote
 Coin
