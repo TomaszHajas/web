@@ -67,6 +67,7 @@ Sneakers
 Socks
 Stockings
 Tights
+Wig
 Belt
 Purse
 Gaiters
