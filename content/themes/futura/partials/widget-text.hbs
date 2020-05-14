@@ -12,7 +12,7 @@
 		document.getElementById("date").innerHTML = date;
 		document.getElementById("time").innerHTML = time;
 		
-		fetch("https://ipapi.co/85.214.132.115/json").then(function(response) {
+		fetch("https://api.allorigins.win/raw?url=https://ipapi.co/85.214.132.115/json").then(function(response) {
   			return response.json();
 		}).then(function(data) {
   			if(data.utc_offset == "+0200"){
