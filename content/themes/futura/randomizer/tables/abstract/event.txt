@@ -179,6 +179,7 @@ Equinox
 Winter Solstice
 Supernova
 Nova
+Solar Flare
 Tidal Disruption Event
 Gravitational Microlensing
 Solstice
