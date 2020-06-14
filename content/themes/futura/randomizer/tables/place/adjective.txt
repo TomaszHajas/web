@@ -111,6 +111,12 @@ Celestial
 Infernal
 Cursed
 Blessed
+Weird
+Normal
+Mysterious
+Ordinary
+Sinister
+Serene
 Safe
 Unsafe
 Deadly
