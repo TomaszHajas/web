@@ -1,5 +1,6 @@
 Dwarven
 Elven
+Orcish
 Gnomish
 Demonic
 Holy
