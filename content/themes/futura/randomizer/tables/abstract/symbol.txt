@@ -29,6 +29,8 @@ Square
 Rectangle
 Circle
 Ellipse
+Sinusoid
+Spiral
 Triangle
 Semicircle
 Hexagon
