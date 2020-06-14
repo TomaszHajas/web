@@ -167,6 +167,7 @@ Sterile
 Antiseptic
 Disinfected
 Electric
+Cybernetic
 Bloodstained
 Metallic
 Stone
