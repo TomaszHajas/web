@@ -137,6 +137,8 @@ Pill
 Capsule
 Pastille
 Bandage
+Prosthesis
+Orthose
 Splint
 Forceps
 Dressing
@@ -311,6 +313,7 @@ Shampoo
 Paper towel
 Toothpaste
 Toothbrush
+Dental braces
 Bottlecap
 Cork
 Button
@@ -351,7 +354,7 @@ Edict
 Verdict
 Manuscript
 Manual
-Mind Map
+Mind map
 Document
 Documentation
 Form
