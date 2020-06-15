@@ -13,6 +13,7 @@ Credit card
 Geiger counter
 Circuit board
 Breathalyzer
+Polygraph
 Ophthalmoscope
 Radio transmitter
 Radio receiver
@@ -74,6 +75,7 @@ Cattle prod
 Cell phone
 Remote control
 Motion detector
+Metal detector
 Proximity sensor
 Heat detector
 Smoke detector
