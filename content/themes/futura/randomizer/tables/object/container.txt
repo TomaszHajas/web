@@ -25,6 +25,7 @@ Barrel
 Thermos
 Cooler
 Wallet
+Purse
 Box
 Ammo box
 Cage
@@ -37,3 +38,4 @@ Keg
 Pouch
 Sachet
 Thermal bag
+Antistatic bag
