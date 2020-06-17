@@ -116,6 +116,7 @@ Sponge
 Padlock
 Combination padlock
 Glue gun
+Dog bowl
 Horse bit
 Bridle
 Saddle
