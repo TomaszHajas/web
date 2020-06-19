@@ -296,6 +296,12 @@ Lie
 Loneliness
 Loss
 Luck
+Chance
+Contingency
+Randomness
+Recursion
+Infinity
+Finity
 Luxury
 Management
 Manhood
@@ -549,9 +555,7 @@ Passion
 Pity
 Playfulness
 Poetry
-Possessiveness
-Protectiveness
-Quetrnegs
+Possession
 Rejection
 Remorse
 Repentance
@@ -590,7 +594,6 @@ Weltschmerz
 Yearning
 Frailty
 Aberration
-About
 Achievement
 Action
 Adjustment
@@ -949,7 +952,8 @@ Nostalgia
 Pressure
 Rights
 Starvation
-Traditionalism
+Custom
+Tradition
 Notoriety
 Prettiness
 Risk
