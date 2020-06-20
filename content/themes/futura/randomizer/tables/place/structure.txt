@@ -41,6 +41,9 @@ Wreckage
 Menhir
 Statue
 Obelisk
+Tombstone
+Coffin
+Casket
 Stocks
 Gallows
 Cesspit
