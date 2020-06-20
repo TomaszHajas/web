@@ -164,6 +164,7 @@ Legionnaire
 Interpreter
 Innkeeper
 Gravedigger
+Mortician
 Lumberjack
 Mechanic
 Electrician
