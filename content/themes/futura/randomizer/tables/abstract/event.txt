@@ -12,6 +12,7 @@ Party
 Rave
 Engagement
 Wedding
+Funeral
 Baptism
 Communion
 Birthday
