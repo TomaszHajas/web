@@ -10,6 +10,7 @@ Trolley
 Wagon
 Chariot
 Carriage
+Hearse
 Bicycle
 Tricycle
 Wheelchair
