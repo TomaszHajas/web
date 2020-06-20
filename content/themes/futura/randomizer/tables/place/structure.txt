@@ -41,6 +41,7 @@ Wreckage
 Menhir
 Statue
 Obelisk
+Grave
 Tombstone
 Coffin
 Casket
