@@ -172,6 +172,7 @@ Descend
 Describe
 Design
 Detail
+Elaborate
 Detect
 Determine
 Develop
