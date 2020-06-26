@@ -72,3 +72,7 @@ Clique
 Ring
 Cabal
 Partnership
+Covenant
+Pact
+Treaty
+Concordat
