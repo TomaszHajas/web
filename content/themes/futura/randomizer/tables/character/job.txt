@@ -12,6 +12,7 @@ Cheesemaker
 Honeymaker
 Soaper
 Baker
+Artisan
 Craftsman
 Manufacturer
 Supplier
@@ -62,9 +63,11 @@ Waiter
 Street Cleaner
 Cleaner
 Sailor
+Marine
 Armorer
 Stablemaster
 Master
+Veteran
 Priest
 Bishop
 Archbishop
@@ -80,6 +83,7 @@ Occultist
 Cultist
 Plaintiff
 Judge
+Aristocrat
 Noble
 Crier
 Adviser
@@ -135,13 +139,15 @@ Entrepreneur
 Scientist
 Nerd
 Researcher
-Archeologist
+Anthropologist
+Archaeologist
 Soldier
 Trooper
 Paratrooper
 Commando
 Deserter
 Rebel
+Insurgent
 Partisan
 Saboteur
 Revolutionist
@@ -206,6 +212,7 @@ Singer
 Ghostsinger
 Performer
 Troubadour
+Entertainer
 Dancer
 Actor
 Comedian
@@ -214,6 +221,7 @@ Prankster
 Hooker
 Tax Collector
 Bully
+Urchin
 Thug
 Bandit
 Robber
