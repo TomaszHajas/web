@@ -116,6 +116,7 @@ Sponge
 Padlock
 Combination padlock
 Glue gun
+Dog bowl
 Horse bit
 Bridle
 Saddle
@@ -137,6 +138,8 @@ Pill
 Capsule
 Pastille
 Bandage
+Prosthesis
+Orthose
 Splint
 Forceps
 Dressing
@@ -311,6 +314,7 @@ Shampoo
 Paper towel
 Toothpaste
 Toothbrush
+Dental braces
 Bottlecap
 Cork
 Button
@@ -351,7 +355,7 @@ Edict
 Verdict
 Manuscript
 Manual
-Mind Map
+Mind map
 Document
 Documentation
 Form
@@ -418,6 +422,7 @@ Necklace
 Amulet
 Signet
 Ring
+Earring
 Brooch
 Banknote
 Coin
@@ -596,6 +601,7 @@ Sneakers
 Socks
 Stockings
 Tights
+Wig
 Belt
 Purse
 Gaiters
@@ -620,6 +626,7 @@ Credit card
 Geiger counter
 Circuit board
 Breathalyzer
+Polygraph
 Ophthalmoscope
 Radio transmitter
 Radio receiver
@@ -681,6 +688,7 @@ Cattle prod
 Cell phone
 Remote control
 Motion detector
+Metal detector
 Proximity sensor
 Heat detector
 Smoke detector
@@ -742,6 +750,7 @@ Trolley
 Wagon
 Chariot
 Carriage
+Hearse
 Bicycle
 Tricycle
 Wheelchair
@@ -759,6 +768,7 @@ Canoe
 Surfboard
 Submersible
 Boat
+Ship
 Catamaran
 Yacht
 Galley
@@ -855,6 +865,7 @@ Greatscythe
 Halberd
 Lance
 Pike
+Vouge
 Quarterstaff
 Throwing axe
 Javelin
