@@ -2,7 +2,7 @@ Electric wire
 Amplifier
 Endoscope
 Epilator
-Rangefinder
+adRangefinder
 Electric kettle
 Toaster
 Hair dryer
@@ -21,6 +21,7 @@ Radio transceiver
 Transponder
 Solar panel
 Charger
+Power adapter
 Ultrasound scanner
 MRI scanner
 X-ray scanner
