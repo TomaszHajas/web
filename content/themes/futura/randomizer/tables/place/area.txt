@@ -91,6 +91,8 @@ Hillock
 Slope
 Flat
 Valley
+Dale
+Vale
 Canyon
 Ravine
 Trench
