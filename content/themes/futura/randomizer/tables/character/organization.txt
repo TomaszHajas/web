@@ -3,6 +3,7 @@ Group
 Network
 Team
 Band
+Ensemble
 Corps
 Crew
 Troupe
