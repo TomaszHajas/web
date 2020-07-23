@@ -358,6 +358,7 @@ Manual
 Mind map
 Document
 Documentation
+Dossier
 Form
 Ticket
 Leaflet
