@@ -541,6 +541,8 @@ Sergeant
 Arsonist
 Shipmaker
 Necromancer
+Pyromancer
+Technomancer
 Rider
 Raider
 Marauder
