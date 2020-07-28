@@ -762,6 +762,8 @@ Stiff
 Strong-willed
 Stupid
 Superficial
+Pragmatic
+Daydreaming
 Tactless
 Tasteless
 Tense
