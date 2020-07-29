@@ -613,6 +613,7 @@ Muff
 Sash
 Bobby pin
 Electric wire
+Optical fiber
 Amplifier
 Endoscope
 Epilator
