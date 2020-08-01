@@ -93,6 +93,7 @@ Bladesmith
 Falconer
 Scribe
 Cook
+Chef
 Tailor
 Draper
 Official
@@ -274,6 +275,8 @@ Butler
 Chancellor
 Manager
 Executive
+Representative
+Influencer
 Boss
 Chief
 Ordinator
