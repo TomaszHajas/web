@@ -113,6 +113,7 @@ Shaft
 Harbor
 Port
 Watermill
+Waterworks
 Shop
 Marketplace
 Stockpile
