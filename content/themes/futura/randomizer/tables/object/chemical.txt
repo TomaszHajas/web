@@ -7,6 +7,8 @@ Antiseptic dose
 Antitoxin dose
 Antiserum dose
 Truth serum dose
+Chlorophorm dose
+Laughing gas dose
 Cough medicine dose
 Psychothropic dose
 Vitamins dose
