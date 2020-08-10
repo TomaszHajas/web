@@ -18,6 +18,8 @@ Depressant dose
 Antifungal dose
 Antiviral dose
 Anticancer agent dose
+Coagulant dose
+Anticoagulant dose
 Stimulant dose
 Hallucinogen dose
 Steroid dose
