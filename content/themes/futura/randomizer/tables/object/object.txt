@@ -199,7 +199,6 @@ Hatchet
 Camp stove
 Candle
 Torch
-Life jacket
 Fire extinguisher
 Bipod
 Optical scope
@@ -582,6 +581,8 @@ Duster
 Cloak
 Raincoat
 Jacket
+Life jacket
+Straitjacket
 Apron
 Cape
 Mantle
@@ -589,6 +590,7 @@ Lab coat
 Parka
 Poncho
 Robe
+Gown
 Nightgown
 Nightshirt
 Pajamas
