@@ -2,6 +2,14 @@ World
 Plane
 Dimension
 Planet
+Rogue planet
+Moon
+Star
+Nebula
+Comet
+Asteroid belt
+Solar system
+Galaxy
 Town
 District
 City
