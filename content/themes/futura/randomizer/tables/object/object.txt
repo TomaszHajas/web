@@ -684,6 +684,7 @@ Car battery
 Battery
 Battery recharger
 Electric heater
+Electric blanket
 Electric fan
 Electric motor
 Thermogenerator
