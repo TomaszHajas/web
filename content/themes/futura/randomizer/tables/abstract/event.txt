@@ -37,6 +37,7 @@ Vacation
 Cabaret
 Talk Show
 Show
+Showcase
 Testimonial
 Hoax
 Boycott
