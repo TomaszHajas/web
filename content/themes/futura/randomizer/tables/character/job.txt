@@ -216,6 +216,7 @@ Troubadour
 Entertainer
 Dancer
 Actor
+Thespian
 Comedian
 Memist
 Prankster
