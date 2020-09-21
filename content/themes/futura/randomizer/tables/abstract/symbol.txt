@@ -21,6 +21,7 @@ Beast
 Tree
 Mushroom
 Plant
+Wreath
 Number
 Letter
 Star
