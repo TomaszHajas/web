@@ -177,6 +177,7 @@ Mechanic
 Electrician
 Programmer
 Software Developer
+Tester
 Blogger
 Jeweler
 Shepherd
@@ -315,6 +316,7 @@ Minstrel
 Moneylender
 Rental Clerk
 Businessman
+Economist
 Secretary
 Page
 Painter
@@ -447,6 +449,7 @@ Executioner
 Torturer
 Investigator
 Detective
+Criminologist
 Spy
 Agent
 Hacker
