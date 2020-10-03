@@ -798,6 +798,10 @@ Unreliable
 Unrestrained
 Unself-critical
 Unstable
+Literate
+Illiterate
+Polyglot
+Monolingual
 Vacuous
 Vague
 Venal
