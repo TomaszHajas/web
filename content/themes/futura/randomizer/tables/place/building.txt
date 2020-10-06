@@ -46,10 +46,12 @@ Blockhouse
 Citadel
 Missile launch facility
 Airport terminal
+Runway
 Bus station
 Metro station
 Taxi station
 Railway station
+Railyard
 Signal box
 Lighthouse
 Shipyard
