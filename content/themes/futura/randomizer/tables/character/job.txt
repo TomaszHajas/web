@@ -103,6 +103,8 @@ Banker
 Treasurer
 Driver
 Pilot
+Aeronaut
+Astronaut
 Signalman
 Caravaneer
 Adventurer
@@ -174,7 +176,11 @@ Gravedigger
 Mortician
 Lumberjack
 Mechanic
+Mechatronic
 Electrician
+Technologist
+Nanotechnologist
+Metallurgist
 Programmer
 Software Developer
 Tester
@@ -201,6 +207,7 @@ Seer
 Page-turner
 Preceptor
 Musicologist
+Acoustician
 Musician
 Lyricist
 Guitarist
@@ -326,6 +333,7 @@ Journalist
 Graphic Designer
 Fashionist
 Technician
+Geotechnician
 Physician
 Scullion
 Shoemaker
@@ -537,6 +545,7 @@ Oarsman
 Negotiator
 Gambler
 Game Master
+Gamer
 Narrator
 Lector
 Speaker
