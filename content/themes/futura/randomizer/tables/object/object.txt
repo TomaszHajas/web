@@ -349,6 +349,7 @@ Diploma
 Report
 Poster
 Wanted poster
+Obituary
 Decree
 Edict
 Verdict
