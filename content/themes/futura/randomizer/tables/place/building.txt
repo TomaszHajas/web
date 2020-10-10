@@ -25,6 +25,7 @@ Mithraeum
 Shrine
 Synagogue
 Temple
+Fane
 Pagoda
 Gurdwara
 City hall
