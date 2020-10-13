@@ -413,6 +413,9 @@ Fool
 Teacher
 Lecturer
 Professor
+Student
+Graduate
+Alumnus
 Mathematician
 Physicist
 Geographer
