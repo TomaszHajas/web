@@ -25,6 +25,7 @@ Fresh
 Ancient
 New
 Old
+Arid
 Damp
 Dry
 Flooded
