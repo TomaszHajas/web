@@ -93,6 +93,8 @@ Pavillon
 Amphitheatre
 Bath
 Fightclub
+Club
+Cornerclub
 Theatre
 Colloseum
 Circus
