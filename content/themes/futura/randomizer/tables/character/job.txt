@@ -73,6 +73,8 @@ Bishop
 Archbishop
 Patriarch
 Deacon
+Pope
+Pontiff
 Nun
 Friar
 Novitiate
