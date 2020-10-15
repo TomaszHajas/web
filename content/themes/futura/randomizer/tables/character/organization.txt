@@ -82,6 +82,7 @@ Concordat
 Court
 Order
 Church
+Cult
 Sect
 Ecclesia
 Denomination
