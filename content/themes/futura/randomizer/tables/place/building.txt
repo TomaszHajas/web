@@ -27,6 +27,7 @@ Synagogue
 Temple
 Fane
 Pagoda
+Stupa
 Gurdwara
 City hall
 Consulate
