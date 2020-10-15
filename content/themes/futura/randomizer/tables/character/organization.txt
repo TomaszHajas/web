@@ -80,3 +80,8 @@ Pact
 Treaty
 Concordat
 Court
+Order
+Church
+Sect
+Ecclesia
+Denomination
