@@ -66,6 +66,7 @@ Gang
 Mafia
 Division
 Department
+Ministry
 Cohort
 Nation
 Guild
@@ -78,3 +79,4 @@ Covenant
 Pact
 Treaty
 Concordat
+Court
