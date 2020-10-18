@@ -127,6 +127,7 @@ Treasury
 Trove
 Granary
 Hospital
+Infirmary
 Asylum
 Inn
 Tavern
@@ -275,7 +276,7 @@ Toll house
 Townhouse
 Treehouse
 Triplex
-Tudor house
+Timber-framed house
 Vault
 Vicarage
 Yurt
