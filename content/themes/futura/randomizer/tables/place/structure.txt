@@ -16,6 +16,8 @@ Room
 Ceiling
 Floor
 Roof
+Chimney
+Smokestack
 Mosaic
 Window
 Painting
