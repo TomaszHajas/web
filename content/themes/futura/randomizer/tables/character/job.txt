@@ -237,6 +237,7 @@ Bully
 Urchin
 Thug
 Bandit
+Terrorist
 Robber
 Highwayman
 Grave Robber
