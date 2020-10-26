@@ -404,6 +404,8 @@ Almoner
 Pardoner
 Refugee
 Slave
+Labourer
+Fan Waver
 Servant
 Dogsbody
 Grubber
