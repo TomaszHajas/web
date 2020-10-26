@@ -5,6 +5,10 @@ Team
 Band
 Ensemble
 Corps
+Corpus
+Community
+Commune
+Cooperative
 Crew
 Troupe
 Posse
