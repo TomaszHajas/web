@@ -45,6 +45,11 @@ Lava pool
 Lava stream
 Fire
 Pit
+Lair
+Burrow
+Hole
+Hollow
+Covert
 Crevice
 Cracked ground
 Stalagmite
