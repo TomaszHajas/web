@@ -34,6 +34,7 @@ Grassland
 Rangeland
 Meadow
 Forest
+Clearing
 Woods
 Grove
 Orchard
