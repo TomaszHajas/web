@@ -43,6 +43,7 @@ Wreckage
 Menhir
 Statue
 Obelisk
+Cairn
 Grave
 Tombstone
 Coffin
