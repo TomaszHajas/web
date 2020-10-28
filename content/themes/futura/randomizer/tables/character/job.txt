@@ -370,6 +370,8 @@ Hag
 Witcher
 Brawler
 Wrestler
+Boxer
+Pugilist
 Martial Artist
 Fighter
 Warrior
