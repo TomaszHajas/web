@@ -260,6 +260,7 @@ Stadium
 State house
 Station
 Steeple
+Emporium
 Store
 Storehouse
 Strip mall
