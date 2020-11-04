@@ -175,6 +175,7 @@ Embarrassment
 Emotion
 Empathy
 Emptiness
+Hollowness
 Endurance
 Energy
 Enjoyment
@@ -220,6 +221,7 @@ Will
 Freedom
 Fretfulness
 Friendship
+Contact
 Fright
 Frustration
 Fulfillment
@@ -373,6 +375,7 @@ Width
 Wit
 Wellness
 Wisdom
+Logic
 Womanhood
 Work
 Minimality
@@ -450,6 +453,7 @@ Intelligence
 Interest
 Laughter
 Law
+Reformation
 Length
 Life
 Love
@@ -464,6 +468,7 @@ Nervousness
 Openness
 Opinion
 Opportunity
+Unity
 Past
 Patience
 Patriotism
@@ -490,6 +495,7 @@ Shock
 Silliness
 Sloth
 Speed
+Velocity
 Strenght
 Stress
 Strictness
@@ -548,6 +554,7 @@ Jealousy
 Loyalty
 Mischievousness
 Modesty
+Concision
 Mystery
 Naughtiness
 Nausea
@@ -596,6 +603,7 @@ Yearning
 Frailty
 Aberration
 Achievement
+Fulfilment
 Action
 Adjustment
 Advice
@@ -657,7 +665,6 @@ Fastidiousness
 Feelings
 Fortitude
 Fragile
-Friendships
 Frugality
 Gall
 Genius
@@ -669,6 +676,7 @@ Help
 Helpful
 Helpfulness
 Homelessness
+Home
 Honour
 Hospitality
 Hubris
@@ -848,12 +856,17 @@ Unruliness
 Inferiority
 Malady
 Sense
+Meaning
 Manipulation
 Realization
 Sensibility
 Surrender
 Use
 Insight
+Visibility
+Disappearance
+Invisibility
+Dissipation
 Reassurance
 Survival
 Valiance
@@ -908,6 +921,11 @@ Tense
 Moderation
 Plan
 Weight
+Substance
+Distance
+Space
+Void
+Blankness
 Wellbeing
 Poignancy
 Remembrance
