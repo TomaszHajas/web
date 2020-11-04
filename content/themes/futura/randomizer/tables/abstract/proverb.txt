@@ -1,20 +1,20 @@
 A bad excuse is better than none
 A bad penny always turns up
-A bad workman blames his tools.
-A bird in the hand is worth two in the bush.
+A bad workman blames his tools
+A bird in the hand is worth two in the bush
 A cat may look at a king
 A chain is only as strong as its weakest link
-A dog is a man's best friend.
+A dog is a man's best friend
 A fool and his money are soon parted
-A friend in need is a friend indeed.
-A friend to everyone is a friend to no one.
+A friend in need is a friend indeed
+A friend to everyone is a friend to no one
 A journey of a thousand miles begins with a single step
 A little learning is a dangerous thing
-A leopard cannot change its spots.
-A mill cannot grind with the water that is past.
+A leopard cannot change its spots
+A mill cannot grind with the water that is past
 A miss is as good as a mile
-A new language is a new life.
-A penny saved is a penny earned.
+A new language is a new life
+A penny saved is a penny earned
 A picture is worth a thousand words
 A rising tide lifts all boats
 A rolling stone gathers no moss
@@ -22,9 +22,9 @@ A stitch in time saves nine
 A watched man never plays
 A watched pot never boils
 Absence makes the heart grow fonder 
-Absolute power corrupts absolutely.
-Accidents will happen.
-Actions speak louder than words.
+Absolute power corrupts absolutely
+Accidents will happen
+Actions speak louder than words
 Adversity makes strange bedfellows
 All good things come to he who waits
 All good things must come to an end
@@ -40,9 +40,9 @@ All is fair in love and war
 All is for the best in the best of all possible worlds
 All is well that ends well
 An apple a day keeps the doctor away
-An army marches on its stomach.
+An army marches on its stomach
 An eye for an eye makes the whole world blind.
-Another day, another dollar.
+Another day, another coin
 An ounce of prevention is worth a pound of cure
 Any port in a storm
 Any publicity is good publicity
@@ -83,7 +83,7 @@ Children should be seen and not heard
 Christmas comes but once a year
 Cleanliness is next to godliness
 Clothes make the man
-Coffee and love taste best when hot.
+Coffee and love taste best when hot
 Cold hands, warm heart
 Comparisons are odious
 Count your blessings
@@ -107,7 +107,7 @@ Do not change horses in midstream
 Do not count your chickens before they are hatched
 Do not cross the bridge till you come to it
 Do not cut off your nose to spite your face
-Do not fish for a shark with your hands, fish for hands with a shark.
+Do not fish for a shark with your hands, fish for hands with a shark
 Do not judge a book by its cover
 Do not keep a dog and bark yourself
 Do not let the bastards grind you down
@@ -133,10 +133,10 @@ Do not wash your dirty linen in public
 Do not sympathize with those who can not empathize
 Do unto others as you would have them do unto you.
 Doubt is the beginning, not the end, of wisdom
-Early to bed and early to rise makes a man healthy, wealthy and wise.
+Early to bed and early to rise makes a man healthy, wealthy and wise
 Easier said than done
 East is east, and west is west and never the twain shall meet
-East, west, home is best,
+East, west, home is best
 Easy come, easy go
 Early marriage, earlier pregnant
 Eat breakfast like a king, lunch like a prince and dinner like a pauper
@@ -144,8 +144,8 @@ Eat, drink and be merry, for tomorrow we die
 Empty vessels make the most noise
 Enough is as good as a feast
 Even a worm will turn
-Even from a foe a man may learn wisdom.
-Even the parts fit for a lady.
+Even from a foe a man may learn wisdom
+Even the parts fit for a lady
 Every cloud has a silver lining
 Every dog has his day
 Every Jack has his Jill
@@ -162,9 +162,9 @@ Failing to plan is planning to fail
 Faint heart never won fair lady
 Fair exchange is no robbery
 Faith will move mountains
-Fall seven times, stand up eight.
-False friends are worse than open enemies.
-Fake it til' you make it.
+Fall seven times, stand up eight
+False friends are worse than open enemies
+Fake it til' you make it
 Familiarity breeds contempt
 Feed a cold and starve a fever
 Fight fire with fire
@@ -216,7 +216,7 @@ Hindsight is always twenty-twenty
 History repeats itself
 Home is where the heart is
 Honesty is the best policy
-Hope for the best, and prepare for the worst.
+Hope for the best, and prepare for the worst
 Hope springs eternal
 Horse kicking a water stand
 Horses for courses
@@ -227,22 +227,22 @@ If at first you do not succeed, try, try again
 If God had meant us to fly, he would have given us wings
 If ifs and ands were pots and pans, there would be no work for tinkers
 If it ain't broke, don't fix it.
-If it were not for hope the heart would break.
-If it were a snake, it would have bit you.
+If it were not for hope the heart would break
+If it were a snake, it would have bit you
 If the shoe fits, wear it
 If the mountain will not come to Mohammed, then Mohammed must go to the mountain
-If wealth is lost, nothing is lost. If health is lost, something is lost. If character is lost, everything is lost.
+If wealth is lost, nothing is lost. If health is lost, something is lost. If character is lost, everything is lost
 If wishes were horses, beggars would ride
 If you're growing in age, then you're nearing to the graveyard
 If you cannot be good, be careful
 If you cannot beat them, join them
-If you cannot live longer, live deeper.
+If you cannot live longer, live deeper
 If you cannot stand the heat, get out of the kitchen
 If you give a mouse a cookie, he'll always ask for a glass of milk
 If you think that you know everything, then you're a Jack ass
 If you lie down with dogs, you will get up with fleas
 If you pay peanuts, you get monkeys
-If you play with fire, you will get burned.
+If you play with fire, you will get burned
 If you steal from one author, it is plagiarism; if you steal from many, it is research
 If you want a thing done well, do it yourself
 If you have never seen the bottom of the tree, you cannot know how tall it stands
@@ -257,13 +257,13 @@ In the midst of life, we are in death
 Into every life a little rain must fall
 It ain't over till it's over
 It ain't over till the fat lady sings
-It ain’t what you don't know that gets you into trouble. It's what you know for sure that just ain’t so.
+It ain’t what you don't know that gets you into trouble. It's what you know for sure that just ain’t so
 It goes without saying
 It is a small world
 It is all grist to the mill
 It is an ill wind that blows no one any good
 It is best to be on the safe side
-It is better to be smarter than you appear than to appear smarter than you are.
+It is better to be smarter than you appear than to appear smarter than you are
 It is better to give than to receive
 It is better to have loved and lost than never to have loved at all
 It is better to cultivate a Land with two Bulls, rather working under Boss who never gives Wage when asked
@@ -274,8 +274,7 @@ It is like juggling sand
 It is never too late
 It is no use crying over spilt milk
 It is no use locking the stable door after the horse has bolted
-It is not enough to learn how to ride, you must also learn how to fall.
-It is on
+It is not enough to learn how to ride, you must also learn how to fall
 It is the early bird that gets the worm
 It is the empty can that makes the most noise
 It is the squeaky wheel that gets the grease
@@ -294,22 +293,22 @@ Islands depend on reeds, just as reeds depend on islands
 Jack of all trades, master of none
 Judge not, that ye be not judged
 Keep your chin up
-Keep your friends close and your enemies closer.
-Keep your powder dry.
-Kill the chicken to scare the monkey.
+Keep your friends close and your enemies closer
+Keep your powder dry
+Kill the chicken to scare the monkey
 Kill the goose that lays the golden eggs.
 Kill two birds with one stone.
-Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love
 Knock on wood
 Know which side bread is buttered
-Knowledge is power, guard it well.
+Knowledge is power, guard it well
 A language is a dialect with an army and navy
 The last drop makes the cup run over
-Laugh before breakfast, cry before supper.
+Laugh before breakfast, cry before supper
 Laugh and the world laughs with you, weep and you weep alone
 Laughter is the best medicine
-Late lunch makes day go faster.
-Learn a language, and you will avoid a war.
+Late lunch makes day go faster
+Learn a language, and you will avoid a war
 Least said, soonest mended
 Less is more
 Let bygones be bygones
@@ -320,9 +319,9 @@ Let the cat out of the bag
 Let the dead bury the dead
 Let the punishment fit the crime
 Let well alone
-Let your hair down.
+Let your hair down
 Life begins at forty
-Life is too short not to do something that matters.
+Life is too short not to do something that matters
 Life is not all beer and skittles
 Life is what you make it
 Lightning never strikes twice in the same place
@@ -332,7 +331,7 @@ Little strokes fell great oaks
 Little things please little minds
 Live and let live
 Live for today, for tomorrow never comes
-Live to fight another day.
+Live to fight another day
 He who fights and runs away, may live to fight another day.
 Loose lips sink ships
 Look before you leap
@@ -352,7 +351,7 @@ March comes in like a lion and goes out like a lamb
 Marriages are made in heaven
 Marry in haste, repent at leisure
 Memory is the treasure of the mind
-Men are blind in their own cause.
+Men are blind in their own cause
 Men get spoiled by staying, Women get spoiled by wandering
 Might is right
 Might makes right
@@ -364,14 +363,13 @@ Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's ch
 Money does not grow on trees
 Money earned by deceit, goes by deceit
 Money is not everything
-Money demands care, you abuse it and it disappears.
+Money demands care, you abuse it and it disappears
 Money makes the world go around
 Money talks
 Money makes many things, but also makes devil dance
 More haste, less speed
 Mud sticks
 Music has charms to soothe the savage breast
-N
 Nature abhors a vacuum
 Necessity is the mother of invention
 Needs must when the devil drives
@@ -388,7 +386,7 @@ Never speak ill of the dead
 Never say die
 Never say never
 Never tell tales out of school
-Never too old to learn.
+Never too old to learn
 Nine tailors make a man,
 No guts, no glory
 No man can serve two masters
@@ -406,7 +404,7 @@ Nothing succeeds like success,
 Nothing ventured, nothing gained
 Oil and water do not mix
 Of course my horse
-Old soldiers never die, they just fade away.
+Old soldiers never die, they just fade away
 Once bitten, twice shy
 One good turn deserves another
 One half of the world does not know how the other half lives
@@ -419,12 +417,12 @@ One might as well throw water into the sea as to do a kindness to rogues
 One law for the rich and another for the poor
 One swallow does not make a summer
 One who believes in Sword, dies by the Sword
-One who speaks only one language is one person, but one who speaks two languages is two people.
+One who speaks only one language is one person, but one who speaks two languages is two people
 One year's seeding makes seven years weeding
 Only fools and horses work
 Open confession is good for the soul.
 Opportunity never knocks twice at any man's door
-Other times other manners.
+Other times other manners
 Out of sight, out of mind
 Out of the frying pan and into the fire
 Out of the mouths of babes
@@ -433,7 +431,7 @@ Parsley seed goes nine times to the Devil
 Patience is a virtue
 Pearls of wisdom
 Penny wise and pound foolish
-Penny, Penny. Makes many.
+Penny, Penny. Makes many
 People who live in glass houses should not throw stones
 Physician, heal thyself
 Possession is nine-tenths of the law
@@ -447,7 +445,7 @@ Procrastination is the thief of time
 Put your best foot forward
 Put your money where your mouth is
 Red sky at night shepherds delight; red sky in the morning, shepherds warning
-Respect is not given, it is earned.
+Respect is not given, it is earned
 Revenge is a dish best served cold
 Revenge is sweet
 Rome was not built in a day
@@ -519,7 +517,7 @@ The longest journey starts with a single step
 The moon is made of green cheese
 The more the merrier
 The more things change, the more they stay the same
-The only disability in life is a bad attitude.
+The only disability in life is a bad attitude
 The only way to understand a woman is to love her
 The pen is mightier than the sword
 The pot calling the kettle black
@@ -533,7 +531,7 @@ The work praises the man.
 The worm will turn
 There ain't no such thing as a free lunch
 There are more ways of killing a cat than choking it with cream
-There are none so blind as those who will not see — attributed variously to Edmund Burke or George Santayana
+There are none so blind as those who will not see
 There are two sides to every question
 There but for the grace of God go I
 There is an exception to every rule
@@ -593,9 +591,9 @@ United we stand, divided we fall
 Use it or lose it
 Ugly is as ugly does
 Up a creek without a paddle
-Variety is the spice of life.
+Variety is the spice of life
 Virtue is its own reward
-Walk softly but carry a big stick.
+Walk softly but carry a big stick
 Walls have ears
 Walnuts and pears you plant for your heirs
 Waste not, want not
@@ -621,8 +619,8 @@ What is learnt in the cradle lasts to the tombs.
 What the eye does not see, the heart does not grieve over
 Where there is a will there is a way
 Where there is muck there is brass
-Where there is life there is hope.
-Whether you think you can, or you think you can't, you're right.
+Where there is life there is hope
+Whether you think you can, or you think you can't, you're right
 While there is life there is hope
 Who will bell the cat?
 Whom the Gods love die young
@@ -656,4 +654,57 @@ You scratch my back and I will scratch yours
 You'll never get if you never go
 You've got to separate the wheat from the chaff
 You've made your bed and you must lie in it
-Zeal without knowledge is fire without light.
+Zeal without knowledge is fire without light
+Two idiots, one thought
+If you want to go fast, go alone. If you want to go far, go together
+Fall seven times, stand up eight
+Shared joy is a double joy; shared sorrow is half a sorrow
+Words should be weighed, not counted
+If you can’t live longer, live deeper
+Do good and throw it in the sea
+Where love reigns, the impossible may be attained
+It’s better to light a candle than curse the darkness
+A man who uses force is afraid of reasoning
+Still waters run deep
+He who does not travel, does not know the value of men
+The night rinses what the day has soaped
+Measure a thousand times and cut once
+A spoon does not know the taste of soup, nor a learned fool the taste of wisdom
+The most beautiful fig may contain a worm
+Change yourself and fortune will change
+In love, there is always one who kisses and one who offers the cheek
+Evil enters like a needle and spreads like an oak tree
+Who begins too much accomplishes little
+Whoever gossips to you will gossip about you
+Beauty lies in the eye of the beholder
+Don’t sail out farther than you can row back
+There is no shame in not knowing; the shame lies in not finding out
+Age is honorable and youth is noble
+In a battle between elephants, the ants get squashed
+If you take big paces, you leave big spaces
+Before you score, you first must have a goal
+Good advice is often annoying, bad advice never is
+Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime
+Do not rejoice at my grief, for when mine is old, yours will be new
+What you see in yourself is what you see in the world
+It takes a whole village to raise a child
+Examine what is said, not who speaks
+Two wrongs don’t make a right
+A large chair does not make a king
+Instruction in youth is like engraving in stone
+Deep doubts, deep wisdom; small doubts, small wisdom
+A man does not seek his luck; luck seeks its man
+A teacher is better than two books.
+A beautiful thing is never perfect
+The reputation of a thousand years may be determined by the conduct of one hour. | Japanese Proverb
+Character is always corrupted by prosperity. | Icelandic Proverb
+A fault confessed is half redressed. | Zulu Proverb
+To be willing is only half the task. | Armenian Proverb
+Everyone is kneaded out of the same dough, but not baked in the same oven. | Yiddish Proverb
+The heart that loves is always young. | Greek Proverb
+He who always thinks it is too soon is sure to come too late. | German Proverb
+Turn your face to the sun and the shadows will fall behind you. | New Zealander Proverb
+When the sun rises, it rises for everyone. | Cuban Proverb
+No man can paddle two canoes at the same time. | Bantu Proverb
+If you go to a donkey’s house, don’t talk about ears. | Jamaican Proverb
+Speak the truth, but leave immediately after. | Slovenian Proverb
