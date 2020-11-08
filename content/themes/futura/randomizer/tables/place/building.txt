@@ -77,6 +77,8 @@ Castle
 Tower
 Turret
 Watchtower
+Clock tower
+Water tower
 Gatehouse
 Armory
 Villa
