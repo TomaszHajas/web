@@ -131,6 +131,7 @@ Stethoscope
 Bone saw
 Injection needle
 Syringe
+Alembic
 Inhaler
 Douche bag
 Suppository
@@ -350,6 +351,7 @@ Report
 Poster
 Wanted poster
 Obituary
+Petition
 Decree
 Edict
 Verdict
