@@ -81,6 +81,7 @@ Reef
 Beach
 Shore
 River
+Waterway
 Bayou
 Waterfall
 Meander
