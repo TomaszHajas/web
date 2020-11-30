@@ -236,6 +236,7 @@ Hooker
 Tax Collector
 Bully
 Urchin
+Trickster
 Thug
 Bandit
 Terrorist
