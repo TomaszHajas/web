@@ -87,6 +87,8 @@ Occultist
 Cultist
 Plaintiff
 Judge
+Jury
+Arbiter
 Aristocrat
 Noble
 Crier
@@ -356,6 +358,8 @@ Footman
 Marksman
 Sniper
 Mercenary
+Sellsword
+Freelancer
 Drummer
 Siege Engineer
 Engineer
@@ -515,6 +519,13 @@ Body Cleaner
 Dishwasher
 Window Washer
 Consultant
+Reporter
+Television presenter
+News presenter
+Weather presenter
+Master of ceremonies
+Sports commentator
+Commentator
 Activist
 Protester
 Animal Sexer
