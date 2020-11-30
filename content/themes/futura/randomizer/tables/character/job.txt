@@ -476,6 +476,7 @@ Torturer
 Investigator
 Detective
 Criminologist
+Mediator
 Spy
 Agent
 Hacker
@@ -567,6 +568,7 @@ Aromatherapist
 Therapist
 Psychologist
 Psychiatrist
+Psychotherapist
 Psychic
 Oarsman
 Negotiator
