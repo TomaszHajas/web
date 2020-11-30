@@ -520,11 +520,11 @@ Dishwasher
 Window Washer
 Consultant
 Reporter
-Television presenter
-News presenter
-Weather presenter
-Master of ceremonies
-Sports commentator
+Television Presenter
+News Presenter
+Weather Presenter
+Master of Ceremonies
+Sports Commentator
 Commentator
 Activist
 Protester
