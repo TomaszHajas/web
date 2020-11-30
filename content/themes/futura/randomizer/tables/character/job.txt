@@ -82,6 +82,7 @@ Novitiate
 Vestal
 Abbot
 Exorcist
+Theurgist
 Occultist
 Cultist
 Plaintiff
@@ -265,6 +266,7 @@ Canaller
 Town Crier
 Watchman
 Papermaker
+Croupier
 Bard
 Poet
 Courtesan
@@ -544,6 +546,7 @@ Heretic
 Gelder
 Courier
 Messenger
+Administrator
 Supervisor
 Overseer
 Selectioner
