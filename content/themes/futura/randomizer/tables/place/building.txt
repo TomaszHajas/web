@@ -10,6 +10,7 @@ Library
 Mudhif
 Community hall
 Church
+Priory
 Basilica
 Cathedral
 Duomo
