@@ -1,4 +1,5 @@
 Abstraction
+Apotheosis
 Alliance
 Ambition
 Ambivalence
@@ -511,6 +512,8 @@ Unreality
 Value
 Victory
 Wariness
+Increase
+Decrease
 Weakness
 Weariness
 Worry
@@ -690,6 +693,7 @@ Improvement
 Impudence
 Inaccuracy
 Errancy
+Destruction
 Inerrancy
 Insensitivity
 Intrepidity
