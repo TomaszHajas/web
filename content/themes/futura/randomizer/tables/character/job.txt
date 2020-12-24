@@ -57,6 +57,8 @@ Optician
 Paramedic
 Osteopath
 Obstetrician
+Trichologist
+Dermatologist
 Doctor
 Plague Doctor
 Bartender
