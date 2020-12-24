@@ -46,13 +46,13 @@
 				template = encodeURIComponent("[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]], the [[character/body]|] [[character/mind]|] [Male|Female|] [[character/race]|] [[character/job]|]");
 			break;
 			case "creature":
-				template = encodeURIComponent("[[character/body]|] [[character/mind]|] [Male|Female|] [[creature|animal]|[creature|legendary]]");
+				template = encodeURIComponent("[[character/body]|] [[character/mind]|] [Male|Female|] [[creature/animal]|[creature/legendary]]");
 			break;
 			case "scene_object":
-				template = encodeURIComponent("[[plant|adjective] [plant|plant]|[object|adjective] [[place|natural]|[place|structure]]]");
+				template = encodeURIComponent("[[plant/adjective] [plant/plant]|[object/adjective] [[place/natural]|[place/structure]]]");
 			break;
 			case "item":
-				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/object]|[object/object] of [[abstract/abstract]|[abstract|element]]]");
+				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/object]|[object/object] of [[abstract/abstract]|[abstract/element]]]");
 			break;
 			case "place":
 				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective]|][place/building]|[[place/area] with [place/adjective] |][place/natural]|[[place/area] with [place/adjective ]|][place/structure]|[place/room][ inside [place/adjective ] [place/building]|]]");
