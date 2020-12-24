@@ -370,6 +370,7 @@ Ranger
 Paladin
 Barbarian
 Monk
+Missionary
 Druid
 Sorcerer
 Warlock
