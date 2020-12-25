@@ -62,6 +62,7 @@ Pool
 Receptacle
 Font
 Altar
+Confession booth
 Trap
 Pitfall trap
 Object-fall trap
