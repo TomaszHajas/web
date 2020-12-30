@@ -131,6 +131,7 @@ Leathery
 Light-skinned
 Olive-skinned
 Pale
+Ashen
 Pallid
 Peach-skinned
 Pink-skinned
@@ -341,6 +342,7 @@ Peg-legged
 Legless
 Armless
 Fat
+Stout
 Fragile
 Soft
 Repulsive
