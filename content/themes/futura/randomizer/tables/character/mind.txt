@@ -16,6 +16,7 @@ Innovative
 Inquisitive
 Irritable
 Lucky
+Fated
 Magnetic
 Meek
 Mysterious
@@ -176,8 +177,13 @@ Agoraphobic
 Claustrophobic
 Trypophobic
 Arachnophobic
+Zoophobic
+Nocturnal
+Diurnal
 Homophobic
 Heterophobic
+Mercurial
+Irrepressible
 Egosyntonic
 Egodystonic
 Musical
@@ -658,6 +664,9 @@ High-handed
 Ignorant
 Imitative
 Impatient
+Restless
+Antsy
+Agitated
 Impractical
 Imprudent
 Impulsive
@@ -803,6 +812,7 @@ Literate
 Illiterate
 Polyglot
 Monolingual
+Naturistic
 Vacuous
 Vague
 Venal
