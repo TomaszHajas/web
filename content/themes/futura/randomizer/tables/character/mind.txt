@@ -752,6 +752,9 @@ Repressed
 Resentful
 Ridiculous
 Ritualistic
+Abusive
+Hopeless
+Rapturous
 Rowdy
 Ruined
 Sadistic
@@ -761,6 +764,7 @@ Scornful
 Secretive
 Sedentary
 Selfish
+Masochistic
 Self-indulgent
 Shallow
 Shortsighted
