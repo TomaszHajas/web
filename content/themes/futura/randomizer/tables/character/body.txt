@@ -17,6 +17,9 @@ Ugly
 Vigour
 Weak
 Strong
+Resilient
+Durable
+Robust
 Young
 Dirty
 Disfigured
@@ -338,10 +341,13 @@ Peg-legged
 Legless
 Armless
 Fat
+Fragile
+Soft
 Repulsive
 Attractive
 Healthy
 Sick
+Sickly
 Lucky
 Unlucky
 Clumsy
@@ -356,6 +362,9 @@ Rich
 Homeless
 Quick
 Slow
+Sluggish
+Evasive
+Visible
 Clean
 Smelly
 Fragnant
@@ -416,6 +425,7 @@ Hidden
 Distinguishable
 Glowing
 Shadowy
+Luminous
 Greasy
 Wet
 Loud-breathing
@@ -648,7 +658,6 @@ Skinless
 Thick-skinned
 Thin-skinned
 Hard-skinned
-Soft-skinned
 Moulting
 Slender
 Bat-winged
