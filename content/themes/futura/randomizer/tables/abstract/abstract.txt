@@ -137,6 +137,7 @@ Depression
 Desire
 Despair
 Destiny
+Weird
 Determination
 Devotion
 Devoutness
@@ -288,6 +289,7 @@ Incongruity
 Inconsistency
 Independence
 Information
+Influence
 Irritation
 Joy
 Justice
