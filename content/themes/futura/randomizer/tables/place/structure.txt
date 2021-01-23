@@ -11,6 +11,7 @@ Ladder
 Stepladder
 Corridor
 Tunnel
+Vomitorium
 Trench
 Room
 Ceiling
@@ -48,6 +49,7 @@ Grave
 Tombstone
 Coffin
 Casket
+Tribune
 Stocks
 Gallows
 Cesspit
