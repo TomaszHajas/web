@@ -3,6 +3,7 @@ Support
 Post
 Pillar
 Column
+Support beam
 Arch
 Arcade
 Arc
@@ -31,6 +32,7 @@ Pallisade
 Moat
 Fence
 Railing
+Drying frame
 Pen
 Barrier
 Barricade
@@ -73,6 +75,9 @@ Cage trap
 Maypole
 Totem
 Signpost
+Sign
+Buoy
+Banner
 Milestone
 Crossroads
 Forkroad
@@ -104,6 +109,10 @@ Lair
 Den
 Hole
 Manhole
+Skep
+Coop
+Hutch
+Dovecote
 Croft
 Agora
 Square
@@ -114,12 +123,16 @@ Farm
 Plantation
 Garden
 Furnace
+Crucible
+Forge
 Oven
 Fireplace
 Kiln
 Smelter
 Dock
 Chair
+Armchair
+Footstool
 Stool
 Rocking chair
 Bench
@@ -132,11 +145,20 @@ Jukebox
 Washstand
 Mangle
 Washing machine
+Spinning wheel
+Potter's wheel
+Quern
+Loom
+Mannequin
+Snowman
+Churn
+Press
 Table
 Desk
 Drawing board
 Pedestal
 End table
+Display case
 Workbench
 Bookcase
 Cabinet
@@ -159,10 +181,12 @@ Wardrobe
 Wine rack
 Aquarium
 Bathtub
+Cauldron
 Weapon rack
 Grand piano
 Harpsichord
 Bottle
+Demijohn
 Jar
 Urn
 Barrel
