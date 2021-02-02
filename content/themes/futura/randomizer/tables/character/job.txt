@@ -283,6 +283,8 @@ Pirate
 Swashbuckler
 Duelist
 Thief
+Plunderer
+Looter
 Scammer
 Impostor
 Burglar
