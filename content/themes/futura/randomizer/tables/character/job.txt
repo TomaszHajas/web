@@ -88,6 +88,8 @@ Theurgist
 Occultist
 Cultist
 Plaintiff
+Novice
+Aspirant
 Judge
 Jury
 Arbiter
