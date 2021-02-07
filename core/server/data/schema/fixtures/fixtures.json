@@ -1520,6 +1520,22 @@
                     "feature_image": ""
                 },
                 {
+                    "title": "Kobba",
+                    "slug": "kobba",
+                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"An exceptionally big man born in Alisont in 1276 After Great Event, afflicted with a rare disease causing skin calcification.\"]]],[1,\"p\",[[0,[],0,\"His mother was an electrical engineer, and tried to teach him her ways, but Kobba quickly became twice as big as a normal child at his age. His big fingers, in pair with stiff, stone-like skin, rendered him unable to do a precision work. It's why his mother decided to send him to help on his grandfather's farm to make for his living and costly medical examinations of clueless doctors.\"]]],[1,\"p\",[[0,[],0,\"Years passed, as Kobba has been living on the farm, away from the big city, not worried by his former school bullies anymore. Soon he grew into a nervous man actively avoiding new contacts due to his negative past experiences.\"]]],[1,\"p\",[[0,[],0,\"After reaching his twenties, he received a proposition from one of his former doctors to take part in healthcare programme sponsored by the government, taking place in Wonders Wing hospital. At first, it looked like a normal, medical examination - but soon after, he was basically imprisoned in the hospital's underground facility, owned by Scientific Analysis of Energy Origin project. He was unwillingly led through dozens of experiments designated to discover supernatural traces in the cause of his stone-skin condition.\"]]],[1,\"p\",[[0,[],0,\"The scientists once again proved themselves to be clueless, not only wasting Kobba's time but his sanity as well. The final diagnosis was the same as before - a cancer-like, genetic mutation of deep skin cells.\"]]],[1,\"p\",[[0,[],0,\"Frustrated Kobba, sitting in his reinforced cell, was soon visited by a group of adventurers trying to sabotage the facility and free its test subjects. Seeing such opportunity, he decided to join them and bring justice to unethical scientists. Together, they discovered a huge portal, from which a group of deadly robots spawned and took over the lab. With help of the chief scientist, Chaddwick Blinckus, they reconfigured the portal to go back in time in order to prevent the robots from being summoned in the first place.\"]]],[1,\"p\",[[0,[],0,\"Once he jumped about dozen years into the past, he accidentally interfered with a woman which was his mother's friend. After that encounter, he simply disappeared. It's been said it lead to circumstances, where he had never entered the portal - ultimately erasing the older version of himself from the past.\"]]]]}",
+                    "featured": false,
+                    "page": false,
+                    "status": "published",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "created_by": "5951f5fca366002ebd5dbef7",
+                    "published_by": "5951f5fca366002ebd5dbef7",
+                    "author_id": "5951f5fca366002ebd5dbef7",
+                    "tag_id:": "5d7516b559216774548a41df",
+                    "custom_excerpt": "",
+                    "feature_image": ""
+                },
+                {
                     "title": "The Crimson Bears",
                     "slug": "the-crimson-bears",
                     "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"A gang founded in 1295 and run by married couple of gangsters - Felix and Alexandra (respectively 41 and 35 years old at the time of founding). The gang\u2019s name was chosen after their daughter Zima\u2019s bearlike ears, that where passed down from her mother, and her favourite colour being red. The gang is centred to the west of the Alisont city and that has been living off selling stolen or illegal weapons, which are always in high demand.\"]]],[1,\"p\",[[0,[],0,\"This gang is pretty small compared to the local gangs because of it being relatively new and being mostly family-related, However, it has one of the best strike teams by far and it has become known after heist in a high-tech industry storage unit. After many gangs tried and failed to break through their almost military level defences, Zima\u2019s strike team, after some losses, was able to secure few prototypes - what earned respect and hate from other gang leaders. With Zima as the tactical captain, she was able to complete missions that were seen as impossible, even if some of her friends lost their life. This was something that annoys other gangs and still does until today.\"]]],[1,\"p\",[[0,[],0,\"However, one thing never changed and it was that her father Felix was the mind of the operations. And his wife Alexandra was never really involved, Not carrying much for the inner dealings of the gang, trying to raise a good young girl that was Zima.\"]]]]}",
@@ -1842,6 +1858,7 @@
                 "bogath-uluskel": ["Character"],
                 "ignvarros-visncendo": ["Character"],
                 "gabriel-consarmounion": ["Character"],
+                "kobba": ["Character"],
                 "the-crimson-bears": ["Organization"],
                 "blood-of-almaris": ["Organization"],
                 "taruraj": ["Organization"]
