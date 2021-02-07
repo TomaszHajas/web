@@ -428,6 +428,7 @@ Grubber
 Eunuch
 Intern
 Homeless
+Waif
 Beggar
 Pauper
 Scavenger
