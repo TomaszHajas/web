@@ -423,6 +423,8 @@ Slave
 Labourer
 Fan Waver
 Servant
+Peon
+Gofer
 Dogsbody
 Grubber
 Eunuch
