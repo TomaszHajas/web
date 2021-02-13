@@ -25,6 +25,9 @@ Heavy
 Light
 Useful
 Useless
+Old
+New
+Raddled
 Sharp
 Dull
 Big
