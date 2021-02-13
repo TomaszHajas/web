@@ -419,6 +419,7 @@ Lady
 Almoner
 Pardoner
 Refugee
+Fugitive
 Slave
 Labourer
 Fan Waver
