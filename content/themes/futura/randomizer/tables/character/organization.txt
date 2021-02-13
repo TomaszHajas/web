@@ -79,6 +79,8 @@ Clique
 Ring
 Cabal
 Partnership
+Confluence
+Conflux
 Covenant
 Pact
 Treaty
