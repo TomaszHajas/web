@@ -971,6 +971,8 @@ Reticence
 Stage
 Prejudice
 Revenge
+Plenty
+Deficiency
 Stamina
 Laziness
 Nostalgia
