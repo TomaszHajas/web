@@ -87,6 +87,7 @@ Exorcist
 Theurgist
 Occultist
 Cultist
+Follower
 Plaintiff
 Novice
 Aspirant
@@ -440,6 +441,8 @@ Teacher
 Lecturer
 Professor
 Student
+Disciple
+Apostle
 Graduate
 Alumnus
 Mathematician
