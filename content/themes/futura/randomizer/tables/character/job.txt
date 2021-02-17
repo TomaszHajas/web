@@ -592,6 +592,7 @@ Gamer
 Narrator
 Lector
 Speaker
+Motivational Speaker
 Mouth
 Officer
 Cadet
