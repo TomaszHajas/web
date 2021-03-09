@@ -43,7 +43,7 @@
 		var template = encodeURIComponent(document.getElementById("template").value);
 		switch(type){
 			case "character":
-				template = encodeURIComponent("[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]], the [[character/body]|] [[character/mind]|] [Male|Female|] [[character/race]|] [[character/job]|]");
+				template = encodeURIComponent("[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]], the [[character/body]|] [[character/mind]|] [Male|Female|] [[character/race]|] [[character/job]|][ who [is attracted by|likes|loves|dislikes|hates|is scared of] [[character/job]s|[character/race]s|[creature/animal]s|[creature/legendary]s|[place/area]s|[place/building]s|[place/structure]s|[place/natural]s|[object/object]s|[plant/plant]s|[abstract/event]s]|]");
 			break;
 			case "creature":
 				template = encodeURIComponent("[[character/body]|] [[character/mind]|] [Male|Female|] [[creature/animal]|[creature/legendary]]");
