@@ -81,6 +81,7 @@ Coast
 Reef
 Beach
 Shore
+Strand
 River
 Waterway
 Bayou
