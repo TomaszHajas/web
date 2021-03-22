@@ -147,6 +147,7 @@ Stainless
 Rusty
 Filthy
 Dusty
+Muddy
 Preserved
 Scratched
 Unscathed
@@ -238,3 +239,5 @@ Exquisite
 Extravagant
 Designer
 Off-brand
+Great
+Grand
