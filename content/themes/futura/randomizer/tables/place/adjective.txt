@@ -30,7 +30,10 @@ Muddy
 Sunken
 Underwater
 Damp
+Toxic
+Rotten
 Dry
+Dried
 Flooded
 Scorched
 Far
@@ -43,6 +46,9 @@ Warm
 Cold
 Frozen
 Burned
+Torched
+Volcanic
+Ashen
 Warm
 Chilly
 Sunny
@@ -62,6 +68,7 @@ Lower
 Underground
 Overground
 Deep
+Abyssal
 Shallow
 Ruined
 Maintained
@@ -116,6 +123,8 @@ Celestial
 Infernal
 Cursed
 Blessed
+Desecrated
+Holy
 Weird
 Normal
 Mysterious
@@ -130,3 +139,7 @@ Haunted
 Trapped
 Isolated
 Desolated
+Ruined
+Dread
+Grand
+Great
