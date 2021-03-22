@@ -50,6 +50,9 @@ Candlemaker
 Hairdresser
 Shaver
 Sheriff
+Deputy
+Commissary
+Delegate
 Chainsmith
 Healer
 Medic
@@ -60,6 +63,7 @@ Obstetrician
 Trichologist
 Dermatologist
 Doctor
+Magister
 Plague Doctor
 Bartender
 Waiter
@@ -92,6 +96,7 @@ Plaintiff
 Novice
 Aspirant
 Judge
+Procurator
 Jury
 Arbiter
 Aristocrat
@@ -309,6 +314,7 @@ Leader
 Commander
 President
 Politician
+Minister
 King
 Paramount King
 Viceroy
