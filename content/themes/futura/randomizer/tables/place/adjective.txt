@@ -26,6 +26,9 @@ Ancient
 New
 Old
 Arid
+Muddy
+Sunken
+Underwater
 Damp
 Dry
 Flooded
@@ -64,6 +67,7 @@ Ruined
 Maintained
 Fragnant
 Smelly
+Fetid
 Huge
 Small
 Unspoiled
