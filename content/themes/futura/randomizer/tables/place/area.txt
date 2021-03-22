@@ -15,6 +15,7 @@ District
 City
 Village
 Encampment
+Slums
 Borough
 Bailwick
 County
