@@ -108,8 +108,9 @@ Forum
 Sanctuary
 Mortuary
 Charnel
-Cementary
-Crematory
+Cemetary
+Boneyard
+Crematorium
 Barrow
 Tomb
 Crypt
