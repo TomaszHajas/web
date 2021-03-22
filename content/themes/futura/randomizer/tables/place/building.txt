@@ -140,6 +140,7 @@ Tavern
 Cantina
 Brothel
 Mill
+Windmill
 Prison
 Jail
 Stable
