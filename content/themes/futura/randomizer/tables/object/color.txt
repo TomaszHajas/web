@@ -11,3 +11,14 @@ Purple
 Red
 White
 Yellow
+Tan
+Maroon
+Teal
+Indigo
+Violet
+Gray
+Crimson
+Gold
+Silver
+Azure
+Beige
