@@ -1,3 +1,4 @@
+One of adventurers' relative - his/her [father|mother|grandfather|grandmother|brother|sister|son|daughter|grandson|granddaughter|uncle|aunt|father-in-law|mother-in-law|brother-in-law|sister-in-law|stepfather|stepmother|stepbrother|stepsister].[ The relative is yet unknown to the adventurer.| The said 'relative' is an impostor.|]
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] who [is attracted by|likes|fancies|loves|dislikes|detests|hates|is scared of] [[character/job]s|[character/race]s|[creature/animal]s|[creature/legendary]s|[place/area]s|[place/building]s|[place/structure]s|[place/natural]s|[object/object]s|[plant/plant]s|[abstract/abstract]|[abstract/event]s].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] claiming he/she's a reverse [character/job].
 [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|] who thinks he/she's [[creature/animal]|[creature/legendary]].
