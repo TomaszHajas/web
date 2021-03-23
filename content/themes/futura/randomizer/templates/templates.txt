@@ -120,7 +120,7 @@ Sudden end of the path.
 [abstract/abstract]-bringing trap, which is [object/adjective].
 Trap making use of [object/adjective] [object/object].
 Path-blocking environmental object - [[place/structure]|[place/natural]].
-Broken vehicle - [[object/simple-vehicle]|[object/advanced-vehicle]].[| No signs of owner.]
+Broken vehicle - [[object/simple_vehicle]|[object/advanced_vehicle]].[| No signs of owner.]
 Passage which opens only for a correct answer to riddle inscribed on it. The riddle is: "I [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] and [action/verb] [[abstract/abstract]|[abstract/symbol]|[creature/animal]|[object/liquid]|[object/material]|[object/object]|[place/area]|[place/structure]|[place/natural]][|s] - who am I?"
 [[object/adjective]|[place/adjective]] puzzle which can be solved [by mimicking behavior of the [creature/animal]|by performing job of [character/job]|by using [object/object] according to its purpose|by [attempting|trying|managing|succeeding|failing] to [action/verb] [oneself|anyone|[[creature/animal]|[creature/legendary]]]|by [attempting|trying|managing|succeeding|failing] to [action/verb] [[object/object]|[place/natural]|[place/structure]]|by displaying [abstract/abstract]].
 Spy among adventurers. It is widely known the spy knows only a part of rumor concerning [character/job] who tried to [action/verb] 
@@ -193,7 +193,7 @@ Illusory encounter.
 [Cold|Heat] source.
 Fire source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|burning creature].
 Light source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
-[Mechanical|Magical] trap making use of [[[abstract/element]|[abstract/abstract]|[object/simple-weapon]|[object/advanced-weapon]]|[collapsing roof|falling net|mine|minefield|poison darts|rolling boulder|bear trap|falling portcullis|fiery blast trap|net trap|pit trap|poison needle trap|blade trap]].
+[Mechanical|Magical] trap making use of [[[abstract/element]|[abstract/abstract]|[object/simple_weapon]|[object/advanced_weapon]]|[collapsing roof|falling net|mine|minefield|poison darts|rolling boulder|bear trap|falling portcullis|fiery blast trap|net trap|pit trap|poison needle trap|blade trap]].
 Natural hazard - [high altitude|extreme cold|extreme heat|heavy precipitation|chilling wind|strong wind|frigid water|quicksand|sinkhole|avalanche|dangerous flora|dangerous fauna|slippery ice|thin ice|deep snow].
 Cataclysmic disaster - [earthquake|famine|drought|fire|flood|plague outbreak|disease outbreak|rain of fire|meteor impact|storm|hurricane|tornado|tsunami|volcanic eruption|planar warp|divine judgment|nuclear explosion].
 Sudden [high|low]-pitched sound.
