@@ -96,7 +96,7 @@ Sound of [heavy-breathing|crying|laughing|giggling|snoring|gasping|groaning|sigh
 Small [camp|hideout].
 [Entrance|Crevice|Stairs|Ladder|Rope] leading down.
 [Crossroads|Road fork|Road turning left|Road turning right].
-Closed [door|gate] made of [object/material] blocking the path.
+Closed [door|gate] made of [object/material] blocking the path.[ It's too small for average person.|][ It requires some sort of key to open.|]
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 [object/container] with [object/food] inside.
