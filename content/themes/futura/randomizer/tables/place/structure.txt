@@ -22,6 +22,8 @@ Floor
 Roof
 Chimney
 Smokestack
+Chute
+Crane
 Mosaic
 Window
 Painting
