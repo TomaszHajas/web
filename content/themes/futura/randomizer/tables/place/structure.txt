@@ -138,6 +138,7 @@ Crucible
 Forge
 Oven
 Fireplace
+Hearth
 Kiln
 Smelter
 Fridge
