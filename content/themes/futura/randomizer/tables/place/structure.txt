@@ -81,6 +81,7 @@ Buoy
 Banner
 Milestone
 Crossroads
+Junction
 Forkroad
 Path
 Road
@@ -130,6 +131,14 @@ Oven
 Fireplace
 Kiln
 Smelter
+Fridge
+Junction box
+Traffic light
+Vending machine
+Cash machine
+Photo booth
+Parking meter
+Fire hydrant
 Dock
 Chair
 Armchair
@@ -175,6 +184,7 @@ Stand
 Shelf
 Sideboard
 Safe
+Dumpster
 Umbrella stand
 Weapon stand
 Armor stand
@@ -198,6 +208,9 @@ Box
 Crate
 Bag
 Sack
+Lever
+Valve
+Trampoline
 Lamp
 Torch sconce
 Torch stand
