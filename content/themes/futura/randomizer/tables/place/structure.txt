@@ -7,6 +7,7 @@ Support beam
 Arch
 Arcade
 Arc
+Dome
 Stairs
 Staircase
 Ladder
@@ -34,6 +35,7 @@ Moat
 Fence
 Trellis
 Railing
+Balustrade
 Drying frame
 Pen
 Barrier
