@@ -8,6 +8,7 @@ Arch
 Arcade
 Arc
 Stairs
+Staircase
 Ladder
 Stepladder
 Corridor
@@ -92,6 +93,7 @@ Bridge
 Footbridge
 Drawbridge
 Lift
+Elevator
 Excavation
 Stockpile
 Rig
