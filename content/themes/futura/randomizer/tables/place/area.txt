@@ -36,6 +36,7 @@ Grassland
 Rangeland
 Meadow
 Forest
+Weald
 Clearing
 Woods
 Grove
