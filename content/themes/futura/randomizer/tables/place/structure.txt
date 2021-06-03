@@ -58,6 +58,7 @@ Cairn
 Grave
 Tombstone
 Coffin
+Mortsafe
 Casket
 Tribune
 Stocks
