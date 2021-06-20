@@ -73,6 +73,7 @@ Cracked ground
 Stalagmite
 Stalactite
 Stalagnate
+Stromatolite
 Ice floe
 Ice pillar
 Ice arch
