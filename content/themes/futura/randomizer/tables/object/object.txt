@@ -323,6 +323,7 @@ Notepad
 Pencil
 Book
 Tome
+Encyclopedia
 Pamphlet
 Handbook
 Notebook
