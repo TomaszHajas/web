@@ -27,6 +27,7 @@ Carpenter
 Merchant
 Trader
 Vendor
+Salesperson
 Retailer
 Shopkeeper
 Saddler
