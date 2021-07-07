@@ -729,6 +729,7 @@ Month
 Morning
 Mortification
 Myriad
+Nemesis
 Nadir
 Naivete
 Narcissism
@@ -1028,6 +1029,7 @@ Beginning
 End
 Promise
 Treason
+Abyss
 Darkness
 Light
 Healing
