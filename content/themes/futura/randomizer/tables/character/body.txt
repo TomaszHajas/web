@@ -531,9 +531,9 @@ Bat-eared
 Echolocating
 Blind
 Colorblind
-Nightvisioned
-Infravisioned
-Ultravisioned
+Nightvisional
+Infravisional
+Ultravisional
 Eyeless
 Big-eyed
 Small-eyed
