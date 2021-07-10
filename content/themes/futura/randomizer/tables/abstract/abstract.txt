@@ -62,8 +62,13 @@ Capability
 Capacity
 Carelessness
 Catastrophe
+Cataclysm
+Apocalypse
+Nirvana
+Karma
+Hell
+Heaven
 Category
-Catholicism
 Caution
 Celebration
 Censorship
