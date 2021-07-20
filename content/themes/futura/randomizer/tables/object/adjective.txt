@@ -241,4 +241,8 @@ Designer
 Off-brand
 Great
 Grand
+Greater
+Poor
+Superior
+Inferior
 Augmented
