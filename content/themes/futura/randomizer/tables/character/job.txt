@@ -856,7 +856,7 @@ Pavior
 Pavyler
 Potboy
 Privycleaner
-Procurator
+Curator
 Pimp
 Prostitute
 Quartermaster
