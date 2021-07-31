@@ -249,3 +249,5 @@ Extraordinary
 Superior
 Inferior
 Augmented
+Original
+One-use
