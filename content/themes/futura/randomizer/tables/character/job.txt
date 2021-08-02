@@ -298,6 +298,7 @@ Looter
 Scammer
 Impostor
 Burglar
+Hijacker
 Astrologer
 Bowyer
 Bailiff
