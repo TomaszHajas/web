@@ -32,8 +32,10 @@ Balcony
 Spire
 Bulwark
 Wall
+Rampart
 Pallisade
 Moat
+Quay
 Fence
 Trellis
 Railing
