@@ -89,10 +89,12 @@ Buoy
 Banner
 Milestone
 Crossroads
+Roundabout
 Junction
 Forkroad
 Path
 Road
+Street
 Avenue
 Alley
 Tract
