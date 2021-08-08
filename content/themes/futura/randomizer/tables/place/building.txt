@@ -83,6 +83,7 @@ Watchtower
 Clock tower
 Water tower
 Gatehouse
+Barbican
 Armory
 Villa
 Shack
