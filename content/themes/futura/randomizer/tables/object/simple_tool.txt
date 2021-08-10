@@ -194,6 +194,7 @@ Pocket watch
 Clock
 Map
 Chart
+Blueprint
 Glow stick
 Parachute
 Hatchet
