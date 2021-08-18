@@ -795,6 +795,7 @@ Frigate
 Hang glider
 Paraglider
 Motorcycle
+Go-kart
 Car
 Steam car
 Off-road car
