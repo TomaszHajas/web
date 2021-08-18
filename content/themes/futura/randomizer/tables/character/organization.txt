@@ -4,6 +4,7 @@ Network
 Team
 Band
 Ensemble
+Combine
 Corps
 Corpus
 Community
