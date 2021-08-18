@@ -1,4 +1,7 @@
 Motorcycle
+Go-kart
+Cart
+Trolley
 Car
 Steam car
 Off-road car
@@ -10,6 +13,7 @@ Snowmobile
 Truck
 Van
 Tractor
+Trencher
 Bulldozer
 Excavator
 Tank
