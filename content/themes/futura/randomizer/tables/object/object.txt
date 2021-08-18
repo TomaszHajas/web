@@ -807,6 +807,7 @@ Snowmobile
 Truck
 Van
 Tractor
+Trencher
 Bulldozer
 Excavator
 Tank
