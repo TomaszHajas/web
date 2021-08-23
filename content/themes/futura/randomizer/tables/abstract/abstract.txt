@@ -584,6 +584,7 @@ Secretiveness
 Selfishness
 Self-pity
 Sentimentality
+Mentality
 Serenity
 Servility
 Shyness
@@ -1046,3 +1047,4 @@ Mayhem
 Obstacle
 Limitation
 Possibility
+Instrumentality
