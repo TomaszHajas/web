@@ -486,6 +486,7 @@ Pessimism
 Power
 Present
 Principle
+Dogma
 Redemption
 Relief
 Restoration
