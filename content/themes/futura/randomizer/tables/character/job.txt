@@ -134,6 +134,7 @@ Wanderer
 Hiker
 Nomad
 Tourist
+Interloper
 Explorer
 Artist
 Bookbinder
