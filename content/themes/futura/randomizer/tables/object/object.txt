@@ -51,6 +51,7 @@ Scalpel
 Scissors
 Steel wool
 Switchblade
+Injection knife
 Utility knife
 Wire brush
 Wrench
