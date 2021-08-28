@@ -226,7 +226,7 @@ If a job is worth doing, it is worth doing well
 If at first you do not succeed, try, try again
 If God had meant us to fly, he would have given us wings
 If ifs and ands were pots and pans, there would be no work for tinkers
-If it ain't broke, don't fix it.
+If it ain't broke, don't fix it
 If it were not for hope the heart would break
 If it were a snake, it would have bit you
 If the shoe fits, wear it
@@ -254,7 +254,7 @@ In for a penny, in for a pound
 In like a lion, out like a lamb
 In the kingdom of the blind, the one eyed man is king
 In the midst of life, we are in death
-In war, whichever side may call itself the victor, there are no winners, but all are losers.
+In war, whichever side may call itself the victor, there are no winners, but all are losers
 Into every life a little rain must fall
 It ain't over till it's over
 It ain't over till the fat lady sings
@@ -297,8 +297,8 @@ Keep your chin up
 Keep your friends close and your enemies closer
 Keep your powder dry
 Kill the chicken to scare the monkey
-Kill the goose that lays the golden eggs.
-Kill two birds with one stone.
+Kill the goose that lays the golden eggs
+Kill two birds with one stone
 Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love
 Knock on wood
 Know which side bread is buttered
@@ -360,7 +360,7 @@ Mighty oaks from little acorns grow
 Milking the bull
 Misery loves company
 Moderation in all things
-Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's child is full of woe, Thursday's child has far to go, Friday's child is loving and giving, Saturday's child works hard for its living, and a child that is born on the Sabbath day is fair and wise and good and gay.
+Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's child is full of woe, Thursday's child has far to go, Friday's child is loving and giving, Saturday's child works hard for its living, and a child that is born on the Sabbath day is fair and wise and good and gay
 Money does not grow on trees
 Money earned by deceit, goes by deceit
 Money is not everything
@@ -743,3 +743,27 @@ Beware the barrenness of a busy life
 By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher
 It is not living that matters, but living rightly
 Death may be the greatest of all human blessings
+Some trees flourish, others die. Some cattle grow strong, others are taken by wolves. Some men are born rich enough and dumb enough to enjoy their lives. Ain’t nothing fair
+You can’t break a man the way you break a dog or a horse. The harder you beat a man, the taller he stands
+War, war never changes
+Nothing is true, everything is permitted
+It’s dangerous to go alone
+You must gather your party before venturing forth
+Praise the sun
+War is where the young and stupid are tricked by the old and bitter into killing each other
+A man chooses; a slave obeys
+Good men mean well. We just don’t always end up doing well
+Why walk when you can ride?
+Men are but flesh and blood. They know their doom, but not the hour
+Dreams have a nasty habit of going bad when you’re not looking
+No matter how dark the night, the morning always comes
+What is a man but the sum of his memories? We are the stories we live, the tales we tell ourselves
+The extraordinary is in what we do, not who we are
+What is bravery, without a dash of recklessness?
+Stand in the ashes of a trillion dead souls and ask the ghosts if honor matters. Their silence is your answer
+A hero need not speak. When he is gone, the world will speak for him
+Shadow and light are two sides of the same coin. One cannot exist without the other
+What is better – to be born good, or to overcome your evil nature through great effort?
+If our lives are already written, it would take a courageous man to change the script
+There are two ways of arguing with a woman, and neither one works
+Nothing is more badass than treating a woman with respect
