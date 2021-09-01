@@ -10,6 +10,7 @@ Corpus
 Community
 Commune
 Cooperative
+Doctrine
 Crew
 Troupe
 Posse
