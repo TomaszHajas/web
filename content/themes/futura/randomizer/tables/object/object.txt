@@ -651,6 +651,8 @@ Charger
 Ultrasound scanner
 MRI scanner
 X-ray scanner
+Sonar
+Gunfire locator
 Defibrillator
 Super sledge
 Light bulb
