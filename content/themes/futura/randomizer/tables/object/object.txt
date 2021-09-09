@@ -419,6 +419,7 @@ Triangle
 Bell
 Horn
 Air horn
+Hurdy-gurdy
 Detonator
 Detonating cord
 Firecracker
