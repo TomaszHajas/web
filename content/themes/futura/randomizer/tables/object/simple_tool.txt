@@ -376,6 +376,7 @@ Thesis
 Script
 License
 Identification document
+Permit
 Contract
 Datasheet
 Envelope
