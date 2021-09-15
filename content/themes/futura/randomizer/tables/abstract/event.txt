@@ -117,6 +117,10 @@ Murder
 Military Tattoo
 Tournament
 Confrontation
+Operation
+Invasion
+Incursion
+Siege
 Combat
 Battle
 Ambush
