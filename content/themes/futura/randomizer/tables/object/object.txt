@@ -927,6 +927,7 @@ Weighted net
 Sling
 Boomerang
 Dart
+Rope dart
 Shuriken
 Bolas
 Flintlock musket (.75)
