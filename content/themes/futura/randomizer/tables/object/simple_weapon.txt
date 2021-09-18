@@ -84,6 +84,7 @@ Blowgun
 Weighted net
 Sling
 Boomerang
+Rope dart
 Dart
 Shuriken
 Bolas
