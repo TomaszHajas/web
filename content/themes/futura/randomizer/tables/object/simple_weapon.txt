@@ -84,8 +84,9 @@ Blowgun
 Weighted net
 Sling
 Boomerang
-Rope dart
 Dart
+Rope dart
+Meteor hammer
 Shuriken
 Bolas
 Flintlock musket (.75)
