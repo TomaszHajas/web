@@ -1504,22 +1504,6 @@
                     "feature_image": "https://thewinchesterfamilybusiness.com/images/SeasonEleven/22-WeHappyFew/spn1122_2470.jpg"
                 },
                 {
-                    "title": "Dargollan",
-                    "slug": "dargollan",
-                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Minor demon, working his way up through slave trade, operating between many demonic planes, with Plane of Lust serving as his former hub. Has couple of other, even lesser fiends under control as well as a few warlocks that made a pact with him. Among many of his partnerships, one with a lich named Kunbothe was the most notable - in exchange for lich's services, Dargollan was offering him his slaves for experiments.\"]]],[1,\"p\",[[0,[],0,\"In year 236, his manor was raided by law enforcement of the Plane of Lust. In the process of the raid they took into custody a dozen warlocks and a few other fiends. When they made their way into the basement they discovered many young succubi (among them his slave secretary, Lustrous Tiefling named Gadreel) that were being held and undergoing the process of training to be sold off to other fiends or be given to faithful warlocks as a form of pact gift. The succubi were taken to a safe place, cleaned up, and given time to readjust to a life out of chains.\"]]],[1,\"p\",[[0,[],0,\"Unfortunately, Dargollan himself managed to run away. Not having the jurisdiction to track down those who were outside the Plane of Lust, lustral forces unfortunately could do nothing but to simply take note of names of Dargollan's henchmen who have escaped together with their boss - in case they ever showed themselves here.\"]]],[1,\"p\",[[0,[],0,\"Deprived of his most talented followers, he accepted an offer from the Drow living in bottom parts of Plane of Greed. Being a lesser demon, he was still powerful enough to be recognized as an influential business partner - even by the Demon Lords, like Melzaboul, Lord of Souls. According to elven plan, he would have to convince Melzaboul into a true symbiosis - the great enslavement of the mortal souls - both physical, and spiritual. Additionally, the Drow promised him the legendary Throne of Greed abandoned earlier by its former owner and creator - Balros, Lord of Greed. With Dargollan on the Throne, backed by even more powerful Melzaboul, the Drow and the allied Duergar would be finally able to take over Agmeth, town of Greed, for themselves...\"]]]]}",
-                    "featured": false,
-                    "page": false,
-                    "status": "published",
-                    "meta_title": null,
-                    "meta_description": null,
-                    "created_by": "5951f5fca366002ebd5dbef7",
-                    "published_by": "5951f5fca366002ebd5dbef7",
-                    "author_id": "5951f5fca366002ebd5dbef7",
-                    "tag_id:": "5d7516b559216774548a41df",
-                    "custom_excerpt": "",
-                    "feature_image": ""
-                },
-                {
                     "title": "Juteus Azra",
                     "slug": "juteus-azra",
                     "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Juteus is the god of perfection, poison, and degradation. He was a twin god, born alongside his sister, Azra. He’s currently a fiendish lord of the Abyss and is especially worshipped by cults from reptilian races and whoever they manage to indoctrinate.\"]]],[1,\"p\",[[0,[],0,\"Originally, they were both humans who sought ascension to perfection and worked together to assimilate the reptilian form, going from human to reptile to monster to god. Some tribes of snake people worship them as the first of their kind, while some of their more skeptical brethren insist that they were simply the most successful of their kind. But all snake people agree on one thing; Azra was a traitor to her people. She did not pity or hate those who were different from her. After attaining perfection, she looked at lesser beings and sympathized with them. Cared for them. Wished to coexist with them. And it was disgusting. Disgusting enough that her brother had to do what was right and devour her whole. He, a god of degradation, swallowed the goddess of poison, and they became the god of perfection in their worshippers' eyes.\"]]],[1,\"p\",[[0,[],0,\"Unfortunately, this meant that many snake people still shared some of Azra’s foolishness in them. Usually, they resembled humans more than they resembled snakes. Every once in a while, they would pop up in the genealogy and Juteus Azra would rightly punish them with a cruel immortality. The Azra kin would feel pain and suffering like all living things, but they would always return after death to continue their suffering. There was no relief in death, just more pain to be had. Their corpse would rise, their heart would beat, and their soul would rot, chipping away bit by bit from the cruel stress. And Juteus would laugh all the while, reminding the victim that it’s all their fault for sharing the same idiocy as his sister.\"]]],[1,\"p\",[[0,[],0,\"During the Great Event, Juteus participated out of morbid curiosity, using his cunning and manipulative tactics to find out just how many gods and titans he could get away with killing. Supposedly, the number surprised even him. \"]]],[1,\"h3\",[[0,[],0,\"The Cult of Juteus\"]]],[1,\"p\",[[0,[],0,\"He also has worshippers among other reptilian races, such as lizard people and kobolds. He has a hobby of sewing further chaos among the denizens of the Abyss, manipulating events to a result he prefers. Juteus asks a lot of his followers in exchange for power and perfection, likely because he likes the control, and he commonly demands ritual sacrifices. The cult is popular among some individuals among other races, usually serial killers and the insane. Bermia Shallour, a wealthy human noblesse, was suspected to have murdered over a hundred servants, homeless people, and other wanderers over the course of a decade all in the name of Juteus.\"]]]]}"
@@ -1550,6 +1534,22 @@
                     "tag_id:": "5d7516b559216774548a41df",
                     "custom_excerpt": "",
                     "feature_image": "https://i.imgur.com/tblwr7y.png"
+                },
+                {
+                    "title": "Dargollan",
+                    "slug": "dargollan",
+                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Minor demon, working his way up through slave trade, operating between many demonic planes, with Plane of Lust serving as his former hub. Has couple of other, even lesser fiends under control as well as a few warlocks that made a pact with him. Among many of his partnerships, one with a lich named Kunbothe was the most notable - in exchange for lich's services, Dargollan was offering him his slaves for experiments.\"]]],[1,\"p\",[[0,[],0,\"In year 236, his manor was raided by law enforcement of the Plane of Lust. In the process of the raid they took into custody a dozen warlocks and a few other fiends. When they made their way into the basement they discovered many young succubi (among them his slave secretary, Lustrous Tiefling named Gadreel) that were being held and undergoing the process of training to be sold off to other fiends or be given to faithful warlocks as a form of pact gift. The succubi were taken to a safe place, cleaned up, and given time to readjust to a life out of chains.\"]]],[1,\"p\",[[0,[],0,\"Unfortunately, Dargollan himself managed to run away. Not having the jurisdiction to track down those who were outside the Plane of Lust, lustral forces unfortunately could do nothing but to simply take note of names of Dargollan's henchmen who have escaped together with their boss - in case they ever showed themselves here.\"]]],[1,\"p\",[[0,[],0,\"Deprived of his most talented followers, he accepted an offer from the Drow living in bottom parts of Plane of Greed. Being a lesser demon, he was still powerful enough to be recognized as an influential business partner - even by the Demon Lords, like Melzaboul, Lord of Souls. According to elven plan, he would have to convince Melzaboul into a true symbiosis - the great enslavement of the mortal souls - both physical, and spiritual. Additionally, the Drow promised him the legendary Throne of Greed abandoned earlier by its former owner and creator - Balros, Lord of Greed. With Dargollan on the Throne, backed by even more powerful Melzaboul, the Drow and the allied Duergar would be finally able to take over Agmeth, town of Greed, for themselves...\"]]]]}",
+                    "featured": false,
+                    "page": false,
+                    "status": "published",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "created_by": "5951f5fca366002ebd5dbef7",
+                    "published_by": "5951f5fca366002ebd5dbef7",
+                    "author_id": "5951f5fca366002ebd5dbef7",
+                    "tag_id:": "5d7516b559216774548a41df",
+                    "custom_excerpt": "",
+                    "feature_image": ""
                 },
                 {
                     "title": "Gregor Havicken",
@@ -1969,9 +1969,9 @@
                 "greneire": ["Deity"],
                 "melzaboul": ["Deity"],
                 "beast-of-hunger": ["Deity"],
-                "dargollan": ["Character"],
                 "juteus-azra": ["Deity"],
                 "mnemophorsis": ["Deity"],
+                "dargollan": ["Character"],
                 "gregor-havicken": ["Character"],
                 "korvis-von-blackburn": ["Character"],
                 "bogath-uluskel": ["Character"],
