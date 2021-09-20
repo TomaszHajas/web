@@ -1440,6 +1440,22 @@
                     "feature_image": ""
                 },
                 {
+                    "title": "Inna",
+                    "slug": "inna",
+                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Goddess of tradition, law and moon. She didn't fight during the Great Event and uses force against her enemies. She rewards behavior involving humaneness, benevolence and kindness.\"]]],[1,\"p\",[[0,[],0,\"She's said to be represented by the bigger of two moons circling over the world of Ashenland - the other being her younger sister, Katrina. Souls of Inna's followers are believed to merge with her moon upon death. Those who didn't deserve to spend the eternity with her are occasionally sent to limbo-like world on asteroid orbiting the moon.\"]]],[1,\"h3\",[[0,[],0,\"Cult of Inna\"]]],[1,\"p\",[[0,[],0,\"Inna is particularly popular among lycanthropes and other shapeshifters heavily dependent on moon's cycle. Her high priestesses usually come from Kemono Islands. She's also recognized among people of conservative viewpoints.\"]]]]}",
+                    "featured": false,
+                    "page": false,
+                    "status": "published",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "created_by": "5951f5fca366002ebd5dbef7",
+                    "published_by": "5951f5fca366002ebd5dbef7",
+                    "author_id": "5951f5fca366002ebd5dbef7",
+                    "tag_id:": "5d7516b559216774548a41df",
+                    "custom_excerpt": "",
+                    "feature_image": ""
+                },
+                {
                     "title": "Viole",
                     "slug": "viole",
                     "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"Viole is the patron deity of envy and reform - seeking to overthrow those in the underworld and to one day reclaim her place as a surface deity. She serves under Greneire, Lord of Wrath and maintains all of the cities which he's conquered, providing direction to them and turning them into semi-capitalist meritocracies. Those at the bottom are spiteful, those at the top hate the ones above them and step on those below them. Far better than a nation led by orcs, though.\"]]],[1,\"p\",[[0,[],0,\"She is worshipped by some in the nation of Greneire, but remains largely too weak to maintain her own existence - the only one keeping her alive is her father, Greneire, who spends much of his own life force to keep her as such. Even so she still only has the form of a child.\"]]],[1,\"h3\",[[0,[],0,\"Appearance\"]]],[1,\"p\",[[0,[],0,\"She looks like a teenage girl, around 14 or so years of age, although still inhumanly beautiful regardless. Blonde hair, white dress, golden eyes. Radiates white light, usually unarmed. She often shape changes and takes on different forms in order to manipulate events to her liking. While most of the kings of Greneire's systems might think that they got to the top on their own strength and merit, a good number were really just puppets which Viole would possess and use to control the nation domestically herself, taking over them during crucial points of decision. She's been controlling the conquered nations of Greneire for 254 years, although her father is aware of this.\"]]],[1,\"h3\",[[0,[],0,\"Personality\"]]],[1,\"p\",[[0,[],0,\"Despite her righteous goal Viole is incredibly petty and hates most of those above her. She seeks to constantly expand her influence as a result, believing that she could do a better job ruling than most of the gods that do rule over their lands. Her wisdom is mostly tactical, and she's masterful when it comes to planning things through and manipulating circumstances; She inherited most of her personality from her father, but kept her grandfathers wit and mindset.\"]]],[1,\"h3\",[[0,[],0,\"History\"]]],[1,\"p\",[[0,[],0,\"She was born before the great event and was the motherless daughter of Greneire. Because she was born while Greneire was still a righteous soul serving justice, she was born as a light deity, the same as he was. She carries many of the ideals held by her grandfather as a result of this.\"]]],[1,\"p\",[[0,[],0,\"Almaris foresaw the fall of Greneire and so asked of his daughter that she would fall alongside him and serve him in the underworld. Believing that she would spend her existence facing and defeating evil, and that she would one day return to the surface, she accepted and fell to the underworld.\"]]],[1,\"p\",[[0,[],0,\"She was taken as the bride of Balros, Lord of Greed in the year 354 After Great Event - for political reasons.\"]]],[1,\"h3\",[[0,[],0,\"Cult of Viole\"]]],[1,\"p\",[[0,[],0,\"Cults of Viole are largely Almarisian in nature - she's largely unknown in the underworld even in the places that she protects because of her role as a light goddess. To follow her is heresy in the underworld, and any found guilty of it would be summarily exiled. Underworld cults dedicated to Viole often focus on subtly reforming the nations which they rise up in. They have incredibly little political power, but by sheer luck have done some good throughout history.\"]]],[1,\"p\",[[0,[],0,\"On the surface she's a minor figure and only mentioned in some prayers by the followers of Almaris; being seen as a martyr for heading into the underworld. She's celebrated one week a year by people of Alisont.\"]]]]}",
@@ -1965,6 +1981,7 @@
                 "biblios": ["Deity"],
                 "marshmallow": ["Deity"],
                 "almaris": ["Deity"],
+                "inna": ["Deity"],
                 "viole": ["Deity"],
                 "greneire": ["Deity"],
                 "melzaboul": ["Deity"],
