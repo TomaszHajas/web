@@ -566,6 +566,7 @@ Unemployed
 Retiree
 Pensioner
 Lawyer
+Attorney
 Justiciar
 Inquisitor
 Hero
