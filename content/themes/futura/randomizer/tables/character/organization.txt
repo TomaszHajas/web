@@ -90,6 +90,7 @@ Pact
 Treaty
 Concordat
 Court
+Tribunal
 Order
 Church
 Cult
