@@ -69,6 +69,7 @@ Car jack
 Vise
 Clamp
 Crowbar
+Rebar
 Shears
 Saw
 Drill
@@ -232,6 +233,7 @@ Nail
 Nut
 Bolt
 Screw
+Peg
 Stake
 Goggles
 Peeler
