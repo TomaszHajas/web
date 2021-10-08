@@ -123,6 +123,8 @@ Incursion
 Siege
 Combat
 Battle
+Outmarch
+Crusade
 Ambush
 Fight
 Robbery
