@@ -39,6 +39,7 @@ Scruffy
 Slouchy
 Slovenly
 Sweaty
+Lost
 Tidy-looking
 Travel-worn
 Unkempt
