@@ -362,6 +362,7 @@ Feeble
 Swollen
 Wealthy
 Poor
+Royal
 Rich
 Homeless
 Quick
