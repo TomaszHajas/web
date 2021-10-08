@@ -259,3 +259,10 @@ Weird
 Suspicious
 Peculiar
 Royal
+Small
+Big
+Tiny
+Huge
+Diminutive
+Large
+Massive
