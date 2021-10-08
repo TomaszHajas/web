@@ -256,3 +256,5 @@ Gilded
 Simple
 Unusual
 Weird
+Suspicious
+Peculiar
