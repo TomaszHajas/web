@@ -281,6 +281,7 @@ Ditcher
 Canaller
 Town Crier
 Watchman
+Watchdog
 Papermaker
 Croupier
 Bard
