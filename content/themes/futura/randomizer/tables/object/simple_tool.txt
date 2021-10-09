@@ -265,6 +265,7 @@ Bobby pin
 Saucepan
 Frying pan
 Bread knife
+Pizza knife
 Sickle
 Smithing hammer
 Bellows
@@ -285,6 +286,7 @@ Spoon
 Can opener
 Meat grinder
 Meat mallet
+Bread peel
 Mortar and pestle
 Nutcracker
 Oven glove
