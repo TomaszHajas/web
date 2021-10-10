@@ -607,6 +607,7 @@ Parka
 Poncho
 Robe
 Gown
+Alb
 Nightgown
 Nightshirt
 Pajamas
@@ -629,6 +630,7 @@ Headband
 Handbag
 Muff
 Sash
+Girdle
 Bobby pin
 Electric wire
 Optical fiber
