@@ -196,6 +196,7 @@ Sterile
 Antiseptic
 Disinfected
 Electric
+Electronic
 Cybernetic
 Bloodstained
 Metallic
