@@ -265,6 +265,8 @@ Bounty Hunter
 Bondsman
 Groom
 Guard
+Defender
+Protector
 Sentinel
 Squire
 Chandler
@@ -445,6 +447,8 @@ Intern
 Homeless
 Waif
 Beggar
+Vagrant
+Tramp
 Pauper
 Scavenger
 Fool
