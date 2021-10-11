@@ -359,6 +359,8 @@ Masculine
 Feminine
 Masculistic
 Feministic
+Janeboy
+Tomgirl
 Manly
 Mature
 Methodical
