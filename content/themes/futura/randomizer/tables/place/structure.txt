@@ -175,6 +175,7 @@ Potter's wheel
 Quern
 Loom
 Mannequin
+Effigy
 Snowman
 Churn
 Press
