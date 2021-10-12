@@ -772,6 +772,8 @@ Adhesive
 Pneumatic-boned
 Translucent
 Transparent
+Native
+Indigenous
 Fire-breathing
 Ice-breathing
 Magical
