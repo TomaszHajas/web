@@ -1328,10 +1328,9 @@
                     "feature_image": "https://i.imgur.com/T7cbeYI.png"
                 },
                 {
-                    "title": "Cosmic Plane",
-                    "slug": "cosmic-plane",
-                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[[\"markdown\",{\"markdown\":\"* Sun - giant, flying phoenix, the favourite form of Kousher, god of flames and reincarnation\\n* Moon - woman's partial face with glowing eyes, presumably of goddess Inna\\n* Stars - mortal souls forming colorful nebulae\\n* Earth - a circular, flat and map-like surface surrounded by mist, contains visible continents\"}]],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"A plane shared by the Forefathers and allied gods. It doesn't obey standard laws of physics known to humans and is full of symbolistic representations, corresponding to natural phenomena found in the Material Plane:\"]]],[10,0],[1,\"p\",[[0,[],0,\"Its central point is a pool of water at very long stairs climbing on misty mountain with a giant temple on its top. There's a big floating island visible from there, behind which is a swirling vortex.\"]]]]}",
-                    "featured": false,
+                    "title": "Ethereal Plane",
+                    "slug": "ethereal-plane",
+                    "mobiledoc": "{\"version\":\"0.3.1\",\"atoms\":[],\"cards\":[],\"markups\":[],\"sections\":[[1,\"p\",[[0,[],0,\"More commonly called a Spiritual Plane or Plane of Souls, it's a plane of existence free of bodily constraints, where the mortal soul appears directly upon leaving its host - before continuing to its final destination. It partially overlaps with the material plane - allowing for seamless, although distorted glimpses of various places, people and ongoing events in the Physical Plane.\"]]],[1,\"p\",[[0,[],0,\"Its black sky is full of pale, colourful lights forming fanciful nebulae, each light representing a single lost soul waiting for redemption. Some of them descend to follow the imagery of their former world, hoping to find a way back to the living - seen by the mortals as apparitions, ghosts, phantoms, spectres and wraiths.\"]]],[1,\"p\",[[0,[],0,\"The purest souls can rise higher than any other soul, to become more visible for favourable gods whose servants and avatars visit the plane from time to time. Those souls who have committed great sins are bound to hover closer to the ground, making an easy prey to evil creatures like demons - some of them specialized in devouring stray souls of the Ethereal Plane.\"]]],[1,\"p\",[[0,[],0,\"Souls can take various sizes, shapes and colours - with the most common being a small, pale, cyan point light. The maximum size both their visual representation and their aura can take is limited by their power, which comes from absorbing it from other souls (usually weaker). The shape suggests the level of soul's transcendence - with the most aware souls capable of taking unreal forms, or even shifting their shape at will. Colour of a soul's aura points to its so-called aspect - the path of fate it is supposed to follow. The good souls tend to have brighter aura, while the evil souls have darker. Sometimes their colour may change accordingly to the choices they make.\"]]]]}",                    "featured": false,
                     "page": false,
                     "status": "published",
                     "meta_title": null,
@@ -2016,7 +2015,7 @@
                 "edenberg": ["Location"],
                 "tonnis": ["Location"],
                 "shatterstone": ["Location"],
-                "cosmic-plane": ["Location"],
+                "ethereal-plane": ["Location"],
                 "scorched-fields": ["Location"],
                 "face-fields": ["Location"],
                 "cave-of-boll": ["Location"],
