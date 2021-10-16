@@ -177,6 +177,7 @@ Kleptomaniac
 Agoraphobic
 Claustrophobic
 Trypophobic
+Acrophobic
 Arachnophobic
 Zoophobic
 Nocturnal
