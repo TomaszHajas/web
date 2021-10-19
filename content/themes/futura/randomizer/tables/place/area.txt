@@ -11,7 +11,9 @@ Asteroid belt
 Solar system
 Galaxy
 Town
+Satellite town
 District
+Muncipality
 City
 Village
 Encampment
