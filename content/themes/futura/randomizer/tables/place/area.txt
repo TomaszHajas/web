@@ -13,7 +13,7 @@ Galaxy
 Town
 Satellite town
 District
-Muncipality
+Municipality
 City
 Village
 Encampment
