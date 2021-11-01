@@ -70,6 +70,10 @@ Spiked
 Punctured
 Common
 Uncommon
+Traditional
+Novel
+Conventional
+Unconventional
 Exotic
 Ordinary
 Rare
