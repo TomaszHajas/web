@@ -58,7 +58,10 @@ Toxic
 Rotten
 Dry
 Dried
+Sere
 Flooded
+Humid
+Wet
 Scorched
 Far
 Near
