@@ -96,6 +96,7 @@ Long
 Short
 Wet
 Dry
+Sere
 Dark
 Bright
 Incomplete
