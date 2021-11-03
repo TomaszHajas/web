@@ -36,6 +36,7 @@ Wheelwright
 Chimneysweep
 Farrier
 Miner
+Prospector
 Smelter
 Brewer
 Cooper
