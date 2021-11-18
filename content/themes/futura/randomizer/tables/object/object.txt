@@ -622,6 +622,7 @@ Socks
 Stockings
 Tights
 Wig
+Hairnet
 Belt
 Purse
 Gaiters
