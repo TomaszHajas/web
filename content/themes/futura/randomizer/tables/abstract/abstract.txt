@@ -1096,3 +1096,5 @@ Productivity
 Profitability
 Unprofitability
 Craftsmanship
+Frequency
+Infrequency
