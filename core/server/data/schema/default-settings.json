@@ -92,7 +92,7 @@
             "defaultValue": "{}"
         },
         "navigation": {
-            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"The System\", \"url\":\"/the-system/\"},{\"label\":\"The Players\", \"url\":\"/tag/player-interview/\"},{\"label\":\"Locations\", \"url\":\"/tag/location/\"},{\"label\":\"Deities\", \"url\":\"/tag/deity/\"},{\"label\":\"Characters\", \"url\":\"/tag/character/\"},{\"label\":\"Randomizer\", \"url\":\"/randomizer/\"}]"
+            "defaultValue": "[{\"label\":\"Home\", \"url\":\"/\"},{\"label\":\"The System\", \"url\":\"/the-system/\"},{\"label\":\"The Players\", \"url\":\"/tag/player-interview/\"},{\"label\":\"Locations\", \"url\":\"/tag/location/\"},{\"label\":\"Deities\", \"url\":\"/tag/deity/\"},{\"label\":\"Characters\", \"url\":\"/tag/character/\"},{\"label\":\"Organizations\", \"url\":\"/tag/organization/\"},{\"label\":\"Randomizer\", \"url\":\"/randomizer/\"}]"
         },
         "slack": {
             "defaultValue": ""
