@@ -859,6 +859,7 @@ Rapier
 Foil
 Sabre
 Scimitar
+Shotel
 Longsword
 Falchion
 Estoc
