@@ -37,6 +37,7 @@ Gathering
 Enterprise
 Coalition
 Collective
+College
 Club
 Party
 Alliance
@@ -66,6 +67,7 @@ Syndicate
 Association
 Movement
 League
+Lodge
 Confederation
 Federation
 Society
