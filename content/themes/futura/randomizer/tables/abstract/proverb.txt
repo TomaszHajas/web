@@ -41,7 +41,7 @@ All is for the best in the best of all possible worlds
 All is well that ends well
 An apple a day keeps the doctor away
 An army marches on its stomach
-An eye for an eye makes the whole world blind.
+An eye for an eye makes the whole world blind
 Another day, another coin
 An ounce of prevention is worth a pound of cure
 Any port in a storm
@@ -66,7 +66,7 @@ Better the Devil you know than the Devil you do not
 Better to have loved and lost than never to have loved at all
 Better to light one candle than to curse the darkness
 Better to remain silent and be thought a fool than to speak and remove all doubt
-Better wear out than rust out.
+Better wear out than rust out
 Big fish eat little fish
 Birds of a feather flock together
 Blood is thicker than water
@@ -78,7 +78,7 @@ Caesar's wife must be above suspicion
 Careless talk costs lives
 Charity begins at home
 Cheats never prosper
-Cheese, wine, and friends must be old to be good.
+Cheese, wine, and friends must be old to be good
 Children should be seen and not heard
 Christmas comes but once a year
 Cleanliness is next to godliness
@@ -131,7 +131,7 @@ Do not try to walk before you can crawl
 Do not upset the apple-cart
 Do not wash your dirty linen in public
 Do not sympathize with those who can not empathize
-Do unto others as you would have them do unto you.
+Do unto others as you would have them do unto you
 Doubt is the beginning, not the end, of wisdom
 Early to bed and early to rise makes a man healthy, wealthy and wise
 Easier said than done
@@ -221,7 +221,7 @@ Hope springs eternal
 Horse kicking a water stand
 Horses for courses
 Hunger never knows the taste, sleep never knows the comfort
-If anything can go wrong, it will.
+If anything can go wrong, it will
 If a job is worth doing, it is worth doing well
 If at first you do not succeed, try, try again
 If God had meant us to fly, he would have given us wings
@@ -291,7 +291,7 @@ It takes one to know one
 It takes two to tango
 I'm going to have to give you the pink slip
 It will come back and haunt you
-It will be the same a hundred years hence.
+It will be the same a hundred years hence
 Islands depend on reeds, just as reeds depend on islands
 Jack of all trades, master of none
 Judge not, that ye be not judged
@@ -335,11 +335,11 @@ Little things please little minds
 Live and let live
 Live for today, for tomorrow never comes
 Live to fight another day
-He who fights and runs away, may live to fight another day.
+He who fights and runs away, may live to fight another day
 Loose lips sink ships
 Look before you leap
-Love is blind.
-Love of money is the root of all evil.
+Love is blind
+Love of money is the root of all evil
 Love makes the world go around
 Love will find a way
 Make hay while the sun shines
@@ -377,7 +377,7 @@ Nature abhors a vacuum
 Necessity is the mother of invention
 Needs must when the devil drives
 Never cast a clout until May be out
-Never give advice unless asked.
+Never give advice unless asked
 Never give a sucker an even break
 Never judge a book by its cover
 Never let the sun go down on your anger
@@ -453,7 +453,7 @@ Revenge is a dish best served cold
 Revenge is sweet
 Rome was not built in a day
 Right or wrong, my country
-Rules were made to be broken.
+Rules were made to be broken
 See a penny and pick it up, all the day you will have good luck; see a penny and let it lay, bad luck you will have all day
 See no evil, hear no evil, speak no evil
 Seeing is believing
@@ -509,10 +509,10 @@ The good die young
 The grass is always greener on the other side of the fence
 The hand that rocks the cradle rules the world
 The husband is always the last to know
-The innocent seldom find an uncomfortable pillow.
+The innocent seldom find an uncomfortable pillow
 The labourer is worthy of his hire
 It is the last straw that breaks the camel's back
-The law is an ass.
+The law is an ass
 The leopard does not change his spots
 The left hand doesn't know what the right hand is doing
 The light is on but nobody is home
@@ -531,7 +531,7 @@ The shoemaker's son always goes barefoot
 The squeaky wheel gets the grease
 The streets are paved with gold
 The way to a man's heart is through his stomach
-The work praises the man.
+The work praises the man
 The worm will turn
 There ain't no such thing as a free lunch
 There are more ways of killing a cat than choking it with cream
@@ -570,10 +570,10 @@ Time is a great healer
 Time is money
 Time will tell
 'Tis better to have loved and lost than never to have loved at all
-To be worn out is to be renewed.
-To each his own.
+To be worn out is to be renewed
+To each his own
 To err is human, to forgive divine
-To learn a language is to have one more window from which to look at the world.
+To learn a language is to have one more window from which to look at the world
 To the victor go the spoils
 To travel hopefully is a better thing than to arrive
 Tomorrow is another day
@@ -603,7 +603,7 @@ Walnuts and pears you plant for your heirs
 Waste not, want not
 Well begun is half done
 What does not kill me makes me stronger
-Well done is better than well said.
+Well done is better than well said
 What cannot be cured must be endured
 What goes around, comes around
 What goes up must come down
@@ -612,14 +612,14 @@ What is sauce for the goose is sauce for the gander
 What the eye does not see
 When you walk among ravens, you must caw like they do
 Whatever floats your boat
-When it rains it pours.
+When it rains it pours
 When life gives you lemons, make lemonade
 When the cat is away, the mice will play
 When the going gets tough, the tough get going
 When the oak is before the ash, then you will only get a splash; when the ash is before the oak, then you may expect a soak
 When three women gather, it becomes noisy
 When you have seen one, you have seen them all
-What is learnt in the cradle lasts to the tombs.
+What is learnt in the cradle lasts to the tombs
 What the eye does not see, the heart does not grieve over
 Where there is a will there is a way
 Where there is muck there is brass
