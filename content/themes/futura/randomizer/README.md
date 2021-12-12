@@ -17,17 +17,79 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 ## Rollable tables:
 
 ###### abstract
-[adverb/abstract]\
-[adverb/element]\
-[adverb/event]\
-[adverb/symbol]
+[abstract_abstract]
+[abstract_color]
+[abstract_element]
+[abstract_event]
+[abstract_letter]
+[abstract_proverb]
+[abstract_symbol]
+[abstract_tarot_card]
+
+###### action
+[action_verb]
 
 ###### adverb
-[adverb/adverb]
+[adverb_adverb]
+
+###### character
+[character_body]
+[character_job]
+[character_mind]
+[character_organization]
+[character_race]
+[character_sound]
+[character_anglo_saxon_prefix]
+[character_germanic_prefix]
+[character_hindu_prefix]
+[character_japanese_prefix]
+[character_anglo_saxon_suffix]
+[character_germanic_suffix]
+[character_hindu_suffix]
+[character_japanese_suffix]
 
 ###### creature
-[creature/animal]\
-[creature/legendary]
+[creature_animal]
+[creature_disease]
+[creature_legendary]
+[creature_sound]
+
+###### object
+[object_adjective]
+[object_advanced_tool]
+[object_advanced_vehicle]
+[object_advanced_weapon]
+[object_armor]
+[object_chemical]
+[object_clothing]
+[object_container]
+[object_drink]
+[object_food]
+[object_liquid]
+[object_material]
+[object_object]
+[object_organ]
+[object_simple_tool]
+[object_simple_vehicle]
+[object_simple_weapon]
+[object_sound]
+
+###### place
+[place_adjective]
+[place_area]
+[place_building]
+[place_natural]
+[place_room]
+[place_structure]
+
+###### plant  
+[plant_adjective]
+[plant_fungus]
+[plant_herb]
+[plant_plant]
+[plant_shrub]
+[plant_tree]
+[plant_vine}
 
 ###### 5e_creature
 [5e_creature/creature]\
@@ -92,19 +154,3 @@ Creativity enhancing, template-based random sentence generator. Now with nested 
 [5e_state/madness]\
 [5e_state/disease]\
 [5e_state/condition]
-
-###### place
-[place/area]\
-[place/structure]\
-[place/natural]\
-[place/building]\
-[place/adjective]
-
-###### job
-[job/adjective]
-
-###### trap
-[trap/adjective]
-
-###### verb
-[verb/verb]
