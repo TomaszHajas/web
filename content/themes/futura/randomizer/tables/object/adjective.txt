@@ -61,6 +61,7 @@ Polished
 Damaged
 Reinforced
 Cracked
+Chipped
 Fortified
 Fragmented
 Sturdy
@@ -143,6 +144,7 @@ Jingly
 Fresh
 Rotten
 Weak
+Flawed
 Flawless
 Decayed
 Durable
@@ -264,6 +266,7 @@ Unusual
 Weird
 Suspicious
 Peculiar
+Perfect
 Royal
 Small
 Big
