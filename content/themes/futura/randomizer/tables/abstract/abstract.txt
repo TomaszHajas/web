@@ -939,6 +939,8 @@ Distance
 Space
 Void
 Blankness
+Existence
+Non-existence
 Wellbeing
 Poignancy
 Remembrance
@@ -1098,3 +1100,5 @@ Unprofitability
 Craftsmanship
 Frequency
 Infrequency
+Universe
+Multiverse
