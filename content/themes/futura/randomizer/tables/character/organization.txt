@@ -89,6 +89,7 @@ Partnership
 Confluence
 Conflux
 Covenant
+Coven
 Pact
 Treaty
 Concordat
