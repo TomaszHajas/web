@@ -73,6 +73,7 @@ Federation
 Society
 Agency
 Family
+Tribe
 Gang
 Mafia
 Division
