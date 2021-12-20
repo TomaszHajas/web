@@ -65,3 +65,14 @@ Oink
 Drum
 Gobble
 Yell
+Drone
+Caterwaul
+Rattle
+Cuckoo
+Hee-haw
+Honk
+Baa
+Pitter
+Scram
+Snarl
+Bugle
