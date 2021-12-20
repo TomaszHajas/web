@@ -99,6 +99,7 @@ Small [camp|hideout].
 Closed [door|gate] made of [object/material] blocking the path.[ It's too small for average person.|][ It requires some sort of key to open.|]
 Severed body part - [head|torso|upper limb|lower limb|nose|eye|ear|penis] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 Internal organ - [brain|heart|lung|tripe|liver|stomach|kidney|uterus] belonging to [[creature/animal]|[creature/legendary]].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
+Body part - [object/organ].[| It seems to be used for [culinary|alchemical|ritual] purpose.]
 [object/container] with [object/food] inside.
 Flask with [object/drink] inside.
 [object/container] with [[1d4] [object/object]|[2d20] pounds of [object/material]|[object/adjective] [object/object] and [2d6-1] coin(s)|[object/adjective] [object/object] inside|[object/container] with [object/adjective] [object/object] inside|[object/adjective] [object/object] and [object/adjective] [object/object]].
