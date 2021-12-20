@@ -1,7 +1,10 @@
 Burp
+Fart
+Spit
 Cough
 Cry
 Hum
+Munch
 Hiccup
 Groan
 Giggle
@@ -10,6 +13,8 @@ Laugh
 Pant
 Wheeze
 Puff
+Footstep
+Clap
 Scream
 Stutter
 Shout
@@ -21,3 +26,4 @@ Slurp
 Yawn
 Yell
 Whisper
+Chatter
