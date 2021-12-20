@@ -197,7 +197,7 @@ Fire source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|cand
 Light source - [furnace|oven|kiln|bonfire|torch|goblet with oil|lantern|lamp|candle|conflagration|magical flames|glowing mushroom|sun|moon|spell|lightning|ball lightning|glowing creature].
 [Mechanical|Magical] trap making use of [[[abstract/element]|[abstract/abstract]|[object/simple_weapon]|[object/advanced_weapon]]|[collapsing roof|falling net|mine|minefield|poison darts|rolling boulder|bear trap|falling portcullis|fiery blast trap|net trap|pit trap|poison needle trap|blade trap]].
 Natural hazard - [high altitude|extreme cold|extreme heat|heavy precipitation|chilling wind|strong wind|frigid water|quicksand|sinkhole|avalanche|dangerous flora|dangerous fauna|slippery ice|thin ice|deep snow].
-Cataclysmic disaster - [earthquake|famine|drought|fire|flood|plague outbreak|disease outbreak|rain of fire|meteor impact|storm|hurricane|tornado|tsunami|volcanic eruption|planar warp|divine judgment|nuclear explosion].
+Cataclysmic disaster - [earthquake|famine|drought|fire|flood|plague outbreak|disease outbreak|rain of fire|asteroid impact|meteor shower|storm|hurricane|tornado|tsunami|volcanic eruption|planar warp|divine judgment|nuclear explosion|sun's mass ejection].
 Sudden [high|low]-pitched sound.
 Sudden smell of [[object/food]|[object/drink]].
 Sudden [appearance|disappearance] of air draft.
