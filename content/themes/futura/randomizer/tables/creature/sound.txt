@@ -28,6 +28,7 @@ Creak
 Caw
 Bell
 Bark
+Yap
 Click
 Bray
 Coo
