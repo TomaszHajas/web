@@ -181,6 +181,7 @@ Partially buried object made of [object/material].
 Watery noise resembling [dripping droplets|something moving in a water bank|something splashing into the water|water stream flowing|bubbling water].
 Dripping [abstract/color] liquid.[ Smells like [[object/food]|[object/drink]].]
 Mechanical noises resembling [creaking gate|door being closed|spinning mill|spinning watermill|combustion engine|conveyor belt|spinning chain|lever being pulled|fluid being pumped|air being pumped|lock being turned|spinning wheel].
+Sound of [[character/sound]|[character/creature]|[object/sound]]. It is coming from [a side|below|above|behind].
 [Incoming|Receding] footsteps.
 Mysterious fire combustion. Its source was [chemical|electrical|mechanical|nuclear].
 Uncanny vibration.
