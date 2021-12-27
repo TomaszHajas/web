@@ -23,6 +23,7 @@ Semi-automatic rifle
 Automatic rifle
 Scout rifle
 Sniper rifle
+Punt gun
 Break-action shotgun
 Pump-action shotgun
 Double-barrel shotgun
