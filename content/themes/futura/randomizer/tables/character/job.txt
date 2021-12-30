@@ -337,6 +337,8 @@ Elder
 Count
 Sultan
 Baron
+Steward
+Majordomo
 Clerk
 Clothier
 Sailmaker
