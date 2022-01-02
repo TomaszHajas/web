@@ -73,6 +73,7 @@ Nuclear bomb
 Anti-matter bomb
 Graphite bomb
 Stink bomb
+Pipe bomb
 Arrow
 Serrated arrow
 Bolt
