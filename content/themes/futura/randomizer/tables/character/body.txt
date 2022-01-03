@@ -779,3 +779,5 @@ Fire-breathing
 Ice-breathing
 Magical
 Fairy
+Hybrid
+Conjoined
