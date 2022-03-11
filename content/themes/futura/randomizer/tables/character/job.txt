@@ -246,6 +246,7 @@ Dancer
 Actor
 Thespian
 Comedian
+Ventriloquist
 Memist
 Prankster
 Hooker
