@@ -76,6 +76,8 @@ Marine
 Armorer
 Stablemaster
 Master
+Expert
+Pundit
 Veteran
 Priest
 Bishop
