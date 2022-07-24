@@ -114,6 +114,7 @@ Ravine
 Trench
 Tunnel
 Cave
+Cenote
 Grotto
 Pit
 Rift
