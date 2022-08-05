@@ -24,6 +24,7 @@ jobs:
       - name: npm install, build, and test
         run: |
           npm install reload -g
+          npm install
           npm install grunt --save-dev
           npm run build --if-present
           npm run test --if-present
