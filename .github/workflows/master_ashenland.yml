@@ -23,7 +23,7 @@ jobs:
 
       - name: npm install, build, and test
         run: |
-          npm install sqlite3@4.2.0
+          npm install sqlite3
           npm install reload -g
           npm install
           npm install grunt --save-dev
