@@ -24,7 +24,6 @@ jobs:
       - name: npm install, build, and test
         run: |
           sudo npm install -g npm
-          npm cache clean
           npm install https://github.com/mapbox/node-sqlite3/archive/refs/tags/v4.2.0.tar.gz --build-from-source
           npm install reload -g
           npm install grunt --save-dev
