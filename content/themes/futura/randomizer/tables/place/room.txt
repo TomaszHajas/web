@@ -216,6 +216,7 @@ Mehmaan khana
 Mission control center
 Mizuya
 Monastic cell
+Panic room
 Money room
 Musalla
 Music rehearsal space
@@ -232,6 +233,8 @@ Porters' lodge
 Presidential suite
 Priest hole
 Print room
+Surgery room
+Sterilization room
 Prison cell
 Psychomanteum
 Public toilet

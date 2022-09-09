@@ -27,6 +27,7 @@ Carpenter
 Merchant
 Trader
 Vendor
+Salesperson
 Retailer
 Shopkeeper
 Saddler
@@ -35,6 +36,7 @@ Wheelwright
 Chimneysweep
 Farrier
 Miner
+Prospector
 Smelter
 Brewer
 Cooper
@@ -50,6 +52,9 @@ Candlemaker
 Hairdresser
 Shaver
 Sheriff
+Deputy
+Commissary
+Delegate
 Chainsmith
 Healer
 Medic
@@ -57,7 +62,10 @@ Optician
 Paramedic
 Osteopath
 Obstetrician
+Trichologist
+Dermatologist
 Doctor
+Magister
 Plague Doctor
 Bartender
 Waiter
@@ -68,6 +76,8 @@ Marine
 Armorer
 Stablemaster
 Master
+Expert
+Pundit
 Veteran
 Priest
 Bishop
@@ -85,8 +95,12 @@ Exorcist
 Theurgist
 Occultist
 Cultist
+Follower
 Plaintiff
+Novice
+Aspirant
 Judge
+Procurator
 Jury
 Arbiter
 Aristocrat
@@ -123,6 +137,7 @@ Wanderer
 Hiker
 Nomad
 Tourist
+Interloper
 Explorer
 Artist
 Bookbinder
@@ -155,6 +170,7 @@ Trooper
 Paratrooper
 Commando
 Deserter
+Renegade
 Rebel
 Insurgent
 Partisan
@@ -232,6 +248,7 @@ Dancer
 Actor
 Thespian
 Comedian
+Ventriloquist
 Memist
 Prankster
 Hooker
@@ -252,6 +269,8 @@ Bounty Hunter
 Bondsman
 Groom
 Guard
+Defender
+Protector
 Sentinel
 Squire
 Chandler
@@ -268,6 +287,7 @@ Ditcher
 Canaller
 Town Crier
 Watchman
+Watchdog
 Papermaker
 Croupier
 Bard
@@ -281,9 +301,12 @@ Pirate
 Swashbuckler
 Duelist
 Thief
+Plunderer
+Looter
 Scammer
 Impostor
 Burglar
+Hijacker
 Astrologer
 Bowyer
 Bailiff
@@ -302,6 +325,7 @@ Leader
 Commander
 President
 Politician
+Minister
 King
 Paramount King
 Viceroy
@@ -316,6 +340,8 @@ Elder
 Count
 Sultan
 Baron
+Steward
+Majordomo
 Clerk
 Clothier
 Sailmaker
@@ -368,6 +394,7 @@ Ranger
 Paladin
 Barbarian
 Monk
+Missionary
 Druid
 Sorcerer
 Warlock
@@ -412,16 +439,22 @@ Lady
 Almoner
 Pardoner
 Refugee
+Fugitive
 Slave
 Labourer
 Fan Waver
 Servant
+Peon
+Gofer
 Dogsbody
 Grubber
 Eunuch
 Intern
 Homeless
+Waif
 Beggar
+Vagrant
+Tramp
 Pauper
 Scavenger
 Fool
@@ -429,6 +462,8 @@ Teacher
 Lecturer
 Professor
 Student
+Disciple
+Apostle
 Graduate
 Alumnus
 Mathematician
@@ -542,6 +577,7 @@ Unemployed
 Retiree
 Pensioner
 Lawyer
+Attorney
 Justiciar
 Inquisitor
 Hero
@@ -578,6 +614,7 @@ Gamer
 Narrator
 Lector
 Speaker
+Motivational Speaker
 Mouth
 Officer
 Cadet
@@ -833,7 +870,7 @@ Pavior
 Pavyler
 Potboy
 Privycleaner
-Procurator
+Curator
 Pimp
 Prostitute
 Quartermaster

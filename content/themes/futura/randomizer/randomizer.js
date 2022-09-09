@@ -42,14 +42,26 @@
 	function randomizeFromTemplate(type){
 		var template = encodeURIComponent(document.getElementById("template").value);
 		switch(type){
+			case "quest":
+				template = encodeURIComponent("A [job|task|quest|mission] to [action/verb] [area - [place/adjective] [place/area]|building - [place/adjective] [place/building]|object - [object/adjective] [place/structure]|item - [object/adjective] [object/object]|animal - [creature/animal]|legendary creature - [creature/legendary]|[friend|enemy] - [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|]] - [due to|because of] [oncoming |recent |] [[abstract/event]|[abstract/abstract]][. The task involves visiting [place/adjective] [[place/area]|[place/structure]|[place/building]]|]");
+			break;
 			case "character":
-				template = encodeURIComponent("[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]], the [[character/body]|] [[character/mind]|] [Male|Female] [[character/race]|] [[character/job]|]");
+				template = encodeURIComponent("[[character/anglo_saxon_prefix][character/anglo_saxon_suffix]|[character/germanic_prefix][character/germanic_suffix]|[character/slavic_prefix][character/slavic_suffix]|[character/hindu_prefix][character/hindu_suffix]|[character/japanese_prefix][character/japanese_suffix]], the [[character/body]|] [[character/mind]|] [Male|Female|] [[character/race]|] [[character/job]|][ who [is attracted by|likes|loves|dislikes|hates|is scared of] [[character/job]s|[character/race]s|[creature/animal]s|[creature/legendary]s|[place/area]s|[place/building]s|[place/structure]s|[place/natural]s|[object/object]s|[plant/plant]s|[abstract/abstract]|[abstract/event]s]|][. He/she suffers from [creature/disease]|]");
+			break;
+			case "organization":
+				template = encodeURIComponent("An organization[ counting [[1d10]|[1d100]|[1d1000]]|][ consisting primarily of [character/race]s|] which is called [The |][[character/body] |[character/mind] |[object/adjective] |[abstract/color] |[action/verb]ing |][[character/organization]|[abstract/abstract]|[creature/animal]s|[creature/legendary]s|[object/object]s|[character/job]s|[character/race]s].[ Most of its members have a job of [character/job].|][ They are located in [place/adjective] [[place/building]|[place/area]].|][ Their main [rule|directive|commandment] is to [action/verb] [[place/area]|[place/building]|[place/structure]|[place/natural]|[object/object]|[abstract/abstract]|[creature/legendary]|[creature/animal]|[character/race]] when possible.|][ The most important event for their business is [oncoming |recent |][abstract/event].|]");
+			break;
+			case "creature":
+				template = encodeURIComponent("[[character/body]|] [[character/mind]|] [Male|Female|] [[creature/animal]|[creature/legendary]]");
+			break;
+			case "scene_object":
+				template = encodeURIComponent("[[plant/adjective] [plant/plant]|[object/adjective] [[place/natural]|[place/structure]]]");
 			break;
 			case "item":
-				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/object]|[object/object] of [abstract/abstract]]");
+				template = encodeURIComponent("[object/adjective][ and [object/adjective]|] [[object/object]|[object/object] of [[abstract/abstract]|[abstract/element]]]");
 			break;
 			case "place":
-				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective]|][place/building]|[[place/area] with [place/adjective] |][place/natural]|[[place/area] with [place/adjective ]|][place/structure]|[place/room][ inside [place/adjective ] [place/building]|]]");
+				template = encodeURIComponent("[place/adjective] [[place/area]|[[place/area] with [place/adjective] |][place/building]|[[place/area] with [place/adjective] |][place/natural]|[[place/area] with [place/adjective] |][place/structure]|[place/room][ inside [place/adjective] [place/building]|]]");
 			break;
 		}
 		var address = '/randomizer/index.html'+"?template="+template+"&seed="+parseInt(1000000+getRandomNumber()*9000000);

@@ -11,9 +11,13 @@ Asteroid belt
 Solar system
 Galaxy
 Town
+Satellite town
 District
+Municipality
 City
 Village
+Encampment
+Slums
 Borough
 Bailwick
 County
@@ -34,6 +38,7 @@ Grassland
 Rangeland
 Meadow
 Forest
+Weald
 Clearing
 Woods
 Grove
@@ -80,6 +85,7 @@ Coast
 Reef
 Beach
 Shore
+Strand
 River
 Waterway
 Bayou
@@ -108,6 +114,7 @@ Ravine
 Trench
 Tunnel
 Cave
+Cenote
 Grotto
 Pit
 Rift

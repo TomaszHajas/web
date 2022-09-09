@@ -36,7 +36,7 @@
     "postinstall": "cpy node_modules/@tryghost/members-theme-bindings/build/members-theme-bindings.js core/server/public/"
   },
   "engines": {
-    "node": "^10.13.0",
+    "node": "^14.20.0",
     "cli": "^1.9.0",
     "ghost-api": "v2"
   },
@@ -74,7 +74,7 @@
     "express": "4.17.1",
     "express-brute": "1.0.1",
     "express-hbs": "2.1.2",
-    "express-jwt": "5.3.1",
+    "express-jwt": "6.0.0",
     "express-query-boolean": "2.0.0",
     "express-session": "1.16.2",
     "extract-zip": "1.6.7",
@@ -92,7 +92,7 @@
     "jsonpath": "1.0.2",
     "jsonwebtoken": "8.5.1",
     "keypair": "1.0.1",
-    "knex": "0.19.2",
+    "knex": "0.19.5",
     "knex-migrator": "3.3.3",
     "lodash": "4.17.15",
     "markdown-it": "9.0.1",
@@ -128,7 +128,7 @@
   "optionalDependencies": {
     "@tryghost/html-to-mobiledoc": "0.5.1",
     "sharp": "0.23.0",
-    "sqlite3": "4.0.9"
+    "sqlite3": "5.0.11"
   },
   "devDependencies": {
     "eslint": "6.1.0",

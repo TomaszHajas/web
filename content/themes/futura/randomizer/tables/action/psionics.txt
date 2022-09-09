@@ -36,10 +36,10 @@ Mind Slam
 Mind Thrust
 Mystic Charm
 Mystic Hand
-ic Arrow
-ic Chameleon
-ic Mind
-ic Step
+Nomadic Arrow
+Nomadic Chameleon
+Nomadic Mind
+Nomadic Step
 Precognition
 Psionic Restoration
 Psionic Weapon

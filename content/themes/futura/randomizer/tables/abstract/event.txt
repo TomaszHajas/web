@@ -36,6 +36,7 @@ Holiday
 Vacation
 Cabaret
 Talk Show
+Freak Show
 Show
 Showcase
 Testimonial
@@ -116,8 +117,14 @@ Murder
 Military Tattoo
 Tournament
 Confrontation
+Operation
+Invasion
+Incursion
+Siege
 Combat
 Battle
+Outmarch
+Crusade
 Ambush
 Fight
 Robbery

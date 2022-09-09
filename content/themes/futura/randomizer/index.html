@@ -5,33 +5,35 @@
 <head>
 	<style type="text/css">
 		@font-face {
-		  font-family: 'DiabloHeavy';
-		  src: url('DiabloHeavy.ttf')  format('truetype');
+		  font-family: '1529-Champ-Fleury';
+		  src: url('../assets/fonts/1529-Champ-Fleury.ttf')  format('truetype');
 		  font-weight: normal;
 		  font-style: normal;
 		}
 		body {
-    		  font-family: 'DiabloHeavy';
+    		  font-family: '1529-Champ-Fleury';
 		  text-align: center;
 		  margin-left: auto;
                   margin-right: auto;
                   width: 40em;
 		}
 		input {
-		  font-family: 'DiabloHeavy';
+		  font-family: '1529-Champ-Fleury';
 		}
 		button {
-		  font-family: 'DiabloHeavy';
+		  font-family: '1529-Champ-Fleury';
 		}
 	</style>
 	<title>The Randomizer</title>
 </head>
 <body background="paper_background.jpg">
+	<div style="border-style: double">
 	<p>Adventurers encounter...</p>
 	<p id="random"></p>
+	</div>
 	<br>
 	<br>
-	<button onClick="randomize()" autofocus>ENCOUNTER</button> <button onClick="randomizeFromTemplate('item')" autofocus>ITEM</button> <button onClick="randomizeFromTemplate('character')" autofocus>CHARACTER</button> <button onClick="randomizeFromTemplate('place')" autofocus>PLACE</button>
+	<button onClick="randomize()" autofocus>ENCOUNTER</button> <button onClick="randomizeFromTemplate('quest')" autofocus>QUEST</button> <button onClick="randomizeFromTemplate('organization')" autofocus>ORGANIZATION</button> <button onClick="randomizeFromTemplate('character')" autofocus>CHARACTER</button> <button onClick="randomizeFromTemplate('creature')" autofocus>CREATURE</button> <button onClick="randomizeFromTemplate('item')" autofocus>ITEM</button> <button onClick="randomizeFromTemplate('scene_object')" autofocus>SCENE OBJECT</button> <button onClick="randomizeFromTemplate('place')" autofocus>PLACE</button>
 	<br>
 	<br>
 	<button onClick="randomizeFromTemplate()" autofocus>REROLL TEMPLATE</button>

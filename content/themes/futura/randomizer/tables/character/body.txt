@@ -5,6 +5,7 @@ Colorful
 Elegant
 Healthy
 Sexy
+Voluptuous
 Agile
 Ambidextrous
 Handsome
@@ -17,6 +18,9 @@ Ugly
 Vigour
 Weak
 Strong
+Resilient
+Durable
+Robust
 Young
 Dirty
 Disfigured
@@ -35,6 +39,7 @@ Scruffy
 Slouchy
 Slovenly
 Sweaty
+Lost
 Tidy-looking
 Travel-worn
 Unkempt
@@ -128,6 +133,7 @@ Leathery
 Light-skinned
 Olive-skinned
 Pale
+Ashen
 Pallid
 Peach-skinned
 Pink-skinned
@@ -139,6 +145,7 @@ Tawny
 White-skinned
 Wrinkled
 Yellow-skinned
+Derpy
 Angry-eyed
 Black-eyed
 Blind
@@ -258,6 +265,7 @@ Thick-legged
 Thin-legged
 Weak-kneed
 Big-lipped
+Hare-lipped
 Bloody-toothed
 Buck-toothed
 Chip-toothed
@@ -338,10 +346,14 @@ Peg-legged
 Legless
 Armless
 Fat
+Stout
+Fragile
+Soft
 Repulsive
 Attractive
 Healthy
 Sick
+Sickly
 Lucky
 Unlucky
 Clumsy
@@ -352,10 +364,14 @@ Feeble
 Swollen
 Wealthy
 Poor
+Royal
 Rich
 Homeless
 Quick
 Slow
+Sluggish
+Evasive
+Visible
 Clean
 Smelly
 Fragnant
@@ -416,6 +432,7 @@ Hidden
 Distinguishable
 Glowing
 Shadowy
+Luminous
 Greasy
 Wet
 Loud-breathing
@@ -518,9 +535,9 @@ Bat-eared
 Echolocating
 Blind
 Colorblind
-Nightvisioned
-Infravisioned
-Ultravisioned
+Nightvisional
+Infravisional
+Ultravisional
 Eyeless
 Big-eyed
 Small-eyed
@@ -648,7 +665,6 @@ Skinless
 Thick-skinned
 Thin-skinned
 Hard-skinned
-Soft-skinned
 Moulting
 Slender
 Bat-winged
@@ -699,7 +715,7 @@ Gas-emitting
 Venomous
 Venom-spitting
 Toxic
-Poisoned
+Poisonous
 Web-spinning
 Slimy
 Oozing
@@ -758,7 +774,11 @@ Adhesive
 Pneumatic-boned
 Translucent
 Transparent
+Native
+Indigenous
 Fire-breathing
 Ice-breathing
 Magical
 Fairy
+Hybrid
+Conjoined

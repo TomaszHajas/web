@@ -5,7 +5,9 @@ University
 Nursery school
 Kindergarten
 Civic
+Sports venue
 Arena
+Shooting range
 Library
 Mudhif
 Community hall
@@ -81,6 +83,7 @@ Watchtower
 Clock tower
 Water tower
 Gatehouse
+Barbican
 Armory
 Villa
 Shack
@@ -106,8 +109,9 @@ Forum
 Sanctuary
 Mortuary
 Charnel
-Cementary
-Crematory
+Cemetary
+Boneyard
+Crematorium
 Barrow
 Tomb
 Crypt
@@ -138,6 +142,7 @@ Tavern
 Cantina
 Brothel
 Mill
+Windmill
 Prison
 Jail
 Stable

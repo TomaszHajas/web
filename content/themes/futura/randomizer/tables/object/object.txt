@@ -51,6 +51,7 @@ Scalpel
 Scissors
 Steel wool
 Switchblade
+Injection knife
 Utility knife
 Wire brush
 Wrench
@@ -68,6 +69,7 @@ Car jack
 Vise
 Clamp
 Crowbar
+Rebar
 Shears
 Saw
 Drill
@@ -194,6 +196,7 @@ Pocket watch
 Clock
 Map
 Chart
+Blueprint
 Glow stick
 Parachute
 Hatchet
@@ -229,6 +232,7 @@ Nail
 Nut
 Bolt
 Screw
+Peg
 Stake
 Goggles
 Peeler
@@ -260,6 +264,7 @@ Bobby pin
 Saucepan
 Frying pan
 Bread knife
+Pizza knife
 Sickle
 Smithing hammer
 Bellows
@@ -280,6 +285,7 @@ Spoon
 Can opener
 Meat grinder
 Meat mallet
+Bread peel
 Mortar and pestle
 Nutcracker
 Oven glove
@@ -294,6 +300,7 @@ Scoop
 Spatula
 Tin opener
 Tongs
+Ice block tongs
 Twine
 Fork
 Napkin
@@ -323,6 +330,7 @@ Notepad
 Pencil
 Book
 Tome
+Encyclopedia
 Pamphlet
 Handbook
 Notebook
@@ -371,6 +379,7 @@ Thesis
 Script
 License
 Identification document
+Permit
 Contract
 Datasheet
 Envelope
@@ -415,6 +424,7 @@ Triangle
 Bell
 Horn
 Air horn
+Hurdy-gurdy
 Detonator
 Detonating cord
 Firecracker
@@ -505,9 +515,12 @@ Drinking glass
 Aquarium
 Tankard
 Chalice
+Goblet
 Mug
+Greedy cup
 Jar
 Jug
+Assassin's teapot
 Vase
 Pitcher
 Bottle
@@ -594,6 +607,7 @@ Parka
 Poncho
 Robe
 Gown
+Alb
 Nightgown
 Nightshirt
 Pajamas
@@ -608,6 +622,7 @@ Socks
 Stockings
 Tights
 Wig
+Hairnet
 Belt
 Purse
 Gaiters
@@ -616,6 +631,7 @@ Headband
 Handbag
 Muff
 Sash
+Girdle
 Bobby pin
 Electric wire
 Optical fiber
@@ -644,6 +660,8 @@ Charger
 Ultrasound scanner
 MRI scanner
 X-ray scanner
+Sonar
+Gunfire locator
 Defibrillator
 Super sledge
 Light bulb
@@ -777,6 +795,7 @@ Surfboard
 Submersible
 Boat
 Ship
+Ferry
 Catamaran
 Yacht
 Galley
@@ -789,6 +808,7 @@ Frigate
 Hang glider
 Paraglider
 Motorcycle
+Go-kart
 Car
 Steam car
 Off-road car
@@ -800,6 +820,7 @@ Snowmobile
 Truck
 Van
 Tractor
+Trencher
 Bulldozer
 Excavator
 Tank
@@ -838,6 +859,7 @@ Rapier
 Foil
 Sabre
 Scimitar
+Shotel
 Longsword
 Falchion
 Estoc
@@ -913,6 +935,8 @@ Weighted net
 Sling
 Boomerang
 Dart
+Rope dart
+Meteor hammer
 Shuriken
 Bolas
 Flintlock musket (.75)

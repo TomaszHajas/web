@@ -16,12 +16,14 @@ Innovative
 Inquisitive
 Irritable
 Lucky
+Fated
 Magnetic
 Meek
 Mysterious
 Quiet
 Stoic
 Strange
+Peculiar
 Suave
 Thoughtful
 Corrupt
@@ -175,9 +177,15 @@ Kleptomaniac
 Agoraphobic
 Claustrophobic
 Trypophobic
+Acrophobic
 Arachnophobic
+Zoophobic
+Nocturnal
+Diurnal
 Homophobic
 Heterophobic
+Mercurial
+Irrepressible
 Egosyntonic
 Egodystonic
 Musical
@@ -245,6 +253,8 @@ Enervated
 Insomniac
 Somnolent
 Relaxed
+Chilled-out
+Distanced
 Accessible
 Active
 Adaptable
@@ -317,11 +327,12 @@ Fun-loving
 Gallant
 Genuine
 Good-natured
+Stalwart
 Gracious
 Hardworking
 Healthy
 Hearty
-Herioc
+Heroic
 High-minded
 Honorable
 Humorous
@@ -349,6 +360,8 @@ Masculine
 Feminine
 Masculistic
 Feministic
+Janegirl
+Tomboy
 Manly
 Mature
 Methodical
@@ -629,6 +642,7 @@ Escapist
 Excitable
 Expedient
 Extravagant
+Flamboyant
 Extreme
 Faithless
 False
@@ -658,6 +672,9 @@ High-handed
 Ignorant
 Imitative
 Impatient
+Restless
+Antsy
+Agitated
 Impractical
 Imprudent
 Impulsive
@@ -700,6 +717,7 @@ Narrow
 Narrow-minded
 Natty
 Negativistic
+Denialist
 Neglectful
 Neurotic
 Nihilistic
@@ -743,6 +761,9 @@ Repressed
 Resentful
 Ridiculous
 Ritualistic
+Abusive
+Hopeless
+Rapturous
 Rowdy
 Ruined
 Sadistic
@@ -752,6 +773,7 @@ Scornful
 Secretive
 Sedentary
 Selfish
+Masochistic
 Self-indulgent
 Shallow
 Shortsighted
@@ -803,6 +825,7 @@ Literate
 Illiterate
 Polyglot
 Monolingual
+Naturistic
 Vacuous
 Vague
 Venal
@@ -827,3 +850,7 @@ Nervous
 Self-assertive
 Sensible
 Trustworthy
+Jovial
+Pathless
+Clueless
+

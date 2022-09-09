@@ -51,6 +51,7 @@ Scalpel
 Scissors
 Steel wool
 Switchblade
+Injection knife
 Utility knife
 Wire brush
 Wrench
@@ -68,6 +69,7 @@ Car jack
 Vise
 Clamp
 Crowbar
+Rebar
 Shears
 Saw
 Drill
@@ -194,6 +196,7 @@ Pocket watch
 Clock
 Map
 Chart
+Blueprint
 Glow stick
 Parachute
 Hatchet
@@ -230,6 +233,7 @@ Nail
 Nut
 Bolt
 Screw
+Peg
 Stake
 Goggles
 Peeler
@@ -261,6 +265,7 @@ Bobby pin
 Saucepan
 Frying pan
 Bread knife
+Pizza knife
 Sickle
 Smithing hammer
 Bellows
@@ -281,6 +286,7 @@ Spoon
 Can opener
 Meat grinder
 Meat mallet
+Bread peel
 Mortar and pestle
 Nutcracker
 Oven glove
@@ -295,6 +301,7 @@ Scoop
 Spatula
 Tin opener
 Tongs
+Ice block tongs
 Twine
 Fork
 Napkin
@@ -324,6 +331,7 @@ Notepad
 Pencil
 Book
 Tome
+Encyclopedia
 Pamphlet
 Handbook
 Notebook
@@ -372,6 +380,7 @@ Thesis
 Script
 License
 Identification document
+Permit
 Contract
 Datasheet
 Envelope
@@ -416,6 +425,7 @@ Triangle
 Bell
 Horn
 Air horn
+Hurdy-gurdy
 Detonator
 Detonating cord
 Firecracker

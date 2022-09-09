@@ -41,7 +41,7 @@ All is for the best in the best of all possible worlds
 All is well that ends well
 An apple a day keeps the doctor away
 An army marches on its stomach
-An eye for an eye makes the whole world blind.
+An eye for an eye makes the whole world blind
 Another day, another coin
 An ounce of prevention is worth a pound of cure
 Any port in a storm
@@ -66,7 +66,7 @@ Better the Devil you know than the Devil you do not
 Better to have loved and lost than never to have loved at all
 Better to light one candle than to curse the darkness
 Better to remain silent and be thought a fool than to speak and remove all doubt
-Better wear out than rust out.
+Better wear out than rust out
 Big fish eat little fish
 Birds of a feather flock together
 Blood is thicker than water
@@ -78,7 +78,7 @@ Caesar's wife must be above suspicion
 Careless talk costs lives
 Charity begins at home
 Cheats never prosper
-Cheese, wine, and friends must be old to be good.
+Cheese, wine, and friends must be old to be good
 Children should be seen and not heard
 Christmas comes but once a year
 Cleanliness is next to godliness
@@ -131,7 +131,7 @@ Do not try to walk before you can crawl
 Do not upset the apple-cart
 Do not wash your dirty linen in public
 Do not sympathize with those who can not empathize
-Do unto others as you would have them do unto you.
+Do unto others as you would have them do unto you
 Doubt is the beginning, not the end, of wisdom
 Early to bed and early to rise makes a man healthy, wealthy and wise
 Easier said than done
@@ -144,6 +144,7 @@ Eat, drink and be merry, for tomorrow we die
 Empty vessels make the most noise
 Enough is as good as a feast
 Even a worm will turn
+Even a broken clock is right twice a day
 Even from a foe a man may learn wisdom
 Even the parts fit for a lady
 Every cloud has a silver lining
@@ -196,6 +197,7 @@ Good fences make good neighbours
 Good talk saves the food
 Good things come to those who wait
 Great minds think alike
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people
 Half a loaf is better than no bread
 Handsome is as handsome does
 Hard cases make bad law
@@ -221,12 +223,12 @@ Hope springs eternal
 Horse kicking a water stand
 Horses for courses
 Hunger never knows the taste, sleep never knows the comfort
-If anything can go wrong, it will.
+If anything can go wrong, it will
 If a job is worth doing, it is worth doing well
 If at first you do not succeed, try, try again
 If God had meant us to fly, he would have given us wings
 If ifs and ands were pots and pans, there would be no work for tinkers
-If it ain't broke, don't fix it.
+If it ain't broke, don't fix it
 If it were not for hope the heart would break
 If it were a snake, it would have bit you
 If the shoe fits, wear it
@@ -238,6 +240,7 @@ If you cannot be good, be careful
 If you cannot beat them, join them
 If you cannot live longer, live deeper
 If you cannot stand the heat, get out of the kitchen
+If you don't have a plan, you become part of somebody else's plan
 If you give a mouse a cookie, he'll always ask for a glass of milk
 If you think that you know everything, then you're a Jack ass
 If you lie down with dogs, you will get up with fleas
@@ -254,6 +257,7 @@ In for a penny, in for a pound
 In like a lion, out like a lamb
 In the kingdom of the blind, the one eyed man is king
 In the midst of life, we are in death
+In war, whichever side may call itself the victor, there are no winners, but all are losers
 Into every life a little rain must fall
 It ain't over till it's over
 It ain't over till the fat lady sings
@@ -261,6 +265,7 @@ It ain’t what you don't know that gets you into trouble. It's what you know fo
 It goes without saying
 It is a small world
 It is all grist to the mill
+It is better to sit in a bar thinking about God than to sit in a church thinking about beer
 It is an ill wind that blows no one any good
 It is best to be on the safe side
 It is better to be smarter than you appear than to appear smarter than you are
@@ -269,6 +274,7 @@ It is better to have loved and lost than never to have loved at all
 It is better to cultivate a Land with two Bulls, rather working under Boss who never gives Wage when asked
 It is better to light a candle than curse the darkness
 It is better to travel hopefully than to arrive
+It is better to be a warrior in a garden than to be a gardener in a war
 It is easy to be wise after the event
 It is like juggling sand
 It is never too late
@@ -288,7 +294,7 @@ It takes one to know one
 It takes two to tango
 I'm going to have to give you the pink slip
 It will come back and haunt you
-It will be the same a hundred years hence.
+It will be the same a hundred years hence
 Islands depend on reeds, just as reeds depend on islands
 Jack of all trades, master of none
 Judge not, that ye be not judged
@@ -296,8 +302,8 @@ Keep your chin up
 Keep your friends close and your enemies closer
 Keep your powder dry
 Kill the chicken to scare the monkey
-Kill the goose that lays the golden eggs.
-Kill two birds with one stone.
+Kill the goose that lays the golden eggs
+Kill two birds with one stone
 Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love
 Knock on wood
 Know which side bread is buttered
@@ -332,11 +338,11 @@ Little things please little minds
 Live and let live
 Live for today, for tomorrow never comes
 Live to fight another day
-He who fights and runs away, may live to fight another day.
+He who fights and runs away, may live to fight another day
 Loose lips sink ships
 Look before you leap
-Love is blind.
-Love of money is the root of all evil.
+Love is blind
+Love of money is the root of all evil
 Love makes the world go around
 Love will find a way
 Make hay while the sun shines
@@ -359,7 +365,7 @@ Mighty oaks from little acorns grow
 Milking the bull
 Misery loves company
 Moderation in all things
-Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's child is full of woe, Thursday's child has far to go, Friday's child is loving and giving, Saturday's child works hard for its living, and a child that is born on the Sabbath day is fair and wise and good and gay.
+Monday's child is fair of face, Tuesday's child is full of grace, Wednesday's child is full of woe, Thursday's child has far to go, Friday's child is loving and giving, Saturday's child works hard for its living, and a child that is born on the Sabbath day is fair and wise and good and gay
 Money does not grow on trees
 Money earned by deceit, goes by deceit
 Money is not everything
@@ -374,7 +380,7 @@ Nature abhors a vacuum
 Necessity is the mother of invention
 Needs must when the devil drives
 Never cast a clout until May be out
-Never give advice unless asked.
+Never give advice unless asked
 Never give a sucker an even break
 Never judge a book by its cover
 Never let the sun go down on your anger
@@ -387,7 +393,7 @@ Never say die
 Never say never
 Never tell tales out of school
 Never too old to learn
-Nine tailors make a man,
+Nine tailors make a man
 No guts, no glory
 No man can serve two masters
 No man is an island
@@ -420,7 +426,7 @@ One who believes in Sword, dies by the Sword
 One who speaks only one language is one person, but one who speaks two languages is two people
 One year's seeding makes seven years weeding
 Only fools and horses work
-Open confession is good for the soul.
+Open confession is good for the soul
 Opportunity never knocks twice at any man's door
 Other times other manners
 Out of sight, out of mind
@@ -450,7 +456,7 @@ Revenge is a dish best served cold
 Revenge is sweet
 Rome was not built in a day
 Right or wrong, my country
-Rules were made to be broken.
+Rules were made to be broken
 See a penny and pick it up, all the day you will have good luck; see a penny and let it lay, bad luck you will have all day
 See no evil, hear no evil, speak no evil
 Seeing is believing
@@ -473,6 +479,7 @@ Strike while the iron is hot
 Stupid is as stupid does
 Success has many fathers, while failure is an orphan
 Speak of the devil and he will appear
+Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat
 A swarm in May is worth a load of hay; a swarm in June is worth a silver spoon; but a swarm in July is not worth a fly
 Take care of the pennies, and the pounds will take care of themselves
 Talk is cheap
@@ -505,10 +512,10 @@ The good die young
 The grass is always greener on the other side of the fence
 The hand that rocks the cradle rules the world
 The husband is always the last to know
-The innocent seldom find an uncomfortable pillow.
+The innocent seldom find an uncomfortable pillow
 The labourer is worthy of his hire
 It is the last straw that breaks the camel's back
-The law is an ass.
+The law is an ass
 The leopard does not change his spots
 The left hand doesn't know what the right hand is doing
 The light is on but nobody is home
@@ -527,7 +534,7 @@ The shoemaker's son always goes barefoot
 The squeaky wheel gets the grease
 The streets are paved with gold
 The way to a man's heart is through his stomach
-The work praises the man.
+The work praises the man
 The worm will turn
 There ain't no such thing as a free lunch
 There are more ways of killing a cat than choking it with cream
@@ -544,7 +551,7 @@ There is no accounting for tastes
 There is no fool like an old fool
 There's no need to wear a hair shirt
 There is no place like home
-There is no shame in not knowing; the shame lies in not finding out.
+There is no shame in not knowing; the shame lies in not finding out
 There is no smoke without fire
 There there is smoke, there is fire
 There is no such thing as a free lunch
@@ -558,7 +565,7 @@ They that sow the wind shall reap the whirlwind
 Third time is a charm
 Those who do not learn from history are doomed to repeat it – George Santayana
 Those who live in glass houses should not throw stones
-Those who know many languages live as many lives as the languages they know.
+Those who know many languages live as many lives as the languages they know
 Those who sleep with dogs will rise with fleas
 Time and tide wait for no man
 Time flies
@@ -566,10 +573,10 @@ Time is a great healer
 Time is money
 Time will tell
 'Tis better to have loved and lost than never to have loved at all
-To be worn out is to be renewed.
-To each his own.
+To be worn out is to be renewed
+To each his own
 To err is human, to forgive divine
-To learn a language is to have one more window from which to look at the world.
+To learn a language is to have one more window from which to look at the world
 To the victor go the spoils
 To travel hopefully is a better thing than to arrive
 Tomorrow is another day
@@ -578,10 +585,10 @@ Too many cooks spoil the broth
 Too little, too late
 Too much of a good thing
 Truth is stranger than fiction
-Truth is more valuable if it takes you a few years to find it.
+Truth is more valuable if it takes you a few years to find it
 The truth will out
-Turn your face toward the sun and the shadows fall behind you.
-Two birds with one stone.
+Turn your face toward the sun and the shadows fall behind you
+Two birds with one stone
 Two can play at that game
 Two heads are better than one
 Two is company, but three is a crowd
@@ -599,7 +606,7 @@ Walnuts and pears you plant for your heirs
 Waste not, want not
 Well begun is half done
 What does not kill me makes me stronger
-Well done is better than well said.
+Well done is better than well said
 What cannot be cured must be endured
 What goes around, comes around
 What goes up must come down
@@ -608,14 +615,14 @@ What is sauce for the goose is sauce for the gander
 What the eye does not see
 When you walk among ravens, you must caw like they do
 Whatever floats your boat
-When it rains it pours.
+When it rains it pours
 When life gives you lemons, make lemonade
 When the cat is away, the mice will play
 When the going gets tough, the tough get going
 When the oak is before the ash, then you will only get a splash; when the ash is before the oak, then you may expect a soak
-When three women gather, it becomes noisy.
+When three women gather, it becomes noisy
 When you have seen one, you have seen them all
-What is learnt in the cradle lasts to the tombs.
+What is learnt in the cradle lasts to the tombs
 What the eye does not see, the heart does not grieve over
 Where there is a will there is a way
 Where there is muck there is brass
@@ -694,17 +701,74 @@ A large chair does not make a king
 Instruction in youth is like engraving in stone
 Deep doubts, deep wisdom; small doubts, small wisdom
 A man does not seek his luck; luck seeks its man
-A teacher is better than two books.
+A teacher is better than two books
 A beautiful thing is never perfect
-The reputation of a thousand years may be determined by the conduct of one hour. | Japanese Proverb
-Character is always corrupted by prosperity. | Icelandic Proverb
-A fault confessed is half redressed. | Zulu Proverb
-To be willing is only half the task. | Armenian Proverb
-Everyone is kneaded out of the same dough, but not baked in the same oven. | Yiddish Proverb
-The heart that loves is always young. | Greek Proverb
-He who always thinks it is too soon is sure to come too late. | German Proverb
-Turn your face to the sun and the shadows will fall behind you. | New Zealander Proverb
-When the sun rises, it rises for everyone. | Cuban Proverb
-No man can paddle two canoes at the same time. | Bantu Proverb
-If you go to a donkey’s house, don’t talk about ears. | Jamaican Proverb
-Speak the truth, but leave immediately after. | Slovenian Proverb
+The reputation of a thousand years may be determined by the conduct of one hour
+Character is always corrupted by prosperity
+A fault confessed is half redressed
+To be willing is only half the task
+Everyone is kneaded out of the same dough, but not baked in the same oven
+The heart that loves is always young
+He who always thinks it is too soon is sure to come too late
+Turn your face to the sun and the shadows will fall behind you
+When the sun rises, it rises for everyone
+No man can paddle two canoes at the same time
+If you go to a donkey’s house, don’t talk about ears
+Speak the truth, but leave immediately after
+Most people would rather give than get affection
+Men are swayed more by fear than by reverence
+Man is by nature a political animal
+We make war that we may live in peace
+The whole is greater than the sum of its parts
+Hope is a waking dream
+All men by nature desire knowledge
+Pleasure in the job puts perfection in the work
+Quality is not an act, it is a habit
+The aim of the wise is not to secure pleasure, but to avoid pain
+The secret to humor is surprise
+Fear is pain arising from the anticipation of evil
+Those that know, do. Those that understand, teach
+Good habits formed at youth make all the difference
+Love is composed of single soul inhabiting two bodies
+The roots of education are bitter, but the fruit is sweet
+There is no great genius without a mixture of madness
+At his best, man is the noblest of all animals; separated from law and justice, he is the worst
+A friend to all is a friend to none
+No one would choose a friendless existence on condition of having all the other things in the world
+Men acquire particular quality by constantly acting in a particular way
+Courage is a mean with regard to fear and confidence
+No notice is taken of a little evil, but when it increases it strikes the eye
+Be as you wish to seem
+Once made equal to man, woman becomes his superior
+As for me, all I know is that I know nothing
+All men's souls are immortal, but the souls of the righteous are immortal and divine
+Be slow to fall into friendship; but when thou art in, continue firm and constant
+Beauty is a short-lived tyranny
+Beware the barrenness of a busy life
+By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher
+It is not living that matters, but living rightly
+Death may be the greatest of all human blessings
+Some trees flourish, others die. Some cattle grow strong, others are taken by wolves. Some men are born rich enough and dumb enough to enjoy their lives. Ain’t nothing fair
+You can’t break a man the way you break a dog or a horse. The harder you beat a man, the taller he stands
+War, war never changes
+Nothing is true, everything is permitted
+It’s dangerous to go alone
+You must gather your party before venturing forth
+Praise the sun
+War is where the young and stupid are tricked by the old and bitter into killing each other
+A man chooses; a slave obeys
+Good men mean well. We just don’t always end up doing well
+Why walk when you can ride?
+Men are but flesh and blood. They know their doom, but not the hour
+Dreams have a nasty habit of going bad when you’re not looking
+No matter how dark the night, the morning always comes
+What is a man but the sum of his memories? We are the stories we live, the tales we tell ourselves
+The extraordinary is in what we do, not who we are
+What is bravery, without a dash of recklessness?
+Stand in the ashes of a trillion dead souls and ask the ghosts if honor matters. Their silence is your answer
+A hero need not speak. When he is gone, the world will speak for him
+Shadow and light are two sides of the same coin. One cannot exist without the other
+What is better – to be born good, or to overcome your evil nature through great effort?
+If our lives are already written, it would take a courageous man to change the script
+There are two ways of arguing with a woman, and neither one works
+Nothing is more badass than treating a woman with respect

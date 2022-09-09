@@ -8,9 +8,12 @@ Drinking glass
 Aquarium
 Tankard
 Chalice
+Goblet
 Mug
+Greedy cup
 Jar
 Jug
+Assassin's teapot
 Vase
 Pitcher
 Bottle

@@ -23,22 +23,40 @@ Mushroom cluster
 Giant mushroom
 Stone
 Stone pile
+Stone mound
 Boulder
 Rock
 Rock pillar
 Rock arch
 Rock spike
+Rock spire
 Stone rubble
 Mineral cluster
 Ore deposit
 Meteorite
 Pond
+Clay pit
+Tarpit
 Puddle
 Geyser
 Stream
-Mud pile
+Waterfall
+Tidepool
+Salt basin
+Flotsam
+Driftkelp
+Dirt pile
 Dirt lump
 Dirt mound
+Mud pile
+Mud lump
+Mud mound
+Clay pile
+Clay lump
+Clay mound
+Snow pile
+Snow lump
+Snow mound
 Dune
 Rift
 Lava pool
@@ -55,10 +73,13 @@ Cracked ground
 Stalagmite
 Stalactite
 Stalagnate
+Stromatolite
 Ice floe
+Ice pillar
+Ice arch
 Ice spike
+Ice spire
 Icicle cluster
-Waterfall
 Snow pile
 Mud
 Quicksand
@@ -77,8 +98,10 @@ Animal skeleton
 Blood spattering
 Humanoid footprints
 Animal footprints
+Guano pile
 Insect colony
 Hive
 Cobweb
 Cocoon
 Nest
+Beaver dam
