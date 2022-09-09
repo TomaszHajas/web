@@ -57,6 +57,7 @@ Parka
 Poncho
 Robe
 Gown
+Alb
 Nightgown
 Nightshirt
 Pajamas
@@ -71,6 +72,7 @@ Socks
 Stockings
 Tights
 Wig
+Hairnet
 Belt
 Purse
 Gaiters
@@ -79,4 +81,5 @@ Headband
 Handbag
 Muff
 Sash
+Girdle
 Bobby pin

@@ -12,8 +12,8 @@
 			{{#author}}
 			<span class="author">By <a href="{{url}}">{{name}}</a></span> &bull;
 			{{/author}}
-			<span class="date">{{date format="MMMM DD, YYYY"}}</span> &bull;
-			<span class="comment-count"><a href="{{url}}#disqus_thread">0 Comments</a></span>
+			<span class="date">{{date format="MMMM DD, YYYY"}}</span> <!-- &bull; -->
+			<!-- <span class="comment-count"><a href="{{url}}#disqus_thread">0 Comments</a></span> -->
 		</div>
 	</div>
 	{{#if feature_image}}
@@ -36,7 +36,7 @@
 		</div>
 		<div class="pull-right share">
 			{{! insert share_links partials}}
-			{{> share_links}}
+			{{!> share_links}}
 		</div>
 	</footer>
 </article>

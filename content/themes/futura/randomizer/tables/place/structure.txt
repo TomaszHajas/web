@@ -32,8 +32,10 @@ Balcony
 Spire
 Bulwark
 Wall
+Rampart
 Pallisade
 Moat
+Quay
 Fence
 Trellis
 Railing
@@ -58,6 +60,7 @@ Cairn
 Grave
 Tombstone
 Coffin
+Mortsafe
 Casket
 Tribune
 Stocks
@@ -88,10 +91,12 @@ Buoy
 Banner
 Milestone
 Crossroads
+Roundabout
 Junction
 Forkroad
 Path
 Road
+Street
 Avenue
 Alley
 Tract
@@ -170,6 +175,7 @@ Potter's wheel
 Quern
 Loom
 Mannequin
+Effigy
 Snowman
 Churn
 Press

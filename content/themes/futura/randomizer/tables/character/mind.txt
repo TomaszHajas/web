@@ -23,6 +23,7 @@ Mysterious
 Quiet
 Stoic
 Strange
+Peculiar
 Suave
 Thoughtful
 Corrupt
@@ -176,6 +177,7 @@ Kleptomaniac
 Agoraphobic
 Claustrophobic
 Trypophobic
+Acrophobic
 Arachnophobic
 Zoophobic
 Nocturnal
@@ -251,6 +253,8 @@ Enervated
 Insomniac
 Somnolent
 Relaxed
+Chilled-out
+Distanced
 Accessible
 Active
 Adaptable
@@ -328,7 +332,7 @@ Gracious
 Hardworking
 Healthy
 Hearty
-Herioc
+Heroic
 High-minded
 Honorable
 Humorous
@@ -356,6 +360,8 @@ Masculine
 Feminine
 Masculistic
 Feministic
+Janegirl
+Tomboy
 Manly
 Mature
 Methodical
@@ -636,6 +642,7 @@ Escapist
 Excitable
 Expedient
 Extravagant
+Flamboyant
 Extreme
 Faithless
 False
@@ -710,6 +717,7 @@ Narrow
 Narrow-minded
 Natty
 Negativistic
+Denialist
 Neglectful
 Neurotic
 Nihilistic
@@ -842,3 +850,7 @@ Nervous
 Self-assertive
 Sensible
 Trustworthy
+Jovial
+Pathless
+Clueless
+

@@ -10,6 +10,7 @@ Rapier
 Foil
 Sabre
 Scimitar
+Shotel
 Longsword
 Falchion
 Estoc
@@ -85,6 +86,8 @@ Weighted net
 Sling
 Boomerang
 Dart
+Rope dart
+Meteor hammer
 Shuriken
 Bolas
 Flintlock musket (.75)

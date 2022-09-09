@@ -29,6 +29,7 @@ Surfboard
 Submersible
 Boat
 Ship
+Ferry
 Catamaran
 Yacht
 Galley

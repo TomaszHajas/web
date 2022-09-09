@@ -11,7 +11,9 @@ Asteroid belt
 Solar system
 Galaxy
 Town
+Satellite town
 District
+Municipality
 City
 Village
 Encampment
@@ -112,6 +114,7 @@ Ravine
 Trench
 Tunnel
 Cave
+Cenote
 Grotto
 Pit
 Rift

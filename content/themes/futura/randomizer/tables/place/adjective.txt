@@ -58,7 +58,10 @@ Toxic
 Rotten
 Dry
 Dried
+Sere
 Flooded
+Humid
+Wet
 Scorched
 Far
 Near
@@ -77,6 +80,7 @@ Warm
 Chilly
 Sunny
 Clouded
+Shrouded
 Offroad
 Onroad
 Civilised
@@ -87,6 +91,7 @@ Unknown
 Widely-known
 Forgotten
 Popular
+Lost
 Upper
 Lower
 Underground

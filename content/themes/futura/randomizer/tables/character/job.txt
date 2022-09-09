@@ -27,6 +27,7 @@ Carpenter
 Merchant
 Trader
 Vendor
+Salesperson
 Retailer
 Shopkeeper
 Saddler
@@ -35,6 +36,7 @@ Wheelwright
 Chimneysweep
 Farrier
 Miner
+Prospector
 Smelter
 Brewer
 Cooper
@@ -74,6 +76,8 @@ Marine
 Armorer
 Stablemaster
 Master
+Expert
+Pundit
 Veteran
 Priest
 Bishop
@@ -133,6 +137,7 @@ Wanderer
 Hiker
 Nomad
 Tourist
+Interloper
 Explorer
 Artist
 Bookbinder
@@ -165,6 +170,7 @@ Trooper
 Paratrooper
 Commando
 Deserter
+Renegade
 Rebel
 Insurgent
 Partisan
@@ -242,6 +248,7 @@ Dancer
 Actor
 Thespian
 Comedian
+Ventriloquist
 Memist
 Prankster
 Hooker
@@ -262,6 +269,8 @@ Bounty Hunter
 Bondsman
 Groom
 Guard
+Defender
+Protector
 Sentinel
 Squire
 Chandler
@@ -278,6 +287,7 @@ Ditcher
 Canaller
 Town Crier
 Watchman
+Watchdog
 Papermaker
 Croupier
 Bard
@@ -296,6 +306,7 @@ Looter
 Scammer
 Impostor
 Burglar
+Hijacker
 Astrologer
 Bowyer
 Bailiff
@@ -329,6 +340,8 @@ Elder
 Count
 Sultan
 Baron
+Steward
+Majordomo
 Clerk
 Clothier
 Sailmaker
@@ -440,6 +453,8 @@ Intern
 Homeless
 Waif
 Beggar
+Vagrant
+Tramp
 Pauper
 Scavenger
 Fool
@@ -562,6 +577,7 @@ Unemployed
 Retiree
 Pensioner
 Lawyer
+Attorney
 Justiciar
 Inquisitor
 Hero
@@ -854,7 +870,7 @@ Pavior
 Pavyler
 Potboy
 Privycleaner
-Procurator
+Curator
 Pimp
 Prostitute
 Quartermaster

@@ -39,6 +39,7 @@ Scruffy
 Slouchy
 Slovenly
 Sweaty
+Lost
 Tidy-looking
 Travel-worn
 Unkempt
@@ -144,6 +145,7 @@ Tawny
 White-skinned
 Wrinkled
 Yellow-skinned
+Derpy
 Angry-eyed
 Black-eyed
 Blind
@@ -263,6 +265,7 @@ Thick-legged
 Thin-legged
 Weak-kneed
 Big-lipped
+Hare-lipped
 Bloody-toothed
 Buck-toothed
 Chip-toothed
@@ -361,6 +364,7 @@ Feeble
 Swollen
 Wealthy
 Poor
+Royal
 Rich
 Homeless
 Quick
@@ -531,9 +535,9 @@ Bat-eared
 Echolocating
 Blind
 Colorblind
-Nightvisioned
-Infravisioned
-Ultravisioned
+Nightvisional
+Infravisional
+Ultravisional
 Eyeless
 Big-eyed
 Small-eyed
@@ -770,7 +774,11 @@ Adhesive
 Pneumatic-boned
 Translucent
 Transparent
+Native
+Indigenous
 Fire-breathing
 Ice-breathing
 Magical
 Fairy
+Hybrid
+Conjoined
