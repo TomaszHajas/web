@@ -24,6 +24,7 @@ jobs:
       - name: npm install, build, and test
         run: |
           sudo npm install -g npm
+          sudo npm install -g node-gyp
           npm install sqlite3@5.0.11 --save-dev
           npm install
           npm install grunt --save-dev
