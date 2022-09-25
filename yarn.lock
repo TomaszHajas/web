@@ -5076,7 +5076,7 @@ knex-migrator@3.3.3:
     resolve "^1.9.0"
   optionalDependencies:
     mysql "^2.16.0"
-    sqlite3 "^4.0.6"
+    sqlite3 "^5.0.11"
 
 knex@0.19.5:
   version "0.19.5"
