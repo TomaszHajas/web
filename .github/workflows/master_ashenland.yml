@@ -23,7 +23,9 @@ jobs:
 
       - name: npm install, build, and test
         run: |
+          sudo npm uninstall sqlite
           sudo npm cache clean -f
+          sudo npm install sqlite --save
           sudo npm install -g npm
           sudo npm install -g node-gyp
           npm install sqlite3@5.0.11 --save-dev
