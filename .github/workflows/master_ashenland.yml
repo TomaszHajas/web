@@ -23,6 +23,7 @@ jobs:
 
       - name: npm install, build, and test
         run: |
+          npm install sqlite3
           npm list
           yarn cache clean
           npm install
