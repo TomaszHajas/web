@@ -23,6 +23,7 @@ jobs:
 
       - name: npm install, build, and test
         run: |
+          node-pre-gyp info
           sudo npm install -g npm --save
           npm install sqlite3 --save
           npm install
