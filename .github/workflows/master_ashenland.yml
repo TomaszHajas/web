@@ -24,7 +24,6 @@ jobs:
       - name: npm install, build, and test
         run: |
           sudo npm install -g npm --save
-          npm cache clean
           npm install sqlite3 --save
           npm install
           npm run build --if-present
