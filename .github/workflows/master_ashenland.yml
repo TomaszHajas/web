@@ -23,8 +23,6 @@ jobs:
 
       - name: npm install, build, and test
         run: |
-          npm install -g node-gyp
-          npm install sqlite3
           npm install
           npm run build --if-present
           npm run test --if-present
@@ -54,5 +52,5 @@ jobs:
         with:
           app-name: 'ashenland'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F7A982593BA4FF08E3D1CB868CAA637 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC582A2294DB4AE694DE28EA1A61D25B }}
           package: .
