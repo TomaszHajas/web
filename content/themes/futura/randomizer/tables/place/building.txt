@@ -276,6 +276,7 @@ Strip mall
 Structure
 Studio
 Supermarket
+Sweatshop
 Symphony
 Tenement
 Terminal
