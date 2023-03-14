@@ -70,6 +70,8 @@ Blowgun
 Chakram
 Shuriken
 Sling
+Staff sling
+Slingshot
 Whip
 Flail
 Boxing gloves
@@ -89,6 +91,7 @@ Dart
 Rope dart
 Meteor hammer
 Shuriken
+Bo shuriken
 Bolas
 Flintlock musket (.75)
 Flintlock pistol (.60)
