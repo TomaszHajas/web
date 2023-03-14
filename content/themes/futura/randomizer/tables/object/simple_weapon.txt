@@ -65,6 +65,7 @@ Tonfa
 Bow
 Arrow
 Crossbow
+Arbalest
 Crossbow bolt
 Blowgun
 Chakram
