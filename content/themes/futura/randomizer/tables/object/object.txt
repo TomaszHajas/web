@@ -914,11 +914,15 @@ Tonfa
 Bow
 Arrow
 Crossbow
+Arbalest
 Crossbow bolt
 Blowgun
 Chakram
 Shuriken
+Bo shuriken
 Sling
+Staff sling
+Slingshot
 Whip
 Flail
 Boxing gloves
