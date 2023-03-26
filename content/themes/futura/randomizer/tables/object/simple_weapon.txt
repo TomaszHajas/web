@@ -32,6 +32,8 @@ Warhammer
 Floppy hammer
 Maul
 Club
+Blackjack
+Slungshot
 Pickaxe
 Nunchaku
 Mace
