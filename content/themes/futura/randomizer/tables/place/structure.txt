@@ -167,6 +167,7 @@ Bunk bed
 Hammock
 Mattress
 Jukebox
+Noria
 Washstand
 Mangle
 Washing machine
