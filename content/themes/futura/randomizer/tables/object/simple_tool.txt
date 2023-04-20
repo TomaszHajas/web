@@ -484,6 +484,7 @@ Puzzle
 Nerf gun
 Yo-yo
 Rubik's Cube
+Kaleidoscope
 Chess box
 Chess piece
 6-sided die
